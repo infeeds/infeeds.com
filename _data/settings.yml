@@ -1,8 +1,8 @@
 #-------------------------------
 # Site Settings
-title: Mria
-logo: # You can add own logo. For example '/images/logo.png'.
-description: Mria is a multipurpose blog theme for Jekyll
+title: Welcome to Infeeds
+logo: '/images/logo.png'
+description: This is Infeeds, an online directory for blogs, stories and ideas. Become a part of the directory to share your story.
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
 
@@ -10,7 +10,7 @@ color_scheme: auto # You can choose three modes auto, light, and dark. By defaul
 # Navigation Settings
 menu__settings:
   menu__items:
-    - title: 'Home'
+    - title: 'Infeeds'
       url: '/'
     - title: 'Blog'
       url: '/blog/'
@@ -24,8 +24,8 @@ menu__settings:
         title: 'About'
       - url: '/contact/'
         title: 'Contact'
-      - url: '/elements/'
-        title: 'Elements'
+      #- url: '/elements/'
+      #  title: 'Elements'
 
 
 #-------------------------------
@@ -33,16 +33,16 @@ menu__settings:
 hero:
   enable: true
   hero__title: Thoughts, stories and ideas.
-  hero__description: Don’t limit yourself. Many people limit themselves to what they think they can do. You can go as far as your mind lets you. What you believe, remember, you can achieve.
+  hero__description: This is Infeeds, an online directory for blogs, stories and ideas. Become a part of the directory to share your story.
   hero__image: # You can add hero image. For example '/images/06.jpg'
 
 
 #-------------------------------
 # Author Global Settings
 author:
-  author__name: Alena Curtis
+  author__name: Adam Magkins
   author__bio: I’m a published content creator, brand copywriter, photographer, and social media content creator and manager. I help brands connect with their customers by developing engaging content that entertains, educates, and offers value to their audience.
-  author__avatar: /images/01-1.jpg
+  author__avatar: /images/001.jpg
 
 
 #-------------------------------
@@ -50,7 +50,7 @@ author:
 blog__settings:
   enable: true
   blog__title: Latest Posts
-  blog__description:
+  blog__description: Read latest on Infeeds
 
 
 #-------------------------------
@@ -58,32 +58,32 @@ blog__settings:
 videos__settings:
   enable: true
   videos__title: Latest Videos
-  videos__description:
+  videos__description: Home, Finance, Business, and Entertainment, everything is here. 
 
 
 #-------------------------------
 # Tag Section Settings
 tag__settings:
   enable: true
-  tag: travel # To display the tag section, specify your favorite tag.
+  tag: travel, lifestyle, family, business, finance, gaming # To display the tag section, specify your favorite tag.
 
 
 #-------------------------------
 # Author Section Settings
 author__section:
   enable: true
-  author__section__title: Hello, my name is Alena. I’m reviewer and content creator.
+  author__section__title: Hello, my name is Adam. I’m reviewer and content creator.
   author__section__description: I’m a published content creator, brand copywriter, photographer, and social media content creator and manager. I help brands connect with their customers by developing engaging content that entertains, educates, and offers value to their audience.
   aurhor__section__button__text: More About Me
   aurhor__section__button__link: /about
-  author__section__big__image: /images/100.jpg
-  author__section__small__image: /images/101.jpg
+  author__section__big__image: /images/001.jpg
+  author__section__small__image: /images/001.jpg
 
 
 #-------------------------------
 # Newsletter Settings
 mailchimp__settings:
-  enable: true
+  enable: false
   mailchimp__title: Get interesting news
   mailchimp__description: Subscribe to our newsletter and we’ll send you the emails of latest posts.
   mailchimp__identifier: frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
@@ -99,11 +99,11 @@ footer__description: Don’t limit yourself. Many people limit themselves to wha
 
 # Social Links
 social:
-- {icon: "twitter", link: "https://twitter.com"}
-- {icon: "facebook", link: "https://facebook.com"}
-- {icon: "codepen", link: "https://codepen.io"}
-- {icon: "pinterest", link: "https://pinterest.com"}
-- {icon: "vimeo", link: "https://vimeo.com"}
+- {icon: "twitter", link: "https://twitter.com/infeeds"}
+- {icon: "facebook", link: "https://facebook.com/infeeds"}
+- {icon: "instagram", link: "https://instagram.com/infeeds"}
+- {icon: "pinterest", link: "https://pinterest.com/infeeds"}
+#- {icon: "vimeo", link: "https://vimeo.com"}
 
 # Example of adding a new link to the footer - {icon: "instagram", link: "https://instagram.com"}
 # Other icons can be found at https://ionicons.com/v4/
@@ -118,15 +118,15 @@ footer__menu__settings:
       url: '/about/'
     - title: 'Contact'
       url: '/contact/'
-    - title: 'Elements'
-      url: '/elements/'
+    #- title: 'Elements'
+    #  url: '/elements/'
 
 
 #-------------------------------
 # Contact Settings
 contact:
-  email: your@email.com # Add your form_id
-  description: Mria comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
+  email: exmgks@email.com # Add your form_id
+  description: Contact us to get your writing published, share your story and ideas with us on email. # Add a description of your form
 
 # NOTE
 # Mria theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
@@ -139,4 +139,4 @@ disqus-identifier: anvod-studio-test # Add your shortname for Disqus Comment. Fo
 
 #-------------------------------
 # Google Analytics
-google-analytics: # Add your GA Tracking Id
+google-analytics: G-HJMYMX5JGZ
