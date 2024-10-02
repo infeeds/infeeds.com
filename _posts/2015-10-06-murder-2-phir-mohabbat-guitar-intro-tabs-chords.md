@@ -6,35 +6,11 @@ author: Rishabh
 layout: post
 guid: 'https://infeeds.com/?p=1279'
 permalink: /murder-2-phir-mohabbat-guitar-intro-tabs-chords/
-csco_singular_layout:
-    - default
-csco_page_header_type:
-    - default
-csco_page_load_nextpost:
-    - default
-csco_post_video_bg_location:
-    - 'a:1:{i:0;s:7:"archive";}'
-csco_post_video_bg_start_time:
-    - '0'
-csco_post_video_bg_end_time:
-    - '0'
-csco_post_media_location:
-    - content
-csco_post_gallery_type:
-    - slider
-powerkit_post_format_link:
-    - ''
-powerkit_post_format_audio:
-    - ''
-powerkit_post_format_video:
-    - ''
 image: /images/soundtrap-1NAYqSlnXo8-scaled.jpg
-categories:
-    - Music
-tags:
-    - diaryofr7
-    - guitar
-    - lyrics
+video_embed: https://www.youtube.com/watch?v=m1rcse8INWk
+categories: [Music]
+tags: [diaryofr7, guitar, lyrics]
+tags_color: '#835F46'
 ---
 
 ## Lyrics
