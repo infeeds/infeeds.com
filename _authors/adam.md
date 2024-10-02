@@ -1,9 +1,9 @@
 ---
 username: adam
-name: Adam Magkins
+name: Adam Makins
 image: '/images/001.jpg'
-cover: '/images/07.jpg'
-location: New York
+cover: '/images/p0olraayxly-1.jpg'
+location: Singapore
 website: https://infeeds.com
 twitter: https://twitter.com/infeeds
 facebook: https://www.facebook.com/infeeds
