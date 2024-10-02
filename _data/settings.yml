@@ -14,16 +14,16 @@ menu__settings:
       url: '/'
     - title: 'Blog'
       url: '/blog/'
-    - title: 'Authors'
-      url: '/authors/'
+    #- title: 'Authors'
+    #  url: '/authors/'
     #- title: 'Videos'
     #  url: '/videos/'
-    - title: 'Pages'
-      submenu:
-      - url: '/about/'
-        title: 'About'
-      - url: '/contact/'
-        title: 'Contact'
+    - title: 'About'
+      url: '/about/'
+    - title: 'Contact'
+      url: 'mailto:exmgks@gmail.com'
+    #- title: 'Pages'
+    #  submenu:
       #- url: '/elements/'
       #  title: 'Elements'
 
@@ -40,7 +40,7 @@ hero:
 #-------------------------------
 # Author Global Settings
 author:
-  author__name: Adam Magkins
+  author__name: Adam Makins
   author__bio: I’m a published content creator, brand copywriter, photographer, and social media content creator and manager. I help brands connect with their customers by developing engaging content that entertains, educates, and offers value to their audience.
   author__avatar: /images/001.jpg
 
@@ -117,7 +117,7 @@ footer__menu__settings:
     - title: 'About'
       url: '/about/'
     - title: 'Contact'
-      url: '/contact/'
+      url: 'mailto:exmgks@gmail.com'
     #- title: 'Elements'
     #  url: '/elements/'
 
