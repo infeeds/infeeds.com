@@ -2,7 +2,7 @@
 # Site Settings
 title: Welcome to Infeeds
 logo: '/images/logo.png'
-description: This is Infeeds, an online directory for blogs, stories and ideas. Become a part of the directory to share your story.
+description: This is Infeeds, an online directory for news, stories and ideas. Become a part of the directory to share your story.
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
 
@@ -10,7 +10,7 @@ color_scheme: auto # You can choose three modes auto, light, and dark. By defaul
 # Navigation Settings
 menu__settings:
   menu__items:
-    - title: 'Home'
+    - title: 'Infeeds'
       url: '/'
     - title: 'Blog'
       url: '/blog/'
@@ -32,8 +32,8 @@ menu__settings:
 # Hero Settings
 hero:
   enable: true
-  hero__title: Thoughts, stories and ideas.
-  hero__description: This is Infeeds, an online directory for blogs, stories and ideas. Become a part of the directory to share your story.
+  hero__title: thoughts, stories and ideas.
+  hero__description: This is Infeeds, an online directory for news, stories and ideas. Share your story with us.
   hero__image: # You can add hero image. For example '/images/06.jpg'
 
 
