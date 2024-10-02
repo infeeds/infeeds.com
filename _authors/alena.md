@@ -1,11 +1,11 @@
 ---
 username: alena
-name: Alena Curtis Whatsherface
-image: '/images/01-1.jpg'
+name: Alena Curtis
+image: '/images/005.jpg'
 cover:
 location: Mexico
-website: https://www.google.com
-twitter: https://twitter.com
-facebook: https://www.facebook.com
+website: 
+twitter: 
+facebook: 
 ---
 I have experience in photographing beauty, fashion, e-commerce, and product photography for various brands.
