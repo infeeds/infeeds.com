@@ -7,7 +7,6 @@ author: tiana
 image:  '/images/hunters-race-MYbhN8KaaEc.jpg'
 tags:   [fashion, dress]
 tags_color: '#611770'
-featured: true
 ---
 
 Making sure that you look your best whenever you will be attending a job interview or getting married can require you to make an investment in a custom-made suit. Indeed, whenever you are thinking about making an investment in a new suit, it is imperative to take the time in order to understand the numerous benefits of having one that has been custom-tailored to your exact measurements. Moreover, several of the most common brands of off-the-shelf suits may offer an amazing level of convenience, but they often fall short in terms of the most important elements of the suit, including the fit, comfort and style. However, a custom-tailored suit can ensure that you will be wearing a garment that has been specifically measured and designed for your body shape, highlighting your strengths and elevating your entire appearance.
