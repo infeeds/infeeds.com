@@ -56,7 +56,7 @@ blog__settings:
 #-------------------------------
 # Videos Section Settings
 videos__settings:
-  enable: false
+  enable: true
   videos__title: Latest Videos
   videos__description: Home, Finance, Business, and Entertainment, everything is here. 
 
