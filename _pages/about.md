@@ -2,9 +2,8 @@
 layout: page
 title: About
 permalink: /about/
-image: '/images/102.jpg'
+image: '/images/main_metai.png'
 ---
-
 
 # About Infeeds
 
