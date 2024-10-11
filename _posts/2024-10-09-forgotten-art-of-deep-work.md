@@ -2,7 +2,7 @@
 layout: post
 title:  The Forgotten Art of Deep Work in a World of Constant Distractions
 description: We live in an era of multitasking, where it feels like everyone is juggling dozens of things at once. But are we truly being productive, or just busy?
-date:   2024-10-09 15:01:35 +0300
+date:   2024-10-09 03:01:35 +0300
 author: tiana
 image:  '/images/013.jpg'
 video_embed:
