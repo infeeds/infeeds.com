@@ -3,11 +3,11 @@ layout: post
 title:  What to Do If You Are Experiencing Pain in Your Wrists and You Are Looking For a Treatment
 description: With so many available options, it is always nice when an idea is found which is away from the norm and offers the opportunity to do something others haven't considered.
 date:   2024-10-15 04:01:35 +0300
-author: tiana
+author: adam
 image:  '/images/1rdB14ttWgQ.jpg'
 video_embed:
 tags:   [health, physiotherapy]
-tags_color: '#1a12aa'
+tags_color: '#3d12aa'
 ---
 If you have ever experienced any amount of pain in your wrists, especially if you work at a desk or use a computer for a considerable period of time, then you may not be aware that they can often be the early symptoms of carpal tunnel syndrome. Indeed, if you are experiencing a considerable amount of pain, feeling frustrated by not being able to work without discomfort or if you are uncertain about the next steps to take in order to treat this problem then physiotherapy may be able to assist you. Moreover, this particular medical condition is often accompanied by feelings of numbness, or even tingling sensations in combination with weakness in the hand, which can make all types of daily tasks challenging. However, you should not feel discouraged if you are experiencing carpal tunnel syndrome, because there are several effective treatments available that could potentially alleviate these symptoms.
 
