@@ -35,7 +35,7 @@ Node.js enables a programmer to write both sides of the application in JavaScrip
 
 Node.js is perfect for working with applications that require constant updates such as video and audio streaming, collaborative environments, or instant messaging. This architectural design of the platform efficiently permits transmitting and updating data as soon as the event occurs which is engaging to user occurrences.
 
-### What Does a Node.js Development Company Offer?
+### What Does a Node.js Development Company Offer?
 
 Every project is only as good as the development company that was chosen to complete the project with Node.js. Here are some of the key services and features such companies offer:
 
