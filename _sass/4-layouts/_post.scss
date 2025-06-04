@@ -130,7 +130,6 @@
 .page-image {
   position: relative;
   transform: translate(0);
-  padding-top: 70%;
   min-height: 280px;
   border-radius: 8px;
   overflow: hidden;
@@ -147,7 +146,6 @@
   }
 
   @media only screen and (max-width: $desktop) {
-    padding-top: 75%;
     margin-bottom: 40px;
   }
 
