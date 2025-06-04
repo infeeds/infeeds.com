@@ -12,6 +12,8 @@
   <link rel="icon" type="image/x-icon" href="{{site.baseurl}}/favicon.ico">
   <link rel="apple-touch-icon" href="{{site.baseurl}}/images/logo.png">
 
+  <!-- <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}"> -->
+
   <!-- Twitter Card -->
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="{% if page.url == '/' %}{{ site.data.settings.title }}{% else %}{{ page.title }} – {{ site.data.settings.title }}{% endif %}">
@@ -55,11 +57,10 @@
     }
     {% endif %}
   </script>
-
   <style>
-  {% capture include_to_scssify %}
-    {% include main.scss %}
-  {% endcapture %}
-  {{ include_to_scssify | scssify }}
+    {% capture include_to_scssify %}
+      {% include main.scss %}
+    {% endcapture %}
+    {{ include_to_scssify | scssify }}
   </style>
 </head>

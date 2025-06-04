@@ -1,0 +1,37 @@
+/*
+  Theme Name: Infeeds
+  Description: A clean and minimal Jekyll theme.
+  Author: Infeeds Dev
+  Version: 1.0.0
+*/
+
+@import "0-settings/settings";
+@import "0-settings/variables";
+@import "0-settings/mixins";
+@import "0-settings/helpers";
+@import "0-settings/color-scheme";
+
+@import "1-tools/animate";
+@import "1-tools/grid";
+@import "1-tools/normalize";
+@import "1-tools/reset";
+@import "1-tools/shared";
+@import "1-tools/syntax-highlighting";
+
+@import "2-base/base";
+
+@import "3-modules/article";
+@import "3-modules/contact";
+@import "3-modules/footer";
+@import "3-modules/gallery";
+@import "3-modules/header";
+@import "3-modules/hero";
+@import "3-modules/pagination";
+@import "3-modules/search";
+@import "3-modules/section-tags";
+@import "3-modules/sections";
+@import "3-modules/subscribe";
+
+@import "4-layouts/post";
+@import "4-layouts/authors";
+@import "4-layouts/tags-page"; 
