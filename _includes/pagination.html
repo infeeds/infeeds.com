@@ -30,13 +30,13 @@
                 <a class="count-number" href="/blog/page/{{ count }}/">{{ count }}</a>
               {% endif %}
             {% endfor %}
-          </div>
 
-          {% if paginator.next_page %}
-            <a class="next-link" href="{{ site.baseurl }}/blog/page/{{ paginator.next_page }}/">&raquo;</a>
-          {% else %}
-            <span class="disabled">&raquo;</span>
-          {% endif %}
+            {% if paginator.next_page %}
+              <a class="next-link" href="{{ site.baseurl }}/blog/page/{{ paginator.next_page }}/">&raquo;</a>
+            {% else %}
+              <span class="disabled">&raquo;</span>
+            {% endif %}
+          </div>
         </div>
       </nav>
     </div>
