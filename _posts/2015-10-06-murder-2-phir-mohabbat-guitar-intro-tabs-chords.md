@@ -1,14 +1,13 @@
 ---
 id: 1279
-title: 'Murder 2 &#8211; Phir Mohabbat Guitar Intro Tabs &amp; Chords'
-date: '2015-10-06T05:46:00+00:00'
+title: 'Murder 2 - Phir Mohabbat Guitar Intro Tabs &amp; Chords'
+date: '2015-10-06 05:46:00+00:00'
 author: Rishabh
 layout: post
 guid: 'https://infeeds.com/?p=1279'
 permalink: /murder-2-phir-mohabbat-guitar-intro-tabs-chords/
 image: /images/soundtrap-1NAYqSlnXo8-scaled.jpg
-video_embed: https://www.youtube.com/watch?v=m1rcse8INWk
-categories: [Music]
+video_embed: 
 tags: [diaryofr7, guitar, lyrics]
 tags_color: '#835F46'
 ---
