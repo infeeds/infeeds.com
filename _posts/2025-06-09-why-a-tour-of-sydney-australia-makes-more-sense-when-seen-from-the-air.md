@@ -3,8 +3,8 @@ layout: post
 title:  Why a Tour Of Sydney Australia Makes More Sense When Seen From The Air
 description: From the iconic Sydney Opera House and the Sydney Harbour Bridge to Bondi Beach and the Royal Botanic Garden, the area is packed with world-famous landmarks and hidden gems.
 date:   2025-06-09 03:01:35 +0300
-author: tiana
-image:  'https://images.unsplash.com/photo-1577803645773-f96470509666?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+author: alena
+image:  'https://images.unsplash.com/photo-1608273040158-1da7b4a040b8?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
 video_embed:
 tags:   [australia, travel]
 tags_color: '#ae32aa'
