@@ -1,0 +1,64 @@
+/* Ads */
+.ad-unit {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 40px auto;
+  text-align: center;
+  background-color: var(--background-alt-color);
+  overflow: hidden;
+  border-radius: $global-radius;
+  padding: 10px;
+
+  // Hide if the ad logic renders an empty container
+  &:empty {
+    display: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  a, img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    border: none; // override default link styles
+  }
+
+  .ad-unit--text {
+    padding: 20px;
+    h4 {
+      font-size: 18px;
+      margin-bottom: 10px;
+    }
+    p {
+      font-size: 16px;
+      margin-bottom: 20px;
+      color: var(--text-alt-color);
+    }
+  }
+}
+
+// 728x90 Leaderboard or similar
+.ad-unit--header_ad,
+.ad-unit--footer_ad {
+  min-height: 90px;
+  max-width: 728px;
+}
+
+// 300x250 Medium Rectangle
+.ad-unit--sidebar_ad {
+  width: 300px;
+  min-height: 250px;
+  margin: 0 0 32px 32px;
+  float: right;
+  clear: right;
+
+  // On smaller screens, make it a full-width block before content
+  @media only screen and (max-width: $desktop) {
+    float: none;
+    width: 100%;
+    max-width: 728px;
+    min-height: 90px;
+    margin: 0 auto 40px;
+  }
+}
