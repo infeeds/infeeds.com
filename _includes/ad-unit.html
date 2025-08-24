@@ -44,7 +44,7 @@
           {%- if ad.text_title -%}<h4>{{ ad.text_title }}</h4>{%- endif -%}
           <p>{{ ad.text_content }}</p>
           {%- if ad.text_link_url and ad.text_link_label -%}
-            <a href="{{ ad.text_link_url }}" class="button" target="_blank" rel="noopener sponsored">{{ ad.text_link_label }}</a>
+            <a href="{{ ad.text_link_url }}" class="button" target="_blank" rel="noopener sponsored" style="color:rgb(22, 22, 216)">{{ ad.text_link_label }}</a>
           {%- endif -%}
         </div>
       {%- endif -%}
