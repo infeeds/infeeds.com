@@ -5,3 +5,5 @@
 /temp
 convert-md.js
 /_posts/hold
+context.md
+createContext.js
