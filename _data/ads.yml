@@ -1,0 +1,35 @@
+# Ad units for the website.
+# - enabled: Set to true to show the ad, false to hide it.
+# - start_date: (Optional) The date the ad should start showing (YYYY-MM-DD).
+# - duration_days: (Optional) How many days the ad should run for from the start_date.
+# - type: Choose 'image', 'html', or 'text'.
+
+# --- Homepage Ads ---
+homepage:
+  header_ad:
+    enabled: true
+    type: 'html'
+    html_content: |
+      <b>Deliver breaking news, insightful commentary, and exclusive reports.<br>
+      Contact: <a href="mailto:Benzingaheadlines@gmail.com">Benzingaheadlines@gmail.com</a><br>
+      Targeting readers who rely on our platform to stay ahead of the curve.</b>
+  footer_ad:
+    enabled: false
+  sidebar_ad:
+    enabled: false # Not used on homepage
+
+# --- Blog & Post Ads ---
+blog:
+  header_ad:
+    enabled: true # Enable this for post pages
+  footer_ad:
+    enabled: true
+    type: 'html'
+    html_content: '<div style="border:1px solid #ccc; padding:20px; text-align:center; width:728px; height:90px; background:#f9f9f9;">Your 728x90 HTML/AdSense Ad Unit Here</div>'
+  sidebar_ad:
+    enabled: true
+    type: 'html'
+    html_content: |
+      <b>Deliver breaking news, insightful commentary, and exclusive reports.<br>
+      Contact: <a href="mailto:Benzingaheadlines@gmail.com">Benzingaheadlines@gmail.com</a><br>
+      Targeting readers who rely on our platform to stay ahead of the curve.</b>
