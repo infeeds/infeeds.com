@@ -23,6 +23,19 @@
     {% endif %}
   
     {% include header.html %}
+
+    {% comment %} Ad Logic Start {% endcomment %}
+    {% if page.layout == 'default' and page.url == '/' %}
+      {% assign ad_context = 'homepage' %}
+    {% else %}
+      {% assign ad_context = 'blog' %}
+    {% endif %}
+    <div class="container">
+      {% if page.layout != 'post' %}
+        {% include ad-unit.html location='header_ad' context=ad_context %}
+      {% endif %}
+    </div>
+    {% comment %} Ad Logic End {% endcomment %}
   
     <!-- begin content -->
     <main class="content" aria-label="Content">
@@ -30,6 +43,12 @@
     </main>
     <!-- end content -->
   
+    {% comment %} Ad Logic Start {% endcomment %}
+    <div class="container">
+        {% include ad-unit.html location='footer_ad' context=ad_context %}
+    </div>
+    {% comment %} Ad Logic End {% endcomment %}
+
     {% include subscribe.html %}
   
     {% include footer.html %}

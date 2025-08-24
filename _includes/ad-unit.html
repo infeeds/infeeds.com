@@ -1,0 +1,53 @@
+{%- comment -%}
+  Ad Unit Include
+  - Fetches ad configuration from _data/ads.yml
+  - Usage: {% include ad-unit.html location='[header_ad|sidebar_ad|footer_ad]' context='[homepage|blog]' %}
+{%- endcomment -%}
+
+{%- assign ad = site.data.ads[include.context][include.location] -%}
+
+{%- if ad and ad.enabled == true -%}
+  {%- comment -%} Check ad schedule {%- endcomment -%}
+  {%- assign is_active = false -%}
+  {%- if ad.start_date and ad.duration_days -%}
+    {%- assign start_date_seconds = ad.start_date | date: '%s' | plus: 0 -%}
+    {%- assign duration_seconds = ad.duration_days | times: 86400 -%}
+    {%- assign end_date_seconds = start_date_seconds | plus: duration_seconds -%}
+    {%- assign current_date_seconds = site.time | date: '%s' | plus: 0 -%}
+
+    {%- if current_date_seconds >= start_date_seconds and current_date_seconds < end_date_seconds -%}
+      {%- assign is_active = true -%}
+    {%- endif -%}
+  {%- else -%}
+    {%- comment -%} If no schedule is set, the ad is always active {%- endcomment -%}
+    {%- assign is_active = true -%}
+  {%- endif -%}
+
+  {%- if is_active == true -%}
+    <div class="ad-unit ad-unit--{{ include.location }}">
+      {%- comment -%}
+        Recommended sizes:
+        - header_ad, footer_ad: 728x90 Leaderboard
+        - sidebar_ad: 300x250 Medium Rectangle
+      {%- endcomment -%}
+
+      {%- if ad.type == 'image' and ad.image_url and ad.link_url -%}
+        <a href="{{ ad.link_url }}" target="_blank" rel="noopener sponsored">
+          <img src="{{ ad.image_url | relative_url }}" alt="{{ ad.alt_text | default: 'Advertisement' }}">
+        </a>
+
+      {%- elsif ad.type == 'html' and ad.html_content -%}
+        {{ ad.html_content }}
+
+      {%- elsif ad.type == 'text' and ad.text_content -%}
+        <div class="ad-unit--text">
+          {%- if ad.text_title -%}<h4>{{ ad.text_title }}</h4>{%- endif -%}
+          <p>{{ ad.text_content }}</p>
+          {%- if ad.text_link_url and ad.text_link_label -%}
+            <a href="{{ ad.text_link_url }}" class="button" target="_blank" rel="noopener sponsored">{{ ad.text_link_label }}</a>
+          {%- endif -%}
+        </div>
+      {%- endif -%}
+    </div>
+  {%- endif -%}
+{%- endif -%}

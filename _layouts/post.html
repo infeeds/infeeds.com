@@ -45,6 +45,9 @@ layout: default
       </div>
     </div>
 
+    {% comment %} Ad Logic: Header ad for posts goes here {% endcomment %}
+    {% include ad-unit.html location='header_ad' context='blog' %}
+
     {% if page.video_embed %}
     <div class="post-video">
       <div class="post-video__wrap">
@@ -70,6 +73,7 @@ layout: default
   <article class="post">
 
     <div class="post__content">
+      {% include ad-unit.html location='sidebar_ad' context='blog' %}
       {{ content }}
     </div>
 
