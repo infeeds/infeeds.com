@@ -80,6 +80,7 @@
           </div>
         </div>
       </div>
+
       <!-- begin ad container -->
       {% if count == 1 %}
         {% if page.layout == 'default' and page.url == '/' %}
@@ -94,6 +95,9 @@
         </div>
       {% endif %}
       <!-- end ad container -->
+
+      {% endif %}
+      {% endfor %}
     </div>
   </div>
 </section>
