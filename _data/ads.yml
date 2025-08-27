@@ -10,9 +10,9 @@ homepage:
     enabled: true
     type: 'html'
     html_content: |
-      <b>Deliver breaking news, insightful commentary, and exclusive reports.<br>
-      Contact: <a href="mailto:Benzingaheadlines@gmail.com">Benzingaheadlines@gmail.com</a><br>
-      Targeting readers who rely on our platform to stay ahead of the curve.</b>
+      <div style="border:1px solid #ccc; padding:20px; text-align:center; width:728px; height:90px; background:#f9f9f9;">
+      Your 728x90 HTML/AdSense Ad Unit Here
+      </div>
   footer_ad:
     enabled: false
   sidebar_ad:
@@ -30,6 +30,4 @@ blog:
     enabled: true
     type: 'html'
     html_content: |
-      <b>Deliver breaking news, insightful commentary, and exclusive reports.<br>
-      Contact: <a href="mailto:Benzingaheadlines@gmail.com">Benzingaheadlines@gmail.com</a><br>
-      Targeting readers who rely on our platform to stay ahead of the curve.</b>
+      <div style="border:1px solid #ccc; padding:20px; text-align:center; background:#f9f9f9;">Your 250x300 HTML/AdSense Ad Unit Here</div>
