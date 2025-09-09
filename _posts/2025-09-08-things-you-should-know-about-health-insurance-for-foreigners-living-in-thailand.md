@@ -22,7 +22,7 @@ This balance means that foreigners need insurance. With the appropriate coverage
 
 **Laws and healthcare needs for people from other countries**
 
-There are additional healthcare rules in Thailand that apply to both natives and tourists. Employers must register their employees with the Social Security Fund through theÂ [Ministry of Public Health](https://anamai.moph.go.th/en/home)Â and Social Security Office. This gives them access to a set number of public services.
+There are additional healthcare rules in Thailand that apply to both natives and tourists. Employers must register their employees with the Social Security Fund through theÂ [Ministry of Public Health](https://anamai.moph.go.th/en/home) and Social Security Office. This gives them access to a set number of public services.
 
 Also, people who want to stay for a long time often need a visa to get health insurance. For instance, the Non-Immigrant O-A visa needs confirmation of health insurance that matches government standards.
 
@@ -32,7 +32,7 @@ Your specific scenario will determine what kind of insurance you need. Some fore
 
 **How to live well in Thailand**
 
-As an expat, it's easy to get into Thailand's strong wellness culture. Here are some of theÂ [best activities to do in Thailand](https://infeeds.com/the-best-wellness-activities-to-enjoy-in-thailand/)to stay healthy:
+As an expat, it's easy to get into Thailand's strong wellness culture. Here are some of the [best activities to do in Thailand](https://infeeds.com/the-best-wellness-activities-to-enjoy-in-thailand/)to stay healthy:
 
 - Yoga or tai chi on the beach.
 - Thai massage can reduce tension and enhance blood flow.
