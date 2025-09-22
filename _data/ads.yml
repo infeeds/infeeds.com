@@ -11,7 +11,7 @@ homepage:
     type: 'html'
     html_content: |
       <div style="border:1px solid #ccc; padding:20px; text-align:center; width:728px; height:90px; background:#f9f9f9;">
-      Place Your 728x90 HTML/AdSense Ad Unit Here<br /><a href="mailto:exmgks@gmail.com"><b>GET YOUR AD HERE</b></a>
+      Place Your 728x90 HTML/AdSense Ad Unit Here<br /><a href="mailto:exmgks@gmail.com"><b>PLACE YOUR AD HERE</b></a>
       </div>
   footer_ad:
     enabled: false
@@ -25,9 +25,9 @@ blog:
   footer_ad:
     enabled: true
     type: 'html'
-    html_content: '<div style="border:1px solid #ccc; padding:20px; text-align:center; width:728px; height:90px; background:#f9f9f9;">Place Your 728x90 HTML/AdSense Ad Unit Here<br /><a href="mailto:exmgks@gmail.com"><b>GET YOUR AD HERE</b></a></div>'
+    html_content: '<div style="border:1px solid #ccc; padding:20px; text-align:center; width:728px; height:90px; background:#f9f9f9;">Place Your 728x90 HTML/AdSense Ad Unit Here<br /><a href="mailto:exmgks@gmail.com"><b>PLACE YOUR AD HERE</b></a></div>'
   sidebar_ad:
     enabled: true
     type: 'html'
     html_content: |
-      <div style="border:1px solid #ccc; padding:20px; text-align:center; background:#f9f9f9;">Your 250x300 HTML/AdSense Ad Unit<br /><a href="mailto:exmgks@gmail.com"><b>GET YOUR AD HERE</b></a></div>
+      <div style="border:1px solid #ccc; padding:20px; text-align:center; background:#f9f9f9;">Your 250x300 HTML/AdSense Ad Unit<br /><a href="mailto:exmgks@gmail.com"><b>PLACE YOUR AD HERE</b></a></div>
