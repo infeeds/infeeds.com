@@ -4,7 +4,7 @@ title:  What Do You Need to Know About NDIS and How Does It Work?
 description: NDIS or National Disability Insurance Scheme is a social initiative in Australia that aims to support individuals with disabilities as well as their dependents, and careers.
 date:   2025-09-22 03:01:35 +0300
 author: alena
-image:  'https://images.unsplash.com/photo-1513682121497-80211f36a7d3?q=80&w=3088&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+image:  'https://images.unsplash.com/photo-1632646332908-fcfd19d736e5?q=80&w=2942&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
 video_embed:
 tags: [lifestyle, australia]
 tags_color: '#49cb7bff'
