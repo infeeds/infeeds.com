@@ -14,55 +14,55 @@ It is the intention of the Australian government to provide people with disabili
 
 ## **Overview of Government-Funded Programmes**
 
- 1. Medicare
+- Medicare
 
 This programme is the backbone of the healthcare system of Australia. This ensures people can see a GP, access hospital care, and receive essential treatments without the crippling costs.
 
- 2. Centrelink/Services Australia
+- Centrelink/Services Australia
 
 This option offers payments to help Australians manage unemployment, illness, caring duties, and retirement. This is not only about money because it is about giving people breathing room while they get back on their feet.
 
- 3. NDIS (National Disability Insurance Scheme)
+- NDIS (National Disability Insurance Scheme)
 
 The NDIS provides tailored funding for people with disabilities. They help participants to access therapies, mobility equipment, home modifications, social activities, and daily living support.
 
- 4. Public Housing and Rent Assistance
+- Public Housing and Rent Assistance
 
 The programme also provides housing assistance, including emergency accommodation, public housing, and rent assistance. This is for the purpose of protecting vulnerable families, reducing homelessness, and helping people to maintain stable living arrangements during financial stress.
 
- 5. Aged Care Support
+- Aged Care Support
 
 The main idea of this programme is to ensure older Australians will live safely and comfortably. The services provided include cleaning, nursing, daily tasks, and allied health.
 
 ## **How NDIS Works for Australians Who Are Eligible**
 
- 1. Personalised Funding
+- Personalised Funding
 
 The NDIS works by providing personalised funding to Australians who have significant and permanent disability. The scheme looks at each person’s unique needs.
 
- 2. Who Can Apply
+- Who Can Apply
 
 Those who meet the eligibility requirements can [apply for the NDIS](https://www.ndis.gov.au/applying-access-ndis). After being approved, they will receive an individual plan that outlines their goals and the support funded to help them. 
 
- 3. Ability to Decide
+- Ability to Decide
 
 The system will prioritise choice, control, and independence. It is designed to provide citizens the ability to decide how they want to live, who they want to work with, and what support suits them best.
 
 ## **Why the NDIS Is Essential for Aussies Living with Disabilities**
 
- 1. Provide Opportunities
+- Provide Opportunities
 
 The NDIS is essential as it provides Australians with disabilities the opportunity to live with dignity and independence. It has changed the limited, uneven, and biased support given by the government before this scheme existed.
 
- 2. Covers Critical Support
+- Covers Critical Support
 
 People with disabilities can receive critical support for personal care, therapies, mobility aids, home modifications, transport, and community participation. Without such funding, families would struggle to afford the ongoing care that their loved ones need.
 
- 3. Choice and Control
+- Choice and Control
 
 This programme is also essential for it gives people choice and control. Thus, participants can pick their own providers, change services, or tailor plans to match their goals. This may include options such as living independently, finding work, improving mobility, or managing daily life.
 
- 4. Long-Term Support
+- Long-Term Support
 
 This also ensures that people with disabilities are supported long-term. However, this is not a privilege because it is a fundamental safety net promoting equality, wellbeing, and quality of life across Australia.
 
