@@ -10,7 +10,7 @@ tags: [home, australia]
 tags_color: '#3b468aff'
 ---
 
-Power outages can disrupt any organisation. Even a short drop in electricity can shut down computers, interrupt digital systems and cause unwanted delays. This is why many Australian businesses rely on a UPS uninterrupted power supply. A UPS keeps important equipment functioning, stops data loss, and gives workers ample time to securely operate systems. The best setup for your organisation relies on how it functions, what tools you use, and how much downtime you can handle.
+Power outages can disrupt any organisation. Even a short drop in electricity can shut down computers, interrupt digital systems and cause unwanted delays. This is why many Australian businesses rely on a [UPS uninterrupted power supply](https://upssolutions.com.au/). A UPS keeps important equipment functioning, stops data loss, and gives workers ample time to securely operate systems. The best setup for your organisation relies on how it functions, what tools you use, and how much downtime you can handle.
 
 ## Know What Your Business Needs
 
