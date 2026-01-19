@@ -8,3 +8,6 @@ convert-md.js
 context.md
 createContext.js
 /.vscode
+genctx.context.md
+genctx.config.json
+workflow.json
