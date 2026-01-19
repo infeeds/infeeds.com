@@ -1,5 +1,5 @@
-{%- assign max_related = 3 -%}
-{%- assign related_posts = site.related_posts | slice: 0, max_related -%}
+{% assign max_related = 3 %}
+{% assign related_posts = site.posts | where_exp: "item", "item.tags contains post.tags.first" | slice: 0, max_related %}
 
 {% if related_posts.size > 0 %}
 <!-- begin related posts -->
