@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Trending News"
+title: "PhonePe as the Indian fintech giant heads to IPO"
 description: "Tiger Global and Microsoft are fully exiting PhonePe as the Indian fintech giant heads to IPO, offering a glimpse into how global investors cash out"
 date: 2026-01-21 17:20:45 +0530
 author: adam
