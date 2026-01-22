@@ -4,7 +4,7 @@ title: "Not to be outdured by OpenAI, Apple is reportedly developing an AI weara
 description: "Apple's rumored AI pin with dual cameras could arrive in 2027, marking the tech giant's entry into the competitive AI hardware market."
 date: 2026-01-22 16:08:52 +0530
 author: adam
-image: ''
+image: 'https://images.unsplash.com/photo-1630563451961-ac2ff27616ab?q=80&w=987'
 video_embed:
 tags: [tech, trending]
 tags_color: '#0056fe'
