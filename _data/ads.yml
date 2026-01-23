@@ -10,9 +10,11 @@ homepage:
     enabled: true
     type: 'html'
     html_content: |
-      <div style="border:1px solid #ccc; padding:20px; text-align:center; width:728px; height:90px; background:#f9f9f9;">
+      <a href="https://infeeds.com/why-high-quality-content-partnerships-are-becoming-essential-for-modern-digital-platforms"><img src="https://infeeds.com/images/ads/ad-728.png" alt="Infeeds 728x90 Ad"></a><br /><sub><a href="mailto:exmgks@gmail.com" target="_blank">Write an email to us</a></sub>
+
+      <!--<div style="border:1px solid #ccc; padding:20px; text-align:center; width:728px; height:90px; background:#f9f9f9;">
       Place Your 728x90 HTML/AdSense Ad Unit Here<br /><a href="mailto:exmgks@gmail.com"><b>PLACE YOUR AD HERE</b></a>
-      </div>
+      </div>-->
   footer_ad:
     enabled: false
   sidebar_ad:
@@ -25,9 +27,13 @@ blog:
   footer_ad:
     enabled: true
     type: 'html'
-    html_content: '<div style="border:1px solid #ccc; padding:20px; text-align:center; width:728px; height:90px; background:#f9f9f9;">Place Your 728x90 HTML/AdSense Ad Unit Here<br /><a href="mailto:exmgks@gmail.com"><b>PLACE YOUR AD HERE</b></a></div>'
+    html_content: '<a href="https://infeeds.com/why-high-quality-content-partnerships-are-becoming-essential-for-modern-digital-platforms"><img src="https://infeeds.com/images/ads/ad-728.png" alt="Infeeds 728x90 Ad"></a><br /><sub><a href="mailto:exmgks@gmail.com" target="_blank">Write an email to us</a></sub>
+
+      <!--<div style="border:1px solid #ccc; padding:20px; text-align:center; width:728px; height:90px; background:#f9f9f9;">Place Your 728x90 HTML/AdSense Ad Unit Here<br /><a href="mailto:exmgks@gmail.com"><b>PLACE YOUR AD HERE</b></a></div>-->'
   sidebar_ad:
     enabled: true
     type: 'html'
     html_content: |
-      <div style="border:1px solid #ccc; padding:20px; text-align:center; background:#f9f9f9;">Your 250x300 HTML/AdSense Ad Unit<br /><a href="mailto:exmgks@gmail.com"><b>PLACE YOUR AD HERE</b></a></div>
+      <a href="https://infeeds.com/why-high-quality-content-partnerships-are-becoming-essential-for-modern-digital-platforms"><img src="https://infeeds.com/images/ads/ad-300.png" alt="Infeeds 250x300 Ad"></a><br /><sub><a href="mailto:exmgks@gmail.com" target="_blank">Write an email to us</a></sub>
+
+      <!--<div style="border:1px solid #ccc; padding:20px; text-align:center; background:#f9f9f9;">Your 250x300 HTML/AdSense Ad Unit<br /><a href="mailto:exmgks@gmail.com"><b>PLACE YOUR AD HERE</b></a></div>-->
