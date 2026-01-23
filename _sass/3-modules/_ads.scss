@@ -1,12 +1,9 @@
 /* Ads */
 .ad-unit {
-    display: flex;
     justify-content: center;
     align-items: center;
     margin: 1em auto 2em;
     text-align: center;
-    overflow: hidden;
-    border-radius: 10px;
     font-size: .75em;
 
   // Hide if the ad logic renders an empty container
@@ -20,7 +17,13 @@
     display: block;
     max-width: 100%;
     height: auto;
-    border: none; // override default link styles
+    border: none !important;
+    border-radius: 10px;
+  }
+
+  sup {
+    font-family: monospace;
+    font-size: .8em;
   }
 
   .ad-unit--text {
