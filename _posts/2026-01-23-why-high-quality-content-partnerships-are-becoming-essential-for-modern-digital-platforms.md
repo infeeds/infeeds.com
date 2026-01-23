@@ -6,7 +6,7 @@ date: 2026-01-23 01:07:10 +0300
 author: adam
 image: 'https://images.unsplash.com/photo-1617575521317-d2974f3b56d2?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
 video_embed:
-tags: [content, digital, publishing]
+tags: [content, writing, publishing]
 tags_color: '#1a72e4'
 featured: true
 ---
@@ -39,6 +39,6 @@ Successful platforms treat collaboration as part of their editorial strategy rat
 
 We actively explore high-quality articles, insights, and perspectives that align with our editorial direction. If you have an idea or a well-developed piece that could add value to our audience, feel free to get in touch.
 
-📩 **Contact:** <a href="mailto:exmgks@gmail.com" target="_blank">exmgks@gmail.com</a>
+📩 <b><a href="mailto:exmgks@gmail.com" target="_blank">Contact Us</a> to get your story online.</b>
 
 We review submissions carefully and prioritise content that offers genuine insight, clarity, and relevance for modern readers.
