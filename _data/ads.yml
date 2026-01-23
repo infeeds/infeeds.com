@@ -17,13 +17,20 @@ homepage:
       </div>-->
   footer_ad:
     enabled: false
+    type: 'html'
+    html_content: |
+      <a href="https://infeeds.com/why-high-quality-content-partnerships-are-becoming-essential-for-modern-digital-platforms"><img src="https://infeeds.com/images/ads/ad-728.png" alt="Infeeds 728x90 Ad"></a><br /><sub><a href="mailto:exmgks@gmail.com" target="_blank">Write an email to us</a></sub>
+
+      <!--<div style="border:1px solid #ccc; padding:20px; text-align:center; width:728px; height:90px; background:#f9f9f9;">
+      Place Your 728x90 HTML/AdSense Ad Unit Here<br /><a href="mailto:exmgks@gmail.com"><b>PLACE YOUR AD HERE</b></a>
+      </div>-->
   sidebar_ad:
-    enabled: false # Not used on homepage
+    enabled: false
 
 # --- Blog & Post Ads ---
 blog:
   header_ad:
-    enabled: true # Enable this for post pages
+    enabled: true
   footer_ad:
     enabled: true
     type: 'html'
