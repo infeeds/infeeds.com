@@ -76,6 +76,10 @@
         max-width: 100%;
         margin-bottom: 24px;
       }
+
+      .featured-post .article:last-child {
+        display: none;
+      }
     }
 
     @media only screen and (max-width: $tablet) {
