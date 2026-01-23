@@ -69,14 +69,12 @@
 {% include search.html %}
 
 <!-- begin ad container -->
-  {% if page.layout == 'default' and page.url == '/' %}
-    {% assign ad_context = 'homepage' %}
-  {% else %}
-    {% assign ad_context = 'blog' %}
-  {% endif %}
-  <div class="container">
-    {% if page.layout != 'post' %}
-      {% include ad-unit.html location='header_ad' context=ad_context %}
-    {% endif %}
-  </div>
+{% if page.layout == 'default' and page.url == '/' %}
+  {% assign ad_context = 'homepage' %}
+{% else %}
+  {% assign ad_context = 'blog' %}
+{% endif %}
+<div class="container">
+{% include ad-unit.html location='header_ad' context=ad_context %}
+</div>
 <!-- end ad container -->

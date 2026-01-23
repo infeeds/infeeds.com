@@ -5,38 +5,61 @@
     <div class="col col-12">
       <nav class="pagination animate">
         <div class="pagination__list">
+
+          {% assign current = paginator.page %}
+          {% assign total = paginator.total_pages %}
+          {% assign window = 2 %}
+
+          <!-- Previous -->
           {% if paginator.previous_page %}
             {% if paginator.previous_page == 1 %}
               <a class="previous-link" href="/blog/">&laquo;</a>
             {% else %}
               <a class="previous-link" href="/blog/page/{{ paginator.previous_page }}/">&laquo;</a>
             {% endif %}
-
           {% else %}
             <span class="disabled">&laquo;</span>
           {% endif %}
 
           <div class="counter-box">
-            {% if paginator.page == 1 %}
+
+            <!-- First page -->
+            {% if current == 1 %}
               <span class="active-link">1</span>
             {% else %}
               <a class="back-link" href="/blog/">1</a>
             {% endif %}
-            {% for count in (2..paginator.total_pages) %}
 
-            {% if count == paginator.page %}
-              <span class="active-link">{{ count }}</span>
-              {% else %}
-                <a class="count-number" href="/blog/page/{{ count }}/">{{ count }}</a>
+            <!-- Left dots -->
+            {% if current > window | plus: 2 %}
+              <span class="dots">…</span>
+            {% endif %}
+
+            <!-- Page window -->
+            {% for count in (2..total) %}
+              {% if count >= current | minus: window and count <= current | plus: window %}
+                {% if count == current %}
+                  <span class="active-link">{{ count }}</span>
+                {% else %}
+                  <a class="count-number" href="/blog/page/{{ count }}/">{{ count }}</a>
+                {% endif %}
               {% endif %}
             {% endfor %}
 
-            {% if paginator.next_page %}
-              <a class="next-link" href="{{ site.baseurl }}/blog/page/{{ paginator.next_page }}/">&raquo;</a>
-            {% else %}
-              <span class="disabled">&raquo;</span>
+            <!-- Right dots -->
+            {% if current < total | minus: window | minus: 1 %}
+              <span class="dots">…</span>
             {% endif %}
+
           </div>
+
+          <!-- Next -->
+          {% if paginator.next_page %}
+            <a class="next-link" href="/blog/page/{{ paginator.next_page }}/">&raquo;</a>
+          {% else %}
+            <span class="disabled">&raquo;</span>
+          {% endif %}
+
         </div>
       </nav>
     </div>
