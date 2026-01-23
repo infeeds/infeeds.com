@@ -32,7 +32,7 @@ homepage:
 # --- Blog & Post Ads ---
 blog:
   header_ad:
-    enabled: true
+    enabled: false
     type: 'html'
     html_content: |
       <a href="https://infeeds.com/why-high-quality-content-partnerships-are-becoming-essential-for-modern-digital-platforms"><img src="https://infeeds.com/images/ads/ad-728.png" alt="Infeeds 728x90 Ad"></a><br /><sub><a href="mailto:exmgks@gmail.com" target="_blank">Write an email to us</a></sub>
