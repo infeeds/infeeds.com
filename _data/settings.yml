@@ -124,8 +124,16 @@ social:
 # Footer Navigation
 footer__menu__settings:
   menu__items:
-    - title: 'Home'
+    - title: 'Infeeds'
       url: '/'
+    - title: 'News'
+      url: '/tags/?tag=news'
+    - title: 'Business'
+      url: '/tags/?tag=business'
+    - title: 'Lifestyle'
+      url: '/tags/?tag=lifestyle'
+    - title: 'Blog'
+      url: '/blog/'
     - title: 'About'
       url: '/about/'
     - title: 'Contact'
