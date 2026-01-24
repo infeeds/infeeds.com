@@ -10,23 +10,36 @@ color_scheme: auto # You can choose three modes auto, light, and dark. By defaul
 # Navigation Settings
 menu__settings:
   menu__items:
-    - title: 'Infeeds'
+    - title: 'Home'
       url: '/'
-    - title: 'Blog'
-      url: '/blog/'
+    #- title: 'Blog'
+    #  url: '/blog/'
     #- title: 'Authors'
     #  url: '/authors/'
     #- title: 'Videos'
     #  url: '/videos/'
-    - title: 'About'
-      url: '/about/'
-    - title: 'Contact'
+    - title: 'News'
+      url: '/tags/?tag=news'
+    - title: 'Business'
+      url: '/tags/?tag=business'
+    - title: 'Lifestyle'
+      url: '/tags/?tag=lifestyle'
+    - title: 'Categories'
+      submenu:
+      - url: '/tags/?tag=travel'
+        title: 'Travel'
+      - url: '/tags/?tag=health'
+        title: 'Health'
+      - url: '/tags/?tag=food'
+        title: 'Food'
+      - url: '/tags/?tag=finance'
+        title: 'Finance'
+      - url: '/tags/?tag=technology'
+        title: 'Technology'
+      - url: '/blog/'
+        title: 'Read more'
+    - title: 'Contact Us'
       url: 'mailto:exmgks@gmail.com'
-    #- title: 'Pages'
-    #  submenu:
-      #- url: '/elements/'
-      #  title: 'Elements'
-
 
 #-------------------------------
 # Hero Settings
@@ -35,7 +48,6 @@ hero:
   hero__title: thoughts, stories and ideas.
   hero__description: This is Infeeds, an online directory for news, stories and ideas. Share your story with us.
   hero__image: # You can add hero image. For example '/images/06.jpg'
-
 
 #-------------------------------
 # Author Global Settings
