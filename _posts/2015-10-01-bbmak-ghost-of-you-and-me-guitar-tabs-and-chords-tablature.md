@@ -4,12 +4,12 @@ title: BBMak - Ghost of You And Me Guitar Tabs & Chords (Tablature)
 description: 'Tuning : STANDARD [eBGDAE] Chords Used : Em . C . D . Am . G INTRO : e |---2-----0---------------------------------------------------|B |------3--...'
 date: '2015-10-01 18:28:16'
 author: r7
-image: https://images.unsplash.com/photo-1510915361894-db8b60106cb1?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-video_embed:
+image: 'https://images.unsplash.com/photo-1510915361894-db8b60106cb1?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+video_embed: null
 tags:
-  - diaryofr7
-  - tutorial
-tags_color: '#3839ce'
+- diaryofr7
+- tutorial
+tags_color: '#1788b1'
 ---
 `Tuning : STANDARD [eBGDAE]`
 

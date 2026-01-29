@@ -1,39 +1,16 @@
 ---
-id: 879
-title: 'Three Common Hiring Mistakes And How To Avoid Them'
+layout: post
+title: Three Common Hiring Mistakes And How To Avoid Them
+description: 'When you start the process of looking for a new employee, you are always going to be taking a risk. There are so many different factors to consider, and so man...'
 date: '2023-02-08T08:32:56+00:00'
 author: adam
-layout: post
-guid: 'http://infeeds.com/?p=879'
-permalink: /three-common-hiring-mistakes-and-how-to-avoid-them/
-csco_singular_layout:
-    - default
-csco_page_header_type:
-    - default
-csco_page_load_nextpost:
-    - default
-csco_post_video_bg_location:
-    - 'a:1:{i:0;s:7:"archive";}'
-csco_post_video_bg_start_time:
-    - '0'
-csco_post_video_bg_end_time:
-    - '0'
-csco_post_media_location:
-    - content
-csco_post_gallery_type:
-    - slider
-powerkit_post_format_link:
-    - ''
-powerkit_post_format_audio:
-    - ''
-powerkit_post_format_video:
-    - ''
-image: /images/clem-onojeghuo-fY8Jr4iuPQM-unsplash.jpg
-categories:
-    - Business
+image: 'https://images.unsplash.com/photo-1674064205823-1668a0777091?q=80&w=988'
+video_embed: null
 tags:
-    - career
-    - jobs
+- career
+- jobs
+- business
+tags_color: '#1788b1'
 ---
 
 When you start the process of looking for a new employee, you are always going to be taking a risk. There are so many different factors to consider, and so many different choices that you are going to have to make. Even the most experienced business owners can get it wrong and bring someone on board who is entirely the wrong fit for the role and the company. If you are new to the process, here are some of the most common hiring mistakes and the best ways to avoid them.

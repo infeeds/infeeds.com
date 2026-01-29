@@ -1,40 +1,17 @@
 ---
-id: 889
-title: '4 Practical Services Businesses Should Hire For Their Office Space'
+layout: post
+title: 4 Practical Services Businesses Should Hire For Their Office Space
+description: 'There are many things that need to be managed in a typical office, and office managers might need help to keep on top of everything. Finding quality, experienc...'
 date: '2023-02-10T16:26:38+00:00'
 author: adam
-layout: post
-guid: 'http://infeeds.com/?p=889'
-permalink: /4-practical-services-businesses-should-hire-for-their-office-space/
-csco_singular_layout:
-    - default
-csco_page_header_type:
-    - default
-csco_page_load_nextpost:
-    - default
-csco_post_video_bg_location:
-    - 'a:1:{i:0;s:7:"archive";}'
-csco_post_video_bg_start_time:
-    - '0'
-csco_post_video_bg_end_time:
-    - '0'
-csco_post_media_location:
-    - content
-csco_post_gallery_type:
-    - slider
-powerkit_post_format_link:
-    - ''
-powerkit_post_format_audio:
-    - ''
-powerkit_post_format_video:
-    - ''
-image: /images/cowomen-1hlFqUdFv1s-unsplash.jpg
-categories:
-    - Business
+image: 'https://images.unsplash.com/photo-1768663319879-e6a2b4c7408f?q=80&w=2070'
+video_embed: null
 tags:
-    - career
-    - jobs
-    - office
+- career
+- jobs
+- office
+- business
+tags_color: '#1788b1'
 ---
 
 There are many things that need to be managed in a typical office, and office managers might need help to keep on top of everything. Finding quality, experienced professionals to help address the different needs of your office can be invaluable. As an office manager, you’ll know the needs of your business best, but there are some services that can be universally beneficial.

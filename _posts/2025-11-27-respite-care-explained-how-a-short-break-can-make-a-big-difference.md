@@ -1,13 +1,14 @@
 ---
 layout: post
-title: Respite Care Explained, How a Short Break Can Make a Big Difference
-description: Whether you are supporting an elderly parent, a family member with a disability, or someone recovering from illness, the responsibilities of care can become overwhelming without proper rest.
-date: 2025-11-27 03:01:35 +0300
+title: 'Respite Care Explained, How a Short Break Can Make a Big Difference'
+description: 'Whether you are supporting an elderly parent, a family member with a disability, or someone recovering from illness, the responsibilities of care can become overwhelming without proper rest.'
+date: '2025-11-27 03:01:35 +0300'
 author: adam
 image: 'https://images.unsplash.com/photo-1584515933487-779824d29309?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
-video_embed:
-tags: [healthcare]
-tags_color: '#364376ff'
+video_embed: null
+tags:
+- healthcare
+tags_color: '#1788b1'
 ---
 
 Caring for a loved one can be deeply rewarding, but it can also be physically and emotionally demanding. Whether you are supporting an elderly parent, a family member with a disability, or someone recovering from illness, the responsibilities of care can become overwhelming without proper rest. This is where respite care comes in. It's a compassionate and essential solution designed to support both caregivers and the people they look after.

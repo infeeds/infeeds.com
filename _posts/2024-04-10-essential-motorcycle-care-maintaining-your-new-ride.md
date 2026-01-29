@@ -1,40 +1,17 @@
 ---
-id: 1378
+layout: post
 title: 'Essential Motorcycle Care: Maintaining Your New Ride'
+description: 'Congratulations on your new motorcycle! Owning a motorcycle is an exciting journey, but it also involves responsibilities, particularly in maintenance. Proper...'
 date: '2024-04-10T21:23:02+00:00'
 author: adam
-layout: post
-guid: 'https://infeeds.com/?p=1378'
-permalink: /essential-motorcycle-care-maintaining-your-new-ride/
-csco_singular_layout:
-    - default
-csco_page_header_type:
-    - default
-csco_page_load_nextpost:
-    - default
-csco_post_video_bg_location:
-    - 'a:1:{i:0;s:7:"archive";}'
-csco_post_video_bg_start_time:
-    - '0'
-csco_post_video_bg_end_time:
-    - '0'
-csco_post_media_location:
-    - content
-csco_post_gallery_type:
-    - slider
-powerkit_post_format_link:
-    - ''
-powerkit_post_format_audio:
-    - ''
-powerkit_post_format_video:
-    - ''
-image: /images/jia-ye-COqQwsiMqMc-scaled.jpg
-categories:
-    - Featured
+image: 'https://images.unsplash.com/photo-1768663319879-e6a2b4c7408f?q=80&w=2070'
+video_embed: null
 tags:
-    - maintenance
-    - motorcycle
-    - vehicle
+- maintenance
+- motorcycle
+- vehicle
+- featured
+tags_color: '#1788b1'
 ---
 
 Congratulations on your new motorcycle! Owning a motorcycle is an exciting journey, but it also involves responsibilities, particularly in maintenance. Proper care not only prolongs your bike’s lifespan but also optimizes its performance and safety. In this comprehensive guide, we’ll delve into some crucial tips on how to look after your new motorcycle effectively.

@@ -1,13 +1,15 @@
 ---
 layout: post
-title: "Pinterest Cuts 700 Jobs to Fund Its AI Dreams"
-description: "Pinterest is laying off up to 700 employees and shrinking office space to pivot harder into AI. The cost? $45 million and a lot of careers."
-date: 2026-01-26 20:00:53 +0530
+title: Pinterest Cuts 700 Jobs to Fund Its AI Dreams
+description: Pinterest is laying off up to 700 employees and shrinking office space to pivot harder into AI. The cost? $45 million and a lot of careers.
+date: '2026-01-26 20:00:53 +0530'
 author: adam
 image: 'https://images.unsplash.com/photo-1768622180477-5043d6dcdfcc?q=80&w=2070'
-video_embed:
-tags: [news, tech]
-tags_color: '#e91e63'
+video_embed: null
+tags:
+- news
+- tech
+tags_color: '#d32f2f'
 ---
 
 Pinterest just announced it's cutting up to 700 jobs by the end of September, and the reason is painfully familiar at this point. The company wants to go all-in on artificial intelligence, which apparently means less money for people and more for algorithms.

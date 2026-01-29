@@ -1,13 +1,15 @@
 ---
 layout: post
 title: How Is Modern Residential Care Shifting Public Perception?
-description: What was once often viewed as a place of limitation is now being recognized as a supportive, engaging, and enriching environment where people can continue to live with dignity and purpose.
-date: 2026-01-20 01:07:10 +0300
+description: 'What was once often viewed as a place of limitation is now being recognized as a supportive, engaging, and enriching environment where people can continue to live with dignity and purpose.'
+date: '2026-01-20 01:07:10 +0300'
 author: adam
 image: 'https://images.unsplash.com/photo-1758691031925-a241611fb272?q=80&w=2832&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
-video_embed:
-tags: [health, lifestyle]
-tags_color: '#17b148'
+video_embed: null
+tags:
+- health
+- lifestyle
+tags_color: '#4caf50'
 ---
 
 Residential care is undergoing a powerful transformation. What was once often viewed as a place of limitation is now being recognized as a supportive, engaging, and enriching environment where people can continue to live with dignity and purpose. Modern residential care is changing how families and communities think about later life by focusing on wellbeing, individuality, and meaningful connection.

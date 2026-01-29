@@ -1,13 +1,15 @@
 ---
 layout: post
-title: "TikTok's Weekend Outage Sparks Wild Theories and Algorithm Complaints"
-description: "TikTok went dark Sunday after a data center power outage, but users aren't buying the simple explanation as complaints about feed changes pile up."
-date: 2026-01-26 08:00:55 +0530
+title: TikTok's Weekend Outage Sparks Wild Theories and Algorithm Complaints
+description: 'TikTok went dark Sunday after a data center power outage, but users aren''t buying the simple explanation as complaints about feed changes pile up.'
+date: '2026-01-26 08:00:55 +0530'
 author: adam
 image: 'https://images.unsplash.com/photo-1596346599094-4dfa5c61fd0d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
-video_embed:
-tags: [news, lifestyle]
-tags_color: '#795548'
+video_embed: null
+tags:
+- news
+- lifestyle
+tags_color: '#d32f2f'
 ---
 
 If you opened TikTok on Sunday expecting your usual dopamine hit of dance videos and niche microtrends, you probably got a rude awakening instead. The app just stopped working. No videos, no scrolling, nothing. And naturally, the internet did what it does best: freaked out and started cooking up theories.

@@ -1,39 +1,16 @@
 ---
-id: 1303
-title: '5 Things to Consider When Choosing Continuing Care Communities Near Me'
+layout: post
+title: 5 Things to Consider When Choosing Continuing Care Communities Near Me
+description: Searching for the ideal continuing care community can be a daunting task. It’s about finding a suitable location and identifying a place that will cater to you...
 date: '2023-11-25T05:55:53+00:00'
 author: adam
-layout: post
-guid: 'https://infeeds.com/?p=1303'
-permalink: /5-things-to-consider-when-choosing-continuing-care-communities-near-me/
-csco_singular_layout:
-    - default
-csco_page_header_type:
-    - default
-csco_page_load_nextpost:
-    - default
-csco_post_video_bg_location:
-    - 'a:1:{i:0;s:7:"archive";}'
-csco_post_video_bg_start_time:
-    - '0'
-csco_post_video_bg_end_time:
-    - '0'
-csco_post_media_location:
-    - content
-csco_post_gallery_type:
-    - slider
-powerkit_post_format_link:
-    - ''
-powerkit_post_format_audio:
-    - ''
-powerkit_post_format_video:
-    - ''
-image: /images/vlad-sargu-ItphH2lGzuI.jpg
-categories:
-    - Lifestyle
+image: 'https://images.unsplash.com/photo-1765707886613-f4961bbd07dd?q=80&w=988'
+video_embed: null
 tags:
-    - communities
-    - 'old age'
+- communities
+- old age
+- lifestyle
+tags_color: '#1788b1'
 ---
 
 Searching for the ideal continuing care community can be a daunting task. It’s about finding a suitable location and identifying a place that will cater to your unique needs and preferences.

@@ -1,40 +1,16 @@
 ---
-id: 748
-title: 'How to Ensure Your Senior Parent Doesn’t Suffer from Loneliness'
+layout: post
+title: How to Ensure Your Senior Parent Doesn’t Suffer from Loneliness
+description: Do you have a senior parent who currently lives independently in their own home still? Have you been starting to notice signs or red flags that they may be suf...
 date: '2022-04-01T07:17:01+00:00'
 author: adam
-layout: post
-guid: 'http://infeeds.com/?p=748'
-permalink: /how-to-ensure-your-senior-parent-doesnt-suffer-from-loneliness/
-csco_singular_layout:
-    - default
-csco_page_header_type:
-    - default
-csco_page_load_nextpost:
-    - default
-csco_post_video_bg_location:
-    - 'a:1:{i:0;s:7:"archive";}'
-csco_post_video_bg_start_time:
-    - '0'
-csco_post_video_bg_end_time:
-    - '0'
-csco_post_media_location:
-    - content
-csco_post_gallery_type:
-    - slider
-powerkit_post_format_link:
-    - ''
-powerkit_post_format_audio:
-    - ''
-powerkit_post_format_video:
-    - ''
-image: /images/kristina-tripkovic-nwWUBsW6ud4-unsplash.jpeg
-categories:
-    - Health
+image: 'https://images.unsplash.com/photo-1768697581060-52e2edbee7fa?q=80&w=2070'
+video_embed: null
 tags:
-    - depression
-    - health
-    - senior
+- depression
+- health
+- senior
+tags_color: '#1788b1'
 ---
 
 Do you have a senior parent who currently lives independently in their own home still? Have you been starting to notice signs or red flags that they may be suffering from loneliness, lack of stimulation, and even some signs of depression? Loneliness and social isolation are something that can occur with seniors who live on their own and it’s something that needs to be addressed. Loneliness can negatively affect a person mentally and physically and doing nothing won’t remedy the situation.

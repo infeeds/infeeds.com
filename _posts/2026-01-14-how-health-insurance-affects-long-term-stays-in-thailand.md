@@ -1,13 +1,15 @@
 ---
 layout: post
 title: How Health Insurance Affects Long-Term Stays in Thailand
-description: Thailand is renowned for its healthcare, and it has become one of the world's leading medical tourism destinations.
-date: 2026-01-14 03:01:35 +0300
+description: 'Thailand is renowned for its healthcare, and it has become one of the world''s leading medical tourism destinations.'
+date: '2026-01-14 03:01:35 +0300'
 author: tiana
-image:  'https://images.unsplash.com/photo-1579684385127-1ef15d508118?q=80&w=1480&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
-video_embed:
-tags: [healthcare, thailand]
-tags_color: '#c4b815ff'
+image: 'https://images.unsplash.com/photo-1579684385127-1ef15d508118?q=80&w=1480&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+video_embed: null
+tags:
+- healthcare
+- thailand
+tags_color: '#1788b1'
 ---
 Thailand is renowned for its healthcare, and it has become one of the world's leading medical tourism destinations. But arranging to visit the country for treatment is one thing; living there and needing urgent treatment for an unexpected bout of poor health is another. While comparatively cheaper than healthcare in many other countries, Thailand's hospital bills may still be more than most people have available in savings.
 

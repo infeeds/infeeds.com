@@ -1,13 +1,15 @@
 ---
 layout: post
-title: "TikTok's American Makeover: What the New Joint Venture Really Means"
-description: "TikTok is now 80% American-owned through a complex joint venture. But does new ownership actually change anything for users and creators?"
-date: 2026-01-22 08:00:04 +0530
+title: 'TikTok''s American Makeover: What the New Joint Venture Really Means'
+description: TikTok is now 80% American-owned through a complex joint venture. But does new ownership actually change anything for users and creators?
+date: '2026-01-22 08:00:04 +0530'
 author: adam
 image: 'https://images.unsplash.com/photo-1765779038142-054a9f8c2268?q=80&w=1035'
-video_embed:
-tags: [news, tech]
-tags_color: '#e91e63'
+video_embed: null
+tags:
+- news
+- tech
+tags_color: '#d32f2f'
 ---
 
 So it finally happened. After years of threats, political grandstanding, and that weird 12-hour blackout last year, TikTok is officially under new management in the United States. ByteDance now owns just 19.9 percent of TikTok USDS Joint Venture LLC, with the rest split between Silver Lake, Oracle, Abu Dhabi's MGX, and a handful of other deep-pocketed investors.

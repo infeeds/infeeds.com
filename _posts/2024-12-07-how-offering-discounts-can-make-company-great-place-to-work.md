@@ -1,13 +1,15 @@
 ---
 layout: post
-title:  How Offering Discounts Can Make Your Company a Great Place to Work
+title: How Offering Discounts Can Make Your Company a Great Place to Work
 description: Employees today are seeking workplaces that care about their wellbeing and provide meaningful perks that make a tangible difference in their lives.
-date:   2024-12-07 01:01:35 +0300
+date: '2024-12-07 01:01:35 +0300'
 author: alena
-image:  '/images/pPzQP35zh4o.jpg'
-video_embed:
-tags:   [company, work]
-tags_color: '#ee3211'
+image: 'https://images.unsplash.com/photo-1674064205823-1668a0777091?q=80&w=988'
+video_embed: null
+tags:
+- company
+- work
+tags_color: '#1788b1'
 ---
 In a challenging job market, companies need to go beyond offering competitive salaries and standard benefits packages to attract and retain top talent. Employees today are seeking workplaces that care about their wellbeing and provide meaningful perks that make a tangible difference in their lives. One such benefit is offering discounts on everyday products and services, which can significantly enhance employee satisfaction and loyalty.
 

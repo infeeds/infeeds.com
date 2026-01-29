@@ -1,13 +1,15 @@
 ---
 layout: post
-title: "The Coffee I Never Tasted: How Chronic Stress Made Me a Ghost in My Own Life"
-description: "I couldn't remember drinking my coffee. That small moment revealed I was missing everything that mattered, living everywhere except where I actually was."
-date: 2026-01-24 00:00:25 +0530
+title: 'The Coffee I Never Tasted: How Chronic Stress Made Me a Ghost in My Own Life'
+description: 'I couldn''t remember drinking my coffee. That small moment revealed I was missing everything that mattered, living everywhere except where I actually was.'
+date: '2026-01-24 00:00:25 +0530'
 author: adam
 image: 'https://images.unsplash.com/photo-1768697581060-52e2edbee7fa?q=80&w=2070'
-video_embed:
-tags: [news, lifestyle]
-tags_color: '#fdd835'
+video_embed: null
+tags:
+- news
+- lifestyle
+tags_color: '#d32f2f'
 ---
 
 There's something deeply unsettling about realizing you've been living your life on autopilot. Not for a day or a week, but for years.

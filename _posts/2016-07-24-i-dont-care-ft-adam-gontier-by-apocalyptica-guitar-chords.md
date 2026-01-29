@@ -4,12 +4,12 @@ title: I Don't Care ft. Adam Gontier by Apocalyptica Guitar Chords
 description: "Tuning :\_(One/Whole)\_Step Down [DGCFAd] Chords : Gm . A# . F . D# . Em . D . C But if you wanna play on \\\"STANDARD\\\" Tuning,then Play these Chords ins..."
 date: '2016-07-24 00:45:22'
 author: r7
-image: https://images.unsplash.com/photo-1510915361894-db8b60106cb1?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-video_embed:
+image: 'https://images.unsplash.com/photo-1510915361894-db8b60106cb1?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+video_embed: null
 tags:
-  - diaryofr7
-  - tutorial
-tags_color: '#a1ceb6'
+- diaryofr7
+- tutorial
+tags_color: '#1788b1'
 ---
 `Tuning : (One/Whole) Step Down [DGCFAd]`
 

@@ -1,13 +1,15 @@
 ---
 layout: post
-title:  Important things to consider before buying a floor washing machine
-description: Warehouses experience heavy foot traffic, forklift use, and frequent movement of goods, all of which contribute to dust, debris, and spills accumulating quickly.
-date:   2025-11-26 03:01:35 +0300
+title: Important things to consider before buying a floor washing machine
+description: 'Warehouses experience heavy foot traffic, forklift use, and frequent movement of goods, all of which contribute to dust, debris, and spills accumulating quickly.'
+date: '2025-11-26 03:01:35 +0300'
 author: alena
-image:  'https://images.unsplash.com/photo-1628870571159-82001646505b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
-video_embed:
-tags: [business, australia]
-tags_color: '#47dbe0ff'
+image: 'https://images.unsplash.com/photo-1628870571159-82001646505b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+video_embed: null
+tags:
+- business
+- australia
+tags_color: '#1788b1'
 ---
 
 Keeping floors clean in a business warehouse is essential not only for appearance but also for safety and operational efficiency. Warehouses experience heavy foot traffic, forklift use, and frequent movement of goods, all of which contribute to dust, debris, and spills accumulating quickly. A clean floor helps prevent slip hazards, reduces airborne particles that can affect workers’ health, and protects equipment from unnecessary wear. 

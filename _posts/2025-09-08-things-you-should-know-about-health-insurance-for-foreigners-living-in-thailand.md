@@ -1,13 +1,15 @@
 ---
 layout: post
-title:  Things You Should Know About Health Insurance for Foreigners Living in Thailand
-description: Moving to Thailand is an exciting chance to live in a new way and experience one of Asia's most colourful cultures. But for those who move to another country, healthcare is one of the most crucial things to arrange for.
-date:   2025-09-08 03:01:35 +0300
+title: Things You Should Know About Health Insurance for Foreigners Living in Thailand
+description: 'Moving to Thailand is an exciting chance to live in a new way and experience one of Asia''s most colourful cultures. But for those who move to another country, healthcare is one of the most crucial things to arrange for.'
+date: '2025-09-08 03:01:35 +0300'
 author: adam
-image:  'https://images.unsplash.com/photo-1628258473666-9d3149c1da55?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
-video_embed:
-tags: [health, thailand]
-tags_color: '#11aacb'
+image: 'https://images.unsplash.com/photo-1628258473666-9d3149c1da55?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+video_embed: null
+tags:
+- health
+- thailand
+tags_color: '#4caf50'
 ---
 
 Moving to Thailand is an exciting chance to live in a new way and experience one of Asia's most colourful cultures. But for those who move to another country, healthcare is one of the most crucial things to arrange for. If you have reputable [Thailand expat health insurance](https://www.pacificcrosshealth.com/en/health-insurance), you may relax knowing that you will be covered if you require medical care unexpectedly.

@@ -1,15 +1,15 @@
 ---
 layout: post
 title: Aap Se Mausiiquii by Himesh Reshammiya Guitar Chords
-description: 'Tuning : STANDARD |EADGBe|1) Without CapoChords : C# . A#m . D#m . F# . G# . B2) With&nbsp;Capo : 1st fret (this would be good for beginners)- But thi...'
+description: 'Tuning : STANDARD |EADGBe|1) Without CapoChords : C# . A#m . D#m . F# . G# . B2) With Capo : 1st fret (this would be good for beginners)- But thi...'
 date: '2016-12-04 14:05:07'
 author: r7
-image: https://images.unsplash.com/photo-1510915361894-db8b60106cb1?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-video_embed:
+image: 'https://images.unsplash.com/photo-1510915361894-db8b60106cb1?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+video_embed: null
 tags:
-  - diaryofr7
-  - tutorial
-tags_color: '#a9712a'
+- diaryofr7
+- tutorial
+tags_color: '#1788b1'
 ---
 ```
 Tuning : STANDARD |EADGBe|

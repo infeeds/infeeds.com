@@ -1,13 +1,15 @@
 ---
 layout: post
-title: "NASA Reports Major Progress One Year Into Trump's Second Term"
-description: "From Moon missions to experimental aircraft, NASA claims a productive year under new leadership and funding. But is it really a new golden age?"
-date: 2026-01-24 19:54:32 +0530
+title: NASA Reports Major Progress One Year Into Trump's Second Term
+description: 'From Moon missions to experimental aircraft, NASA claims a productive year under new leadership and funding. But is it really a new golden age?'
+date: '2026-01-24 19:54:32 +0530'
 author: adam
 image: 'https://images.unsplash.com/photo-1768622180477-5043d6dcdfcc?q=80&w=2070'
-video_embed:
-tags: [news, science]
-tags_color: '#1788b1'
+video_embed: null
+tags:
+- news
+- science
+tags_color: '#d32f2f'
 ---
 
 NASA is calling it a period of renewed American leadership in space. One year into President Trump's second term, the agency has released a progress report claiming measurable gains across nearly every major program. Two human spaceflight missions completed, fifteen science missions launched, and an experimental X-plane successfully tested. The numbers look impressive on paper, but what do they actually mean for the future of space exploration?

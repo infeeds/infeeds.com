@@ -1,13 +1,15 @@
 ---
 layout: post
-title: "Amazon Slashes Another 16,000 Jobs as Restructuring Continues"
-description: "Amazon announces its second massive layoff in three months, cutting 16,000 positions while promising this won't become a quarterly pattern."
-date: 2026-01-27 20:00:53 +0530
+title: 'Amazon Slashes Another 16,000 Jobs as Restructuring Continues'
+description: 'Amazon announces its second massive layoff in three months, cutting 16,000 positions while promising this won''t become a quarterly pattern.'
+date: '2026-01-27 20:00:53 +0530'
 author: adam
 image: 'https://images.unsplash.com/photo-1768595629816-cb20775bdec2?q=80&w=987'
-video_embed:
-tags: [news, tech]
-tags_color: '#00ba65'
+video_embed: null
+tags:
+- news
+- tech
+tags_color: '#d32f2f'
 ---
 
 Amazon just pulled the trigger on another round of massive job cuts, and this time 16,000 people are getting pink slips. This comes barely three months after the company laid off 14,000 workers in October. If you're keeping score at home, that's 30,000 jobs gone in a single quarter.

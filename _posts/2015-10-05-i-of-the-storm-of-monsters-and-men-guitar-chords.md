@@ -1,15 +1,15 @@
 ---
 layout: post
 title: I Of The Storm - Of Monsters and Men Guitar Chords
-description: 'TUNING : STANDARD [EADGBe]CAPO : 2nd FretINTRO :Am . F . CVERSE :Am&nbsp;If I could face themF&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n...'
+description: 'TUNING : STANDARD [EADGBe]CAPO : 2nd FretINTRO :Am . F . CVERSE :Am If I could face themF         &n...'
 date: '2015-10-05 04:55:44'
 author: r7
-image: https://images.unsplash.com/photo-1510915361894-db8b60106cb1?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-video_embed:
+image: 'https://images.unsplash.com/photo-1510915361894-db8b60106cb1?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+video_embed: null
 tags:
-  - diaryofr7
-  - tutorial
-tags_color: '#bc9bc5'
+- diaryofr7
+- tutorial
+tags_color: '#1788b1'
 ---
 ```
 TUNING : STANDARD [EADGBe]

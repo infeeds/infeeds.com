@@ -1,13 +1,15 @@
 ---
 layout: post
-title: "TikTok's First Weekend Under New US Ownership Was a Complete Mess"
-description: "Technical chaos hits TikTok after its US sale, sparking censorship fears amid anti-ICE protests. Are these just growing pains or something more sinister?"
-date: 2026-01-25 16:00:39 +0530
+title: TikTok's First Weekend Under New US Ownership Was a Complete Mess
+description: 'Technical chaos hits TikTok after its US sale, sparking censorship fears amid anti-ICE protests. Are these just growing pains or something more sinister?'
+date: '2026-01-25 16:00:39 +0530'
 author: adam
 image: 'https://images.unsplash.com/photo-1768622180477-5043d6dcdfcc?q=80&w=2070'
-video_embed:
-tags: [news, tech]
-tags_color: '#e91e63'
+video_embed: null
+tags:
+- news
+- tech
+tags_color: '#d32f2f'
 ---
 
 TikTok's first weekend under its new American ownership has been an absolute disaster. Users across the platform have been experiencing everything from login issues to videos stuck in review purgatory, and the company has been radio silent about what's actually going on.

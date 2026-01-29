@@ -1,13 +1,15 @@
 ---
 layout: post
-title:  Carving Out Your Niche Through Branding and Marketing
+title: Carving Out Your Niche Through Branding and Marketing
 description: You want your customers to immediately understand who you are and what kind of appeal you have by simply engaging with your content.
-date:   2025-06-17 03:01:35 +0300
+date: '2025-06-17 03:01:35 +0300'
 author: adam
-image:  'https://images.unsplash.com/photo-1416339134316-0e91dc9ded92?q=80&w=1674&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
-video_embed:
-tags: [business, branding]
-tags_color: '#004949'
+image: 'https://images.unsplash.com/photo-1416339134316-0e91dc9ded92?q=80&w=1674&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+video_embed: null
+tags:
+- business
+- branding
+tags_color: '#1788b1'
 ---
 You want your customers to immediately understand who you are and what kind of appeal you have by simply engaging with your content.
 

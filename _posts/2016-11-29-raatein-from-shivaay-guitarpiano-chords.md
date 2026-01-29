@@ -1,15 +1,15 @@
 ---
 layout: post
 title: Raatein from Shivaay Guitar/Piano Chords
-description: 'Tuning : STANDARD |EADGBe|Chords : F . A# . C . C7 . AmINTRO :&nbsp;F . A#F . A# . CVERSEF &nbsp; &nbsp;&nbsp;Raatein tere sirhaane&nbsp; &nbsp; &nbsp...'
+description: 'Tuning : STANDARD |EADGBe|Chords : F . A# . C . C7 . AmINTRO : F . A#F . A# . CVERSEF     Raatein tere sirhaane    &nbsp...'
 date: '2016-11-29 19:00:38'
 author: r7
-image: https://images.unsplash.com/photo-1510915361894-db8b60106cb1?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-video_embed:
+image: 'https://images.unsplash.com/photo-1510915361894-db8b60106cb1?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+video_embed: null
 tags:
-  - diaryofr7
-  - tutorial
-tags_color: '#383f1a'
+- diaryofr7
+- tutorial
+tags_color: '#1788b1'
 ---
 `Tuning : STANDARD |EADGBe|`
 

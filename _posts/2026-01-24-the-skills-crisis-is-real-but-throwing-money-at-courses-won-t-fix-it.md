@@ -1,13 +1,15 @@
 ---
 layout: post
-title: "The Skills Crisis Is Real, But Throwing Money at Courses Won't Fix It"
-description: "With half of talent professionals warning about a skills gap, e-learning platforms promise easy answers. The reality is more complicated than that."
-date: 2026-01-24 12:00:25 +0530
+title: 'The Skills Crisis Is Real, But Throwing Money at Courses Won''t Fix It'
+description: 'With half of talent professionals warning about a skills gap, e-learning platforms promise easy answers. The reality is more complicated than that.'
+date: '2026-01-24 12:00:25 +0530'
 author: adam
 image: 'https://images.unsplash.com/photo-1765707886613-f4961bbd07dd?q=80&w=988'
-video_embed:
-tags: [news, business]
-tags_color: '#2b2b2b'
+video_embed: null
+tags:
+- news
+- business
+tags_color: '#d32f2f'
 ---
 
 LinkedIn's latest report dropped a number that should make every business owner pay attention: 49% of learning professionals see a full-blown skills crisis happening right now. Not coming, not potentially brewing. Happening.

@@ -1,39 +1,16 @@
 ---
-id: 1322
-title: 'A Step-by-Step Guide to Using a Wine Bottle Filler for Beginner'
+layout: post
+title: A Step-by-Step Guide to Using a Wine Bottle Filler for Beginner
+description: 'If you have just made a fresh batch of wine, you might want to bottle it up to enjoy it or give it as a gift to your loved ones. However, bottling your wine ca...'
 date: '2023-12-02T14:41:21+00:00'
 author: adam
-layout: post
-guid: 'https://infeeds.com/?p=1322'
-permalink: /a-step-by-step-guide-to-using-a-wine-bottle-filler-for-beginner/
-csco_singular_layout:
-    - default
-csco_page_header_type:
-    - default
-csco_page_load_nextpost:
-    - default
-csco_post_video_bg_location:
-    - 'a:1:{i:0;s:7:"archive";}'
-csco_post_video_bg_start_time:
-    - '0'
-csco_post_video_bg_end_time:
-    - '0'
-csco_post_media_location:
-    - content
-csco_post_gallery_type:
-    - slider
-powerkit_post_format_link:
-    - ''
-powerkit_post_format_audio:
-    - ''
-powerkit_post_format_video:
-    - ''
-image: /images/kevin-kelly-PPneSBqfCCU-scaled.jpg
-categories:
-    - Food
+image: 'https://images.unsplash.com/photo-1674064205823-1668a0777091?q=80&w=988'
+video_embed: null
 tags:
-    - drinks
-    - wine
+- drinks
+- wine
+- food
+tags_color: '#1788b1'
 ---
 
 If you have just made a fresh batch of wine, you might want to bottle it up to enjoy it or give it as a gift to your loved ones. However, bottling your wine can be messy, time-consuming, and tedious if you do not have the right tools, especially if you are a beginner.

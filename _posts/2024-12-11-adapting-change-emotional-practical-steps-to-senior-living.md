@@ -1,13 +1,15 @@
 ---
 layout: post
-title:  Adapting to Change, Emotional and Practical Steps to Senior Living
-description: Whether you are considering this move for yourself or a loved one, adapting to a new environment takes time, patience, and a positive mindset. This blog explores essential emotional and practical steps to help ease this transition.
-date:   2024-12-11 01:01:35 +0300
+title: 'Adapting to Change, Emotional and Practical Steps to Senior Living'
+description: 'Whether you are considering this move for yourself or a loved one, adapting to a new environment takes time, patience, and a positive mindset. This blog explores essential emotional and practical steps to help ease this transition.'
+date: '2024-12-11 01:01:35 +0300'
 author: adam
-image:  '/images/78hTqvjYMS4.jpg'
-video_embed:
-tags:   [lifestyle, communication]
-tags_color: '#1f3211'
+image: 'https://images.unsplash.com/photo-1768409427465-01320d46963e?q=80&w=2232'
+video_embed: null
+tags:
+- lifestyle
+- communication
+tags_color: '#4caf50'
 ---
 As we age, transitioning to senior living can be a significant life change, both emotionally and practically. Whether you are considering this move for yourself or a loved one, adapting to a new environment takes time, patience, and a positive mindset. This blog explores essential emotional and practical steps to help ease this transition.
 

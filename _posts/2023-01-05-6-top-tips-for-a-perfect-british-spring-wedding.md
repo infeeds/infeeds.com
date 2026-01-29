@@ -1,38 +1,15 @@
 ---
-id: 860
-title: '6 top tips for a perfect British spring wedding'
+layout: post
+title: 6 top tips for a perfect British spring wedding
+description: 'It’s that time of year again when thoughts turn to spring and the warmer weather that comes with it. And for those of you who are getting married, that means w...'
 date: '2023-01-05T06:35:07+00:00'
 author: adam
-layout: post
-guid: 'http://infeeds.com/?p=860'
-permalink: /6-top-tips-for-a-perfect-british-spring-wedding/
-csco_singular_layout:
-    - default
-csco_page_header_type:
-    - default
-csco_page_load_nextpost:
-    - default
-csco_post_video_bg_location:
-    - 'a:1:{i:0;s:7:"archive";}'
-csco_post_video_bg_start_time:
-    - '0'
-csco_post_video_bg_end_time:
-    - '0'
-csco_post_media_location:
-    - content
-csco_post_gallery_type:
-    - slider
-powerkit_post_format_link:
-    - ''
-powerkit_post_format_audio:
-    - ''
-powerkit_post_format_video:
-    - ''
-image: /images/eugenivy_now-1Bs2sZ9fD2Q-unsplash.jpg
-categories:
-    - Relationships
+image: 'https://images.unsplash.com/photo-1764075832552-bd8cd81cc063?q=80&w=1035'
+video_embed: null
 tags:
-    - finance
+- finance
+- relationships
+tags_color: '#1788b1'
 ---
 
 It’s that time of year again when thoughts turn to spring and the warmer weather that comes with it. And for those of you who are getting married, that means wedding planning is in full swing! If you’re looking for some top tips on how to make your British spring wedding perfect, then look no further. From choosing the right venue to dealing with the weather, we’ve got everything covered. So whether you’re just starting to plan your big day or you’re in the final stages of preparation, read on for our top tips on how to make your spring wedding one to remember.

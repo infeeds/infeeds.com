@@ -1,13 +1,15 @@
 ---
 layout: post
 title: How Modern Aesthetics Are Redefining Dental Confidence
-description: Today, modern aesthetics are transforming dental care, allowing individuals to embrace not only healthier teeth but also the confidence that comes with a stunning smile. 
-date: 2025-10-23 03:01:35 +0300
+description: 'Today, modern aesthetics are transforming dental care, allowing individuals to embrace not only healthier teeth but also the confidence that comes with a stunning smile.'
+date: '2025-10-23 03:01:35 +0300'
 author: adam
 image: 'https://images.unsplash.com/photo-1606811971618-4486d14f3f99?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1974'
-video_embed:
-tags: [dentist, london]
-tags_color: '#57c4ceff'
+video_embed: null
+tags:
+- dentist
+- london
+tags_color: '#1788b1'
 ---
 
 A confident smile has always been a powerful tool in personal and professional life. Today, modern aesthetics are transforming dental care, allowing individuals to embrace not only healthier teeth but also the confidence that comes with a stunning smile. The integration of advanced techniques, materials, and technology is redefining what dental care means for patients worldwide.

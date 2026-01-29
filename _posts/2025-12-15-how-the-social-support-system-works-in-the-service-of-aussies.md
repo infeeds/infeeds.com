@@ -1,13 +1,15 @@
 ---
 layout: post
-title:  How the Social Support System Works in the Service of Aussies
-description: It is the intention of the Australian government to provide people with disabilities opportunities to live safely, comfortably, and with dignity.
-date:   2025-12-15 03:01:35 +0300
+title: How the Social Support System Works in the Service of Aussies
+description: 'It is the intention of the Australian government to provide people with disabilities opportunities to live safely, comfortably, and with dignity.'
+date: '2025-12-15 03:01:35 +0300'
 author: alena
-image:  'https://images.unsplash.com/photo-1632646332908-fcfd19d736e5?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
-video_embed:
-tags: [lifestyle, australia]
-tags_color: '#2b941bff'
+image: 'https://images.unsplash.com/photo-1632646332908-fcfd19d736e5?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+video_embed: null
+tags:
+- lifestyle
+- australia
+tags_color: '#4caf50'
 ---
 
 It is the intention of the Australian government to provide people with disabilities opportunities to live safely, comfortably, and with dignity. Thus, they have developed a strong social support system. Providing [NDIS disability support services](https://trustedcaresupport.com.au/ndis-support-services/) is just one of the programmes for people with disabilities to help manage their daily life, pursue opportunities, or cope with certain challenges.

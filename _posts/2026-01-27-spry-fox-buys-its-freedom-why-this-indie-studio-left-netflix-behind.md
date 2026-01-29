@@ -1,13 +1,15 @@
 ---
 layout: post
-title: "Spry Fox Buys Its Freedom: Why This Indie Studio Left Netflix Behind"
-description: "After three years under Netflix, cozy game developer Spry Fox is independent again. The reason? Their social MMO needs players, not just subscribers."
-date: 2026-01-27 00:00:53 +0530
+title: 'Spry Fox Buys Its Freedom: Why This Indie Studio Left Netflix Behind'
+description: 'After three years under Netflix, cozy game developer Spry Fox is independent again. The reason? Their social MMO needs players, not just subscribers.'
+date: '2026-01-27 00:00:53 +0530'
 author: adam
 image: 'https://images.unsplash.com/photo-1768663319879-e6a2b4c7408f?q=80&w=2070'
-video_embed:
-tags: [news, tech]
-tags_color: '#e91e63'
+video_embed: null
+tags:
+- news
+- tech
+tags_color: '#d32f2f'
 ---
 
 Spry Fox just did something pretty unusual in today's gaming industry. They bought themselves back from Netflix after three years of ownership. And honestly, it's refreshing to see a studio make this kind of move for reasons that actually make sense instead of getting shut down or absorbed into oblivion.

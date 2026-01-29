@@ -1,13 +1,15 @@
 ---
 layout: post
-title:  3 Top Tips for a Successful Destination Wedding in Singapore
+title: 3 Top Tips for a Successful Destination Wedding in Singapore
 description: One method that many couples now use to instantly make their day stand out from everybody else's is having a destination wedding - a wedding held in an exotic foreign location.
-date:   2024-10-21 01:01:35 +0300
+date: '2024-10-21 01:01:35 +0300'
 author: alena
-image:  '/images/wLOn82Y6E2U.jpg'
-video_embed:
-tags:   [wedding, singapore]
-tags_color: '#ae32aa'
+image: 'https://images.unsplash.com/photo-1674064205823-1668a0777091?q=80&w=988'
+video_embed: null
+tags:
+- wedding
+- singapore
+tags_color: '#1788b1'
 ---
 Rather than relying on tradition to narrow down and guide choices about their big day, engaged couples today are increasingly focused on finding ways to make it unique and personal. One method that many couples now use to instantly make their day stand out from everybody else's is having a destination wedding - a wedding held in an exotic foreign location. 
 

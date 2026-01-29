@@ -1,13 +1,15 @@
 ---
 layout: post
-title:  The Rise of Music-Inspired Fashion Trends
-description: Music and fashion have always danced closely together, influencing one another in ways that go far beyond stage presence or album artwork.
-date:   2025-04-15 01:01:35 +0300
+title: The Rise of Music-Inspired Fashion Trends
+description: 'Music and fashion have always danced closely together, influencing one another in ways that go far beyond stage presence or album artwork.'
+date: '2025-04-15 01:01:35 +0300'
 author: adam
-image:  'https://images.unsplash.com/photo-1599458252539-2503ad89529e?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
-video_embed:
-tags:   [music, fashion]
-tags_color: '#ee21dd'
+image: 'https://images.unsplash.com/photo-1599458252539-2503ad89529e?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+video_embed: null
+tags:
+- music
+- fashion
+tags_color: '#1788b1'
 ---
 Music and fashion have always danced closely together, influencing one another in ways that go far beyond stage presence or album artwork. From street style to haute couture, the aesthetic of music icons has consistently set trends, disrupted norms, and shaped the way we express ourselves. Over time, music-inspired fashion has evolved from a niche statement into a powerful mainstream influence---and it's showing no signs of slowing down.
 

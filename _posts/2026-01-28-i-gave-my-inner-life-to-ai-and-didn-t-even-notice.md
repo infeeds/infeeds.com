@@ -1,13 +1,15 @@
 ---
 layout: post
-title: "I Gave My Inner Life to AI and Didn't Even Notice"
-description: "A mental health leader's unsettling discovery about handing his most vulnerable moments to a machine instead of to people who actually care."
-date: 2026-01-28 20:00:54 +0530
+title: I Gave My Inner Life to AI and Didn't Even Notice
+description: A mental health leader's unsettling discovery about handing his most vulnerable moments to a machine instead of to people who actually care.
+date: '2026-01-28 20:00:54 +0530'
 author: adam
 image: 'https://images.unsplash.com/photo-1764075832552-bd8cd81cc063?q=1035&w=1035'
-video_embed:
-tags: [news, lifestyle]
-tags_color: '#fdd835'
+video_embed: null
+tags:
+- news
+- lifestyle
+tags_color: '#d32f2f'
 ---
 
 It started so innocently. Just a quick chat late at night when everyone else was asleep and the weight of decisions felt too heavy to carry alone.

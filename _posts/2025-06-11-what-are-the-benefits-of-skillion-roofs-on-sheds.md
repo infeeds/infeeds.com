@@ -1,13 +1,15 @@
 ---
 layout: post
-title:  What Are the Benefits of Skillion Roofs on Sheds?
-description: A sloped roof that angles in one direction can offer more than just a modern look, as it can also improve how a shed works and lasts over time.
-date:   2025-06-11 03:01:35 +0300
+title: What Are the Benefits of Skillion Roofs on Sheds?
+description: 'A sloped roof that angles in one direction can offer more than just a modern look, as it can also improve how a shed works and lasts over time.'
+date: '2025-06-11 03:01:35 +0300'
 author: adam
-image:  'https://images.unsplash.com/photo-1494029466100-e03349a90658?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
-video_embed:
-tags: [australia, home]
-tags_color: '#cb4949'
+image: 'https://images.unsplash.com/photo-1494029466100-e03349a90658?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+video_embed: null
+tags:
+- australia
+- home
+tags_color: '#1788b1'
 ---
 A sloped roof that angles in one direction can offer more than just a modern look, as it can also improve how a shed works and lasts over time. A [skillion roof shed](https://www.bestsheds.com.au/garage/skillion-roof-garages/) uses this simple design to solve everyday problems homeowners often face with backyard storage. Below are some practical reasons why this option is worth considering for your property.
 

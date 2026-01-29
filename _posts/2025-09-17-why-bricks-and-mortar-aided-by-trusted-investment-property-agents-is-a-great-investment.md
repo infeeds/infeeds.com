@@ -1,13 +1,15 @@
 ---
 layout: post
-title: Why bricks and mortar, aided by trusted investment property agents, is a great investment
-description: There are many ways available for a person to increase their wealth, including shares and managed funds, bonds, superannuation, and even newer options like digital assets.
-date: 2025-09-17 03:01:35 +0300
+title: 'Why bricks and mortar, aided by trusted investment property agents, is a great investment'
+description: 'There are many ways available for a person to increase their wealth, including shares and managed funds, bonds, superannuation, and even newer options like digital assets.'
+date: '2025-09-17 03:01:35 +0300'
 author: tiana
-image:  'https://images.unsplash.com/photo-1560520653-9e0e4c89eb11?q=80&w=1673&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
-video_embed:
-tags: [real estate, australia]
-tags_color: '#0b3d98ff'
+image: 'https://images.unsplash.com/photo-1560520653-9e0e4c89eb11?q=80&w=1673&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+video_embed: null
+tags:
+- real estate
+- australia
+tags_color: '#1788b1'
 ---
 
 Building financial security is a guaranteed way of being able to enjoy later life more. There are many ways available for a person to increase their wealth, including shares and managed funds, bonds, superannuation, and even newer options like digital assets. Much depends on how much an investor hopes to accrue and the risks that they are prepared to take, as to which option they might choose. While diversifying can work, some people prefer tangible long-term assets such as real estate.

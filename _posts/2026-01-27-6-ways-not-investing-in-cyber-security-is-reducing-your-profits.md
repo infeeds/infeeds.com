@@ -1,13 +1,15 @@
 ---
 layout: post
-title: "6 Ways Not Investing In Cyber Security Is Reducing Your Profits"
-description: "The technology used in your business greatly influences the effectiveness of your daily operations. Nearly every task, from managing and transferring files to communicating with clients, depends on systems that must work smoothly and securely."
-date: 2026-01-27 08:00:55 +0530
+title: 6 Ways Not Investing In Cyber Security Is Reducing Your Profits
+description: 'The technology used in your business greatly influences the effectiveness of your daily operations. Nearly every task, from managing and transferring files to communicating with clients, depends on systems that must work smoothly and securely.'
+date: '2026-01-27 08:00:55 +0530'
 author: alena
 image: 'https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
-video_embed:
-tags: [security, technology]
-tags_color: '#6527f4'
+video_embed: null
+tags:
+- security
+- technology
+tags_color: '#1788b1'
 ---
 
 The technology used in your business greatly influences the effectiveness of your daily operations. Nearly every task, from managing and transferring files to communicating with clients, depends on systems that must work smoothly and securely.

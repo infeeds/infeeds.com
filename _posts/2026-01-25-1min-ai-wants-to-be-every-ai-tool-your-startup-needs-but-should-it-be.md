@@ -1,13 +1,15 @@
 ---
 layout: post
-title: "1min.AI Wants to Be Every AI Tool Your Startup Needs (But Should It Be?)"
-description: "A lifetime subscription to 20 AI models for $75 sounds amazing. But bundling every AI tool into one platform might not be the productivity win you'd expect."
-date: 2026-01-25 00:00:40 +0530
+title: 1min.AI Wants to Be Every AI Tool Your Startup Needs (But Should It Be?)
+description: A lifetime subscription to 20 AI models for $75 sounds amazing. But bundling every AI tool into one platform might not be the productivity win you'd expect.
+date: '2026-01-25 00:00:40 +0530'
 author: adam
 image: 'https://images.unsplash.com/photo-1768595629816-cb20775bdec2?q=80&w=987'
-video_embed:
-tags: [news, business]
-tags_color: '#2b2b2b'
+video_embed: null
+tags:
+- news
+- business
+tags_color: '#d32f2f'
 ---
 
 The pitch sounds perfect for cash-strapped startups: one subscription, 20 AI models, unlimited possibilities. 1min.AI is positioning itself as the Swiss Army knife of artificial intelligence tools, cramming everything from ChatGPT to DALL-E alternatives into a single platform for $74.97.

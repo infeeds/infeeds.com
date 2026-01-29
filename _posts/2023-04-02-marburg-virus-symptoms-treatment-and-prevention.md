@@ -1,40 +1,16 @@
 ---
-id: 932
+layout: post
 title: 'Marburg Virus: Symptoms, Treatment, and Prevention'
+description: The Marburg virus is a highly contagious and deadly virus that is part of the same family as the Ebola virus. It was first identified in 1967 during an outbrea...
 date: '2023-04-02T19:14:27+00:00'
 author: adam
-layout: post
-guid: 'http://infeeds.com/?p=932'
-permalink: /marburg-virus-symptoms-treatment-and-prevention/
-csco_singular_layout:
-    - default
-csco_page_header_type:
-    - default
-csco_page_load_nextpost:
-    - default
-csco_post_video_bg_location:
-    - 'a:1:{i:0;s:7:"archive";}'
-csco_post_video_bg_start_time:
-    - '0'
-csco_post_video_bg_end_time:
-    - '0'
-csco_post_media_location:
-    - content
-csco_post_gallery_type:
-    - slider
-powerkit_post_format_link:
-    - ''
-powerkit_post_format_audio:
-    - ''
-powerkit_post_format_video:
-    - ''
-image: /images/fusion-medical-animation-rnr8D3FNUNY-unsplash.jpg
-categories:
-    - Health
+image: 'https://images.unsplash.com/photo-1765707886613-f4961bbd07dd?q=80&w=988'
+video_embed: null
 tags:
-    - health
-    - treatment
-    - virus
+- health
+- treatment
+- virus
+tags_color: '#4caf50'
 ---
 
 The Marburg virus is a highly contagious and deadly virus that is part of the same family as the Ebola virus. It was first identified in 1967 during an outbreak in Marburg, Germany, where laboratory workers became infected after handling African green monkeys. The virus is primarily found in Africa, and there have been several outbreaks in the past, with mortality rates ranging from 24% to 88%. In this article, we will discuss the symptoms, treatment, and prevention of the Marburg virus.

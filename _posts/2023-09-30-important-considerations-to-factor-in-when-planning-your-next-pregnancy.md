@@ -1,40 +1,17 @@
 ---
-id: 1131
-title: 'Important Considerations To Factor In When Planning Your Next Pregnancy'
+layout: post
+title: Important Considerations To Factor In When Planning Your Next Pregnancy
+description: Planning for a pregnancy is an exciting yet crucial phase in the life of any couple. It’s not just about the joy and anticipation of welcoming a new life; it’s...
 date: '2023-09-30T10:59:03+00:00'
 author: adam
-layout: post
-guid: 'https://infeeds.com/?p=1131'
-permalink: /important-considerations-to-factor-in-when-planning-your-next-pregnancy/
-csco_singular_layout:
-    - default
-csco_page_header_type:
-    - default
-csco_page_load_nextpost:
-    - default
-csco_post_video_bg_location:
-    - 'a:1:{i:0;s:7:"archive";}'
-csco_post_video_bg_start_time:
-    - '0'
-csco_post_video_bg_end_time:
-    - '0'
-csco_post_media_location:
-    - content
-csco_post_gallery_type:
-    - slider
-powerkit_post_format_link:
-    - ''
-powerkit_post_format_audio:
-    - ''
-powerkit_post_format_video:
-    - ''
-image: /images/suhyeon-choi-NIZeg731LxM-unsplash.jpg
-categories:
-    - Health
+image: 'https://images.unsplash.com/photo-1597495227772-d48ecb5f2639?q=80&w=2070'
+video_embed: null
 tags:
-    - child
-    - family
-    - mother
+- child
+- family
+- mother
+- health
+tags_color: '#1788b1'
 ---
 
 Planning for a pregnancy is an exciting yet crucial phase in the life of any couple. It’s not just about the joy and anticipation of welcoming a new life; it’s also about preparing both physically and emotionally for the challenges ahead. To ensure a smooth journey from conception to birth, here are some important aspects you should consider.

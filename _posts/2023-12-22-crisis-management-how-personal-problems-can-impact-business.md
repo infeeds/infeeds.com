@@ -1,40 +1,17 @@
 ---
-id: 1336
-title: 'Crisis Management &#8211; How Personal Problems Can Impact Business'
+layout: post
+title: Crisis Management &#8211; How Personal Problems Can Impact Business
+description: 'Amongst all the hurly-burly, pressing deadlines, and urgent targets we face in the corporate world, navigating the complexities of personal challenges can be j...'
 date: '2023-12-22T10:29:43+00:00'
 author: adam
-layout: post
-guid: 'https://infeeds.com/?p=1336'
-permalink: /crisis-management-how-personal-problems-can-impact-business/
-csco_singular_layout:
-    - default
-csco_page_header_type:
-    - default
-csco_page_load_nextpost:
-    - default
-csco_post_video_bg_location:
-    - 'a:1:{i:0;s:7:"archive";}'
-csco_post_video_bg_start_time:
-    - '0'
-csco_post_video_bg_end_time:
-    - '0'
-csco_post_media_location:
-    - content
-csco_post_gallery_type:
-    - slider
-powerkit_post_format_link:
-    - ''
-powerkit_post_format_audio:
-    - ''
-powerkit_post_format_video:
-    - ''
-image: /images/markus-winkler-TRcaFMV5vk.jpg
-categories:
-    - Business
+image: 'https://images.unsplash.com/photo-1768663319879-e6a2b4c7408f?q=80&w=2070'
+video_embed: null
 tags:
-    - entrepreneur
-    - finance
-    - management
+- entrepreneur
+- finance
+- management
+- business
+tags_color: '#1788b1'
 ---
 
 Amongst all the hurly-burly, pressing deadlines, and urgent targets we face in the corporate world, navigating the complexities of personal challenges can be just as crucial as managing day-to-day operations. From financial hurdles to mental health issues, personal problems can have a profound impact on business.

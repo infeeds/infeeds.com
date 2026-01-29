@@ -4,12 +4,12 @@ title: Kodaline - Brother Guitar Chords
 description: 'TUNING : STANDARD |EADGBe|CAPO : 1st fretCHORDS : F#m/Gbm . D . A . EWithout Capo -CHORDS : Gm . D#/Eb . A#/Bb . F- i''m playing with capo :INTROF#m . ...'
 date: '2017-06-23 18:43:53'
 author: r7
-image: https://images.unsplash.com/photo-1510915361894-db8b60106cb1?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-video_embed:
+image: 'https://images.unsplash.com/photo-1510915361894-db8b60106cb1?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+video_embed: null
 tags:
-  - diaryofr7
-  - tutorial
-tags_color: '#91b776'
+- diaryofr7
+- tutorial
+tags_color: '#1788b1'
 ---
 `TUNING : STANDARD |EADGBe|`
 

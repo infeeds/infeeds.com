@@ -2,7 +2,7 @@
 layout: page
 title: About Infeeds
 permalink: /about/
-image: '/images/bookkeeper.jpg'
+image:
 ---
 
 Welcome to **Infeeds**, a place where information flows, ideas spark, and technology meets creativity. Infeeds is a digital platform designed to share, connect, and inspire individuals and communities. We believe in making information accessible, engaging, and valuable for everyone—whether you're a tech enthusiast, a professional, or just curious about the world.

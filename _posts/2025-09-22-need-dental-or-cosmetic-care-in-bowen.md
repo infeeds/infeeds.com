@@ -1,13 +1,15 @@
 ---
 layout: post
-title:  Need Dental or Cosmetic Care in Bowen?
-description: Finding a dentist is not only for keeping the teeth clean. For families and individuals in Bowen, reliable dental care means far more than just checkups.
-date:   2025-09-22 03:01:35 +0300
+title: Need Dental or Cosmetic Care in Bowen?
+description: 'Finding a dentist is not only for keeping the teeth clean. For families and individuals in Bowen, reliable dental care means far more than just checkups.'
+date: '2025-09-22 03:01:35 +0300'
 author: adam
-image:  'https://images.unsplash.com/photo-1667133295315-820bb6481730?q=80&w=3087&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
-video_embed:
-tags: [dentist, australia]
-tags_color: '#1158cbff'
+image: 'https://images.unsplash.com/photo-1667133295315-820bb6481730?q=80&w=3087&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+video_embed: null
+tags:
+- dentist
+- australia
+tags_color: '#1788b1'
 ---
 
 Finding a dentist is not only for keeping the teeth clean. It is also for building trust, comfort, and confidence in one's smile. For families and individuals in Bowen, reliable dental care means far more than just checkups. It is a matter of knowing that disappointments will not befall their oral health because it is in trustworthy hands. Whether you want preventive care, restorative treatments, or cosmetic enhancements, the right [dentist in Bowen](https://www.myfamilydentalqld.com.au/dentist-bowen/) can make a great difference.

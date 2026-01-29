@@ -1,40 +1,17 @@
 ---
-id: 1031
+layout: post
 title: 'Car Accident Insurance Claim Denial: What Steps to Take Next'
+description: 'You’ve been in a serious car accident, and, despite your best efforts, your insurance claim has been denied. What can you do now?  Feeling powerless and at a l...'
 date: '2023-07-02T09:24:42+00:00'
 author: adam
-layout: post
-guid: 'http://infeeds.com/?p=1031'
-permalink: /car-accident-insurance-claim-denial-what-steps-to-take-next/
-csco_singular_layout:
-    - default
-csco_page_header_type:
-    - default
-csco_page_load_nextpost:
-    - default
-csco_post_video_bg_location:
-    - 'a:1:{i:0;s:7:"archive";}'
-csco_post_video_bg_start_time:
-    - '0'
-csco_post_video_bg_end_time:
-    - '0'
-csco_post_media_location:
-    - content
-csco_post_gallery_type:
-    - slider
-powerkit_post_format_link:
-    - ''
-powerkit_post_format_audio:
-    - ''
-powerkit_post_format_video:
-    - ''
-image: /images/michael-jin-zI_R7sUQVF0-unsplash.jpg
-categories:
-    - Finance
+image: 'https://images.unsplash.com/photo-1764075832552-bd8cd81cc063?q=80&w=1035'
+video_embed: null
 tags:
-    - claim
-    - insurance
-    - legal
+- claim
+- insurance
+- legal
+- finance
+tags_color: '#1788b1'
 ---
 
 You’ve been in a serious car accident, and, despite your best efforts, your insurance claim has been denied. What can you do now?

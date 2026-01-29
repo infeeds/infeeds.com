@@ -1,13 +1,15 @@
 ---
 layout: post
-title:  Why You Need to Invest in Commercial Vacuum Cleaners
-description: If you are running a business that relies on regular, high-standard cleaning, it is a must to make an investment in the right vacuum cleaners.
-date:   2025-07-07 03:01:35 +0300
+title: Why You Need to Invest in Commercial Vacuum Cleaners
+description: 'If you are running a business that relies on regular, high-standard cleaning, it is a must to make an investment in the right vacuum cleaners.'
+date: '2025-07-07 03:01:35 +0300'
 author: tiana
-image:  'https://images.unsplash.com/photo-1686178827149-6d55c72d81df?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
-video_embed:
-tags: [cleaning, australia]
-tags_color: '#6a0715'
+image: 'https://images.unsplash.com/photo-1686178827149-6d55c72d81df?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+video_embed: null
+tags:
+- cleaning
+- australia
+tags_color: '#1788b1'
 ---
 
 If you are running a business that relies on regular, high-standard cleaning, it is a must to make an investment in the right vacuum cleaners. Commercial vacuum cleaners from <https://www.bigclean.com.au/machinery/vacuum-cleaners/> are not just costs you need to consider because it is an investment in appearance, health and efficiency.

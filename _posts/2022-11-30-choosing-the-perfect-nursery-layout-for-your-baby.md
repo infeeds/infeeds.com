@@ -1,40 +1,17 @@
 ---
-id: 847
-title: 'Choosing the Perfect Nursery Layout for Your Baby'
+layout: post
+title: Choosing the Perfect Nursery Layout for Your Baby
+description: 'Planning and designing your baby’s nursery is a huge task, but a very important one. After all, this will be your baby’s first room, and you want it to be perf...'
 date: '2022-11-30T17:57:33+00:00'
 author: adam
-layout: post
-guid: 'http://infeeds.com/?p=847'
-permalink: /choosing-the-perfect-nursery-layout-for-your-baby/
-csco_singular_layout:
-    - default
-csco_page_header_type:
-    - default
-csco_page_load_nextpost:
-    - default
-csco_post_video_bg_location:
-    - 'a:1:{i:0;s:7:"archive";}'
-csco_post_video_bg_start_time:
-    - '0'
-csco_post_video_bg_end_time:
-    - '0'
-csco_post_media_location:
-    - content
-csco_post_gallery_type:
-    - slider
-powerkit_post_format_link:
-    - ''
-powerkit_post_format_audio:
-    - ''
-powerkit_post_format_video:
-    - ''
-image: /images/Darkness-Blog-Header-Pic-1080x628-1.png
-categories:
-    - Health
+image: 'https://images.unsplash.com/photo-1768595629816-cb20775bdec2?q=80&w=987'
+video_embed: null
 tags:
-    - baby
-    - kids
-    - nursery
+- baby
+- kids
+- nursery
+- health
+tags_color: '#1788b1'
 ---
 
 Planning and designing your baby’s nursery is a huge task, but a very important one. After all, this will be your baby’s first room, and you want it to be perfect. There are many factors to consider when designating a space for your new arrival, from the colour scheme to the layout of the room.

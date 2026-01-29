@@ -1,13 +1,15 @@
 ---
 layout: post
-title: "Scientists Just Found a Blood Test That Could Catch Parkinson's Before It Destroys Your Brain"
-description: "Researchers discovered biological markers that appear in blood during early Parkinson's stages, opening a crucial window for diagnosis before irreversible damage."
-date: 2026-01-29 00:00:56 +0530
+title: Scientists Just Found a Blood Test That Could Catch Parkinson's Before It Destroys Your Brain
+description: 'Researchers discovered biological markers that appear in blood during early Parkinson''s stages, opening a crucial window for diagnosis before irreversible damage.'
+date: '2026-01-29 00:00:56 +0530'
 author: adam
 image: 'https://images.unsplash.com/photo-1765779038142-054a9f8c2268?q=1035&w=1035'
-video_embed:
-tags: [news, science]
-tags_color: '#1788b1'
+video_embed: null
+tags:
+- news
+- science
+tags_color: '#d32f2f'
 ---
 
 Imagine being able to catch Parkinson's disease decades before it steals your ability to move. That's not science fiction anymore. Researchers at Chalmers University of Technology in Sweden have identified something remarkable: biological markers that show up in your blood during the earliest stages of Parkinson's, long before your brain suffers major damage.

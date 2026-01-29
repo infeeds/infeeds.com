@@ -1,13 +1,15 @@
 ---
 layout: post
 title: Inspiring Innovations Shaping the Future of Senior Living
-description: Across the UK and beyond, a wave of innovations is reshaping what it means to grow older, placing dignity, independence and joy at the centre of later life.
-date:   2025-10-01 03:01:35 +0300
+description: 'Across the UK and beyond, a wave of innovations is reshaping what it means to grow older, placing dignity, independence and joy at the centre of later life.'
+date: '2025-10-01 03:01:35 +0300'
 author: adam
-image:  'https://images.unsplash.com/photo-1504004030892-d06adf9ffbcf?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
-video_embed:
-tags: [lifestyle, UK]
-tags_color: '#38d273ff'
+image: 'https://images.unsplash.com/photo-1504004030892-d06adf9ffbcf?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+video_embed: null
+tags:
+- lifestyle
+- uk
+tags_color: '#4caf50'
 ---
 
 Senior living is no longer defined by the traditional image of quiet lounges and routine care. Across the UK and beyond, a wave of innovations is reshaping what it means to grow older, placing dignity, independence and joy at the centre of later life. These changes are not just about technology or design. They are about creating environments where older generations can thrive.

@@ -4,12 +4,12 @@ title: Justin Timberlake - Say Something ft. Chris Stapleton Guitar Chords
 description: "TUNING : STANDARD |EADGBe|-Note : capo on 3rd FretChords : Am . C . G . D . F[Interlude: Justin Timberlake]Am C G D\_Oh,\_ \_yeah, \_ Am C\_ G\_ Dalright, O..."
 date: '2018-01-26 00:11:54'
 author: r7
-image: https://images.unsplash.com/photo-1510915361894-db8b60106cb1?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-video_embed:
+image: 'https://images.unsplash.com/photo-1510915361894-db8b60106cb1?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+video_embed: null
 tags:
-  - diaryofr7
-  - tutorial
-tags_color: '#0b6daa'
+- diaryofr7
+- tutorial
+tags_color: '#1788b1'
 ---
 ```
 TUNING : STANDARD |EADGBe|

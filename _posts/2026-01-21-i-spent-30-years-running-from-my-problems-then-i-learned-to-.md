@@ -1,13 +1,15 @@
 ---
 layout: post
-title: "I Spent 30 Years Running From My Problems. Then I Learned to Lift Them Instead"
-description: "After three decades of cardio addiction and disordered eating, I discovered that strength training wasn't about getting smaller. It was about getting stronger."
-date: 2026-01-21 19:10:00 +0530
+title: I Spent 30 Years Running From My Problems. Then I Learned to Lift Them Instead
+description: 'After three decades of cardio addiction and disordered eating, I discovered that strength training wasn''t about getting smaller. It was about getting stronger.'
+date: '2026-01-21 19:10:00 +0530'
 author: adam
 image: 'https://images.unsplash.com/photo-1674064205823-1668a0777091?q=80&w=988'
-video_embed:
-tags: [news, lifestyle]
-tags_color: '#fdd835'
+video_embed: null
+tags:
+- news
+- lifestyle
+tags_color: '#d32f2f'
 ---
 
 Arnold Schwarzenegger once said, "The resistance that you fight physically in the gym and the resistance that you fight in life can only build a strong character." I wish I'd understood what he meant thirty years ago. Would have saved me a lot of miles and a broken metabolism.

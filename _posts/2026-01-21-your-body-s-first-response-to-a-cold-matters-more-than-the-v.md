@@ -1,13 +1,15 @@
 ---
 layout: post
-title: "Your Body's First Response to a Cold Matters More Than the Virus Itself"
-description: "New research reveals why some people get sicker from colds than others. It's not about the virus, it's about how fast your nose fights back."
-date: 2026-01-21 19:45:21 +0530
+title: Your Body's First Response to a Cold Matters More Than the Virus Itself
+description: 'New research reveals why some people get sicker from colds than others. It''s not about the virus, it''s about how fast your nose fights back.'
+date: '2026-01-21 19:45:21 +0530'
 author: adam
 image: 'https://images.unsplash.com/photo-1597495227772-d48ecb5f2639?q=80&w=2070'
-video_embed:
-tags: [news, science]
-tags_color: '#1788b1'
+video_embed: null
+tags:
+- news
+- science
+tags_color: '#d32f2f'
 ---
 
 We've all been there. Your coworker sniffles through a cold for a day or two and bounces back. Meanwhile, you catch the same bug and end up bedridden for a week, hacking up a lung and wondering what you did to deserve this misery. Turns out, the difference might not be about the virus at all. It's about how quickly your nose decides to put up a fight.

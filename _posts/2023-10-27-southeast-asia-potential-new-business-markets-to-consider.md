@@ -1,40 +1,17 @@
 ---
-id: 1216
-title: 'Southeast Asia – Potential New Business Markets to Consider'
+layout: post
+title: Southeast Asia – Potential New Business Markets to Consider
+description: The world has shrunk considerably since the start of the digital revolution and many business owners are casting their attention to foreign markets. Asia has a...
 date: '2023-10-27T01:54:01+00:00'
 author: adam
-layout: post
-guid: 'https://infeeds.com/?p=1216'
-permalink: /southeast-asia-potential-new-business-markets-to-consider/
-csco_singular_layout:
-    - default
-csco_page_header_type:
-    - default
-csco_page_load_nextpost:
-    - default
-csco_post_video_bg_location:
-    - 'a:1:{i:0;s:7:"archive";}'
-csco_post_video_bg_start_time:
-    - '0'
-csco_post_video_bg_end_time:
-    - '0'
-csco_post_media_location:
-    - content
-csco_post_gallery_type:
-    - slider
-powerkit_post_format_link:
-    - ''
-powerkit_post_format_audio:
-    - ''
-powerkit_post_format_video:
-    - ''
-image: /images/hu-chen-__cBlRzLSTg-unsplash.jpg
-categories:
-    - Business
+image: 'https://images.unsplash.com/photo-1768595629816-cb20775bdec2?q=80&w=987'
+video_embed: null
 tags:
-    - asia
-    - career
-    - singapore
+- asia
+- career
+- singapore
+- business
+tags_color: '#1788b1'
 ---
 
 The world has shrunk considerably since the start of the digital revolution and many business owners are casting their attention to foreign markets. Asia has always been an economic tiger, especially Southeast Asia and in this short article, we take a closer look at some of the most popular Southeast Asian nations for foreign investors to set up businesses.

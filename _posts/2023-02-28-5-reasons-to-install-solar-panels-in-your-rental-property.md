@@ -1,40 +1,17 @@
 ---
-id: 907
-title: '5 Reasons to Install Solar Panels in Your Rental Property'
+layout: post
+title: 5 Reasons to Install Solar Panels in Your Rental Property
+description: 'The rental property market is a massive business in high demand. It continuously grows from [$2,375.91 billion](https://www.thebusinessresearchcompany.com/repo...'
 date: '2023-02-28T10:00:39+00:00'
 author: adam
-layout: post
-guid: 'http://infeeds.com/?p=907'
-permalink: /5-reasons-to-install-solar-panels-in-your-rental-property/
-csco_singular_layout:
-    - default
-csco_page_header_type:
-    - default
-csco_page_load_nextpost:
-    - default
-csco_post_video_bg_location:
-    - 'a:1:{i:0;s:7:"archive";}'
-csco_post_video_bg_start_time:
-    - '0'
-csco_post_video_bg_end_time:
-    - '0'
-csco_post_media_location:
-    - content
-csco_post_gallery_type:
-    - slider
-powerkit_post_format_link:
-    - ''
-powerkit_post_format_audio:
-    - ''
-powerkit_post_format_video:
-    - ''
-image: /images/bill-mead-wmaP3Tl80ww-unsplash.jpg
-categories:
-    - Featured
+image: 'https://images.unsplash.com/photo-1768595629816-cb20775bdec2?q=80&w=987'
+video_embed: null
 tags:
-    - energy
-    - home
-    - solar
+- energy
+- home
+- solar
+- featured
+tags_color: '#1788b1'
 ---
 
 The rental property market is a massive business in high demand. It continuously grows from [$2,375.91 billion](https://www.thebusinessresearchcompany.com/report/real-estate-rental-global-market-report) in 2022 to $2,561.84 billion in 2023.

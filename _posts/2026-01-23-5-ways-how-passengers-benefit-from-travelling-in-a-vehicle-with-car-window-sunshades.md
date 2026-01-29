@@ -1,13 +1,16 @@
 ---
 layout: post
 title: 5 ways how passengers benefit from travelling in a vehicle with car window sunshades
-description: The independence and convenience of owning a car cannot be underestimated, as most Australian adults will testify. It’s a country with vast distances.
-date: 2026-01-23 01:07:10 +0300
+description: 'The independence and convenience of owning a car cannot be underestimated, as most Australian adults will testify. It’s a country with vast distances.'
+date: '2026-01-23 01:07:10 +0300'
 author: alena
 image: 'https://images.unsplash.com/photo-1465774124747-65ab0913fb9e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
-video_embed:
-tags: [travel, australia, cars]
-tags_color: '#2790cd'
+video_embed: null
+tags:
+- travel
+- australia
+- cars
+tags_color: '#1788b1'
 ---
 
 The independence and convenience of owning a car cannot be underestimated, as most Australian adults will testify. It’s a country with vast distances, even in spread-out towns and cities that need to be travelled across, whether it's for the commute to work or for more pleasurable outings when longer journeys are often made. Therefore, a vehicle must be reliable and remain in good condition.

@@ -1,13 +1,15 @@
 ---
 layout: post
-title:  How to Stay Organized Through Every One of Life's Changes
-description: With the right strategies and mindset, you can maintain control and reduce stress no matter what life throws your way.
-date:   2025-05-22 03:01:35 +0300
+title: How to Stay Organized Through Every One of Life's Changes
+description: 'With the right strategies and mindset, you can maintain control and reduce stress no matter what life throws your way.'
+date: '2025-05-22 03:01:35 +0300'
 author: adam
-image:  'https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?q=80&w=2944&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
-video_embed:
-tags:   [life, planning]
-tags_color: '#3f11da'
+image: 'https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?q=80&w=2944&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+video_embed: null
+tags:
+- life
+- planning
+tags_color: '#1788b1'
 ---
 Life is full of transitions. From moving to a new home, starting a new job, or welcoming a new family member, every stage brings its own unique set of challenges, and staying organized through these changes can feel overwhelming. However, with the right strategies and mindset, you can maintain control and reduce stress no matter what life throws your way.
 

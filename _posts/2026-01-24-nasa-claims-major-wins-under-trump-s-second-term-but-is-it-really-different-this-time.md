@@ -1,13 +1,15 @@
 ---
 layout: post
-title: "NASA Claims Major Wins Under Trump's Second Term, But Is It Really Different This Time?"
-description: "One year into Trump's second presidency, NASA touts progress on Artemis, science missions, and lunar bases. But how much of this is actual momentum versus political messaging?"
-date: 2026-01-24 20:00:38 +0530
+title: 'NASA Claims Major Wins Under Trump''s Second Term, But Is It Really Different This Time?'
+description: 'One year into Trump''s second presidency, NASA touts progress on Artemis, science missions, and lunar bases. But how much of this is actual momentum versus political messaging?'
+date: '2026-01-24 20:00:38 +0530'
 author: adam
 image: 'https://images.unsplash.com/photo-1674064205823-1668a0777091?q=80&w=988'
-video_embed:
-tags: [news, science]
-tags_color: '#1788b1'
+video_embed: null
+tags:
+- news
+- science
+tags_color: '#d32f2f'
 ---
 
 NASA just released what reads like a triumphant year-end report for Trump's second term, and honestly, it's a mixed bag of legitimate achievements and the kind of self-congratulatory language that makes you wonder how much is substance versus spin. The agency completed two human spaceflight missions, launched 15 science missions, and test flew an experimental X-plane. That's not nothing.

@@ -1,15 +1,15 @@
 ---
 layout: post
 title: Big Bad World by Kodaline Guitar & Piano Chords
-description: 'Tuning : Half (1/2) Step Down |d# A# F# C# G# D#| - if you wanna play this Song on Standard |eBGDAE| Tuning,&nbsp; then play these Chords : G#m (Ins...'
+description: 'Tuning : Half (1/2) Step Down |d# A# F# C# G# D#| - if you wanna play this Song on Standard |eBGDAE| Tuning,  then play these Chords : G#m (Ins...'
 date: '2016-05-14 02:20:05'
 author: r7
-image: https://images.unsplash.com/photo-1510915361894-db8b60106cb1?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-video_embed:
+image: 'https://images.unsplash.com/photo-1510915361894-db8b60106cb1?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+video_embed: null
 tags:
-  - diaryofr7
-  - tutorial
-tags_color: '#0e13aa'
+- diaryofr7
+- tutorial
+tags_color: '#1788b1'
 ---
 `Tuning : Half (1/2) Step Down |d# A# F# C# G# D#|`
 

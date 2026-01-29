@@ -1,38 +1,14 @@
 ---
-id: 675
-title: 'How ditching your car can benefit you'
+layout: post
+title: How ditching your car can benefit you
+description: In many countries – particularly the US – a car is considered to be a sort of status symbol. Learning to drive and getting your first automobile is a rite of p...
 date: '2022-02-28T09:45:51+00:00'
 author: adam
-layout: post
-guid: 'http://infeeds.com/?p=675'
-permalink: /how-ditching-your-car-can-benefit-you-del/
-csco_singular_layout:
-    - default
-csco_page_header_type:
-    - default
-csco_page_load_nextpost:
-    - default
-csco_post_video_bg_location:
-    - 'a:1:{i:0;s:7:"archive";}'
-csco_post_video_bg_start_time:
-    - '0'
-csco_post_video_bg_end_time:
-    - '0'
-csco_post_media_location:
-    - content
-csco_post_gallery_type:
-    - slider
-powerkit_post_format_link:
-    - ''
-powerkit_post_format_audio:
-    - ''
-powerkit_post_format_video:
-    - ''
-image: /images/auto-sales-1-1200.jpeg
-categories:
-    - Health
+image: 'https://images.unsplash.com/photo-1765779038142-054a9f8c2268?q=80&w=1035'
+video_embed: null
 tags:
-    - health
+- health
+tags_color: '#4caf50'
 ---
 
 In many countries – particularly the US – a car is considered to be a sort of status symbol. Learning to drive and getting your first automobile is a rite of passage for lots of teenagers, representing freedom and independence. However, the winds of change are blowing. Numerous cities in Europe are moving towards becoming car-free as a way to both make their streets safer and reduce the amount of air pollution their citizens are exposed to. Obviously getting rid of cars completely is not yet feasible for everyone, especially people who live in rural areas. If you can do it though, there are a whole wealth of benefits you could gain. Here are just a few of them.

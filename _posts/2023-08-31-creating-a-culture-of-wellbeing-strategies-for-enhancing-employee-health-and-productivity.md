@@ -1,39 +1,16 @@
 ---
-id: 1111
+layout: post
 title: 'Creating a Culture of Wellbeing: Strategies for Enhancing Employee Health and Productivity'
+description: 'Prioritising employee health and wellbeing is no longer a luxury but a necessity for successful businesses. When a company shows genuine care for its staff, th...'
 date: '2023-08-31T15:30:43+00:00'
 author: adam
-layout: post
-guid: 'https://infeeds.com/?p=1111'
-permalink: /creating-a-culture-of-wellbeing-strategies-for-enhancing-employee-health-and-productivity/
-csco_singular_layout:
-    - default
-csco_page_header_type:
-    - default
-csco_page_load_nextpost:
-    - default
-csco_post_video_bg_location:
-    - 'a:1:{i:0;s:7:"archive";}'
-csco_post_video_bg_start_time:
-    - '0'
-csco_post_video_bg_end_time:
-    - '0'
-csco_post_media_location:
-    - content
-csco_post_gallery_type:
-    - slider
-powerkit_post_format_link:
-    - ''
-powerkit_post_format_audio:
-    - ''
-powerkit_post_format_video:
-    - ''
-image: /images/nguy-n-hi-p-ufwC2cmbaaI-unsplash.jpg
-categories:
-    - Health
+image: 'https://images.unsplash.com/photo-1768409427465-01320d46963e?q=80&w=2232'
+video_embed: null
 tags:
-    - employees
-    - healthcare
+- employees
+- healthcare
+- health
+tags_color: '#1788b1'
 ---
 
 Prioritising employee health and wellbeing is no longer a luxury but a necessity for successful businesses. When a company shows genuine care for its staff, the positive effects reverberate throughout the workplace, enhancing productivity, boosting morale, and fostering a culture that everyone wants to be part of.

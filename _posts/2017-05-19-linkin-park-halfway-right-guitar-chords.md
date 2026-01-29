@@ -1,15 +1,15 @@
 ---
 layout: post
 title: Linkin Park - Halfway Right Guitar Chords
-description: 'Artist : Linkin ParkAlbum :&nbsp;One More LightYear : 2017Tuning : STANDARD |EADGBe|Chords : A . D . F#m . E . BmCHORUS&nbsp; &nbsp;A &nbsp; &nbsp; &n...'
+description: 'Artist : Linkin ParkAlbum : One More LightYear : 2017Tuning : STANDARD |EADGBe|Chords : A . D . F#m . E . BmCHORUS   A     &n...'
 date: '2017-05-19 18:31:38'
 author: r7
-image: https://images.unsplash.com/photo-1510915361894-db8b60106cb1?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-video_embed:
+image: 'https://images.unsplash.com/photo-1510915361894-db8b60106cb1?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+video_embed: null
 tags:
-  - diaryofr7
-  - tutorial
-tags_color: '#829c9b'
+- diaryofr7
+- tutorial
+tags_color: '#1788b1'
 ---
 ```
 Artist : Linkin Park

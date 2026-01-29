@@ -1,39 +1,16 @@
 ---
-id: 1090
+layout: post
 title: 'Dressing for Body Confidence: Tips for Embracing Your Shape and Style'
+description: 'We all have a collection of screenshots in our gallery that are full of styles and patterns, and that we can get easily with online dress shopping in Pakistan....'
 date: '2023-08-23T17:09:54+00:00'
 author: adam
-layout: post
-guid: 'http://infeeds.com/?p=1090'
-permalink: /dressing-for-body-confidence-tips-for-embracing-your-shape-and-style/
-csco_singular_layout:
-    - default
-csco_page_header_type:
-    - default
-csco_page_load_nextpost:
-    - default
-csco_post_video_bg_location:
-    - 'a:1:{i:0;s:7:"archive";}'
-csco_post_video_bg_start_time:
-    - '0'
-csco_post_video_bg_end_time:
-    - '0'
-csco_post_media_location:
-    - content
-csco_post_gallery_type:
-    - slider
-powerkit_post_format_link:
-    - ''
-powerkit_post_format_audio:
-    - ''
-powerkit_post_format_video:
-    - ''
-image: /images/dane-wetton-Tl80dkNQE5A-unsplash.jpg
-categories:
-    - Lifestyle
+image: 'https://images.unsplash.com/photo-1768663319879-e6a2b4c7408f?q=80&w=2070'
+video_embed: null
 tags:
-    - clothing
-    - fashion
+- clothing
+- fashion
+- lifestyle
+tags_color: '#1788b1'
 ---
 
 We all have a collection of screenshots in our gallery that are full of styles and patterns, and that we can get easily with online dress shopping in Pakistan. But, just because of the thought “It won’t look good on me”, we can’t pull them off. Or you may buy that outfit but it doesn’t look good on you and your efforts and money ended up in vain. However, it’s not that you are too skinny or too fit, but it’s all about the body type you own.

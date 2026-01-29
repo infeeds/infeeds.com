@@ -1,13 +1,15 @@
 ---
 layout: post
-title:  The Evolution of Urban Lifestyles with Seamless Connectivity
-description: What once relied on slow dial-up connections and limited access to technology has now become a dynamic, always-connected experience.
-date:   2025-08-04 03:01:35 +0300
+title: The Evolution of Urban Lifestyles with Seamless Connectivity
+description: 'What once relied on slow dial-up connections and limited access to technology has now become a dynamic, always-connected experience.'
+date: '2025-08-04 03:01:35 +0300'
 author: adam
-image:  'https://images.unsplash.com/photo-1454779132693-e5cd0a216ed3?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
-video_embed:
-tags: [lifestyle, future]
-tags_color: '#a555cb'
+image: 'https://images.unsplash.com/photo-1454779132693-e5cd0a216ed3?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+video_embed: null
+tags:
+- lifestyle
+- future
+tags_color: '#4caf50'
 ---
 
 Urban living has undergone a remarkable transformation over the past few decades. What once relied on slow dial-up connections and limited access to technology has now become a dynamic, always-connected experience. The shift toward seamless connectivity isn't just redefining how people work and play but also how communities interact and cities function as a whole.

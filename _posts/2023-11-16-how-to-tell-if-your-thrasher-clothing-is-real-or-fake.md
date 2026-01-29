@@ -1,40 +1,17 @@
 ---
-id: 1276
-title: 'How to Tell If Your Thrasher Clothing is Real or Fake'
+layout: post
+title: How to Tell If Your Thrasher Clothing is Real or Fake
+description: A majority of people buy based on the brand name or logo on an item of clothing. Companies spend billions of dollars protecting their brand image to ensure the...
 date: '2023-11-16T05:38:23+00:00'
 author: adam
-layout: post
-guid: 'https://infeeds.com/?p=1276'
-permalink: /how-to-tell-if-your-thrasher-clothing-is-real-or-fake/
-csco_singular_layout:
-    - default
-csco_page_header_type:
-    - default
-csco_page_load_nextpost:
-    - default
-csco_post_video_bg_location:
-    - 'a:1:{i:0;s:7:"archive";}'
-csco_post_video_bg_start_time:
-    - '0'
-csco_post_video_bg_end_time:
-    - '0'
-csco_post_media_location:
-    - content
-csco_post_gallery_type:
-    - slider
-powerkit_post_format_link:
-    - ''
-powerkit_post_format_audio:
-    - ''
-powerkit_post_format_video:
-    - ''
-image: /images/alexandra-gorn-WF0LSThlRmw-unsplash-1-1-scaled.jpg
-categories:
-    - Clothing
+image: 'https://images.unsplash.com/photo-1768697581060-52e2edbee7fa?q=80&w=2070'
+video_embed: null
 tags:
-    - brands
-    - fashion
-    - thrasher
+- brands
+- fashion
+- thrasher
+- clothing
+tags_color: '#1788b1'
 ---
 
 A majority of people buy based on the brand name or logo on an item of clothing. Companies spend billions of dollars protecting their brand image to ensure their customers are getting the real deal – not fakes or also known as counterfeits. Unfortunately, the market for knock offs is thriving thanks to improved copycat techniques and production methods, and many labels are experiencing financial problems due to this. One of these companies is Thrasher.

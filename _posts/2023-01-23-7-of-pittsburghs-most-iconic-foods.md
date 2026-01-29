@@ -1,39 +1,16 @@
 ---
-id: 867
-title: '7 of Pittsburgh&#8217;s Most Iconic Foods'
+layout: post
+title: 7 of Pittsburgh's Most Iconic Foods
+description: 'When you’re getting ready to move or travel to a new city, you can learn a lot about it from the food people love the most there. Pittsburgh is no different. T...'
 date: '2023-01-23T11:20:09+00:00'
 author: adam
-layout: post
-guid: 'http://infeeds.com/?p=867'
-permalink: /7-of-pittsburghs-most-iconic-foods/
-csco_singular_layout:
-    - default
-csco_page_header_type:
-    - default
-csco_page_load_nextpost:
-    - default
-csco_post_video_bg_location:
-    - 'a:1:{i:0;s:7:"archive";}'
-csco_post_video_bg_start_time:
-    - '0'
-csco_post_video_bg_end_time:
-    - '0'
-csco_post_media_location:
-    - content
-csco_post_gallery_type:
-    - slider
-powerkit_post_format_link:
-    - ''
-powerkit_post_format_audio:
-    - ''
-powerkit_post_format_video:
-    - ''
-image: /images/hybrid-storytellers-bkS5ybFnFPM-unsplash-2.jpg
-categories:
-    - Food
+image: 'https://images.unsplash.com/photo-1768663319879-e6a2b4c7408f?q=80&w=2070'
+video_embed: null
 tags:
-    - pittsburgh
-    - steak
+- pittsburgh
+- steak
+- food
+tags_color: '#1788b1'
 ---
 
 When you’re getting ready to move or travel to a new city, you can learn a lot about it from the food people love the most there. Pittsburgh is no different. This fantastic city has a long history and some of the best food you’ll ever try. From the classic Philly cheesesteak to the amazing Gobblerito, you’ll fall in love with every bite.

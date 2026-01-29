@@ -1,13 +1,15 @@
 ---
 layout: post
-title: "The Death of Risk in Gaming"
-description: "Game publishers are betting everything on bigger sequels and killing creativity in the process. Here's why that's a problem for everyone."
-date: 2026-01-21 18:38:01 +0530
+title: The Death of Risk in Gaming
+description: Game publishers are betting everything on bigger sequels and killing creativity in the process. Here's why that's a problem for everyone.
+date: '2026-01-21 18:38:01 +0530'
 author: adam
 image: 'https://images.unsplash.com/photo-1765779038142-054a9f8c2268?q=80&w=1035'
-video_embed:
-tags: [news, tech]
-tags_color: '#e91e63'
+video_embed: null
+tags:
+- news
+- tech
+tags_color: '#d32f2f'
 ---
 
 ## The Death of Risk in Gaming

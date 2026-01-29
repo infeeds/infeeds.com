@@ -1,13 +1,15 @@
 ---
 layout: post
-title:  A Guide to Seasonal Maintenance for Long-Lasting Performance
+title: A Guide to Seasonal Maintenance for Long-Lasting Performance
 description: Seasonal maintenance is essential to ensuring that various systems and equipment continue to perform efficiently and last longer.
-date:   2025-03-08 01:01:35 +0300
+date: '2025-03-08 01:01:35 +0300'
 author: tiana
-image:  'https://images.unsplash.com/photo-1558904541-efa843a96f01?q=80&w=3132&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
-video_embed:
-tags:   [tools, finance]
-tags_color: '#ef31dd'
+image: 'https://images.unsplash.com/photo-1558904541-efa843a96f01?q=80&w=3132&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+video_embed: null
+tags:
+- tools
+- finance
+tags_color: '#1788b1'
 ---
 Seasonal maintenance is essential to ensuring that various systems and equipment continue to perform efficiently and last longer. By taking proactive steps during each season, you can prevent unexpected failures, reduce repair costs, and enhance the longevity of your equipment. Here's a comprehensive guide to help you get started with seasonal maintenance for optimal performance.
 

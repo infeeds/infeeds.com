@@ -1,40 +1,17 @@
 ---
-id: 954
-title: 'What Do You Learn in CPR Training?'
+layout: post
+title: What Do You Learn in CPR Training?
+description: 'Did you know that over [350,000 people](https://www.nhlbi.nih.gov/news/2023/out-hospital-cardiac-arrest-nhlbi-studies-tackle-deadly-public-health-problem:~:te...'
 date: '2023-05-05T13:04:30+00:00'
 author: adam
-layout: post
-guid: 'http://infeeds.com/?p=954'
-permalink: /what-do-you-learn-in-cpr-training/
-csco_singular_layout:
-    - default
-csco_page_header_type:
-    - default
-csco_page_load_nextpost:
-    - default
-csco_post_video_bg_location:
-    - 'a:1:{i:0;s:7:"archive";}'
-csco_post_video_bg_start_time:
-    - '0'
-csco_post_video_bg_end_time:
-    - '0'
-csco_post_media_location:
-    - content
-csco_post_gallery_type:
-    - slider
-powerkit_post_format_link:
-    - ''
-powerkit_post_format_audio:
-    - ''
-powerkit_post_format_video:
-    - ''
-image: /images/michel-e-fSO8pdTu8Pk-unsplash.jpg
-categories:
-    - Health
+image: 'https://images.unsplash.com/photo-1764075832552-bd8cd81cc063?q=80&w=1035'
+video_embed: null
 tags:
-    - certification
-    - cpr
-    - critical
+- certification
+- cpr
+- critical
+- health
+tags_color: '#1788b1'
 ---
 
 Did you know that over [350,000 people](https://www.nhlbi.nih.gov/news/2023/out-hospital-cardiac-arrest-nhlbi-studies-tackle-deadly-public-health-problem#:~:text=Out-of-hospital%20cardiac%20arrest%20claims%20the%20lives%20of%20nearly,Hamlin's%20all%20the%20more%20remarkable.) suffer cardiac arrest outside of a hospital setting in the US?

@@ -1,13 +1,15 @@
 ---
 layout: post
-title:  A Closer Look at Full Mouth Implant Systems and Their Long-Term Benefits
-description: Tooth loss can arise from various causes such as decay, injury, or gum disease, and its repercussions extend far beyond the simple act of chewing.
-date:   2025-07-22 03:01:35 +0300
+title: A Closer Look at Full Mouth Implant Systems and Their Long-Term Benefits
+description: 'Tooth loss can arise from various causes such as decay, injury, or gum disease, and its repercussions extend far beyond the simple act of chewing.'
+date: '2025-07-22 03:01:35 +0300'
 author: tiana
-image:  'https://images.unsplash.com/photo-1468493858157-0da44aaf1d13?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
-video_embed:
-tags:   [health, dentist]
-tags_color: '#ee3211'
+image: 'https://images.unsplash.com/photo-1468493858157-0da44aaf1d13?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+video_embed: null
+tags:
+- health
+- dentist
+tags_color: '#4caf50'
 ---
 
 Tooth loss can arise from various causes such as decay, injury, or gum disease, and its repercussions extend far beyond the simple act of chewing. It can profoundly influence one's ability to speak clearly, diminish self-esteem, and jeopardize overall well-being. While dentures have traditionally been considered the standard remedy, full mouth implant systems are rapidly emerging as the favored choice for people seeking a solution that offers enhanced stability, a more natural appearance, and enduring results. These implants not only restore functionality but also rejuvenate confidence, allowing people to smile freely and communicate without hesitation.

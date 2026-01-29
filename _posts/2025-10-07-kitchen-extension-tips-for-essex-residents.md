@@ -1,13 +1,15 @@
 ---
 layout: post
 title: Kitchen Extension Tips for Essex Residents
-description: A kitchen is essentially the hub of every residential space, so it’s one frequently sought-after area that is worth upgrading yearly.
-date: 2025-10-07 03:01:35 +0300
+description: 'A kitchen is essentially the hub of every residential space, so it’s one frequently sought-after area that is worth upgrading yearly.'
+date: '2025-10-07 03:01:35 +0300'
 author: adam
 image: 'https://images.unsplash.com/photo-1565538810643-b5bdb714032a?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
-video_embed:
-tags: [kitchen, essex]
-tags_color: '#a9d238ff'
+video_embed: null
+tags:
+- kitchen
+- essex
+tags_color: '#1788b1'
 ---
 
 Your home renovation project is incomplete if you don't transform the kitchen. For Essex homeowners, designing the best kitchen extension requires a thorough understanding of planning regulations in the city, managing costs, and collaborating with experienced local building professionals. A kitchen is essentially the hub of every residential space, so it’s one frequently sought-after area that is worth upgrading yearly. Unfortunately, many homeowners, including beginners, often wonder where to start when considering adding a kitchen extension. This post will explore some simple yet powerful ideas to make your Essex kitchen extension project a massive success.

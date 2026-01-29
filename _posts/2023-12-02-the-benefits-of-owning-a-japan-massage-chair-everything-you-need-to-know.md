@@ -1,39 +1,16 @@
 ---
-id: 1325
+layout: post
 title: 'The Benefits of Owning a Japan Massage Chair: Everything You Need to Know'
+description: 'No matter how stressful your work life is, a massage chair from Japan might be the best thing that ever happened to you. There are a lot of benefits to owning...'
 date: '2023-12-02T14:44:50+00:00'
 author: adam
-layout: post
-guid: 'https://infeeds.com/?p=1325'
-permalink: /the-benefits-of-owning-a-japan-massage-chair-everything-you-need-to-know/
-csco_singular_layout:
-    - default
-csco_page_header_type:
-    - default
-csco_page_load_nextpost:
-    - default
-csco_post_video_bg_location:
-    - 'a:1:{i:0;s:7:"archive";}'
-csco_post_video_bg_start_time:
-    - '0'
-csco_post_video_bg_end_time:
-    - '0'
-csco_post_media_location:
-    - content
-csco_post_gallery_type:
-    - slider
-powerkit_post_format_link:
-    - ''
-powerkit_post_format_audio:
-    - ''
-powerkit_post_format_video:
-    - ''
-image: /images/naipo-de-0cEagizCrTQ.jpg
-categories:
-    - Health
+image: 'https://images.unsplash.com/photo-1597495227772-d48ecb5f2639?q=80&w=2070'
+video_embed: null
 tags:
-    - japan
-    - massage
+- japan
+- massage
+- health
+tags_color: '#1788b1'
 ---
 
 No matter how stressful your work life is, a massage chair from Japan might be the best thing that ever happened to you. There are a lot of benefits to owning one, especially since massage chairs are becoming more and more popular.

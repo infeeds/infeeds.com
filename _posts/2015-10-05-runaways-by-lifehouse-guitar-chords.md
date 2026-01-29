@@ -1,15 +1,15 @@
 ---
 layout: post
 title: Runaways by Lifehouse Guitar Chords
-description: 'TUNING : STANDARD [eBGDAE]VERSE :Am &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; FWe go sailing at midnightC &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &n...'
+description: 'TUNING : STANDARD [eBGDAE]VERSE :Am               FWe go sailing at midnightC           &n...'
 date: '2015-10-05 04:54:13'
 author: r7
-image: https://images.unsplash.com/photo-1510915361894-db8b60106cb1?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-video_embed:
+image: 'https://images.unsplash.com/photo-1510915361894-db8b60106cb1?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+video_embed: null
 tags:
-  - diaryofr7
-  - tutorial
-tags_color: '#89df15'
+- diaryofr7
+- tutorial
+tags_color: '#1788b1'
 ---
 ```
 TUNING : STANDARD [eBGDAE]

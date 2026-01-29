@@ -1,40 +1,17 @@
 ---
-id: 1420
-title: 'Here’s What to Consider When Shopping For Padel Shoes'
+layout: post
+title: Here’s What to Consider When Shopping For Padel Shoes
+description: The best shoes can elevate your performance on the track or padel court. Sports shoe manufacturers spend a lot of resources and time curating the ideal footwea...
 date: '2024-09-18T08:28:44+00:00'
 author: adam
-layout: post
-guid: 'https://infeeds.com/?p=1420'
-permalink: /heres-what-to-consider-when-shopping-for-padel-shoes/
-csco_singular_layout:
-    - default
-csco_page_header_type:
-    - default
-csco_page_load_nextpost:
-    - default
-csco_post_video_bg_location:
-    - 'a:1:{i:0;s:7:"archive";}'
-csco_post_video_bg_start_time:
-    - '0'
-csco_post_video_bg_end_time:
-    - '0'
-csco_post_media_location:
-    - content
-csco_post_gallery_type:
-    - slider
-powerkit_post_format_link:
-    - ''
-powerkit_post_format_audio:
-    - ''
-powerkit_post_format_video:
-    - ''
-image: /images/john-fornander-4R9CcBdQTEg-unsplash.jpg
-categories:
-    - Clothing
+image: 'https://images.unsplash.com/photo-1765779038142-054a9f8c2268?q=80&w=1035'
+video_embed: null
 tags:
-    - fashion
-    - shoes
-    - sports
+- fashion
+- shoes
+- sports
+- clothing
+tags_color: '#1788b1'
 ---
 
 The best shoes can elevate your performance on the track or padel court. Sports shoe manufacturers spend a lot of resources and time curating the ideal footwear that elevates performance while keeping you safe.

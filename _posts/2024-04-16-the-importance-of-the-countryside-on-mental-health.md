@@ -1,16 +1,15 @@
 ---
-id: 1384
 layout: post
-guid: 'https://infeeds.com/?p=1384'
-permalink: /the-importance-of-the-countryside-on-mental-health/
-title: "The Importance of the Countryside on Mental Health"
-description: "If you’re someone who has lived in dense, urban environments their whole life, the idea of the countryside might be one that feels distant and uncomfortable."
-date: 2024-04-16 08:00:55 +0530
+title: The Importance of the Countryside on Mental Health
+description: 'If you’re someone who has lived in dense, urban environments their whole life, the idea of the countryside might be one that feels distant and uncomfortable.'
+date: '2024-04-16 08:00:55 +0530'
 author: adam
-image: /images/dan-meyers-hluOJZjLVXc.jpg
-video_embed:
-tags: [health, technology]
-tags_color: '#16d33f'
+image: 'https://images.unsplash.com/photo-1768663319879-e6a2b4c7408f?q=80&w=2070'
+video_embed: null
+tags:
+- health
+- technology
+tags_color: '#4caf50'
 ---
 
 If you’re someone who has lived in dense, urban environments their whole life, the idea of the countryside might be one that feels distant and uncomfortable. The city can provide you with means, put you closer to transportation links and offer you a greater variety of food and drink than you find in the countryside. However, there is a quality that more rural spaces often have that is more difficult to quantify.

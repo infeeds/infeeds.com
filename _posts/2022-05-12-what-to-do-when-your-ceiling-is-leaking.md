@@ -1,40 +1,17 @@
 ---
-id: 766
-title: 'What to Do When Your Ceiling is Leaking'
+layout: post
+title: What to Do When Your Ceiling is Leaking
+description: 'There’s nothing better than owning your own home. If you are a homeowner, though, you know that large expenditures pop up from time to time and that they can’t...'
 date: '2022-05-12T20:56:52+00:00'
 author: adam
-layout: post
-guid: 'http://infeeds.com/?p=766'
-permalink: /what-to-do-when-your-ceiling-is-leaking/
-csco_singular_layout:
-    - default
-csco_page_header_type:
-    - default
-csco_page_load_nextpost:
-    - default
-csco_post_video_bg_location:
-    - 'a:1:{i:0;s:7:"archive";}'
-csco_post_video_bg_start_time:
-    - '0'
-csco_post_video_bg_end_time:
-    - '0'
-csco_post_media_location:
-    - content
-csco_post_gallery_type:
-    - slider
-powerkit_post_format_link:
-    - ''
-powerkit_post_format_audio:
-    - ''
-powerkit_post_format_video:
-    - ''
-image: /images/11.jpeg
-categories:
-    - Lifestyle
+image: 'https://images.unsplash.com/photo-1674064205823-1668a0777091?q=80&w=988'
+video_embed: null
 tags:
-    - home
-    - housing
-    - repairs
+- home
+- housing
+- repairs
+- lifestyle
+tags_color: '#1788b1'
 ---
 
 There’s nothing better than owning your own home. If you are a homeowner, though, you know that large expenditures pop up from time to time and that they can’t always be put off. This may be the case if you find a leak in your ceiling. If water is leaking into your home, you won’t have time to waste—a (potentially large) repair cost is imminent. Here are some things you can do right away if you find a leak in your ceiling, along with some information on how to[ pay for](https://www.solaritycu.org/news-education/post/news-education/2021/07/16/cash-out-refinance-vs-heloc-which-is-right-for-you) any major work that might be needed, such as using a **refinance** to cover the **home repair**.

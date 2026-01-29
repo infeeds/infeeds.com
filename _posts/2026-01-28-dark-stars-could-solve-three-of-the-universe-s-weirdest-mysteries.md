@@ -1,13 +1,15 @@
 ---
 layout: post
-title: "Dark Stars Could Solve Three of the Universe's Weirdest Mysteries"
-description: "New research suggests mysterious dark stars might explain bizarre early galaxies, overmassive black holes, and strange cosmic objects that shouldn't exist."
-date: 2026-01-28 04:00:55 +0530
+title: Dark Stars Could Solve Three of the Universe's Weirdest Mysteries
+description: 'New research suggests mysterious dark stars might explain bizarre early galaxies, overmassive black holes, and strange cosmic objects that shouldn''t exist.'
+date: '2026-01-28 04:00:55 +0530'
 author: adam
 image: 'https://images.unsplash.com/photo-1765779038142-054a9f8c2268?q=1035&w=1035'
-video_embed:
-tags: [news, science]
-tags_color: '#1788b1'
+video_embed: null
+tags:
+- news
+- science
+tags_color: '#d32f2f'
 ---
 
 The James Webb Space Telescope has been throwing curveballs at astronomers since it started peering into the deepest reaches of space. And honestly, it's been humbling to watch our carefully constructed theories about the early universe get repeatedly dunked on by actual observations.

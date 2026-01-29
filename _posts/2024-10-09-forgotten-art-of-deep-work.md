@@ -1,14 +1,15 @@
 ---
 layout: post
-title:  The Forgotten Art of Deep Work in a World of Constant Distractions
-description: We live in an era of multitasking, where it feels like everyone is juggling dozens of things at once. But are we truly being productive, or just busy?
-date:   2024-10-09 03:01:35 +0300
+title: The Forgotten Art of Deep Work in a World of Constant Distractions
+description: 'We live in an era of multitasking, where it feels like everyone is juggling dozens of things at once. But are we truly being productive, or just busy?'
+date: '2024-10-09 03:01:35 +0300'
 author: tiana
-image:  '/images/013.jpg'
-video_embed:
-tags:   [career, worklife]
-tags_color: '#4c49cb'
-featured: true
+image: 'https://images.unsplash.com/photo-1768663319879-e6a2b4c7408f?q=80&w=2070'
+video_embed: null
+tags:
+- career
+- worklife
+tags_color: '#1788b1'
 ---
 In today's fast-paced, notification-filled world, the ability to focus deeply on a single task has become a rare skill. We live in an era of multitasking, where it feels like everyone is juggling dozens of things at once. But are we truly being productive, or just busy?
 

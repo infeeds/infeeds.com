@@ -1,13 +1,15 @@
 ---
 layout: post
-title:  What Do You Need to Know About NDIS and How Does It Work?
-description: NDIS or National Disability Insurance Scheme is a social initiative in Australia that aims to support individuals with disabilities as well as their dependents, and careers.
-date:   2025-09-22 03:01:35 +0300
+title: What Do You Need to Know About NDIS and How Does It Work?
+description: 'NDIS or National Disability Insurance Scheme is a social initiative in Australia that aims to support individuals with disabilities as well as their dependents, and careers.'
+date: '2025-09-22 03:01:35 +0300'
 author: alena
-image:  'https://images.unsplash.com/photo-1632646332908-fcfd19d736e5?q=80&w=2942&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
-video_embed:
-tags: [lifestyle, australia]
-tags_color: '#49cb7bff'
+image: 'https://images.unsplash.com/photo-1632646332908-fcfd19d736e5?q=80&w=2942&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+video_embed: null
+tags:
+- lifestyle
+- australia
+tags_color: '#4caf50'
 ---
 
 NDIS or National Disability Insurance Scheme is a social initiative in Australia that aims to support individuals with disabilities as well as their dependents, and careers. There are different ways to avail of the [NDIS Support services in Melbourne](https://goodcompanyds.com.au/melbourne-disability-services/). If you are an individual who is exposed to NDIS or who needs to know how this will affect you, here’s a breakdown of this initiative and how you can maximise its benefits.

@@ -1,39 +1,16 @@
 ---
-id: 1080
-title: 'How Glasses Can Define Your Personality'
+layout: post
+title: How Glasses Can Define Your Personality
+description: 'People usually wear glasses because they have weak eyesight, but they mostly hate wearing them because they make them look ugly. Not thinking that you can are...'
 date: '2023-08-16T08:28:52+00:00'
 author: adam
-layout: post
-guid: 'http://infeeds.com/?p=1080'
-permalink: /how-glasses-can-define-your-personality/
-csco_singular_layout:
-    - default
-csco_page_header_type:
-    - default
-csco_page_load_nextpost:
-    - default
-csco_post_video_bg_location:
-    - 'a:1:{i:0;s:7:"archive";}'
-csco_post_video_bg_start_time:
-    - '0'
-csco_post_video_bg_end_time:
-    - '0'
-csco_post_media_location:
-    - content
-csco_post_gallery_type:
-    - slider
-powerkit_post_format_link:
-    - ''
-powerkit_post_format_audio:
-    - ''
-powerkit_post_format_video:
-    - ''
-image: /images/Otticanet-Discount-Code.jpg
-categories:
-    - Lifestyle
+image: 'https://images.unsplash.com/photo-1768697581060-52e2edbee7fa?q=80&w=2070'
+video_embed: null
 tags:
-    - fashion
-    - personality
+- fashion
+- personality
+- lifestyle
+tags_color: '#1788b1'
 ---
 
 People usually wear glasses because they have weak eyesight, but they mostly hate wearing them because they make them look ugly. Not thinking that you can are wearing the wrong frame that is making you look bad. You must look for the frames that suit best on your face and enhance your features. The better the frame, the better your face will look.

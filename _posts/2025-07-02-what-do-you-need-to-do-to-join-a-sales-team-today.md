@@ -1,13 +1,15 @@
 ---
 layout: post
-title:  What Do You Need to Do to Join a Sales Team Today?
-description: If you plan to start a career in sales, you need more than just a sales speech to sell the proverbial pen.
-date:   2025-07-02 03:01:35 +0300
+title: What Do You Need to Do to Join a Sales Team Today?
+description: 'If you plan to start a career in sales, you need more than just a sales speech to sell the proverbial pen.'
+date: '2025-07-02 03:01:35 +0300'
 author: adam
-image:  'https://images.unsplash.com/photo-1672380135241-c024f7fbfa13?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
-video_embed:
-tags: [career, sales]
-tags_color: '#561000'
+image: 'https://images.unsplash.com/photo-1672380135241-c024f7fbfa13?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+video_embed: null
+tags:
+- career
+- sales
+tags_color: '#1788b1'
 ---
 
 If you plan to start a career in sales, you need more than just a sales speech to sell the proverbial pen. Whether you're new to the industry or switching careers, knowing what winning skills and traits recruitment agencies like [HyperHired](https://hyperhired.com/) look for can help you stand out as a potential candidate. Given the competitive sales landscape, however, you need to update your knowledge about the career requirements.

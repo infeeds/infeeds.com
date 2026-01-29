@@ -1,39 +1,16 @@
 ---
-id: 1124
-title: 'Elegant and Fun Dining Room Accent Wall Ideas'
+layout: post
+title: Elegant and Fun Dining Room Accent Wall Ideas
+description: 'If you are looking to leave a personal touch on your home, your dining room is the place to start. The simple addition of a few room ideas can bring a new flar...'
 date: '2023-09-30T10:52:19+00:00'
 author: adam
-layout: post
-guid: 'https://infeeds.com/?p=1124'
-permalink: /elegant-and-fun-dining-room-accent-wall-ideas/
-csco_singular_layout:
-    - default
-csco_page_header_type:
-    - default
-csco_page_load_nextpost:
-    - default
-csco_post_video_bg_location:
-    - 'a:1:{i:0;s:7:"archive";}'
-csco_post_video_bg_start_time:
-    - '0'
-csco_post_video_bg_end_time:
-    - '0'
-csco_post_media_location:
-    - content
-csco_post_gallery_type:
-    - slider
-powerkit_post_format_link:
-    - ''
-powerkit_post_format_audio:
-    - ''
-powerkit_post_format_video:
-    - ''
-image: /images/spacejoy-GQQyH0yNqLk-unsplash.jpg
-categories:
-    - Household
+image: 'https://images.unsplash.com/photo-1768697581060-52e2edbee7fa?q=80&w=2070'
+video_embed: null
 tags:
-    - wall
-    - wallpapers
+- wall
+- wallpapers
+- household
+tags_color: '#1788b1'
 ---
 
 If you are looking to leave a personal touch on your home, your dining room is the place to start. The simple addition of a few room ideas can bring a new flare to your space. Besides the table and chairs, you need plenty of decor to pull the room together.

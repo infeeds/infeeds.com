@@ -1,13 +1,15 @@
 ---
 layout: post
 title: When Travelling To Thailand - It Needs To Be 4-Star Hotels All The Way
-description: If you are planning a family trip to the great country of Thailand, you have made a very wise choice. This is a country filled with wonderful people and an excellent culture.
-date: 2025-12-19 01:07:10 +0300
+description: 'If you are planning a family trip to the great country of Thailand, you have made a very wise choice. This is a country filled with wonderful people and an excellent culture.'
+date: '2025-12-19 01:07:10 +0300'
 author: adam
 image: 'https://images.unsplash.com/photo-1690299490301-2eb3865bee58?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
-video_embed:
-tags: [travel, thiland]
-tags_color: '#b16117ff'
+video_embed: null
+tags:
+- travel
+- thiland
+tags_color: '#1788b1'
 ---
 
 If you are planning a family trip to the great country of Thailand, you have made a very wise choice. This is a country filled with wonderful people and an excellent culture. The food is amazing, the beaches are fantastic, and there is so much to see and do. One of the first things that you need to do to get your holiday off to the best start possible is to book quality accommodation. Get yourself out of the habit of choosing two and three-star establishments, and set your sights a little higher.

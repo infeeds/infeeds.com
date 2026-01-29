@@ -1,40 +1,17 @@
 ---
-id: 1197
+layout: post
 title: 'Launching Your Culinary Dream: A Fresh Approach To Finding Your Way In The Culinary Industry'
+description: 'The tantalising world of the culinary industry beckons with promises of creative freedom, delicious creations, and the satisfaction of delighting taste buds. F...'
 date: '2023-10-26T01:12:17+00:00'
 author: adam
-layout: post
-guid: 'https://infeeds.com/?p=1197'
-permalink: /launching-your-culinary-dream-a-fresh-approach-to-finding-your-way-in-the-culinary-industry/
-csco_singular_layout:
-    - default
-csco_page_header_type:
-    - default
-csco_page_load_nextpost:
-    - default
-csco_post_video_bg_location:
-    - 'a:1:{i:0;s:7:"archive";}'
-csco_post_video_bg_start_time:
-    - '0'
-csco_post_video_bg_end_time:
-    - '0'
-csco_post_media_location:
-    - content
-csco_post_gallery_type:
-    - slider
-powerkit_post_format_link:
-    - ''
-powerkit_post_format_audio:
-    - ''
-powerkit_post_format_video:
-    - ''
-image: /images/carla-martinesi-ZW9CSUdANqw-unsplash-scaled.jpg
-categories:
-    - Business
+image: 'https://images.unsplash.com/photo-1768405942773-87e8d4fb782b?q=80&w=2070'
+video_embed: null
 tags:
-    - career
-    - food
-    - hygiene
+- career
+- food
+- hygiene
+- business
+tags_color: '#1788b1'
 ---
 
 The tantalising world of the culinary industry beckons with promises of creative freedom, delicious creations, and the satisfaction of delighting taste buds. For those who dream of becoming a part of this vibrant domain, a fresh and innovative approach can set you on a path to success.

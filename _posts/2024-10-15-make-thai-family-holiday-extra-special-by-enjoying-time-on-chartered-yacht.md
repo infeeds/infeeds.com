@@ -1,13 +1,15 @@
 ---
 layout: post
-title:  How to make a Thai family holiday extra special by enjoying time on a chartered yacht
-description: With so many available options, it is always nice when an idea is found which is away from the norm and offers the opportunity to do something others haven't considered.
-date:   2024-10-15 03:01:35 +0300
+title: How to make a Thai family holiday extra special by enjoying time on a chartered yacht
+description: 'With so many available options, it is always nice when an idea is found which is away from the norm and offers the opportunity to do something others haven''t considered.'
+date: '2024-10-15 03:01:35 +0300'
 author: tiana
-image:  '/images/jqmGUduHXv0.jpg'
-video_embed:
-tags:   [holiday, thailand]
-tags_color: '#2a12aa'
+image: 'https://images.unsplash.com/photo-1768697581060-52e2edbee7fa?q=80&w=2070'
+video_embed: null
+tags:
+- holiday
+- thailand
+tags_color: '#1788b1'
 ---
 As the world seemingly becomes smaller, owing to increased knowledge, increased transport, and the advent of the digital age, there are many different places and ways to enjoy a break together as a family. With so many available options, it is always nice when an idea is found which is away from the norm and offers the opportunity to do something others haven't considered.
 

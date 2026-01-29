@@ -1,12 +1,15 @@
 ---
 layout: post
-title:  Planning to Give Presents with a Food Theme? Keep These Pointers in Mind!
-description: Losing the element of surprise might ruin the gift giving experience a bit, but it's definitely worth it since you'll avoid the risk of triggering an allergic reaction.
-date:   2024-10-04 06:05:55 +0300
+title: Planning to Give Presents with a Food Theme? Keep These Pointers in Mind!
+description: 'Losing the element of surprise might ruin the gift giving experience a bit, but it''s definitely worth it since you''ll avoid the risk of triggering an allergic reaction.'
+date: '2024-10-04 06:05:55 +0300'
 author: tiana
-image:  '/images/maartje-ter-beek-fnURPSFCocU.jpg'
-tags:   [food, explore]
-tags_color: '#218770'
+image: 'https://images.unsplash.com/photo-1765707886613-f4961bbd07dd?q=80&w=988'
+video_embed: null
+tags:
+- food
+- explore
+tags_color: '#1788b1'
 ---
 Food is one of the best presents to give since it can be appreciated by almost everyone, and it’s usually a big hit. You shouldn't just buy something, however, from the grocery store, wrap it in a pretty paper or a container, and call it a day! To successfully gift food items and impress your recipients, you'll want to spend a bit more time on the planning and shopping process and ensure that you're buying the right ones. 
 

@@ -2,12 +2,14 @@
 layout: post
 title: Building Confidence Through Better Dental Habits
 description: Confidence isn’t just something you carry; it’s something you project. One of the simplest yet most powerful ways to boost confidence is through dental care.
-date: 2026-01-22 01:07:10 +0300
+date: '2026-01-22 01:07:10 +0300'
 author: alena
 image: 'https://images.unsplash.com/photo-1667133295352-ef4c83620e8e?q=80&w=1029'
-video_embed:
-tags: [health, dental care]
-tags_color: '#9fcfff'
+video_embed: null
+tags:
+- health
+- dental care
+tags_color: '#4caf50'
 ---
 
 Confidence isn’t just something you carry; it’s something you project. One of the simplest yet most powerful ways to boost confidence is through dental care. A healthy, well-cared-for smile does more than look good; it affects how you feel, how you interact with others, and even how you’re perceived in both social and professional settings. By adopting mindful dental habits, you can strengthen your self-esteem and improve overall well-being.

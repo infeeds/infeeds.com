@@ -1,39 +1,16 @@
 ---
-id: 1309
-title: 'The Evolving Role of Residential Concierges in Luxury Living'
+layout: post
+title: The Evolving Role of Residential Concierges in Luxury Living
+description: Have you ever wondered what it’s like to have a personal helper making your daily life easier?  This is where a residential concierge comes in! These services...
 date: '2023-11-25T06:16:26+00:00'
 author: adam
-layout: post
-guid: 'https://infeeds.com/?p=1309'
-permalink: /the-evolving-role-of-residential-concierges-in-luxury-living/
-csco_singular_layout:
-    - default
-csco_page_header_type:
-    - default
-csco_page_load_nextpost:
-    - default
-csco_post_video_bg_location:
-    - 'a:1:{i:0;s:7:"archive";}'
-csco_post_video_bg_start_time:
-    - '0'
-csco_post_video_bg_end_time:
-    - '0'
-csco_post_media_location:
-    - content
-csco_post_gallery_type:
-    - slider
-powerkit_post_format_link:
-    - ''
-powerkit_post_format_audio:
-    - ''
-powerkit_post_format_video:
-    - ''
-image: /images/ishan-seefromthesky-2jlRllahuMk.jpg
-categories:
-    - Lifestyle
+image: 'https://images.unsplash.com/photo-1764075832552-bd8cd81cc063?q=80&w=1035'
+video_embed: null
 tags:
-    - home
-    - luxury
+- home
+- luxury
+- lifestyle
+tags_color: '#1788b1'
 ---
 
 Have you ever wondered what it’s like to have a personal helper making your daily life easier?

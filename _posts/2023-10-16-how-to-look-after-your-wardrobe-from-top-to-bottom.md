@@ -1,39 +1,16 @@
 ---
-id: 1157
-title: 'How to Look After Your Wardrobe from Top to Bottom'
+layout: post
+title: How to Look After Your Wardrobe from Top to Bottom
+description: 'A well-maintained wardrobe is an essential part of a stylish and organized life. Men’s fashion encompasses a wide range of clothing and accessories, and it’s i...'
 date: '2023-10-16T09:50:29+00:00'
 author: adam
-layout: post
-guid: 'https://infeeds.com/?p=1157'
-permalink: /how-to-look-after-your-wardrobe-from-top-to-bottom/
-csco_singular_layout:
-    - default
-csco_page_header_type:
-    - default
-csco_page_load_nextpost:
-    - default
-csco_post_video_bg_location:
-    - 'a:1:{i:0;s:7:"archive";}'
-csco_post_video_bg_start_time:
-    - '0'
-csco_post_video_bg_end_time:
-    - '0'
-csco_post_media_location:
-    - content
-csco_post_gallery_type:
-    - slider
-powerkit_post_format_link:
-    - ''
-powerkit_post_format_audio:
-    - ''
-powerkit_post_format_video:
-    - ''
-image: /images/ja-kubislav-HmIVrmMN_1c-unsplash-scaled.jpg
-categories:
-    - Lifestyle
+image: 'https://images.unsplash.com/photo-1765779038142-054a9f8c2268?q=80&w=1035'
+video_embed: null
 tags:
-    - fashion
-    - trends
+- fashion
+- trends
+- lifestyle
+tags_color: '#1788b1'
 ---
 
 A well-maintained wardrobe is an essential part of a stylish and organized life. Men’s fashion encompasses a wide range of clothing and accessories, and it’s important to care for each piece to ensure it remains in great condition. Here’s a comprehensive guide on how to look after your wardrobe from top to bottom.

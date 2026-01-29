@@ -1,13 +1,15 @@
 ---
 layout: post
-title:  Capturing the Spirit of Every Journey
-description: Whether you're exploring ancient cities, relaxing on a beach, or road-tripping through scenic landscapes, every journey has its own spirit.
-date:   2025-05-22 03:01:35 +0300
+title: Capturing the Spirit of Every Journey
+description: 'Whether you''re exploring ancient cities, relaxing on a beach, or road-tripping through scenic landscapes, every journey has its own spirit.'
+date: '2025-05-22 03:01:35 +0300'
 author: tiana
-image:  'https://images.unsplash.com/photo-1530789253388-582c481c54b0?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
-video_embed:
-tags:   [life, travel]
-tags_color: '#ff31da'
+image: 'https://images.unsplash.com/photo-1530789253388-582c481c54b0?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+video_embed: null
+tags:
+- life
+- travel
+tags_color: '#1788b1'
 ---
 Travel is more than a change in location–it's a shift in perspective, a spark of inspiration, and a chance to rediscover the world and yourself. Whether you're exploring ancient cities, relaxing on a beach, or road-tripping through scenic landscapes, every journey has its own spirit. Capturing that essence transforms a trip from memorable to unforgettable.
 

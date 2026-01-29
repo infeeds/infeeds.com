@@ -1,13 +1,15 @@
 ---
 layout: post
-title:  A New Era in Dental Restoration Techniques
+title: A New Era in Dental Restoration Techniques
 description: This article examines the latest developments in dental restoration techniques and their importance for both dental practitioners and patients.
-date:   2024-12-11 01:01:35 +0300
+date: '2024-12-11 01:01:35 +0300'
 author: adam
-image:  '/images/9Gw9XCuazuY.jpg'
-video_embed:
-tags:   [health, dentist]
-tags_color: '#ef3991'
+image: 'https://images.unsplash.com/photo-1768663319879-e6a2b4c7408f?q=80&w=2070'
+video_embed: null
+tags:
+- health
+- dentist
+tags_color: '#4caf50'
 ---
 The landscape of dental restoration has significantly transformed in recent years, ushering in an innovative period that enhances both the functionality and aesthetics of dental care. These advancements not only lead to better outcomes for patients but also contribute to a more comfortable and streamlined treatment experience. 
 

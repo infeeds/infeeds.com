@@ -1,40 +1,17 @@
 ---
-id: 1392
+layout: post
 title: 'Understanding NEC Baby Formula Lawsuit: What You Need to Know'
+description: An explosive lawsuit alleges that a major baby formula manufacturer’s negligence led to a rare but devastating disease striking premature infants with deadly c...
 date: '2024-05-26T07:44:15+00:00'
 author: adam
-layout: post
-guid: 'https://infeeds.com/?p=1392'
-permalink: /understanding-nec-baby-formula-lawsuit-what-you-need-to-know/
-csco_singular_layout:
-    - default
-csco_page_header_type:
-    - default
-csco_page_load_nextpost:
-    - default
-csco_post_video_bg_location:
-    - 'a:1:{i:0;s:7:"archive";}'
-csco_post_video_bg_start_time:
-    - '0'
-csco_post_video_bg_end_time:
-    - '0'
-csco_post_media_location:
-    - content
-csco_post_gallery_type:
-    - slider
-powerkit_post_format_link:
-    - ''
-powerkit_post_format_audio:
-    - ''
-powerkit_post_format_video:
-    - ''
-image: /images/pexels-sarah-chai-7282908.jpg
-categories:
-    - Family
+image: 'https://images.unsplash.com/photo-1765779038142-054a9f8c2268?q=80&w=1035'
+video_embed: null
 tags:
-    - baby
-    - health
-    - safety
+- baby
+- health
+- safety
+- family
+tags_color: '#1788b1'
 ---
 
 An explosive lawsuit alleges that a major baby formula manufacturer’s negligence led to a rare but devastating disease striking premature infants with deadly consequences. The legal battle could have far-reaching impacts on an industry that provides crucial nourishment to society’s most vulnerable. In this article, we will highlight the details of the NEC baby formula lawsuit.

@@ -4,12 +4,12 @@ title: Papa Roach - No Matter What Guitar Tabs & Chords (Full Tablature)
 description: 'Tuning : (1/2) Half Step Down [d# A# F# C# G# D#] / [Eb Ab Db Gb Bb eb] CHORDS USED : Cadd9 . D . Em7 . Em . G . CIntro :d#|------------0-------2----...'
 date: '2015-10-04 20:26:40'
 author: r7
-image: https://images.unsplash.com/photo-1510915361894-db8b60106cb1?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-video_embed:
+image: 'https://images.unsplash.com/photo-1510915361894-db8b60106cb1?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+video_embed: null
 tags:
-  - diaryofr7
-  - tutorial
-tags_color: '#9d2eff'
+- diaryofr7
+- tutorial
+tags_color: '#1788b1'
 ---
 `Tuning : (1/2) Half Step Down [d# A# F# C# G# D#] / [Eb Ab Db Gb Bb eb]`
 

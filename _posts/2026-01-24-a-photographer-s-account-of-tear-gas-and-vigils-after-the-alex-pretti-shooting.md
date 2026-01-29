@@ -1,13 +1,15 @@
 ---
 layout: post
-title: "A Photographer's Account of Tear Gas and Vigils After the Alex Pretti Shooting"
-description: "Steven Garcia went from a frozen lake to documenting protesters facing tear gas from federal agents in the aftermath of a fatal shooting in Minneapolis."
-date: 2026-01-24 16:00:24 +0530
+title: A Photographer's Account of Tear Gas and Vigils After the Alex Pretti Shooting
+description: Steven Garcia went from a frozen lake to documenting protesters facing tear gas from federal agents in the aftermath of a fatal shooting in Minneapolis.
+date: '2026-01-24 16:00:24 +0530'
 author: adam
 image: 'https://images.unsplash.com/photo-1768697581060-52e2edbee7fa?q=80&w=2070'
-video_embed:
-tags: [news, tech]
-tags_color: '#e91e63'
+video_embed: null
+tags:
+- news
+- tech
+tags_color: '#d32f2f'
 ---
 
 The contrast couldn't have been starker. One moment, photographer Steven Garcia was standing on a frozen lake covering a pond hockey event. The next, he was getting a notification about a shooting that would send him racing back to Minneapolis, where he'd spend the evening documenting protests, tear gas, and a community that had learned painful lessons from 2020.

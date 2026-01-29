@@ -1,13 +1,15 @@
 ---
 layout: post
-title: "PhonePe as the Indian fintech giant heads to IPO"
-description: "Tiger Global and Microsoft are fully exiting PhonePe as the Indian fintech giant heads to IPO, offering a glimpse into how global investors cash out"
-date: 2026-01-21 17:20:45 +0530
+title: PhonePe as the Indian fintech giant heads to IPO
+description: 'Tiger Global and Microsoft are fully exiting PhonePe as the Indian fintech giant heads to IPO, offering a glimpse into how global investors cash out'
+date: '2026-01-21 17:20:45 +0530'
 author: adam
 image: 'https://images.unsplash.com/photo-1560221328-12fe60f83ab8?q=80&w=2074'
-video_embed:
-tags: [news, fintech]
-tags_color: '#8b4c9e'
+video_embed: null
+tags:
+- news
+- fintech
+tags_color: '#d32f2f'
 ---
 
 ## When the Big Players Walk Away

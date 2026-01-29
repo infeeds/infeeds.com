@@ -1,40 +1,17 @@
 ---
-id: 1235
+layout: post
 title: 'Why a Life Safety Plan is Essential for Every Household: Tips and Tricks for Getting Started'
+description: 'A life safety plan is a potent tool to protect our loved ones, property, and ourselves from unforeseen circumstances like a fire. But how often do we sit down...'
 date: '2023-10-27T11:57:01+00:00'
 author: adam
-layout: post
-guid: 'https://infeeds.com/?p=1235'
-permalink: /why-a-life-safety-plan-is-essential-for-every-household-tips-and-tricks-for-getting-started/
-csco_singular_layout:
-    - default
-csco_page_header_type:
-    - default
-csco_page_load_nextpost:
-    - default
-csco_post_video_bg_location:
-    - 'a:1:{i:0;s:7:"archive";}'
-csco_post_video_bg_start_time:
-    - '0'
-csco_post_video_bg_end_time:
-    - '0'
-csco_post_media_location:
-    - content
-csco_post_gallery_type:
-    - slider
-powerkit_post_format_link:
-    - ''
-powerkit_post_format_audio:
-    - ''
-powerkit_post_format_video:
-    - ''
-image: /images/piotr-chrobot-M0WbGFRTXqU-unsplash-2.jpg
-categories:
-    - Household
+image: 'https://images.unsplash.com/photo-1768409427465-01320d46963e?q=80&w=2232'
+video_embed: null
 tags:
-    - planning
-    - safety
-    - tips
+- planning
+- safety
+- tips
+- household
+tags_color: '#1788b1'
 ---
 
 A life safety plan is a potent tool to protect our loved ones, property, and ourselves from unforeseen circumstances like a fire. But how often do we sit down to plan one? Unfortunately, the answer is rarely enough.

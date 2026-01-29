@@ -1,13 +1,15 @@
 ---
 layout: post
-title: "1Password's New Feature Wants to Save You From Your Own Click-Happy Self"
-description: "1Password rolls out phishing detection that stops autofill on suspicious sites. It's not perfect, but it might catch you before you hand over the keys."
-date: 2026-01-21 19:33:51 +0530
+title: 1Password's New Feature Wants to Save You From Your Own Click-Happy Self
+description: '1Password rolls out phishing detection that stops autofill on suspicious sites. It''s not perfect, but it might catch you before you hand over the keys.'
+date: '2026-01-21 19:33:51 +0530'
 author: adam
 image: 'https://images.unsplash.com/photo-1597495227772-d48ecb5f2639?q=80&w=2070'
-video_embed:
-tags: [news, tech]
-tags_color: '#e91e63'
+video_embed: null
+tags:
+- news
+- tech
+tags_color: '#d32f2f'
 ---
 
 Phishing attacks are getting smarter, and let's be honest, most of us are still clicking links we probably shouldn't. That sketchy email from "Amaz0n" asking you to verify your account? Yeah, someone's falling for it every single day.

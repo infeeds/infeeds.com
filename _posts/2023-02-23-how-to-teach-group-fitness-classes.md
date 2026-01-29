@@ -1,39 +1,16 @@
 ---
-id: 902
-title: 'How to Teach Group Fitness Classes'
+layout: post
+title: How to Teach Group Fitness Classes
+description: 'Running a gym or exercise class is a full-time job, right?  Well, yes. If you plan on running a successful gym, you will have to spend a lot of time ensuring a...'
 date: '2023-02-23T16:29:53+00:00'
 author: adam
-layout: post
-guid: 'http://infeeds.com/?p=902'
-permalink: /how-to-teach-group-fitness-classes/
-csco_singular_layout:
-    - default
-csco_page_header_type:
-    - default
-csco_page_load_nextpost:
-    - default
-csco_post_video_bg_location:
-    - 'a:1:{i:0;s:7:"archive";}'
-csco_post_video_bg_start_time:
-    - '0'
-csco_post_video_bg_end_time:
-    - '0'
-csco_post_media_location:
-    - content
-csco_post_gallery_type:
-    - slider
-powerkit_post_format_link:
-    - ''
-powerkit_post_format_audio:
-    - ''
-powerkit_post_format_video:
-    - ''
-image: /images/bruce-mars-gJtDg6WfMlQ-unsplash.jpg
-categories:
-    - Health
+image: 'https://images.unsplash.com/photo-1765779038142-054a9f8c2268?q=80&w=1035'
+video_embed: null
 tags:
-    - classes
-    - fitness
+- classes
+- fitness
+- health
+tags_color: '#1788b1'
 ---
 
 Running a gym or exercise class is a full-time job, right?

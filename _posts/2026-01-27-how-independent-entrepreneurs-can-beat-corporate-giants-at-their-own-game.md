@@ -1,13 +1,15 @@
 ---
 layout: post
-title: "How Independent Entrepreneurs Can Beat Corporate Giants at Their Own Game"
-description: "After $700M in deals, here's why indie businesses aren't losing to big players. They're just playing the wrong game entirely."
-date: 2026-01-27 04:00:54 +0530
+title: How Independent Entrepreneurs Can Beat Corporate Giants at Their Own Game
+description: 'After $700M in deals, here''s why indie businesses aren''t losing to big players. They''re just playing the wrong game entirely.'
+date: '2026-01-27 04:00:54 +0530'
 author: adam
 image: 'https://images.unsplash.com/photo-1765779038142-054a9f8c2268?q=80&w=1035'
-video_embed:
-tags: [news, business]
-tags_color: '#2b2b2b'
+video_embed: null
+tags:
+- news
+- business
+tags_color: '#d32f2f'
 ---
 
 If you're running an independent business in an industry crawling with private equity firms and massive conglomerates, you've probably felt like David facing Goliath. Except David doesn't always win anymore, right?

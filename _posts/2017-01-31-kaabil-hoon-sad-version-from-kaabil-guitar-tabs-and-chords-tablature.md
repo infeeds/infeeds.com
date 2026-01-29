@@ -4,12 +4,12 @@ title: Kaabil Hoon (Sad Version) from Kaabil Guitar Tabs & Chords (Tablature)
 description: 'Tuning : STANDARD |EADGBe|Chords : Fm . Bbm (A#m) . Eb (D#)Introe |--4---4---6---6---3---3---4---4----|B |-----------------------------------|G |----5...'
 date: '2017-01-31 09:13:12'
 author: r7
-image: https://images.unsplash.com/photo-1510915361894-db8b60106cb1?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-video_embed:
+image: 'https://images.unsplash.com/photo-1510915361894-db8b60106cb1?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+video_embed: null
 tags:
-  - diaryofr7
-  - tutorial
-tags_color: '#3cd89f'
+- diaryofr7
+- tutorial
+tags_color: '#1788b1'
 ---
 ```
 Tuning : STANDARD |EADGBe|

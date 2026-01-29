@@ -1,42 +1,17 @@
 ---
-id: 1102
+layout: post
 title: 'Fitness Consultant: Is It the Right Job for You?'
+description: Are you an outgoing person with great communication abilities? Are you the type of person who wants to help others achieve the goals they have set while reachi...
 date: '2023-08-28T04:49:53+00:00'
 author: adam
-layout: post
-guid: 'https://infeeds.com/?p=1102'
-permalink: /fitness-consultant-is-it-the-right-job-for-you/
-csco_singular_layout:
-    - default
-csco_page_header_type:
-    - default
-csco_page_load_nextpost:
-    - default
-csco_post_video_bg_location:
-    - 'a:1:{i:0;s:7:"archive";}'
-csco_post_video_bg_start_time:
-    - '0'
-csco_post_video_bg_end_time:
-    - '0'
-csco_post_media_location:
-    - content
-csco_post_gallery_type:
-    - slider
-powerkit_post_format_link:
-    - ''
-powerkit_post_format_audio:
-    - ''
-powerkit_post_format_video:
-    - ''
-footnotes:
-    - ''
-image: /images/infeeds_post.jpg
-categories:
-    - Health
+image: 'https://images.unsplash.com/photo-1764075832552-bd8cd81cc063?q=80&w=1035'
+video_embed: null
 tags:
-    - career
-    - fitness
-    - lifestyle
+- career
+- fitness
+- lifestyle
+- health
+tags_color: '#1788b1'
 ---
 
 Are you an outgoing person with great communication abilities? Are you the type of person who wants to help others achieve the goals they have set while reaching your own? If so, you might be an awesome candidate to become a fitness consultant.

@@ -1,15 +1,15 @@
 ---
 layout: post
 title: Guitar Tabs & Chords for Song Castle of Glass - Linkin Park
-description: 'Tuning : 1/2 (Half ) Step Down &nbsp; Chords : For 1/2 Step Down&nbsp;&nbsp; : &nbsp; [Dm, F, C, A#, Am] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...'
+description: 'Tuning : 1/2 (Half ) Step Down   Chords : For 1/2 Step Down   :   [Dm, F, C, A#, Am]        ...'
 date: '2015-10-06 14:35:45'
 author: r7
-image: https://images.unsplash.com/photo-1510915361894-db8b60106cb1?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-video_embed:
+image: 'https://images.unsplash.com/photo-1510915361894-db8b60106cb1?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+video_embed: null
 tags:
-  - diaryofr7
-  - tutorial
-tags_color: '#db27ba'
+- diaryofr7
+- tutorial
+tags_color: '#1788b1'
 ---
 Tuning : 1/2 (Half ) Step Down
 

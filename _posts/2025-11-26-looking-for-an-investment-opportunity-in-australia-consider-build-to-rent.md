@@ -1,13 +1,15 @@
 ---
 layout: post
-title:  Looking For An Investment Opportunity In Australia - Consider Build To Rent
-description: You will get all of the usual advice about investing in the stock exchange, bonds, and maybe even crypto. You need something more secure, however, and something with much less risk.
-date:   2025-11-26 03:01:35 +0300
+title: Looking For An Investment Opportunity In Australia - Consider Build To Rent
+description: 'You will get all of the usual advice about investing in the stock exchange, bonds, and maybe even crypto. You need something more secure, however, and something with much less risk.'
+date: '2025-11-26 03:01:35 +0300'
 author: alena
-image:  'https://images.unsplash.com/photo-1565402170291-8491f14678db?q=80&w=2017&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
-video_embed:
-tags: [real estate, australia]
-tags_color: '#5d75ceff'
+image: 'https://images.unsplash.com/photo-1565402170291-8491f14678db?q=80&w=2017&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+video_embed: null
+tags:
+- real estate
+- australia
+tags_color: '#1788b1'
 ---
 
 If you are looking to add to your investment portfolio, or you are just beginning to take an interest in your financial future, then you have come to the right place. You will get all of the usual advice about investing in the stock exchange, bonds, and maybe even crypto. You need something more secure, however, and something with much less risk. This is one of the reasons why many investors are looking into property that they can rent.

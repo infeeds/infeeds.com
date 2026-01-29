@@ -1,13 +1,15 @@
 ---
 layout: post
-title: "Sebastiaan de With Joins Apple's Design Team, Halide Fans Need Not Panic"
-description: "The Lux co-founder behind Halide and Kino is heading to Apple to work on his 'favorite products' while his partner promises Halide isn't going anywhere."
-date: 2026-01-28 12:00:53 +0530
+title: 'Sebastiaan de With Joins Apple''s Design Team, Halide Fans Need Not Panic'
+description: The Lux co-founder behind Halide and Kino is heading to Apple to work on his 'favorite products' while his partner promises Halide isn't going anywhere.
+date: '2026-01-28 12:00:53 +0530'
 author: adam
 image: 'https://images.unsplash.com/photo-1768405942773-87e8d4fb782b?q=80&w=2070'
-video_embed:
-tags: [news, tech]
-tags_color: '#e91e63'
+video_embed: null
+tags:
+- news
+- tech
+tags_color: '#d32f2f'
 ---
 
 Sebastiaan de With is joining Apple's design team, and if you're a Halide user reading this with growing dread, take a breath. The co-founder of Lux, the company behind beloved camera apps Halide and Kino, announced the move today with the kind of vague enthusiasm that corporate transitions demand. "So excited to work with the very best team in the world on my favorite products," he posted.

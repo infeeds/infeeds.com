@@ -1,38 +1,15 @@
 ---
-id: 1290
-title: 'How Much Does an Echocardiogram Cost in 2023?'
+layout: post
+title: How Much Does an Echocardiogram Cost in 2023?
+description: 'So you want to screen yourself for heart conditions? Echocardiograms check for blood clots and a variety of heart conditions. However, how much does an echo co...'
 date: '2023-11-17T13:06:13+00:00'
 author: adam
-layout: post
-guid: 'https://infeeds.com/?p=1290'
-permalink: /how-much-does-an-echocardiogram-cost-in-2023/
-csco_singular_layout:
-    - default
-csco_page_header_type:
-    - default
-csco_page_load_nextpost:
-    - default
-csco_post_video_bg_location:
-    - 'a:1:{i:0;s:7:"archive";}'
-csco_post_video_bg_start_time:
-    - '0'
-csco_post_video_bg_end_time:
-    - '0'
-csco_post_media_location:
-    - content
-csco_post_gallery_type:
-    - slider
-powerkit_post_format_link:
-    - ''
-powerkit_post_format_audio:
-    - ''
-powerkit_post_format_video:
-    - ''
-image: /images/Echocardiogramp-Image.png
-categories:
-    - Health
+image: 'https://images.unsplash.com/photo-1768697581060-52e2edbee7fa?q=80&w=2070'
+video_embed: null
 tags:
-    - machine
+- machine
+- health
+tags_color: '#1788b1'
 ---
 
 So you want to screen yourself for heart conditions? Echocardiograms check for blood clots and a variety of heart conditions. However, how much does an echo cost?

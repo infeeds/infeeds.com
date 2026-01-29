@@ -1,13 +1,15 @@
 ---
 layout: post
-title:  Why communication is so vital for any business to succeed
-description: The mystique of escaping for a break that nobody has heard of is nigh on impossible, as someone is likely to have been there, or locals post photos and videos online of it.
-date:   2025-07-08 03:01:35 +0300
+title: Why communication is so vital for any business to succeed
+description: 'The mystique of escaping for a break that nobody has heard of is nigh on impossible, as someone is likely to have been there, or locals post photos and videos online of it.'
+date: '2025-07-08 03:01:35 +0300'
 author: adam
-image:  'https://images.unsplash.com/photo-1612831455359-970e23a1e4e9?q=80&w=1625&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
-video_embed:
-tags: [cisco, australia]
-tags_color: '#fa1255'
+image: 'https://images.unsplash.com/photo-1612831455359-970e23a1e4e9?q=80&w=1625&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+video_embed: null
+tags:
+- cisco
+- australia
+tags_color: '#1788b1'
 ---
 
 The world is seemingly getting smaller by the day, as contact can be made instantly virtually anywhere through various means. The mystique of escaping for a break that nobody has heard of is nigh on impossible, as someone is likely to have been there, or locals post photos and videos online of it. However, there are also massive advantages. OK, postcards home might be a thing of the past, but instant communication certainly has its advantages, especially in emergencies.

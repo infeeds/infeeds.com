@@ -2,7 +2,7 @@
 username: adam
 name: Adam Makins
 image: '/images/001.jpg'
-cover: '/images/p0olraayxly-1.jpg'
+cover:
 location: Singapore
 website: https://infeeds.com
 twitter: https://twitter.com/infeeds

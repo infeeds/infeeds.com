@@ -1,15 +1,15 @@
 ---
 layout: post
 title: The Nights by Avicii Guitar Tabs & Chords
-description: 'TUNING : STANDARD [eBGDAE]CAPO : 6th FretVERSE :&nbsp; &nbsp; &nbsp;Am&nbsp;Hey, once upon a younger yearWhen all our shadows disappeared&nbsp; &nbsp;...'
+description: 'TUNING : STANDARD [eBGDAE]CAPO : 6th FretVERSE :     Am Hey, once upon a younger yearWhen all our shadows disappeared   ...'
 date: '2015-10-05 04:44:52'
 author: r7
-image: https://images.unsplash.com/photo-1510915361894-db8b60106cb1?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-video_embed:
+image: 'https://images.unsplash.com/photo-1510915361894-db8b60106cb1?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+video_embed: null
 tags:
-  - diaryofr7
-  - tutorial
-tags_color: '#6e9787'
+- diaryofr7
+- tutorial
+tags_color: '#1788b1'
 ---
 ```
 TUNING : STANDARD [eBGDAE]

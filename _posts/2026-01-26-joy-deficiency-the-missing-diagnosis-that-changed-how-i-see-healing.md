@@ -1,13 +1,15 @@
 ---
 layout: post
-title: "Joy Deficiency: The Missing Diagnosis That Changed How I See Healing"
-description: "What happens when a simple question about joy cracks open everything you thought you knew about living with chronic illness and surviving versus actually living."
-date: 2026-01-26 04:00:40 +0530
+title: 'Joy Deficiency: The Missing Diagnosis That Changed How I See Healing'
+description: What happens when a simple question about joy cracks open everything you thought you knew about living with chronic illness and surviving versus actually living.
+date: '2026-01-26 04:00:40 +0530'
 author: adam
 image: 'https://images.unsplash.com/photo-1674064205823-1668a0777091?q=80&w=988'
-video_embed:
-tags: [news, lifestyle]
-tags_color: '#fdd835'
+video_embed: null
+tags:
+- news
+- lifestyle
+tags_color: '#d32f2f'
 ---
 
 There's a question nobody asks when you're sick. Not your doctors, not your specialists, not even the people who love you most. They ask about your pain levels, your medication compliance, whether you've tried this diet or that supplement. But nobody stops to ask if you remember what joy feels like.

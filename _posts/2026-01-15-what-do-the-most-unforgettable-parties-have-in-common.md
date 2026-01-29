@@ -1,13 +1,15 @@
 ---
 layout: post
 title: What Do the Most Unforgettable Parties Have in Common?
-description: Are you ready to throw a party that every guest talks about for months to follow, and everyone who didn’t attend wishes they had?
-date: 2026-01-15 03:01:35 +0300
+description: 'Are you ready to throw a party that every guest talks about for months to follow, and everyone who didn’t attend wishes they had?'
+date: '2026-01-15 03:01:35 +0300'
 author: tiana
-image:  'https://images.unsplash.com/photo-1541532713592-79a0317b6b77?q=80&w=988&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
-video_embed:
-tags: [lifestyle, party]
-tags_color: '#158dc4ff'
+image: 'https://images.unsplash.com/photo-1541532713592-79a0317b6b77?q=80&w=988&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+video_embed: null
+tags:
+- lifestyle
+- party
+tags_color: '#4caf50'
 ---
 
 Are you ready to throw a party that every guest talks about for months to follow, and everyone who didn’t attend wishes they had? It can often feel like the most magical nights happen by accident, but that’s not necessarily the case. For a truly standout party, the planning process needs to be immaculate. 

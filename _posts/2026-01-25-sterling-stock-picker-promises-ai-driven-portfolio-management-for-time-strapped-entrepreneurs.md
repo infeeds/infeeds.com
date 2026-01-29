@@ -1,13 +1,15 @@
 ---
 layout: post
-title: "Sterling Stock Picker Promises AI-Driven Portfolio Management for Time-Strapped Entrepreneurs"
-description: "This AI-powered investment tool claims to simplify stock picking with OpenAI technology. But can an algorithm really replace sound financial judgment?"
-date: 2026-01-25 20:00:41 +0530
+title: Sterling Stock Picker Promises AI-Driven Portfolio Management for Time-Strapped Entrepreneurs
+description: This AI-powered investment tool claims to simplify stock picking with OpenAI technology. But can an algorithm really replace sound financial judgment?
+date: '2026-01-25 20:00:41 +0530'
 author: adam
 image: 'https://images.unsplash.com/photo-1768595629816-cb20775bdec2?q=80&w=987'
-video_embed:
-tags: [news, business]
-tags_color: '#2b2b2b'
+video_embed: null
+tags:
+- news
+- business
+tags_color: '#d32f2f'
 ---
 
 There's an interesting statistic floating around that investors are 50% more likely to become entrepreneurs than non-investors. Whether that's causation or correlation is anyone's guess, but it does highlight something we already know: people who start businesses tend to think about money differently.

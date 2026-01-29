@@ -4,12 +4,12 @@ title: Murder 2 - Phir Mohabbat Guitar Intro Tabs & Chords
 description: 'Capo on 3rd Fret Chords USed : Am . F . G . E . C Intro :e |-----------------|B |-------1-0-------|G |------------0----|D |----2---------3--|A |--0-...'
 date: '2015-10-06 12:41:27'
 author: r7
-image: https://images.unsplash.com/photo-1510915361894-db8b60106cb1?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-video_embed:
+image: 'https://images.unsplash.com/photo-1510915361894-db8b60106cb1?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+video_embed: null
 tags:
-  - diaryofr7
-  - tutorial
-tags_color: '#39a2e1'
+- diaryofr7
+- tutorial
+tags_color: '#1788b1'
 ---
 `Capo on 3rd Fret`
 

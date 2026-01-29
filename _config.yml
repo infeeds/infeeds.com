@@ -11,6 +11,7 @@ permalink: /:title/
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-redirect-from
 
 paginate: 7
 paginate_path: "/blog/page/:num"
@@ -21,13 +22,13 @@ paginate_path: "/blog/page/:num"
 collections:
   pages:
     output: true
-    permalink: /:name
+    permalink: /:name/
   posts:
     output: true
-    permalink: /:slug
+    permalink: /:slug/
   authors:
     output: true
-    permalink: /:name
+    permalink: /:name/
 
 # Pages Path
 defaults:

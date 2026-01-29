@@ -1,13 +1,15 @@
 ---
 layout: post
-title:  Sports Protection – A Guide
-description: There are ways that you can protect your body when playing sports, which we outline in this short article; if your child is just starting out in a sport, do what you can to offer protection.
-date:   2025-06-24 03:01:35 +0300
+title: Sports Protection – A Guide
+description: 'There are ways that you can protect your body when playing sports, which we outline in this short article; if your child is just starting out in a sport, do what you can to offer protection.'
+date: '2025-06-24 03:01:35 +0300'
 author: adam
-image:  'https://images.unsplash.com/photo-1701205550665-e9b1b2df1434?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
-video_embed:
-tags: [sports, australia]
-tags_color: '#ff5549'
+image: 'https://images.unsplash.com/photo-1701205550665-e9b1b2df1434?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+video_embed: null
+tags:
+- sports
+- australia
+tags_color: '#1788b1'
 ---
 
 We all love to play sports and the going can get rough, especially with contact sports like boxing and MMA, and even though the human body is extremely durable, injuries do occur. There are ways that you can protect your body when playing sports, which we outline in this short article; if your child is just starting out in a sport, do what you can to offer protection.

@@ -1,39 +1,16 @@
 ---
-id: 1191
-title: 'Crafting An Effective Screening Process &#8211; Steps To Ensure You Hire The Right Candidates'
+layout: post
+title: Crafting An Effective Screening Process &#8211; Steps To Ensure You Hire The Right Candidates
+description: 'In our seemingly ever-more dynamic business landscape, finding the right talent is crucial for the growth and success of any UK business.  Crafting an effectiv...'
 date: '2023-10-25T03:33:45+00:00'
 author: adam
-layout: post
-guid: 'https://infeeds.com/?p=1191'
-permalink: /crafting-an-effective-screening-process-steps-to-ensure-you-hire-the-right-candidates/
-csco_singular_layout:
-    - default
-csco_page_header_type:
-    - default
-csco_page_load_nextpost:
-    - default
-csco_post_video_bg_location:
-    - 'a:1:{i:0;s:7:"archive";}'
-csco_post_video_bg_start_time:
-    - '0'
-csco_post_video_bg_end_time:
-    - '0'
-csco_post_media_location:
-    - content
-csco_post_gallery_type:
-    - slider
-powerkit_post_format_link:
-    - ''
-powerkit_post_format_audio:
-    - ''
-powerkit_post_format_video:
-    - ''
-image: /images/the-jopwell-collection-Y4uoL2SIGUQ-unsplash.jpg
-categories:
-    - Business
+image: 'https://images.unsplash.com/photo-1674064205823-1668a0777091?q=80&w=988'
+video_embed: null
 tags:
-    - hiring
-    - jobs
+- hiring
+- jobs
+- business
+tags_color: '#1788b1'
 ---
 
 In our seemingly ever-more dynamic business landscape, finding the right talent is crucial for the growth and success of any UK business.

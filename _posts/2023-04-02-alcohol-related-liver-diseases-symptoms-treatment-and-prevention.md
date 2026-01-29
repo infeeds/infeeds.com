@@ -1,40 +1,16 @@
 ---
-id: 937
+layout: post
 title: 'Alcohol-Related Liver Diseases: Symptoms, Treatment and Prevention'
+description: Alcohol-related liver diseases are a group of conditions that can develop from drinking excessive amounts of alcohol. These conditions range from fatty liver d...
 date: '2023-04-02T19:20:19+00:00'
 author: adam
-layout: post
-guid: 'http://infeeds.com/?p=937'
-permalink: /alcohol-related-liver-diseases-symptoms-treatment-and-prevention/
-csco_singular_layout:
-    - default
-csco_page_header_type:
-    - default
-csco_page_load_nextpost:
-    - default
-csco_post_video_bg_location:
-    - 'a:1:{i:0;s:7:"archive";}'
-csco_post_video_bg_start_time:
-    - '0'
-csco_post_video_bg_end_time:
-    - '0'
-csco_post_media_location:
-    - content
-csco_post_gallery_type:
-    - slider
-powerkit_post_format_link:
-    - ''
-powerkit_post_format_audio:
-    - ''
-powerkit_post_format_video:
-    - ''
-image: /images/julien-tromeur-DdA8pS-PiGM-unsplash.jpg
-categories:
-    - Health
+image: 'https://images.unsplash.com/photo-1768622180477-5043d6dcdfcc?q=80&w=2070'
+video_embed: null
 tags:
-    - health
-    - liver
-    - treatment
+- health
+- liver
+- treatment
+tags_color: '#4caf50'
 ---
 
 Alcohol-related liver diseases are a group of conditions that can develop from drinking excessive amounts of alcohol. These conditions range from fatty liver disease to more severe conditions such as alcoholic hepatitis and cirrhosis. In this article, we will discuss the symptoms, treatment, and prevention of alcohol-related liver diseases.

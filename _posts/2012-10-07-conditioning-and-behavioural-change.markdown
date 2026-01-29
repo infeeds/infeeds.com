@@ -1,13 +1,15 @@
 ---
 layout: post
 title: Operant Conditioning and Its Role in Behavioural Change
-description:
-date: 2019-09-14 15:01:35 +0300
+description: 'In operant conditioning, behaviour is influenced by either reinforcement (reward) or punishment, leading to adjustments in the frequency or nature of that behav...'
+date: '2019-09-14 15:01:35 +0300'
 author: alena
-image: '/images/05.jpg'
-video_embed: https://www.youtube.com/embed/62bWUYRxi8g
-tags: [lifestyle, video]
-tags_color: '#835F46'
+image: 'https://images.unsplash.com/photo-1768409427465-01320d46963e?q=80&w=2232'
+video_embed: 'https://www.youtube.com/embed/62bWUYRxi8g'
+tags:
+- lifestyle
+- video
+tags_color: '#4caf50'
 ---
 In operant conditioning, behaviour is influenced by either reinforcement (reward) or punishment, leading to adjustments in the frequency or nature of that behaviour. The stimulus that accompanies this behaviour/consequence relationship starts to play a key role in driving these behaviour changes.
 
@@ -29,22 +31,11 @@ Enculturation is the process by which people learn the appropriate values and be
 
 E-learning or online learning has gained significant traction. Mobile learning (m-learning), using devices like smartphones, is a growing form of e-learning, catering to those on the go.
 
-![Room]({{site.baseurl}}/images/05.jpg)
 *Photo by [Priscilla Du Preez](https://unsplash.com/photos/vZb2zeAhmAc) on [Unsplash](https://unsplash.com/)*
 
 When students engage in e-learning environments, it's often referred to as augmented learning. This form of learning adapts to an individual's environment and can include various media like text, audio, video, and images. Personalised learning like this has been shown to improve lifetime learning outcomes.
 
 **Rote learning** involves memorising content through repetition. While criticised by some educators for being shallow, rote learning remains vital for establishing a foundation in areas like maths, music, and religious studies.
-
-<div class="gallery-box">
-  <div class="gallery gallery--post">
-    <img src="/images/05.jpg" loading="lazy" alt="Mountains">
-    <img src="/images/05.jpg" loading="lazy" alt="Woman">
-    <img src="/images/05.jpg" loading="lazy" alt="Subway">
-    <img src="/images/05.jpg" loading="lazy" alt="City">
-  </div>
-  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
-</div>
 
 Nonformal learning, distinct from formal systems, happens outside institutional environments, like clubs or youth organisations. On the other hand, informal learning occurs spontaneously, through everyday experiences like eating with family, engaging in play, or observing surroundings.
 

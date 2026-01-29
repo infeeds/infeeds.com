@@ -1,39 +1,15 @@
 ---
-id: 872
-title: '9 Tips For Creating A Scandinavian Nursery For Your Baby'
+layout: post
+title: 9 Tips For Creating A Scandinavian Nursery For Your Baby
+description: Decorating your baby’s nursery is an exciting time for all new parents. It gives you the opportunity to create a special space for your baby that is comforta...
 date: '2023-01-25T11:01:32+00:00'
 author: adam
-layout: post
-guid: 'http://infeeds.com/?p=872'
-permalink: /9-tips-for-creating-a-scandinavian-nursery-for-your-baby/
-csco_singular_layout:
-    - default
-csco_page_header_type:
-    - default
-csco_page_load_nextpost:
-    - default
-csco_post_video_bg_location:
-    - 'a:1:{i:0;s:7:"archive";}'
-csco_post_video_bg_start_time:
-    - '0'
-csco_post_video_bg_end_time:
-    - '0'
-csco_post_media_location:
-    - content
-csco_post_gallery_type:
-    - slider
-powerkit_post_format_link:
-    - ''
-powerkit_post_format_audio:
-    - ''
-powerkit_post_format_video:
-    - ''
-image: /images/05.jpg
-categories:
-    - Family
+image: 'https://images.unsplash.com/photo-1768697581060-52e2edbee7fa?q=80&w=2070'
+video_embed: null
 tags:
-    - family
-    - kids
+- family
+- kids
+tags_color: '#1788b1'
 ---
 
 **Decorating your baby’s nursery is an exciting time for all new parents. It gives you the opportunity to create a special space for your baby that is comfortable, secure, and filled with love.**

@@ -1,39 +1,16 @@
 ---
-id: 1297
-title: 'From Shows To Sightseeing &#8211; Crafting The Perfect Itinerary For A Memorable Fashion Week Experience In Paris'
+layout: post
+title: From Shows To Sightseeing &#8211; Crafting The Perfect Itinerary For A Memorable Fashion Week Experience In Paris
+description: 'Ah, Paris! The city of love, lights, and, of course, haute couture. As Fashion Week approaches, it’s time to plan your itinerary for an unforgettable experienc...'
 date: '2023-11-21T15:49:16+00:00'
 author: adam
-layout: post
-guid: 'https://infeeds.com/?p=1297'
-permalink: /from-shows-to-sightseeing-crafting-the-perfect-itinerary-for-a-memorable-fashion-week-experience-in-paris/
-csco_singular_layout:
-    - default
-csco_page_header_type:
-    - default
-csco_page_load_nextpost:
-    - default
-csco_post_video_bg_location:
-    - 'a:1:{i:0;s:7:"archive";}'
-csco_post_video_bg_start_time:
-    - '0'
-csco_post_video_bg_end_time:
-    - '0'
-csco_post_media_location:
-    - content
-csco_post_gallery_type:
-    - slider
-powerkit_post_format_link:
-    - ''
-powerkit_post_format_audio:
-    - ''
-powerkit_post_format_video:
-    - ''
-image: /images/leo-UWtb-3v6jQ-unsplash.jpg
-categories:
-    - Travel
+image: 'https://images.unsplash.com/photo-1768663319879-e6a2b4c7408f?q=80&w=2070'
+video_embed: null
 tags:
-    - paris
-    - sightseeing
+- paris
+- sightseeing
+- travel
+tags_color: '#1788b1'
 ---
 
 Ah, Paris! The city of love, lights, and, of course, haute couture. As Fashion Week approaches, it’s time to plan your itinerary for an unforgettable experience that seamlessly blends the runway’s glitz with the city’s charm. Here’s a guide to help you curate the perfect mix of fashion frenzy and Parisian delight during this exhilarating time.

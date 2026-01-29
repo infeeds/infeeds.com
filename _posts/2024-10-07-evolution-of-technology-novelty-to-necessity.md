@@ -1,13 +1,14 @@
 ---
 layout: post
-title:  The Evolution of Technology, From Novelty to Necessity
-description: Today, they are necessities. But how did we go from a world where the internet was a luxury to one where it's a basic need?
-date:   2024-10-07 15:01:35 +0300
+title: 'The Evolution of Technology, From Novelty to Necessity'
+description: 'Today, they are necessities. But how did we go from a world where the internet was a luxury to one where it''s a basic need?'
+date: '2024-10-07 15:01:35 +0300'
 author: adam
-image:  '/images/012.jpg'
-tags:   [technology]
-tags_color: '#cb4949'
-featured: true
+image: 'https://images.unsplash.com/photo-1674064205823-1668a0777091?q=80&w=988'
+video_embed: null
+tags:
+- technology
+tags_color: '#1788b1'
 ---
 It wasn’t too long ago when smartphones, social media, and artificial intelligence were considered novelties. Today, they are necessities. But how did we go from a world where the internet was a luxury to one where it's a basic need?
 

@@ -1,40 +1,17 @@
 ---
-id: 1369
-title: 'Essential Items to Upgrade Your Patio'
+layout: post
+title: Essential Items to Upgrade Your Patio
+description: 'Turning your patio into a cozy and welcoming outdoor sanctuary is simpler than you might imagine. With a few essential enhancements, you can craft a space that...'
 date: '2024-03-26T18:21:37+00:00'
 author: adam
-layout: post
-guid: 'https://infeeds.com/?p=1369'
-permalink: /essential-items-to-upgrade-your-patio/
-csco_singular_layout:
-    - default
-csco_page_header_type:
-    - default
-csco_page_load_nextpost:
-    - default
-csco_post_video_bg_location:
-    - 'a:1:{i:0;s:7:"archive";}'
-csco_post_video_bg_start_time:
-    - '0'
-csco_post_video_bg_end_time:
-    - '0'
-csco_post_media_location:
-    - content
-csco_post_gallery_type:
-    - slider
-powerkit_post_format_link:
-    - ''
-powerkit_post_format_audio:
-    - ''
-powerkit_post_format_video:
-    - ''
-image: /images/vlad-sargu-ItphH2lGzuI.jpg
-categories:
-    - Household
+image: 'https://images.unsplash.com/photo-1768663319879-e6a2b4c7408f?q=80&w=2070'
+video_embed: null
 tags:
-    - family
-    - home
-    - patio
+- family
+- home
+- patio
+- household
+tags_color: '#1788b1'
 ---
 
 Turning your patio into a cozy and welcoming outdoor sanctuary is simpler than you might imagine. With a few essential enhancements, you can craft a space that is ideal for unwinding, hosting guests, and relishing the beauty of the outdoors. From furniture to lighting to decor, here are some essential items to upgrade your patio and make it the envy of the neighbourhood.

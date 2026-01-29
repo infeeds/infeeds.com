@@ -1,40 +1,17 @@
 ---
-id: 1381
+layout: post
 title: 'Crafting an Inclusive Estate Plan: Guidance for Dividing Assets with Stepchildren'
+description: 'Key Takeaways:  - Equitable estate division with stepchildren requires a clear understanding of emotional dynamics and legal implications. - Utilizing v...'
 date: '2024-04-13T18:38:20+00:00'
 author: adam
-layout: post
-guid: 'https://infeeds.com/?p=1381'
-permalink: /crafting-an-inclusive-estate-plan-guidance-for-dividing-assets-with-stepchildren/
-csco_singular_layout:
-    - default
-csco_page_header_type:
-    - default
-csco_page_load_nextpost:
-    - default
-csco_post_video_bg_location:
-    - 'a:1:{i:0;s:7:"archive";}'
-csco_post_video_bg_start_time:
-    - '0'
-csco_post_video_bg_end_time:
-    - '0'
-csco_post_media_location:
-    - content
-csco_post_gallery_type:
-    - slider
-powerkit_post_format_link:
-    - ''
-powerkit_post_format_audio:
-    - ''
-powerkit_post_format_video:
-    - ''
-image: /images/breno-assis-r3WAWU5Fi5Q.jpg
-categories:
-    - Business
+image: 'https://images.unsplash.com/photo-1768409427465-01320d46963e?q=80&w=2232'
+video_embed: null
 tags:
-    - assets
-    - estate
-    - finance
+- assets
+- estate
+- finance
+- business
+tags_color: '#1788b1'
 ---
 
 ## **Key Takeaways:**

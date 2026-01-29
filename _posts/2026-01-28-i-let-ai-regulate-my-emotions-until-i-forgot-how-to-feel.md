@@ -1,13 +1,15 @@
 ---
 layout: post
-title: "I Let AI Regulate My Emotions Until I Forgot How to Feel"
-description: "A mental health leader's raw account of outsourcing his inner life to algorithms, one exhausted midnight conversation at a time."
-date: 2026-01-28 16:00:54 +0530
+title: I Let AI Regulate My Emotions Until I Forgot How to Feel
+description: 'A mental health leader''s raw account of outsourcing his inner life to algorithms, one exhausted midnight conversation at a time.'
+date: '2026-01-28 16:00:54 +0530'
 author: adam
 image: 'https://images.unsplash.com/photo-1768622180477-5043d6dcdfcc?q=80&w=2070'
-video_embed:
-tags: [news, lifestyle]
-tags_color: '#fdd835'
+video_embed: null
+tags:
+- news
+- lifestyle
+tags_color: '#d32f2f'
 ---
 
 It was close to midnight when reality slapped me across the face.

@@ -1,13 +1,15 @@
 ---
 layout: post
-title:  Work Hard, Rest Smart - How Digital Workers Can Use Online Doctors Notes to Maintain High Performance
-description: You can build a career from anywhere, join meetings in soft clothes, and design a schedule that fits your life.
-date:   2025-11-07 03:01:35 +0300
+title: 'Work Hard, Rest Smart - How Digital Workers Can Use Online Doctors Notes to Maintain High Performance'
+description: 'You can build a career from anywhere, join meetings in soft clothes, and design a schedule that fits your life.'
+date: '2025-11-07 03:01:35 +0300'
 author: alena
-image:  'https://images.unsplash.com/photo-1586227740560-8cf2732c1531?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1261'
-video_embed:
-tags: [health, career]
-tags_color: '#ce5dc1ff'
+image: 'https://images.unsplash.com/photo-1586227740560-8cf2732c1531?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1261'
+video_embed: null
+tags:
+- health
+- career
+tags_color: '#4caf50'
 ---
 
 Remote work changed the game. You can build a career from anywhere, join meetings in soft clothes, and design a schedule that fits your life. You can work from your living room, a coffee shop, or a sunny beach town. Flexibility is now part of professional success. But along with freedom comes a quiet risk: the pressure to always be on, always be online, and always stay productive.

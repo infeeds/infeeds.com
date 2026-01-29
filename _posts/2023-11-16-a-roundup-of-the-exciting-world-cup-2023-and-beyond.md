@@ -1,40 +1,17 @@
 ---
-id: 1284
-title: 'A Roundup of the Exciting World Cup 2023 and Beyond'
+layout: post
+title: A Roundup of the Exciting World Cup 2023 and Beyond
+description: 'The cricketing world is buzzing with excitement as the ICC Men’s Cricket World Cup unfolds, showcasing the sport’s finest players and thrilling matches. The to...'
 date: '2023-11-16T16:28:13+00:00'
 author: adam
-layout: post
-guid: 'https://infeeds.com/?p=1284'
-permalink: /a-roundup-of-the-exciting-world-cup-2023-and-beyond/
-csco_singular_layout:
-    - default
-csco_page_header_type:
-    - default
-csco_page_load_nextpost:
-    - default
-csco_post_video_bg_location:
-    - 'a:1:{i:0;s:7:"archive";}'
-csco_post_video_bg_start_time:
-    - '0'
-csco_post_video_bg_end_time:
-    - '0'
-csco_post_media_location:
-    - content
-csco_post_gallery_type:
-    - slider
-powerkit_post_format_link:
-    - ''
-powerkit_post_format_audio:
-    - ''
-powerkit_post_format_video:
-    - ''
-image: /images/aadil-W5o5EFH_RQ4-uns.jpg
-categories:
-    - Sports
+image: 'https://images.unsplash.com/photo-1674064205823-1668a0777091?q=80&w=988'
+video_embed: null
 tags:
-    - cricket
-    - india
-    - 'world cup'
+- cricket
+- india
+- world cup
+- sports
+tags_color: '#1788b1'
 ---
 
 The cricketing world is buzzing with excitement as the ICC Men’s Cricket World Cup unfolds, showcasing the sport’s finest players and thrilling matches. The tournament has been dominated by India, who have emerged as the clear favorites to win the title. However, New Zealand have also impressed with their fighting spirit and resilience.

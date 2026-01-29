@@ -1,15 +1,15 @@
 ---
 layout: post
 title: Of Monsters and Men - Hunger Guitar Chords
-description: 'TUNING : STANDARD [EADGBe]CAPO : 2nd FretChords Used :&nbsp; &nbsp;&nbsp;Cmaj7 &nbsp; &nbsp; &nbsp; G &nbsp; &nbsp; &nbsp; &nbsp; D6 &nbsp; &nbsp; &nb...'
+description: 'TUNING : STANDARD [EADGBe]CAPO : 2nd FretChords Used :    Cmaj7       G         D6     &nb...'
 date: '2015-10-05 04:54:44'
 author: r7
-image: https://images.unsplash.com/photo-1510915361894-db8b60106cb1?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-video_embed:
+image: 'https://images.unsplash.com/photo-1510915361894-db8b60106cb1?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+video_embed: null
 tags:
-  - diaryofr7
-  - tutorial
-tags_color: '#ff78e2'
+- diaryofr7
+- tutorial
+tags_color: '#1788b1'
 ---
 ```
 TUNING : STANDARD [EADGBe]

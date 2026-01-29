@@ -1,40 +1,17 @@
 ---
-id: 1179
-title: 'Signs It&#8217;s Time To Expand Your Business And How To Do It Right'
+layout: post
+title: Signs It's Time To Expand Your Business And How To Do It Right
+description: Expanding your business can be a thrilling yet daunting endeavour. Recognising the right time and knowing how to do it properly is vital for your company’s gro...
 date: '2023-10-24T08:59:45+00:00'
 author: adam
-layout: post
-guid: 'https://infeeds.com/?p=1179'
-permalink: /signs-its-time-to-expand-your-business-and-how-to-do-it-right/
-csco_singular_layout:
-    - default
-csco_page_header_type:
-    - default
-csco_page_load_nextpost:
-    - default
-csco_post_video_bg_location:
-    - 'a:1:{i:0;s:7:"archive";}'
-csco_post_video_bg_start_time:
-    - '0'
-csco_post_video_bg_end_time:
-    - '0'
-csco_post_media_location:
-    - content
-csco_post_gallery_type:
-    - slider
-powerkit_post_format_link:
-    - ''
-powerkit_post_format_audio:
-    - ''
-powerkit_post_format_video:
-    - ''
-image: /images/isaac-smith-6EnTPvPPL6I-unsplash.jpg
-categories:
-    - Business
+image: 'https://images.unsplash.com/photo-1768405942773-87e8d4fb782b?q=80&w=2070'
+video_embed: null
 tags:
-    - career
-    - company
-    - success
+- career
+- company
+- success
+- business
+tags_color: '#1788b1'
 ---
 
 Expanding your business can be a thrilling yet daunting endeavour. Recognising the right time and knowing how to do it properly is vital for your company’s growth and success. Keep reading as we explore the signs that indicate it’s time to expand and the strategies to make the expansion a resounding success.

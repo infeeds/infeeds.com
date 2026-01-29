@@ -1,13 +1,15 @@
 ---
 layout: post
 title: The Top Ways To Keep Your Home & Family Members Safer In Australia
-description: Traditional office setups are giving way to more dynamic, flexible environments where collaboration and networking are not just perks, they’re essential.
-date: 2025-10-29 03:01:35 +0300
+description: 'Traditional office setups are giving way to more dynamic, flexible environments where collaboration and networking are not just perks, they’re essential.'
+date: '2025-10-29 03:01:35 +0300'
 author: tiana
-image:  'https://images.unsplash.com/photo-1563920443079-783e5c786b83?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=2074'
-video_embed:
-tags: [security, australia]
-tags_color: '#1561c4ff'
+image: 'https://images.unsplash.com/photo-1563920443079-783e5c786b83?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=2074'
+video_embed: null
+tags:
+- security
+- australia
+tags_color: '#1788b1'
 ---
 
 There is a well-known saying that ‘your home is your castle’, and it’s the one place in which you should feel completely safe and secure. This is why we spend a great deal of our time every day, inside our homes, enjoying the company of family members, and spending time alone. We spend lots of money on decorating both the interior and exterior of our properties, and yet we don’t dedicate enough effort to making our homes safer.

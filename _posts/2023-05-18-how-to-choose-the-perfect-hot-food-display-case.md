@@ -1,40 +1,17 @@
 ---
-id: 960
-title: 'How to Choose the Perfect Hot Food Display Case'
+layout: post
+title: How to Choose the Perfect Hot Food Display Case
+description: 'People eat hot food from Subway all year long, not when it’s cold outside. If you have a fast-casual restaurant with hearty meals, you should be able to serve...'
 date: '2023-05-18T14:25:22+00:00'
 author: adam
-layout: post
-guid: 'http://infeeds.com/?p=960'
-permalink: /how-to-choose-the-perfect-hot-food-display-case/
-csco_singular_layout:
-    - default
-csco_page_header_type:
-    - default
-csco_page_load_nextpost:
-    - default
-csco_post_video_bg_location:
-    - 'a:1:{i:0;s:7:"archive";}'
-csco_post_video_bg_start_time:
-    - '0'
-csco_post_video_bg_end_time:
-    - '0'
-csco_post_media_location:
-    - content
-csco_post_gallery_type:
-    - slider
-powerkit_post_format_link:
-    - ''
-powerkit_post_format_audio:
-    - ''
-powerkit_post_format_video:
-    - ''
-image: /images/jonathan-borba-5E0d3lfoC1w-unsplash-3-scaled.jpg
-categories:
-    - Business
+image: 'https://images.unsplash.com/photo-1674064205823-1668a0777091?q=80&w=988'
+video_embed: null
 tags:
-    - food
-    - restaurant
-    - subway
+- food
+- restaurant
+- subway
+- business
+tags_color: '#1788b1'
 ---
 
 People eat hot food from Subway all year long, not when it’s cold outside. If you have a fast-casual restaurant with hearty meals, you should be able to serve them year round too.

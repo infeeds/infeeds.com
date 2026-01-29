@@ -1,13 +1,15 @@
 ---
 layout: post
-title:  Why Work with Inner-City Building Design Specialists?
-description: In general, when local designers ply their skills in the city centre, a completely different connotation manifests compared to suburban or rural types.
-date:   2025-09-19 03:01:35 +0300
+title: Why Work with Inner-City Building Design Specialists?
+description: 'In general, when local designers ply their skills in the city centre, a completely different connotation manifests compared to suburban or rural types.'
+date: '2025-09-19 03:01:35 +0300'
 author: adam
-image:  'https://images.unsplash.com/photo-1649474773509-d944087eebf6?q=80&w=952&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
-video_embed:
-tags: [designing, australia]
-tags_color: '#11cb8dff'
+image: 'https://images.unsplash.com/photo-1649474773509-d944087eebf6?q=80&w=952&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+video_embed: null
+tags:
+- designing
+- australia
+tags_color: '#1788b1'
 ---
 
 In general, when local designers ply their skills in the city centre, a completely different connotation manifests compared to suburban or rural types. Space is tight, regulations might be stricter, and in harmony with these requirements and conditions, every single point has to compete to be a little functional or beautiful. Now, a building design consultant can fill such a gap—someone who knows profit maximisation under hard constraints in urban settings with respect to local council rules and modern lifestyle demands; these are [inner-city building design specialists](https://byarchitecture.com.au/melbourne-cbd/).

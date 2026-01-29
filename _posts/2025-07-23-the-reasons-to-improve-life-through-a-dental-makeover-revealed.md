@@ -1,13 +1,15 @@
 ---
 layout: post
-title:  The reasons to improve life through a dental makeover revealed
-description: Tooth loss can arise from various causes such as decay, injury, or gum disease, and its repercussions extend far beyond the simple act of chewing.
-date:   2025-07-23 03:01:35 +0300
+title: The reasons to improve life through a dental makeover revealed
+description: 'Tooth loss can arise from various causes such as decay, injury, or gum disease, and its repercussions extend far beyond the simple act of chewing.'
+date: '2025-07-23 03:01:35 +0300'
 author: adam
-image:  'https://images.unsplash.com/photo-1564420228450-d9a5bc8d6565?q=80&w=1713&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
-video_embed:
-tags:   [australia, dentist]
-tags_color: '#7dea56'
+image: 'https://images.unsplash.com/photo-1564420228450-d9a5bc8d6565?q=80&w=1713&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+video_embed: null
+tags:
+- australia
+- dentist
+tags_color: '#1788b1'
 ---
 
 Having a beautiful set of teeth that allows a person to smile is extremely important in many ways. Immediately, looks are enhanced, which will be greeted with positive impressions by others. It increases confidence, which can make a world of difference whether professionally in the workplace or when meeting friends socially and perhaps looking to find the perfect partner. Having a better quality of life consequently leads to better mental health with all the benefits that it brings.

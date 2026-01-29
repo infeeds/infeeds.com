@@ -1,40 +1,16 @@
 ---
-id: 692
-title: 'What Are the Different Types of Senior Care?'
+layout: post
+title: What Are the Different Types of Senior Care?
+description: 'After years of being independent, it can sometimes feel strange or difficult to admit when you start to need help again. Although many senior citizens are stil...'
 date: '2022-03-01T18:16:18+00:00'
 author: adam
-layout: post
-guid: 'http://infeeds.com/?p=692'
-permalink: /what-are-the-different-types-of-senior-care/
-csco_singular_layout:
-    - default
-csco_page_header_type:
-    - default
-csco_page_load_nextpost:
-    - default
-csco_post_video_bg_location:
-    - 'a:1:{i:0;s:7:"archive";}'
-csco_post_video_bg_start_time:
-    - '0'
-csco_post_video_bg_end_time:
-    - '0'
-csco_post_media_location:
-    - content
-csco_post_gallery_type:
-    - slider
-powerkit_post_format_link:
-    - ''
-powerkit_post_format_audio:
-    - ''
-powerkit_post_format_video:
-    - ''
-image: /images/senior_care-e1646158529491.jpeg
-categories:
-    - Health
+image: 'https://images.unsplash.com/photo-1765707886613-f4961bbd07dd?q=80&w=988'
+video_embed: null
 tags:
-    - health
-    - life
-    - senior
+- health
+- life
+- senior
+tags_color: '#4caf50'
 ---
 
 After years of being independent, it can sometimes feel strange or difficult to admit when you start to need help again. Although many senior citizens are still able to live independently and are in great health, others might find themselves starting to struggle physically, mentally, or both as they turn another year older. It is important to make sure that you or a beloved senior relative of yours has the right support in place, and below are some of the options of senior care available that you may want to explore.

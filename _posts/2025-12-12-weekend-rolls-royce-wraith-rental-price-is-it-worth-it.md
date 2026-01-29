@@ -1,13 +1,15 @@
 ---
 layout: post
-title: Weekend Rolls Royce Wraith Rental Price, Is it Worth It?
+title: 'Weekend Rolls Royce Wraith Rental Price, Is it Worth It?'
 description: There is no better way to do this than with a rented Rolls Royce Wraith. You need to know the Rolls Royce Wraith rental price for planning since this is an expensive and luxurious exotic car.
-date: 2025-12-12 03:01:35 +0300
+date: '2025-12-12 03:01:35 +0300'
 author: adam
 image: 'https://images.unsplash.com/photo-1581966451257-a5c7c5afa833?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cm9sbHMlMjByb3ljZXxlbnwwfHwwfHx8MA%3D%3D'
-video_embed:
-tags: [lifestyle, cars]
-tags_color: '#383c57ff'
+video_embed: null
+tags:
+- lifestyle
+- cars
+tags_color: '#4caf50'
 ---
 
 The weekend is here—exactly what you have been waiting for, right? And this can only mean one thing: it’s the perfect time to go out and have fun. There is no better way to do this than with a rented Rolls Royce Wraith. You need to know the Rolls Royce Wraith rental price for planning since this is an expensive and luxurious exotic car.

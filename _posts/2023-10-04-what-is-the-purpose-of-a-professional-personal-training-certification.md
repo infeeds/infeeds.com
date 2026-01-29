@@ -1,40 +1,17 @@
 ---
-id: 1138
-title: 'What Is the Purpose of a Professional Personal Training Certification?'
+layout: post
+title: What Is the Purpose of a Professional Personal Training Certification?
+description: 'As a personal trainer, you must possess many different skills and abilities. But no matter how much experience you have, you need the right training. This way,...'
 date: '2023-10-04T16:27:02+00:00'
 author: adam
-layout: post
-guid: 'https://infeeds.com/?p=1138'
-permalink: /what-is-the-purpose-of-a-professional-personal-training-certification/
-csco_singular_layout:
-    - default
-csco_page_header_type:
-    - default
-csco_page_load_nextpost:
-    - default
-csco_post_video_bg_location:
-    - 'a:1:{i:0;s:7:"archive";}'
-csco_post_video_bg_start_time:
-    - '0'
-csco_post_video_bg_end_time:
-    - '0'
-csco_post_media_location:
-    - content
-csco_post_gallery_type:
-    - slider
-powerkit_post_format_link:
-    - ''
-powerkit_post_format_audio:
-    - ''
-powerkit_post_format_video:
-    - ''
-image: /images/lewis-keegan-XQaqV5qYcXg-unsplash.jpg
-categories:
-    - Education
+image: 'https://images.unsplash.com/photo-1768622180477-5043d6dcdfcc?q=80&w=2070'
+video_embed: null
 tags:
-    - career
-    - certification
-    - jobs
+- career
+- certification
+- jobs
+- education
+tags_color: '#1788b1'
 ---
 
 As a personal trainer, you must possess many different skills and abilities. But no matter how much experience you have, you need the right training. This way, you can provide your clients with the safest and most effective training.

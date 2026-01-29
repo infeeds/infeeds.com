@@ -1,13 +1,15 @@
 ---
 layout: post
 title: Discover the Calm and Craft Behind Japanese Matcha Tea
-description: A peaceful cup of tea might make you feel more grounded right away.  Whisking, pouring, and sipping may slow down even the busiest day.
-date: 2025-10-14 03:01:35 +0300
+description: 'A peaceful cup of tea might make you feel more grounded right away.  Whisking, pouring, and sipping may slow down even the busiest day.'
+date: '2025-10-14 03:01:35 +0300'
 author: tiana
-image:  'https://images.unsplash.com/photo-1624893578106-a98840591afc?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=987'
-video_embed:
-tags: [lifestyle, australia]
-tags_color: '#c4be15ff'
+image: 'https://images.unsplash.com/photo-1624893578106-a98840591afc?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=987'
+video_embed: null
+tags:
+- lifestyle
+- australia
+tags_color: '#4caf50'
 ---
 
 A peaceful cup of tea might make you feel more grounded right away.  Whisking, pouring, and sipping may slow down even the busiest day.  Australians have fallen in love with [Japanese matcha tea](https://okaeri.au/collections/tea-matcha) in recent years. They enjoy the bright green colour and rich flavour, but they also appreciate how it makes them feel peaceful and like they're doing something special.

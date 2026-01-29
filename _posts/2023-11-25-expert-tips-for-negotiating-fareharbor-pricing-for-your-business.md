@@ -1,39 +1,16 @@
 ---
-id: 1300
-title: 'Expert Tips for Negotiating FareHarbor Pricing for Your Business'
+layout: post
+title: Expert Tips for Negotiating FareHarbor Pricing for Your Business
+description: 'Are you seeking to streamline your tourism business but are concerned about the cost? You’re not alone.  The world of tour operations can be a tricky game, yet...'
 date: '2023-11-25T05:39:04+00:00'
 author: adam
-layout: post
-guid: 'https://infeeds.com/?p=1300'
-permalink: /expert-tips-for-negotiating-fareharbor-pricing-for-your-business/
-csco_singular_layout:
-    - default
-csco_page_header_type:
-    - default
-csco_page_load_nextpost:
-    - default
-csco_post_video_bg_location:
-    - 'a:1:{i:0;s:7:"archive";}'
-csco_post_video_bg_start_time:
-    - '0'
-csco_post_video_bg_end_time:
-    - '0'
-csco_post_media_location:
-    - content
-csco_post_gallery_type:
-    - slider
-powerkit_post_format_link:
-    - ''
-powerkit_post_format_audio:
-    - ''
-powerkit_post_format_video:
-    - ''
-image: /images/mathieu-stern-1fzyz-bmKBw.jpg
-categories:
-    - Business
+image: 'https://images.unsplash.com/photo-1768405942773-87e8d4fb782b?q=80&w=2070'
+video_embed: null
 tags:
-    - fareharbor
-    - finance
+- fareharbor
+- finance
+- business
+tags_color: '#1788b1'
 ---
 
 Are you seeking to streamline your tourism business but are concerned about the cost? You’re not alone.

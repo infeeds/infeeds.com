@@ -1,13 +1,15 @@
 ---
 layout: post
 title: What Real Estate Investment Risks Should You Watch?
-description: You can maximise profit from a property for as long as it remains in good condition. But nature can have other plans, and human errors contribute to property risks as well.
-date: 2026-01-19 01:07:10 +0300
+description: 'You can maximise profit from a property for as long as it remains in good condition. But nature can have other plans, and human errors contribute to property risks as well.'
+date: '2026-01-19 01:07:10 +0300'
 author: tiana
 image: 'https://images.unsplash.com/photo-1662209162721-e1c196247bc2?q=80&w=1035&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
-video_embed:
-tags: [investment, thailand]
-tags_color: '#b15517'
+video_embed: null
+tags:
+- investment
+- thailand
+tags_color: '#1788b1'
 ---
 
 Before you commit your money to [Thailand property investment for foreigners​](https://nebuworld.com/) and other real estate assets, you should know the risks you're likely to encounter. Like many investment vehicles, real estate is not risk-free. But any challenges you come across are avoidable and manageable with the right knowledge.

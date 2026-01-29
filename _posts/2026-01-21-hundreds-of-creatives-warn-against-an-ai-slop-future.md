@@ -1,13 +1,15 @@
 ---
 layout: post
-title: "Hundreds of creatives warn against an AI slop future"
-description: "Around 800 artists launch Stealing Isn't Innovation campaign against AI companies using creative work without permission or payment"
-date: 2026-01-21 18:06:08 +0530
+title: Hundreds of creatives warn against an AI slop future
+description: Around 800 artists launch Stealing Isn't Innovation campaign against AI companies using creative work without permission or payment
+date: '2026-01-21 18:06:08 +0530'
 author: adam
 image: 'https://images.unsplash.com/photo-1674027444485-cec3da58eef4?q=80&w=2232'
-video_embed:
-tags: [tech, ai]
-tags_color: '#7c3aed'
+video_embed: null
+tags:
+- tech
+- ai
+tags_color: '#0056fe'
 ---
 
 ## When Hollywood Meets Silicon Valley's Data Appetite

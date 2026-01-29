@@ -1,13 +1,15 @@
 ---
 layout: post
-title:  Several great reasons to purchase a men’s dress suit
+title: Several great reasons to purchase a men’s dress suit
 description: There's nothing better than receiving news or an invitation to a social occasion where work can be forgotten for a few hours and fun can be enjoyed.
-date:   2025-04-17 03:01:35 +0300
+date: '2025-04-17 03:01:35 +0300'
 author: adam
-image:  'https://images.unsplash.com/photo-1693743472699-a0264203ac56?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
-video_embed:
-tags:   [clothing, australia]
-tags_color: '#3f31da'
+image: 'https://images.unsplash.com/photo-1693743472699-a0264203ac56?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+video_embed: null
+tags:
+- clothing
+- australia
+tags_color: '#1788b1'
 ---
 There's nothing better than receiving news or an invitation to a social occasion where work can be forgotten for a few hours and fun can be enjoyed. It might be a formal occasion where one's appearance will be welcomed, such as a wedding or special anniversary. Perhaps it might be to spend time in hospitality at an event which will be the envy of friends.
 

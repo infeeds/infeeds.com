@@ -1,13 +1,15 @@
 ---
 layout: post
-title:  Why move to Tulum? The main 5 advantages for expats
-description: Whether you're working remotely, retiring early, or simply craving a slower pace, Tulum has a lot to offer. Let us walk you through the five things that make it such a special place to call home.
-date:   2025-07-28 03:01:35 +0300
+title: Why move to Tulum? The main 5 advantages for expats
+description: 'Whether you''re working remotely, retiring early, or simply craving a slower pace, Tulum has a lot to offer. Let us walk you through the five things that make it such a special place to call home.'
+date: '2025-07-28 03:01:35 +0300'
 author: alena
-image:  'https://images.unsplash.com/photo-1568849676085-51415703900f?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
-video_embed:
-tags: [life, tulum]
-tags_color: '#a149cb'
+image: 'https://images.unsplash.com/photo-1568849676085-51415703900f?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+video_embed: null
+tags:
+- life
+- tulum
+tags_color: '#1788b1'
 ---
 
 Thinking about a change of scenery? If you're looking for sunshine, simplicity, and a more intentional way of living, Tulum might be exactly what you need. More and more people are choosing this corner of the Riviera Maya not just for vacation, but to actually build a life; one that feels lighter, healthier, and more connected.

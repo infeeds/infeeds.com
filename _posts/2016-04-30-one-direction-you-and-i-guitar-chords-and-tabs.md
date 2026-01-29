@@ -1,15 +1,15 @@
 ---
 layout: post
 title: One Direction - You And I Guitar Chords & Tabs
-description: '- Capo :&nbsp;Ist FretCHORDS : F . G . Am . Em . D . C- Without Capo\"You can Play These Chords&nbsp;F# . G# . A#m . Fm . D# . C#&nbsp; instead of chor...'
+description: '- Capo : Ist FretCHORDS : F . G . Am . Em . D . C- Without Capo\"You can Play These Chords F# . G# . A#m . Fm . D# . C#  instead of chor...'
 date: '2016-04-30 19:50:19'
 author: r7
-image: https://images.unsplash.com/photo-1510915361894-db8b60106cb1?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-video_embed:
+image: 'https://images.unsplash.com/photo-1510915361894-db8b60106cb1?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+video_embed: null
 tags:
-  - diaryofr7
-  - tutorial
-tags_color: '#7804dc'
+- diaryofr7
+- tutorial
+tags_color: '#1788b1'
 ---
 `- Capo : Ist Fret`
 

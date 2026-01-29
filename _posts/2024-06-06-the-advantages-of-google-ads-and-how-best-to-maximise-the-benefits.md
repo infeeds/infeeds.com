@@ -1,39 +1,16 @@
 ---
-id: 1402
+layout: post
 title: 'The advantages of Google Ads, and how best to maximise the benefits'
+description: 'In the World of online adverts, Google Ads is a huge deal. It can be described as a superhighway for businesses to get noticed online. Ignoring the power and p...'
 date: '2024-06-06T07:06:09+00:00'
 author: adam
-layout: post
-guid: 'https://infeeds.com/?p=1402'
-permalink: /the-advantages-of-google-ads-and-how-best-to-maximise-the-benefits/
-csco_singular_layout:
-    - default
-csco_page_header_type:
-    - default
-csco_page_load_nextpost:
-    - default
-csco_post_video_bg_location:
-    - 'a:1:{i:0;s:7:"archive";}'
-csco_post_video_bg_start_time:
-    - '0'
-csco_post_video_bg_end_time:
-    - '0'
-csco_post_media_location:
-    - content
-csco_post_gallery_type:
-    - slider
-powerkit_post_format_link:
-    - ''
-powerkit_post_format_audio:
-    - ''
-powerkit_post_format_video:
-    - ''
-image: /images/pexels-wdnet-218717.jpg
-categories:
-    - Business
+image: 'https://images.unsplash.com/photo-1768595629816-cb20775bdec2?q=80&w=987'
+video_embed: null
 tags:
-    - google
-    - marketing
+- google
+- marketing
+- business
+tags_color: '#1788b1'
 ---
 
 In the World of online adverts, Google Ads is a huge deal. It can be described as a superhighway for businesses to get noticed online. Ignoring the power and potential that your business can reap through Google Ads is ignoring free money and publicity. Here are some reasons that they could be game-changing for your business:

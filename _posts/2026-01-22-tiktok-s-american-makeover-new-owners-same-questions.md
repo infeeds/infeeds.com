@@ -1,13 +1,15 @@
 ---
 layout: post
-title: "TikTok's American Makeover: New Owners, Same Questions"
-description: "TikTok is now 80% American-owned through a joint venture, but the real story is messier than the headlines suggest. Here's what actually changed."
-date: 2026-01-22 16:00:00 +0530
+title: 'TikTok''s American Makeover: New Owners, Same Questions'
+description: 'TikTok is now 80% American-owned through a joint venture, but the real story is messier than the headlines suggest. Here''s what actually changed.'
+date: '2026-01-22 16:00:00 +0530'
 author: adam
 image: 'https://images.unsplash.com/photo-1674064205823-1668a0777091?q=80&w=988'
-video_embed:
-tags: [news, tech]
-tags_color: '#e91e63'
+video_embed: null
+tags:
+- news
+- tech
+tags_color: '#d32f2f'
 ---
 
 So TikTok didn't die. It got a makeover instead.

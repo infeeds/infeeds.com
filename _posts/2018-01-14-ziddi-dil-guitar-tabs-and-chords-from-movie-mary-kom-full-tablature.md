@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Ziddi Dil Guitar Tabs & Chords from movie Mary Kom [Full Tablature]
+title: 'Ziddi Dil Guitar Tabs & Chords from movie Mary Kom [Full Tablature]'
 description: 'Tuning : STANDARD |EADGBe|Chords : Bm . G . A . F# . Em . DINTROe |----------------------------|B |----------------------------|G |-------------------...'
 date: '2018-01-14 13:05:19'
 author: r7
-image: https://images.unsplash.com/photo-1510915361894-db8b60106cb1?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-video_embed:
+image: 'https://images.unsplash.com/photo-1510915361894-db8b60106cb1?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+video_embed: null
 tags:
-  - diaryofr7
-  - tutorial
-tags_color: '#6a0715'
+- diaryofr7
+- tutorial
+tags_color: '#1788b1'
 ---
 ```
 Tuning : STANDARD |EADGBe|

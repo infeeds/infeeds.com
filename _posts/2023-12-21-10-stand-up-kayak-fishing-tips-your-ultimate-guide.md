@@ -1,39 +1,16 @@
 ---
-id: 1333
+layout: post
 title: '10 Stand-Up Kayak Fishing Tips: Your Ultimate Guide'
+description: 'Want to start stand-up kayak fishing but you’re afraid of falling overboard?  In this article, we’ll give you 10 stand-up kayak fishing tips that will help you...'
 date: '2023-12-21T06:08:46+00:00'
 author: adam
-layout: post
-guid: 'https://infeeds.com/?p=1333'
-permalink: /10-stand-up-kayak-fishing-tips-your-ultimate-guide/
-csco_singular_layout:
-    - default
-csco_page_header_type:
-    - default
-csco_page_load_nextpost:
-    - default
-csco_post_video_bg_location:
-    - 'a:1:{i:0;s:7:"archive";}'
-csco_post_video_bg_start_time:
-    - '0'
-csco_post_video_bg_end_time:
-    - '0'
-csco_post_media_location:
-    - content
-csco_post_gallery_type:
-    - slider
-powerkit_post_format_link:
-    - ''
-powerkit_post_format_audio:
-    - ''
-powerkit_post_format_video:
-    - ''
-image: /images/harrison-kugler.jpg
-categories:
-    - Outdoors
+image: 'https://images.unsplash.com/photo-1765707886613-f4961bbd07dd?q=80&w=988'
+video_embed: null
 tags:
-    - fishing
-    - guide
+- fishing
+- guide
+- outdoors
+tags_color: '#1788b1'
 ---
 
 Want to start stand-up kayak fishing but you’re afraid of falling overboard?

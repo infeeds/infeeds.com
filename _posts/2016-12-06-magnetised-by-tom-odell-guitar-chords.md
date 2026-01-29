@@ -4,12 +4,12 @@ title: Magnetised by Tom Odell Guitar Chords
 description: "Tuning : STANDARD |EADGBe|Chords : G . A . Bm . F#m . F# . Em . EINTROG . A . Bm . F#mVERSEG \_ \_ \_ \_ \_ A \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_Bm \_ \_ \_ \_ \_ \_ \_\_See tho..."
 date: '2016-12-06 21:58:33'
 author: r7
-image: https://images.unsplash.com/photo-1510915361894-db8b60106cb1?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-video_embed:
+image: 'https://images.unsplash.com/photo-1510915361894-db8b60106cb1?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+video_embed: null
 tags:
-  - diaryofr7
-  - tutorial
-tags_color: '#245f6e'
+- diaryofr7
+- tutorial
+tags_color: '#1788b1'
 ---
 ```
 Tuning : STANDARD |EADGBe|

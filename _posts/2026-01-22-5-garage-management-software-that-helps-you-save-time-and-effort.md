@@ -1,13 +1,15 @@
 ---
 layout: post
 title: 5 Garage Management Software That Helps You Save Time and Effort
-description: Garages move quickly, and even minor delays can disrupt schedules. This is why garage owners must ensure that every job receives high-quality service while consistently providing customers with clear updates.
-date: 2026-01-22 01:07:10 +0300
+description: 'Garages move quickly, and even minor delays can disrupt schedules. This is why garage owners must ensure that every job receives high-quality service while consistently providing customers with clear updates.'
+date: '2026-01-22 01:07:10 +0300'
 author: tiana
-image: '/images/5-garage-management-software-that-helps-you-save-time-and-effort.jpg'
-video_embed:
-tags: [software, lifestyle]
-tags_color: '#17b121'
+image: 'https://images.unsplash.com/photo-1765779038142-054a9f8c2268?q=80&w=1035'
+video_embed: null
+tags:
+- software
+- lifestyle
+tags_color: '#1788b1'
 ---
 
 Garages move quickly, and even minor delays can disrupt schedules. This is why garage owners must ensure that every job receives high-quality service while consistently providing customers with clear updates. But if these tasks are handled by separate systems, it can be difficult to keep everything in sync.

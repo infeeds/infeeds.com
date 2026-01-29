@@ -1,39 +1,16 @@
 ---
-id: 1342
-title: 'A Guide To Looking After Your Fireplace'
+layout: post
+title: A Guide To Looking After Your Fireplace
+description: 'The fireplace is a focal point in many homes, offering comfort and ambiance. However, to ensure that your fireplace remains both functional and safe, regular m...'
 date: '2023-12-30T05:29:14+00:00'
 author: adam
-layout: post
-guid: 'https://infeeds.com/?p=1342'
-permalink: /a-guide-to-looking-after-your-fireplace/
-csco_singular_layout:
-    - default
-csco_page_header_type:
-    - default
-csco_page_load_nextpost:
-    - default
-csco_post_video_bg_location:
-    - 'a:1:{i:0;s:7:"archive";}'
-csco_post_video_bg_start_time:
-    - '0'
-csco_post_video_bg_end_time:
-    - '0'
-csco_post_media_location:
-    - content
-csco_post_gallery_type:
-    - slider
-powerkit_post_format_link:
-    - ''
-powerkit_post_format_audio:
-    - ''
-powerkit_post_format_video:
-    - ''
-image: /images/jessica-johnston-Jqyn5QAxJOY-scaled.jpg
-categories:
-    - Household
+image: 'https://images.unsplash.com/photo-1768595629816-cb20775bdec2?q=80&w=987'
+video_embed: null
 tags:
-    - home
-    - safety
+- home
+- safety
+- household
+tags_color: '#1788b1'
 ---
 
 The fireplace is a focal point in many homes, offering comfort and ambiance. However, to ensure that your fireplace remains both functional and safe, regular maintenance is crucial. This article explores the essential tips for looking after your fireplace to keep it in top condition.

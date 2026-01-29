@@ -1,13 +1,15 @@
 ---
 layout: post
 title: The Power of Connection in Shared Work Environments
-description: Traditional office setups are giving way to more dynamic, flexible environments where collaboration and networking are not just perks, they’re essential.
-date: 2025-10-23 03:01:35 +0300
+description: 'Traditional office setups are giving way to more dynamic, flexible environments where collaboration and networking are not just perks, they’re essential.'
+date: '2025-10-23 03:01:35 +0300'
 author: tiana
-image:  'https://images.unsplash.com/photo-1527192491265-7e15c55b1ed2?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=2070'
-video_embed:
-tags: [workspace, work]
-tags_color: '#c47815ff'
+image: 'https://images.unsplash.com/photo-1527192491265-7e15c55b1ed2?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=2070'
+video_embed: null
+tags:
+- workspace
+- work
+tags_color: '#1788b1'
 ---
 
 In today’s evolving business landscape, the way we work is shifting dramatically. Traditional office setups are giving way to more dynamic, flexible environments where collaboration and networking are not just perks, they’re essential. Shared workspaces, often known as coworking environments, are at the heart of this transformation. Beyond providing a place to work, these spaces foster connections that drive creativity, innovation, and growth.

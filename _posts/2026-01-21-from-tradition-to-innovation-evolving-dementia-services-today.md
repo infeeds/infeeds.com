@@ -1,13 +1,15 @@
 ---
 layout: post
-title: From Tradition to Innovation, Evolving Dementia Services Today
-description: There are so many well-educated and highly skilled working people out there who are currently seeking employment, as there are plenty of employers searching for the right candidate to efficiently fulfil roles in their companies.
-date: 2026-01-21 01:07:10 +0300
+title: 'From Tradition to Innovation, Evolving Dementia Services Today'
+description: 'There are so many well-educated and highly skilled working people out there who are currently seeking employment, as there are plenty of employers searching for the right candidate to efficiently fulfil roles in their companies.'
+date: '2026-01-21 01:07:10 +0300'
 author: alena
 image: 'https://images.unsplash.com/photo-1477332552946-cfb384aeaf1c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
-video_embed:
-tags: [healthcare, health]
-tags_color: '#5717b1'
+video_embed: null
+tags:
+- healthcare
+- health
+tags_color: '#1788b1'
 ---
 
 Dementia care has undergone remarkable change over the past several decades. What once focused largely on safety and medical oversight has evolved into a more holistic, person-centered approach that embraces wellbeing, engagement, and dignity. This evolution has been driven by a better understanding of how dementia affects individuals, advancements in science, and a deeper appreciation of the quality of life.

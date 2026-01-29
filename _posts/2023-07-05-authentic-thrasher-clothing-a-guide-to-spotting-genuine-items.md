@@ -1,40 +1,17 @@
 ---
-id: 1036
-title: 'Authentic Thrasher Clothing &#8211; A Guide to Spotting Genuine Items'
+layout: post
+title: Authentic Thrasher Clothing &#8211; A Guide to Spotting Genuine Items
+description: 'Thrasher clothing has gained immense popularity among skateboarders and streetwear enthusiasts for its iconic logo and edgy designs. However, the rise in deman...'
 date: '2023-07-05T05:57:00+00:00'
 author: adam
-layout: post
-guid: 'http://infeeds.com/?p=1036'
-permalink: /authentic-thrasher-clothing-a-guide-to-spotting-genuine-items/
-csco_singular_layout:
-    - default
-csco_page_header_type:
-    - default
-csco_page_load_nextpost:
-    - default
-csco_post_video_bg_location:
-    - 'a:1:{i:0;s:7:"archive";}'
-csco_post_video_bg_start_time:
-    - '0'
-csco_post_video_bg_end_time:
-    - '0'
-csco_post_media_location:
-    - content
-csco_post_gallery_type:
-    - slider
-powerkit_post_format_link:
-    - ''
-powerkit_post_format_audio:
-    - ''
-powerkit_post_format_video:
-    - ''
-image: /images/lan-deng-quddu_dZKkQ-unsplash.jpg
-categories:
-    - Lifestyle
+image: 'https://images.unsplash.com/photo-1768409427465-01320d46963e?q=80&w=2232'
+video_embed: null
 tags:
-    - brands
-    - clothing
-    - thrasher
+- brands
+- clothing
+- thrasher
+- lifestyle
+tags_color: '#1788b1'
 ---
 
 Thrasher clothing has gained immense popularity among skateboarders and streetwear enthusiasts for its iconic logo and edgy designs. However, the rise in demand has led to an influx of counterfeit Thrasher products in the market. To ensure you are purchasing genuine Thrasher clothing, it is essential to know how to spot authentic items. In this article, we will guide you through the key indicators that can help you determine whether your Thrasher clothing is real or fake.

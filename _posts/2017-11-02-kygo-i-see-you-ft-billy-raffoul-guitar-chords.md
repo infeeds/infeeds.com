@@ -4,12 +4,12 @@ title: Kygo - I See You ft. Billy Raffoul Guitar Chords
 description: "Song -\_I See YouArtist - Kygo, Billy RaffoulAlbum - Kids in LoveYear - 2017Tuning : STANDARD |EADGBe|Chords : D . Em . Bm . G . F#7 (Gb7)- in case you..."
 date: '2017-11-02 17:17:03'
 author: r7
-image: https://images.unsplash.com/photo-1510915361894-db8b60106cb1?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-video_embed:
+image: 'https://images.unsplash.com/photo-1510915361894-db8b60106cb1?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+video_embed: null
 tags:
-  - diaryofr7
-  - tutorial
-tags_color: '#bea94d'
+- diaryofr7
+- tutorial
+tags_color: '#1788b1'
 ---
 ```
 Song - I See You

@@ -1,15 +1,15 @@
 ---
 layout: post
 title: Ishqedarriyaan (Title Song) Guitar Tabs & Chords from Movie Ishqedarriyan
-description: 'Details :Movie :&nbsp;IshqedarriyaanCast: Evelyn Sharma &amp; Mahaakshay ChakrabortyLyricist: Kumaar, Kausar Munir, Manoj Muntashir &amp; Bilal SaeedD...'
+description: 'Details :Movie : IshqedarriyaanCast: Evelyn Sharma & Mahaakshay ChakrabortyLyricist: Kumaar, Kausar Munir, Manoj Muntashir & Bilal SaeedD...'
 date: '2015-10-05 09:29:26'
 author: r7
-image: https://images.unsplash.com/photo-1510915361894-db8b60106cb1?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-video_embed:
+image: 'https://images.unsplash.com/photo-1510915361894-db8b60106cb1?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+video_embed: null
 tags:
-  - diaryofr7
-  - tutorial
-tags_color: '#fd762f'
+- diaryofr7
+- tutorial
+tags_color: '#1788b1'
 ---
 ```
 Details :

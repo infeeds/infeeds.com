@@ -4,12 +4,12 @@ title: Duaa from Movie Shanghai Guitar Chords
 description: "TUNING : STANDARD |EADGBe|- Capo on Ist fretCHORDSEm . D . C . Am . Bm . G . AVERSE\_ \_ \_ \_ Em\_ \_ \_ \_ \_ \_ \_DKise poochun, hai aisa kyun\_ \_ Am\_ \_ \_ \_ \_ ..."
 date: '2018-01-10 22:25:05'
 author: r7
-image: https://images.unsplash.com/photo-1510915361894-db8b60106cb1?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-video_embed:
+image: 'https://images.unsplash.com/photo-1510915361894-db8b60106cb1?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+video_embed: null
 tags:
-  - diaryofr7
-  - tutorial
-tags_color: '#2ccd11'
+- diaryofr7
+- tutorial
+tags_color: '#1788b1'
 ---
 ```
 TUNING : STANDARD |EADGBe|

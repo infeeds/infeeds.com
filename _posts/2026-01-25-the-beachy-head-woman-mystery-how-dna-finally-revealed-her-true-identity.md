@@ -1,13 +1,15 @@
 ---
 layout: post
-title: "The Beachy Head Woman Mystery: How DNA Finally Revealed Her True Identity"
-description: "Advanced DNA technology rewrites the story of a Roman-era skeleton that puzzled scientists for over a decade, proving she was British all along."
-date: 2026-01-25 08:00:42 +0530
+title: 'The Beachy Head Woman Mystery: How DNA Finally Revealed Her True Identity'
+description: 'Advanced DNA technology rewrites the story of a Roman-era skeleton that puzzled scientists for over a decade, proving she was British all along.'
+date: '2026-01-25 08:00:42 +0530'
 author: adam
 image: 'https://images.unsplash.com/photo-1765707886613-f4961bbd07dd?q=80&w=988'
-video_embed:
-tags: [news, science]
-tags_color: '#1788b1'
+video_embed: null
+tags:
+- news
+- science
+tags_color: '#d32f2f'
 ---
 
 Sometimes the most interesting stories are the ones where we got it completely wrong the first time around. The Beachy Head Woman spent over a decade being misunderstood, her identity twisted by limited technology and incomplete data. But new research has finally set the record straight, and it's a fascinating reminder that science isn't about being right immediately. It's about getting closer to the truth with every attempt.

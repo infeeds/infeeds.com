@@ -1,13 +1,15 @@
 ---
 layout: post
-title:  International School Education – 5 Reasons to Enrol Your Child
-description: Every parent wants the very best for their offspring, and in this short article, we take an in-depth look at international school education, presenting compelling reasons to enrol your child in a top international school.
-date:   2025-09-04 03:01:35 +0300
+title: International School Education – 5 Reasons to Enrol Your Child
+description: 'Every parent wants the very best for their offspring, and in this short article, we take an in-depth look at international school education, presenting compelling reasons to enrol your child in a top international school.'
+date: '2025-09-04 03:01:35 +0300'
 author: alena
-image:  'https://images.unsplash.com/photo-1496317899792-9d7dbcd928a1?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
-video_embed:
-tags: [family, thailand]
-tags_color: '#a149cb'
+image: 'https://images.unsplash.com/photo-1496317899792-9d7dbcd928a1?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+video_embed: null
+tags:
+- family
+- thailand
+tags_color: '#1788b1'
 ---
 
 Education is a critical aspect of growing up. We attend school for 12 years of formal education, then we begin our lives as adults. Of course, every parent wants the very best for their offspring, and in this short article, we take an in-depth look at international school education, presenting compelling reasons to enrol your child in a top international school.

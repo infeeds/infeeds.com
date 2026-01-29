@@ -1,13 +1,15 @@
 ---
 layout: post
-title: "Ancient Humans Hauled Stonehenge's Stones After All, New Study Confirms"
-description: "Tiny mineral grains prove glaciers didn't transport Stonehenge's massive bluestones. Our ancestors did the heavy lifting themselves across hundreds of miles."
-date: 2026-01-27 12:00:55 +0530
+title: 'Ancient Humans Hauled Stonehenge''s Stones After All, New Study Confirms'
+description: Tiny mineral grains prove glaciers didn't transport Stonehenge's massive bluestones. Our ancestors did the heavy lifting themselves across hundreds of miles.
+date: '2026-01-27 12:00:55 +0530'
 author: adam
 image: 'https://images.unsplash.com/photo-1764075832552-bd8cd81cc063?q=80&w=1035'
-video_embed:
-tags: [news, science]
-tags_color: '#1788b1'
+video_embed: null
+tags:
+- news
+- science
+tags_color: '#d32f2f'
 ---
 
 The debate over how Stonehenge's massive stones arrived at Salisbury Plain has been raging for over a century. Did glaciers push them there during the Ice Age, or did our Neolithic ancestors somehow drag these multi-ton boulders across Britain? New research from Curtin University just dealt a serious blow to the glacier theory.

@@ -1,13 +1,15 @@
 ---
 layout: post
-title: "The Day I Stopped Rehearsing Disaster and Started Choosing Hope"
-description: "A documentary filmmaker discovers that surviving isn't the same as living, and that hope is the bravest choice we can make when everything feels uncertain."
-date: 2026-01-27 08:00:54 +0530
+title: The Day I Stopped Rehearsing Disaster and Started Choosing Hope
+description: 'A documentary filmmaker discovers that surviving isn''t the same as living, and that hope is the bravest choice we can make when everything feels uncertain.'
+date: '2026-01-27 08:00:54 +0530'
 author: adam
 image: 'https://images.unsplash.com/photo-1768663319879-e6a2b4c7408f?q=80&w=2070'
-video_embed:
-tags: [news, lifestyle]
-tags_color: '#fdd835'
+video_embed: null
+tags:
+- news
+- lifestyle
+tags_color: '#d32f2f'
 ---
 
 I spent most of my life waiting for the other shoe to drop. Financial ruin, professional humiliation, catastrophic health news. You name the disaster, I'd already imagined it in vivid detail. And here's the thing: I thought this was wisdom. I thought constant vigilance was the same as being prepared.

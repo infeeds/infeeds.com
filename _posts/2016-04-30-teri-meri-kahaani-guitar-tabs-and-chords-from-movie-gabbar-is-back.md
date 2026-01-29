@@ -1,15 +1,15 @@
 ---
 layout: post
 title: Teri Meri Kahaani Guitar Tabs & Chords from Movie Gabbar Is Back
-description: 'Song - Teri Meri KahaaniMovie : Gabbar Is BackSingers : Arijit Singh &amp; Palak Muchal  Tuning : STANDARD [eBGDAE]Intro :&nbsp;D#mVerse :B &nbsp; &...'
+description: 'Song - Teri Meri KahaaniMovie : Gabbar Is BackSingers : Arijit Singh & Palak Muchal  Tuning : STANDARD [eBGDAE]Intro : D#mVerse :B   &...'
 date: '2016-04-30 22:21:14'
 author: r7
-image: https://images.unsplash.com/photo-1510915361894-db8b60106cb1?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-video_embed:
+image: 'https://images.unsplash.com/photo-1510915361894-db8b60106cb1?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+video_embed: null
 tags:
-  - diaryofr7
-  - tutorial
-tags_color: '#fd9b08'
+- diaryofr7
+- tutorial
+tags_color: '#1788b1'
 ---
 ```
 Song - Teri Meri Kahaani

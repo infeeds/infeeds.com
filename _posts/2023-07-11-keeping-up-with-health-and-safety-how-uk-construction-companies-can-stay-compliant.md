@@ -1,39 +1,16 @@
 ---
-id: 1050
+layout: post
 title: "Keeping Up\_With Health And Safety &#8211; How UK Construction Companies Can Stay Compliant"
+description: The construction industry in the UK operates within a robust framework of health and safety regulations to protect workers and ensure safe working environments...
 date: '2023-07-11T20:21:50+00:00'
 author: adam
-layout: post
-guid: 'http://infeeds.com/?p=1050'
-permalink: /keeping-up-with-health-and-safety-how-uk-construction-companies-can-stay-compliant/
-csco_singular_layout:
-    - default
-csco_page_header_type:
-    - default
-csco_page_load_nextpost:
-    - default
-csco_post_video_bg_location:
-    - 'a:1:{i:0;s:7:"archive";}'
-csco_post_video_bg_start_time:
-    - '0'
-csco_post_video_bg_end_time:
-    - '0'
-csco_post_media_location:
-    - content
-csco_post_gallery_type:
-    - slider
-powerkit_post_format_link:
-    - ''
-powerkit_post_format_audio:
-    - ''
-powerkit_post_format_video:
-    - ''
-image: /images/photo-1478486982180-2de2fafa19f9.jpg
-categories:
-    - Health
+image: 'https://images.unsplash.com/photo-1768595629816-cb20775bdec2?q=80&w=987'
+video_embed: null
 tags:
-    - construction
-    - safety
+- construction
+- safety
+- health
+tags_color: '#1788b1'
 ---
 
 The construction industry in the UK operates within a robust framework of health and safety regulations to protect workers and ensure safe working environments. Staying compliant with these regulations is crucial for construction companies to prevent accidents, injuries, and legal consequences.

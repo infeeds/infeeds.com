@@ -1,39 +1,16 @@
 ---
-id: 971
-title: 'Can You Get a Paternity Test While You’re Pregnant?'
+layout: post
+title: Can You Get a Paternity Test While You’re Pregnant?
+description: 'A legal DNA paternity test typically costs between [$300 and $500](https://www.verywellfamily.com/about-paternity-tests-1270746). Are you wondering if the baby...'
 date: '2023-05-27T17:17:53+00:00'
 author: adam
-layout: post
-guid: 'http://infeeds.com/?p=971'
-permalink: /can-you-get-a-paternity-test-while-youre-pregnant/
-csco_singular_layout:
-    - default
-csco_page_header_type:
-    - default
-csco_page_load_nextpost:
-    - default
-csco_post_video_bg_location:
-    - 'a:1:{i:0;s:7:"archive";}'
-csco_post_video_bg_start_time:
-    - '0'
-csco_post_video_bg_end_time:
-    - '0'
-csco_post_media_location:
-    - content
-csco_post_gallery_type:
-    - slider
-powerkit_post_format_link:
-    - ''
-powerkit_post_format_audio:
-    - ''
-powerkit_post_format_video:
-    - ''
-image: /images/louis-reed-pwcKF7L4-no-unsplash.jpg
-categories:
-    - Health
+image: 'https://images.unsplash.com/photo-1674064205823-1668a0777091?q=80&w=988'
+video_embed: null
 tags:
-    - mother
-    - paternity
+- mother
+- paternity
+- health
+tags_color: '#1788b1'
 ---
 
 A legal DNA paternity test typically costs between [$300 and $500](https://www.verywellfamily.com/about-paternity-tests-1270746). Are you wondering if the baby you’re having is from your partner? Can you get a paternity test while pregnant?

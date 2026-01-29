@@ -1,7 +1,7 @@
 ---
 username: tiana
 name: Tiana Moriarty
-image: '/images/kamila-maciejewska-b2bXKspL5MY-unsplash-2-scaled.jpg'
+image: '/images/006.jpg'
 cover:
 location: Spain
 ---

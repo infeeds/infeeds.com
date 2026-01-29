@@ -1,41 +1,18 @@
 ---
-id: 727
-title: 'China&#8217;s shift in Policy on Ukraine and Russia Conflict'
+layout: post
+title: China's shift in Policy on Ukraine and Russia Conflict
+description: 'A month ago, the leader of China expressed no restrictions on the strengthened relations between Beijing and Russia. He and Putin met in Beijing and drafted a...'
 date: '2022-03-13T21:04:00+00:00'
 author: adam
-layout: post
-guid: 'http://infeeds.com/?p=727'
-permalink: /chinas-shift-in-policy-on-ukraine-and-russia-conflict/
-csco_singular_layout:
-    - default
-csco_page_header_type:
-    - default
-csco_page_load_nextpost:
-    - default
-csco_post_video_bg_location:
-    - 'a:1:{i:0;s:7:"archive";}'
-csco_post_video_bg_start_time:
-    - '0'
-csco_post_video_bg_end_time:
-    - '0'
-csco_post_media_location:
-    - content
-csco_post_gallery_type:
-    - slider
-powerkit_post_format_link:
-    - ''
-powerkit_post_format_audio:
-    - ''
-powerkit_post_format_video:
-    - ''
-image: /images/china.jpeg
-categories:
-    - News
+image: 'https://images.unsplash.com/photo-1674064205823-1668a0777091?q=80&w=988'
+video_embed: null
 tags:
-    - china
-    - russia
-    - ukraine
-    - war
+- china
+- russia
+- ukraine
+- war
+- news
+tags_color: '#1788b1'
 ---
 
 A month ago, the leader of China expressed no restrictions on the strengthened relations between Beijing and Russia. He and Putin met in Beijing and drafted a document together. They went to see the opening ceremony. Russia invaded Ukraine a few days after the Olympics. The Chinese government didn’t call the attack an invasion from the beginning. Do you have anything to do?

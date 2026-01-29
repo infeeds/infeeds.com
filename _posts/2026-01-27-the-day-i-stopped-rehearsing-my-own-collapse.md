@@ -1,13 +1,15 @@
 ---
 layout: post
-title: "The Day I Stopped Rehearsing My Own Collapse"
-description: "What happens when you stop bracing for disaster and dare to expect something good instead? A filmmaker's journey from catastrophic thinking to earned hope."
-date: 2026-01-27 16:00:54 +0530
+title: The Day I Stopped Rehearsing My Own Collapse
+description: What happens when you stop bracing for disaster and dare to expect something good instead? A filmmaker's journey from catastrophic thinking to earned hope.
+date: '2026-01-27 16:00:54 +0530'
 author: adam
 image: 'https://images.unsplash.com/photo-1768409427465-01320d46963e?q=80&w=2232'
-video_embed:
-tags: [news, lifestyle]
-tags_color: '#fdd835'
+video_embed: null
+tags:
+- news
+- lifestyle
+tags_color: '#d32f2f'
 ---
 
 There's a particular kind of exhaustion that comes from living like you're always about to crash. It's not physical tiredness, though that's there too. It's the bone-deep weariness of constantly preparing for the worst moment of your life to arrive.

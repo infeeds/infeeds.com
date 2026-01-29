@@ -1,13 +1,15 @@
 ---
 layout: post
-title: "Joy Isn't a Luxury When You're Sick—It's Medicine"
-description: "Living with chronic illness taught me that joy isn't something you earn after healing. It's actually part of the healing itself."
-date: 2026-01-26 00:00:40 +0530
+title: Joy Isn't a Luxury When You're Sick—It's Medicine
+description: Living with chronic illness taught me that joy isn't something you earn after healing. It's actually part of the healing itself.
+date: '2026-01-26 00:00:40 +0530'
 author: adam
 image: 'https://images.unsplash.com/photo-1768663319879-e6a2b4c7408f?q=80&w=2070'
-video_embed:
-tags: [news, lifestyle]
-tags_color: '#fdd835'
+video_embed: null
+tags:
+- news
+- lifestyle
+tags_color: '#d32f2f'
 ---
 
 There's something nobody tells you about chronic illness. It's not just about the pain or the exhaustion or the endless medical appointments. It's about how you slowly disappear into the role of being sick until you can't remember what it felt like to just be yourself.

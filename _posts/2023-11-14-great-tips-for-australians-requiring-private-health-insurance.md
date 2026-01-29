@@ -1,39 +1,16 @@
 ---
-id: 1262
-title: 'Great tips for Australians requiring private health insurance'
+layout: post
+title: Great tips for Australians requiring private health insurance
+description: It’s fair to say that most Australians make the most of their opportunities and enjoy an active life. They work hard and many play harder still whether it’s en...
 date: '2023-11-14T11:04:08+00:00'
 author: adam
-layout: post
-guid: 'https://infeeds.com/?p=1262'
-permalink: /great-tips-for-australians-requiring-private-health-insurance/
-csco_singular_layout:
-    - default
-csco_page_header_type:
-    - default
-csco_page_load_nextpost:
-    - default
-csco_post_video_bg_location:
-    - 'a:1:{i:0;s:7:"archive";}'
-csco_post_video_bg_start_time:
-    - '0'
-csco_post_video_bg_end_time:
-    - '0'
-csco_post_media_location:
-    - content
-csco_post_gallery_type:
-    - slider
-powerkit_post_format_link:
-    - ''
-powerkit_post_format_audio:
-    - ''
-powerkit_post_format_video:
-    - ''
-image: /images/owen-beard-DK8jXx1B-1c-unsplash-2.jpg
-categories:
-    - Health
+image: 'https://images.unsplash.com/photo-1768663319879-e6a2b4c7408f?q=80&w=2070'
+video_embed: null
 tags:
-    - australia
-    - insurance
+- australia
+- insurance
+- health
+tags_color: '#1788b1'
 ---
 
 It’s fair to say that most Australians make the most of their opportunities and enjoy an active life. They work hard and many play harder still whether it’s enjoying individual pursuits or playing team sports.

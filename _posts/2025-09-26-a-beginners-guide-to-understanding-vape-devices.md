@@ -1,13 +1,15 @@
 ---
 layout: post
 title: A Beginner’s Guide to Understanding Vape Devices
-description: For beginners, the world of vaping can seem overwhelming, with countless types of devices, e-liquids, and accessories available. This guide will help you understand the basics and make informed choices as you start your vaping journey.
-date: 2025-09-26 03:01:35 +0300
+description: 'For beginners, the world of vaping can seem overwhelming, with countless types of devices, e-liquids, and accessories available. This guide will help you understand the basics and make informed choices as you start your vaping journey.'
+date: '2025-09-26 03:01:35 +0300'
 author: tiana
-image:  'https://images.unsplash.com/photo-1618588488736-c9419743dd12?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
-video_embed:
-tags: [lifestyle, guide]
-tags_color: '#980b98ff'
+image: 'https://images.unsplash.com/photo-1618588488736-c9419743dd12?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+video_embed: null
+tags:
+- lifestyle
+- guide
+tags_color: '#4caf50'
 ---
 
 Vaping has rapidly grown in popularity over the past decade, offering smokers an alternative to traditional cigarettes and providing enthusiasts with a wide range of flavors and devices to explore. For beginners, the world of vaping can seem overwhelming, with countless types of devices, e-liquids, and accessories available. This guide will help you understand the basics and make informed choices as you start your vaping journey.

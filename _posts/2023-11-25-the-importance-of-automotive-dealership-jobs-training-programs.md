@@ -1,39 +1,16 @@
 ---
-id: 1312
-title: 'The Importance of Automotive Dealership Jobs Training Programs'
+layout: post
+title: The Importance of Automotive Dealership Jobs Training Programs
+description: 'Have you ever thought about the hustle and bustle behind the shiny new cars in the showroom? It’s a world that’s just as exciting, filled with opportunities an...'
 date: '2023-11-25T06:23:30+00:00'
 author: adam
-layout: post
-guid: 'https://infeeds.com/?p=1312'
-permalink: /the-importance-of-automotive-dealership-jobs-training-programs/
-csco_singular_layout:
-    - default
-csco_page_header_type:
-    - default
-csco_page_load_nextpost:
-    - default
-csco_post_video_bg_location:
-    - 'a:1:{i:0;s:7:"archive";}'
-csco_post_video_bg_start_time:
-    - '0'
-csco_post_video_bg_end_time:
-    - '0'
-csco_post_media_location:
-    - content
-csco_post_gallery_type:
-    - slider
-powerkit_post_format_link:
-    - ''
-powerkit_post_format_audio:
-    - ''
-powerkit_post_format_video:
-    - ''
-image: /images/futc-GWFZU-1Wj4w-scaled.jpg
-categories:
-    - Sports
+image: 'https://images.unsplash.com/photo-1768697581060-52e2edbee7fa?q=80&w=2070'
+video_embed: null
 tags:
-    - automotive
-    - jobs
+- automotive
+- jobs
+- sports
+tags_color: '#1788b1'
 ---
 
 Have you ever thought about the hustle and bustle behind the shiny new cars in the showroom? It’s a world that’s just as exciting, filled with opportunities and challenges.

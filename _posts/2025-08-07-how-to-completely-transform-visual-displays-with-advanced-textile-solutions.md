@@ -1,13 +1,15 @@
 ---
 layout: post
-title:  How to Completely Transform Visual Displays with Advanced Textile Solutions
-description: Textiles offer a unique combination of flexibility, vibrant print quality, and a premium aesthetic that other materials often lack.
-date:   2025-08-07 03:01:35 +0300
+title: How to Completely Transform Visual Displays with Advanced Textile Solutions
+description: 'Textiles offer a unique combination of flexibility, vibrant print quality, and a premium aesthetic that other materials often lack.'
+date: '2025-08-07 03:01:35 +0300'
 author: adam
-image:  'https://images.unsplash.com/photo-1476683874822-744764a2438f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
-video_embed:
-tags: [textiles, business]
-tags_color: '#561000'
+image: 'https://images.unsplash.com/photo-1476683874822-744764a2438f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+video_embed: null
+tags:
+- textiles
+- business
+tags_color: '#1788b1'
 ---
 
 Creating eye-catching visual displays is an essential part of marketing, interior design, and event production. While traditional banners and posters remain effective, more businesses and designers are turning to advanced textile solutions to make their displays stand out. Textiles offer a unique combination of flexibility, vibrant print quality, and a premium aesthetic that other materials often lack.

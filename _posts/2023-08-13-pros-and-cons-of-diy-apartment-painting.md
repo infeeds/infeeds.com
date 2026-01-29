@@ -1,36 +1,14 @@
 ---
-id: 1075
-title: 'Pros and Cons of DIY Apartment Painting'
+layout: post
+title: Pros and Cons of DIY Apartment Painting
+description: 'Painting an apartment is a daunting task. But if you feel ready to resist the temptation of leaving it up to your maintenance team, then that’s great! You’ll s...'
 date: '2023-08-13T06:58:47+00:00'
 author: adam
-layout: post
-guid: 'http://infeeds.com/?p=1075'
-permalink: /pros-and-cons-of-diy-apartment-painting/
-csco_singular_layout:
-    - default
-csco_page_header_type:
-    - default
-csco_page_load_nextpost:
-    - default
-csco_post_video_bg_location:
-    - 'a:1:{i:0;s:7:"archive";}'
-csco_post_video_bg_start_time:
-    - '0'
-csco_post_video_bg_end_time:
-    - '0'
-csco_post_media_location:
-    - content
-csco_post_gallery_type:
-    - slider
-powerkit_post_format_link:
-    - ''
-powerkit_post_format_audio:
-    - ''
-powerkit_post_format_video:
-    - ''
-image: /images/kenny-eliason-d6YyP28-Ycw-unsplash.jpg
-categories:
-    - Household
+image: 'https://images.unsplash.com/photo-1768622180477-5043d6dcdfcc?q=80&w=2070'
+video_embed: null
+tags:
+- household
+tags_color: '#1788b1'
 ---
 
 Painting an apartment is a daunting task. But if you feel ready to resist the temptation of leaving it up to your maintenance team, then that’s great! You’ll save yourself lots of trouble and money rolling up your sleeves and saving a few extra bucks on your next apartment lease. But have you considered the consequences of DIY apartment painting?

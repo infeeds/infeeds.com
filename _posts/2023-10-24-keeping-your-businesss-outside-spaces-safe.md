@@ -1,39 +1,16 @@
 ---
-id: 1185
-title: 'Keeping Your Business’s Outside Spaces Safe'
+layout: post
+title: Keeping Your Business’s Outside Spaces Safe
+description: 'As a business owner, you’re always on the lookout for ways to protect your assets and ensure the well-being of your patrons and staff. While it’s common to con...'
 date: '2023-10-24T09:06:24+00:00'
 author: adam
-layout: post
-guid: 'https://infeeds.com/?p=1185'
-permalink: /keeping-your-businesss-outside-spaces-safe/
-csco_singular_layout:
-    - default
-csco_page_header_type:
-    - default
-csco_page_load_nextpost:
-    - default
-csco_post_video_bg_location:
-    - 'a:1:{i:0;s:7:"archive";}'
-csco_post_video_bg_start_time:
-    - '0'
-csco_post_video_bg_end_time:
-    - '0'
-csco_post_media_location:
-    - content
-csco_post_gallery_type:
-    - slider
-powerkit_post_format_link:
-    - ''
-powerkit_post_format_audio:
-    - ''
-powerkit_post_format_video:
-    - ''
-image: /images/samson-ZGjbiukp_-A-unsplash.jpg
-categories:
-    - Business
+image: 'https://images.unsplash.com/photo-1764075832552-bd8cd81cc063?q=80&w=1035'
+video_embed: null
 tags:
-    - career
-    - safety
+- career
+- safety
+- business
+tags_color: '#1788b1'
 ---
 
 As a business owner, you’re always on the lookout for ways to protect your assets and ensure the well-being of your patrons and staff. While it’s common to concentrate on indoor security measures, it’s crucial not to neglect the outdoor areas of your establishment. Think about your parking areas, terraces, and pathways. These spaces come with unique challenges that, if ignored, could jeopardize the safety of everyone involved.

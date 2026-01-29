@@ -1,40 +1,17 @@
 ---
-id: 1056
-title: '7 Ways to Deal With Anxiety and Communication in Relationships'
+layout: post
+title: 7 Ways to Deal With Anxiety and Communication in Relationships
+description: Have you been struggling in your relationship lately? Do you feel like the problem lies within the fact that you don’t understand each other?  Anxiety and comm...
 date: '2023-08-04T19:04:57+00:00'
 author: adam
-layout: post
-guid: 'http://infeeds.com/?p=1056'
-permalink: /7-ways-to-deal-with-anxiety-and-communication-in-relationships/
-csco_singular_layout:
-    - default
-csco_page_header_type:
-    - default
-csco_page_load_nextpost:
-    - default
-csco_post_video_bg_location:
-    - 'a:1:{i:0;s:7:"archive";}'
-csco_post_video_bg_start_time:
-    - '0'
-csco_post_video_bg_end_time:
-    - '0'
-csco_post_media_location:
-    - content
-csco_post_gallery_type:
-    - slider
-powerkit_post_format_link:
-    - ''
-powerkit_post_format_audio:
-    - ''
-powerkit_post_format_video:
-    - ''
-image: /images/fahmi-ramadhan-bqFZznf6eVc-unsplash.jpg
-categories:
-    - Relationships
+image: 'https://images.unsplash.com/photo-1764075832552-bd8cd81cc063?q=80&w=1035'
+video_embed: null
 tags:
-    - couple
-    - health
-    - 'mental health'
+- couple
+- health
+- mental health
+- relationships
+tags_color: '#1788b1'
 ---
 
 Have you been struggling in your relationship lately? Do you feel like the problem lies within the fact that you don’t understand each other?

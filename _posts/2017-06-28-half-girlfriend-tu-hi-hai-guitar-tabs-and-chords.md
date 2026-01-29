@@ -1,15 +1,15 @@
 ---
 layout: post
 title: Half Girlfriend - Tu Hi Hai Guitar Tabs & Chords
-description: 'Tuning : STANDARD |EADGBe|Chords : Bm . G . A . Em . F#m/Gbm . F#/Gb . DINTROBm . G . A x3Bm . Em . AVERSEBm &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;...'
+description: 'Tuning : STANDARD |EADGBe|Chords : Bm . G . A . Em . F#m/Gbm . F#/Gb . DINTROBm . G . A x3Bm . Em . AVERSEBm            ...'
 date: '2017-06-28 19:01:55'
 author: r7
-image: https://images.unsplash.com/photo-1510915361894-db8b60106cb1?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-video_embed:
+image: 'https://images.unsplash.com/photo-1510915361894-db8b60106cb1?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+video_embed: null
 tags:
-  - diaryofr7
-  - tutorial
-tags_color: '#f27b87'
+- diaryofr7
+- tutorial
+tags_color: '#1788b1'
 ---
 ```
 Tuning : STANDARD |EADGBe|

@@ -1,40 +1,17 @@
 ---
-id: 787
-title: 'Benefits of Modular Construction for Building Projects'
+layout: post
+title: Benefits of Modular Construction for Building Projects
+description: Traditional building practices are facing competition from newer methods like modular construction. With many promises to the people looking to invest in a bui...
 date: '2022-07-28T11:17:34+00:00'
 author: adam
-layout: post
-guid: 'http://infeeds.com/?p=787'
-permalink: /benefits-of-modular-construction-for-building-projects/
-csco_singular_layout:
-    - default
-csco_page_header_type:
-    - default
-csco_page_load_nextpost:
-    - default
-csco_post_video_bg_location:
-    - 'a:1:{i:0;s:7:"archive";}'
-csco_post_video_bg_start_time:
-    - '0'
-csco_post_video_bg_end_time:
-    - '0'
-csco_post_media_location:
-    - content
-csco_post_gallery_type:
-    - slider
-powerkit_post_format_link:
-    - ''
-powerkit_post_format_audio:
-    - ''
-powerkit_post_format_video:
-    - ''
-image: /images/Chapman-Taylor-Modular-Construction-LR1.jpeg
-categories:
-    - Featured
-    - Outdoors
+image: 'https://images.unsplash.com/photo-1768405942773-87e8d4fb782b?q=80&w=2070'
+video_embed: null
 tags:
-    - building
-    - construction
+- building
+- construction
+- featured
+- outdoors
+tags_color: '#1788b1'
 ---
 
 Traditional building practices are facing competition from newer methods like modular construction. With many promises to the people looking to invest in a building project, the industry is making impressive progress. The modular method favors off-site construction, with designers and contractors fabricating modules of buildings that are later assembled and installed on-site. Although it has been used for decades in a variety of industries, modular construction is undoubtedly increasing in popularity and becoming the method of choice, but why is it so appealing?

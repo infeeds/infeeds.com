@@ -1,15 +1,15 @@
 ---
 layout: post
 title: Banjaara - Ek Villian Guitar Chords
-description: 'TUNING : STANDARD -&nbsp;ebGDAE Chords Used : C#min , A , B , G#min , E &nbsp; SONG BEGINS : C#min &nbsp; &nbsp; &nbsp; &nbsp;A&nbsp;Jise zindagi ...'
+description: 'TUNING : STANDARD - ebGDAE Chords Used : C#min , A , B , G#min , E   SONG BEGINS : C#min        A Jise zindagi ...'
 date: '2015-10-02 11:38:37'
 author: r7
-image: https://images.unsplash.com/photo-1510915361894-db8b60106cb1?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-video_embed:
+image: 'https://images.unsplash.com/photo-1510915361894-db8b60106cb1?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+video_embed: null
 tags:
-  - diaryofr7
-  - tutorial
-tags_color: '#889930'
+- diaryofr7
+- tutorial
+tags_color: '#1788b1'
 ---
 TUNING : STANDARD - ebGDAE
 

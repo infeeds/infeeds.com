@@ -1,13 +1,15 @@
 ---
 layout: post
 title: How Employment Laws Affect Everyday Working Life
-description: These laws influence everything from how employees are paid to how workplace conflicts are handled, and they ensure that businesses operate in a fair, consistent, and transparent way.
-date: 2025-11-19 03:01:35 +0300
+description: 'These laws influence everything from how employees are paid to how workplace conflicts are handled, and they ensure that businesses operate in a fair, consistent, and transparent way.'
+date: '2025-11-19 03:01:35 +0300'
 author: adam
 image: 'https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
-video_embed:
-tags: [career, laws]
-tags_color: '#4869eeff'
+video_embed: null
+tags:
+- career
+- laws
+tags_color: '#1788b1'
 ---
 
 Employment laws might seem like rules and procedures that only HR teams or legal departments need to worry about, but they shape far more of daily working life than most people realize. 

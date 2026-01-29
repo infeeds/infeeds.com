@@ -1,13 +1,15 @@
 ---
 layout: post
-title: "Snapchat's New Parental Controls Are Damage Control, Not Innovation"
-description: "Just days after settling an addiction lawsuit, Snap rolls out expanded Family Center features. Coincidence? We think not."
-date: 2026-01-21 19:25:51 +0530
+title: 'Snapchat''s New Parental Controls Are Damage Control, Not Innovation'
+description: 'Just days after settling an addiction lawsuit, Snap rolls out expanded Family Center features. Coincidence? We think not.'
+date: '2026-01-21 19:25:51 +0530'
 author: adam
 image: 'https://images.unsplash.com/photo-1674064205823-1668a0777091?q=80&w=988'
-video_embed:
-tags: [news, tech]
-tags_color: '#00ba65'
+video_embed: null
+tags:
+- news
+- tech
+tags_color: '#d32f2f'
 ---
 
 The timing here is almost comically transparent. Two days after Snapchat settled a lawsuit about social media addiction and mental health harm, they suddenly care a whole lot more about helping parents monitor their teens. Snap just announced a bunch of new features for Family Center, their parental control dashboard, and if you believe this is purely about user safety, I've got a bridge to sell you.

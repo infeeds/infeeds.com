@@ -1,13 +1,15 @@
 ---
 layout: post
-title:  How To Maximize Brand Awareness Through Video Production
+title: How To Maximize Brand Awareness Through Video Production
 description: This article will help you discover how your brand can effectively implement video production to enhance visibility and connect with your target audience.
-date:   2024-10-11 03:01:35 +0300
+date: '2024-10-11 03:01:35 +0300'
 author: adam
-image:  '/images/brand-awareness.jpg'
-video_embed:
-tags:   [brands, marketing]
-tags_color: '#2a12aa'
+image: 'https://images.unsplash.com/photo-1764075832552-bd8cd81cc063?q=80&w=1035'
+video_embed: null
+tags:
+- brands
+- marketing
+tags_color: '#1788b1'
 ---
 Brand awareness is the cornerstone for cultivating sustainable growth and success for your business. It keeps your brand at the forefront of a customer's mind so they choose your product or service over the competition. In an age of digital saturation, stand out from the crowd with compelling video production. Highlight who you are and enhance engagement through brand video production.
 

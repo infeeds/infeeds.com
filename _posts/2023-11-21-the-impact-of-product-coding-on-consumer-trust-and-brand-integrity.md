@@ -1,39 +1,16 @@
 ---
-id: 1293
-title: 'The Impact of Product Coding on Consumer Trust and Brand Integrity'
+layout: post
+title: The Impact of Product Coding on Consumer Trust and Brand Integrity
+description: 'In the dynamic landscape of consumer choices, where trust is the currency and brand integrity reigns supreme, product coding emerges as a silent guardian, play...'
 date: '2023-11-21T15:40:53+00:00'
 author: adam
-layout: post
-guid: 'https://infeeds.com/?p=1293'
-permalink: /the-impact-of-product-coding-on-consumer-trust-and-brand-integrity/
-csco_singular_layout:
-    - default
-csco_page_header_type:
-    - default
-csco_page_load_nextpost:
-    - default
-csco_post_video_bg_location:
-    - 'a:1:{i:0;s:7:"archive";}'
-csco_post_video_bg_start_time:
-    - '0'
-csco_post_video_bg_end_time:
-    - '0'
-csco_post_media_location:
-    - content
-csco_post_gallery_type:
-    - slider
-powerkit_post_format_link:
-    - ''
-powerkit_post_format_audio:
-    - ''
-powerkit_post_format_video:
-    - ''
-image: /images/oleg-laptev-QRKJwE6yfJo-unsplash.jpg
-categories:
-    - Business
+image: 'https://images.unsplash.com/photo-1764075832552-bd8cd81cc063?q=80&w=1035'
+video_embed: null
 tags:
-    - branding
-    - brands
+- branding
+- brands
+- business
+tags_color: '#1788b1'
 ---
 
 In the dynamic landscape of consumer choices, where trust is the currency and brand integrity reigns supreme, product coding emerges as a silent guardian, playing a pivotal role in shaping the narrative of consumer confidence.

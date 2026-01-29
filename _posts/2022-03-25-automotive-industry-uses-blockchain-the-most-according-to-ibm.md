@@ -1,40 +1,17 @@
 ---
-id: 737
-title: 'Automotive Industry Uses Blockchain The Most According To IBM'
+layout: post
+title: Automotive Industry Uses Blockchain The Most According To IBM
+description: 'Currently, there is a lot of talk about the role of the blockchain in transforming the automobile industry, and several automobile manufacturers have already e...'
 date: '2022-03-25T10:37:54+00:00'
 author: adam
-layout: post
-guid: 'http://infeeds.com/?p=737'
-permalink: /automotive-industry-uses-blockchain-the-most-according-to-ibm/
-csco_singular_layout:
-    - default
-csco_page_header_type:
-    - default
-csco_page_load_nextpost:
-    - default
-csco_post_video_bg_location:
-    - 'a:1:{i:0;s:7:"archive";}'
-csco_post_video_bg_start_time:
-    - '0'
-csco_post_video_bg_end_time:
-    - '0'
-csco_post_media_location:
-    - content
-csco_post_gallery_type:
-    - slider
-powerkit_post_format_link:
-    - ''
-powerkit_post_format_audio:
-    - ''
-powerkit_post_format_video:
-    - ''
-image: /images/ibm-blockchain.jpeg
-categories:
-    - Technology
+image: 'https://images.unsplash.com/photo-1765779038142-054a9f8c2268?q=80&w=1035'
+video_embed: null
 tags:
-    - auto
-    - blockchain
-    - ibm
+- auto
+- blockchain
+- ibm
+- technology
+tags_color: '#1788b1'
 ---
 
 Currently, there is a lot of talk about the role of the blockchain in transforming the automobile industry, and several automobile manufacturers have already embraced it.

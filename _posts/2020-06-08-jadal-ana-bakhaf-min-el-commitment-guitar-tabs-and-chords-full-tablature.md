@@ -1,15 +1,15 @@
 ---
 layout: post
-title: JADAL – ANA BAKHAF MIN EL COMMITMENT GUITAR TABS & CHORDS [Full Tablature]
+title: 'JADAL – ANA BAKHAF MIN EL COMMITMENT GUITAR TABS & CHORDS [Full Tablature]'
 description: 'Artist: JadaLAlbum: EL MakinaReleased: 2012Genre: RockTUNING : Half (1/2) Step Down |D#G#C#F#G#d#|  CHORDS : C . G . Em . F  INTRO  - (x)s are \"...'
 date: '2020-06-08 19:07:53'
 author: r7
-image: https://images.unsplash.com/photo-1510915361894-db8b60106cb1?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-video_embed:
+image: 'https://images.unsplash.com/photo-1510915361894-db8b60106cb1?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+video_embed: null
 tags:
-  - diaryofr7
-  - tutorial
-tags_color: '#d57261'
+- diaryofr7
+- tutorial
+tags_color: '#1788b1'
 ---
 ```
 Artist: JadaL

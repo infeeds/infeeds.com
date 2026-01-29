@@ -1,39 +1,16 @@
 ---
-id: 1306
+layout: post
 title: 'The Rise of Remote Work: A Look at Digital Marketing Jobs Near Me'
+description: Remote work has become increasingly popular in recent years. This trend has been accelerated due to the global pandemic. It has forced many companies to shift...
 date: '2023-11-25T06:10:54+00:00'
 author: adam
-layout: post
-guid: 'https://infeeds.com/?p=1306'
-permalink: /the-rise-of-remote-work-a-look-at-digital-marketing-jobs-near-me/
-csco_singular_layout:
-    - default
-csco_page_header_type:
-    - default
-csco_page_load_nextpost:
-    - default
-csco_post_video_bg_location:
-    - 'a:1:{i:0;s:7:"archive";}'
-csco_post_video_bg_start_time:
-    - '0'
-csco_post_video_bg_end_time:
-    - '0'
-csco_post_media_location:
-    - content
-csco_post_gallery_type:
-    - slider
-powerkit_post_format_link:
-    - ''
-powerkit_post_format_audio:
-    - ''
-powerkit_post_format_video:
-    - ''
-image: /images/alessio-zaccaria-MplUOXqEUK0-scaled.jpg
-categories:
-    - Business
+image: 'https://images.unsplash.com/photo-1765779038142-054a9f8c2268?q=80&w=1035'
+video_embed: null
 tags:
-    - marketing
-    - work
+- marketing
+- work
+- business
+tags_color: '#1788b1'
 ---
 
 Remote work has become increasingly popular in recent years. This trend has been accelerated due to the global pandemic. It has forced many companies to shift towards a remote workforce.

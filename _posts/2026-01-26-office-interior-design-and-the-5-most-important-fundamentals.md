@@ -1,13 +1,16 @@
 ---
 layout: post
-title: "Office interior design and the 5 most important fundamentals"
-description: "Running an office business provides management and owners with plenty to think about, especially if they are in a location where space is valuable and it is important to get the most from all that’s available."
-date: 2026-01-26 08:00:55 +0530
+title: Office interior design and the 5 most important fundamentals
+description: 'Running an office business provides management and owners with plenty to think about, especially if they are in a location where space is valuable and it is important to get the most from all that’s available.'
+date: '2026-01-26 08:00:55 +0530'
 author: adam
 image: 'https://images.unsplash.com/photo-1587702068694-a909ef4aa346?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
-video_embed:
-tags: [design, business, singapore]
-tags_color: '#a8b45e'
+video_embed: null
+tags:
+- design
+- business
+- singapore
+tags_color: '#1788b1'
 ---
 
 Running an office business provides management and owners with plenty to think about, especially if they are in a location where space is valuable and it is important to get the most from all that’s available. It’s surprising just how many organisations fail to live up to their potential because they don’t give their talented employees the best environments in which to work.

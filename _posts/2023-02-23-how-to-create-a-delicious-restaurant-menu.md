@@ -1,40 +1,17 @@
 ---
-id: 896
-title: 'How to Create a Delicious Restaurant Menu'
+layout: post
+title: How to Create a Delicious Restaurant Menu
+description: 'In 2023, consumers expect to find healthier and more local ingredients in their restaurant meals.  That means that for restaurant owners, the task of creating...'
 date: '2023-02-23T16:24:10+00:00'
 author: adam
-layout: post
-guid: 'http://infeeds.com/?p=896'
-permalink: /how-to-create-a-delicious-restaurant-menu/
-csco_singular_layout:
-    - default
-csco_page_header_type:
-    - default
-csco_page_load_nextpost:
-    - default
-csco_post_video_bg_location:
-    - 'a:1:{i:0;s:7:"archive";}'
-csco_post_video_bg_start_time:
-    - '0'
-csco_post_video_bg_end_time:
-    - '0'
-csco_post_media_location:
-    - content
-csco_post_gallery_type:
-    - slider
-powerkit_post_format_link:
-    - ''
-powerkit_post_format_audio:
-    - ''
-powerkit_post_format_video:
-    - ''
-image: /images/jay-wennington-N_Y88TWmGwA-unsplash.jpg
-categories:
-    - Food
+image: 'https://images.unsplash.com/photo-1765707886613-f4961bbd07dd?q=80&w=988'
+video_embed: null
 tags:
-    - business
-    - cuisines
-    - restaurants
+- business
+- cuisines
+- restaurants
+- food
+tags_color: '#1788b1'
 ---
 
 In 2023, consumers expect to find healthier and more local ingredients in their restaurant meals.

@@ -1,13 +1,15 @@
 ---
 layout: post
-title:  Ways to Prepare Your Kids for Their Summer Basketball Camp
+title: Ways to Prepare Your Kids for Their Summer Basketball Camp
 description: Summer vacation is definitely the perfect time to expose your children to different sports that they'll get involved in and be able to master as the years progress.
-date:   2025-05-28 03:01:35 +0300
+date: '2025-05-28 03:01:35 +0300'
 author: alena
-image:  'https://images.unsplash.com/photo-1562552052-4e9f2d8e8a4e?q=80&w=3087&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
-video_embed:
-tags:   [basketball, sports]
-tags_color: '#2a12aa'
+image: 'https://images.unsplash.com/photo-1562552052-4e9f2d8e8a4e?q=80&w=3087&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+video_embed: null
+tags:
+- basketball
+- sports
+tags_color: '#1788b1'
 ---
 Summer is officially here, and we're definitely excited for it! Just because school doors are closing doesn't mean your kids don't get to learn or stop doing fun activities. Summer vacation is definitely the perfect time to expose your children to different sports that they'll get involved in and be able to master as the years progress. This year, you've decided on enrolling your kids at a [summer basketball camp](https://littleboomersbasketball.com.au/school-holidays-basketball-program/)!
 

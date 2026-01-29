@@ -1,13 +1,15 @@
 ---
 layout: post
-title: "Nintendo's Talking Flower Toy Is Either Delightfully Weird or Just Plain Weird"
-description: "Nintendo unveils full details on its chatty Super Mario Wonder companion that talks randomly, monitors temperature, and maybe drives you insane."
-date: 2026-01-22 04:00:04 +0530
+title: Nintendo's Talking Flower Toy Is Either Delightfully Weird or Just Plain Weird
+description: 'Nintendo unveils full details on its chatty Super Mario Wonder companion that talks randomly, monitors temperature, and maybe drives you insane.'
+date: '2026-01-22 04:00:04 +0530'
 author: adam
 image: 'https://images.unsplash.com/photo-1768663319879-e6a2b4c7408f?q=80&w=2070'
-video_embed:
-tags: [news, tech]
-tags_color: '#e91e63'
+video_embed: null
+tags:
+- news
+- tech
+tags_color: '#d32f2f'
 ---
 
 Nintendo has finally pulled back the curtain on its Talking Flower toy, and honestly, I'm not sure if this is genius or if someone at Nintendo lost a bet. After teasing the thing during a Nintendo Direct last September, we now know exactly what this interactive flower does. Spoiler alert: it talks. A lot. Randomly.

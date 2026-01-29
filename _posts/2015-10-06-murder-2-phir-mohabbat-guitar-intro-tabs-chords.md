@@ -1,15 +1,16 @@
 ---
-id: 1279
-title: 'Murder 2 - Phir Mohabbat Guitar Intro Tabs &amp; Chords'
+layout: post
+title: Murder 2 - Phir Mohabbat Guitar Intro Tabs & Chords
+description: 'Lyrics  Jab jab tere paas main aaya, Ik sukoon mila   Jise main tha bhoolta aaya, Wo wajood mila   Jab aaye mausam gham ke, Tujhe yaad kiya   Ho…  Jab sehme...'
 date: '2015-10-06 05:46:00+00:00'
 author: Rishabh
-layout: post
-guid: 'https://infeeds.com/?p=1279'
-permalink: /murder-2-phir-mohabbat-guitar-intro-tabs-chords/
-image: /images/soundtrap-1NAYqSlnXo8-scaled.jpg
-video_embed: 
-tags: [diaryofr7, guitar, lyrics]
-tags_color: '#835F46'
+image: 'https://images.unsplash.com/photo-1768697581060-52e2edbee7fa?q=80&w=2070'
+video_embed: null
+tags:
+- diaryofr7
+- guitar
+- lyrics
+tags_color: '#1788b1'
 ---
 
 ## Lyrics

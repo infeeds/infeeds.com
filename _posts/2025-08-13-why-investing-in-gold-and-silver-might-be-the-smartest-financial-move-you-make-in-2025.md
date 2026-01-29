@@ -1,13 +1,15 @@
 ---
 layout: post
-title:  Why Investing In Gold & Silver Might Be The Smartest Financial Move You Make In 2025
+title: Why Investing In Gold & Silver Might Be The Smartest Financial Move You Make In 2025
 description: It is true that we live in quite uncertain times due to the issues that the Australian government and indeed the rest of the world are having with America and its trade tariffs.
-date:   2025-08-13 03:01:35 +0300
+date: '2025-08-13 03:01:35 +0300'
 author: adam
-image:  'https://images.unsplash.com/photo-1632113988284-31334b398e10?q=80&w=2231&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
-video_embed:
-tags: [finance, australia]
-tags_color: '#cb4949'
+image: 'https://images.unsplash.com/photo-1632113988284-31334b398e10?q=80&w=2231&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+video_embed: null
+tags:
+- finance
+- australia
+tags_color: '#1788b1'
 ---
 
 It is true that we live in quite uncertain times due to the issues that the Australian government and indeed the rest of the world are having with America and its trade tariffs. This economic uncertainty is causing people not only in Australia but all across the globe to get a little nervous and they want to be able to invest their hard earned cash into something that is a little bit more certain. This reason and many others is why people are now looking to invest in precious metals and specifically gold and silver.

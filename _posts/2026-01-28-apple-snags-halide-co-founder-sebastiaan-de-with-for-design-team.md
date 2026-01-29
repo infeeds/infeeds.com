@@ -1,13 +1,15 @@
 ---
 layout: post
-title: "Apple Snags Halide Co-Founder Sebastiaan de With for Design Team"
-description: "Sebastiaan de With, the creative mind behind Halide and Kino, is joining Apple's design team. What does this mean for Lux's beloved camera apps?"
-date: 2026-01-28 08:00:53 +0530
+title: Apple Snags Halide Co-Founder Sebastiaan de With for Design Team
+description: 'Sebastiaan de With, the creative mind behind Halide and Kino, is joining Apple''s design team. What does this mean for Lux''s beloved camera apps?'
+date: '2026-01-28 08:00:53 +0530'
 author: adam
 image: 'https://images.unsplash.com/photo-1765707886613-f4961bbd07dd?q=80&w=988'
-video_embed:
-tags: [news, tech]
-tags_color: '#e91e63'
+video_embed: null
+tags:
+- news
+- tech
+tags_color: '#d32f2f'
 ---
 
 Apple just scored a notable hire from the indie app world. Sebastiaan de With, co-founder of Lux and the brains behind some of the most thoughtful camera apps on iOS, announced he's joining Apple's design team. 

@@ -1,39 +1,16 @@
 ---
-id: 913
-title: 'Don&#8217;t Let Painting Ruin Your Floors: How to Protect Them Properly'
+layout: post
+title: 'Don''t Let Painting Ruin Your Floors: How to Protect Them Properly'
+description: 'Painting your home can be an exciting, transformative process. It’s a fantastic way to breathe some new life into a space and create a whole new look without t...'
 date: '2023-03-13T15:47:17+00:00'
 author: adam
-layout: post
-guid: 'http://infeeds.com/?p=913'
-permalink: /dont-let-painting-ruin-your-floors-how-to-protect-them-properly/
-csco_singular_layout:
-    - default
-csco_page_header_type:
-    - default
-csco_page_load_nextpost:
-    - default
-csco_post_video_bg_location:
-    - 'a:1:{i:0;s:7:"archive";}'
-csco_post_video_bg_start_time:
-    - '0'
-csco_post_video_bg_end_time:
-    - '0'
-csco_post_media_location:
-    - content
-csco_post_gallery_type:
-    - slider
-powerkit_post_format_link:
-    - ''
-powerkit_post_format_audio:
-    - ''
-powerkit_post_format_video:
-    - ''
-image: /images/roselyn-tirado-cqAX2wlK-Yw-unsplash.jpg
-categories:
-    - Lifestyle
+image: 'https://images.unsplash.com/photo-1764075832552-bd8cd81cc063?q=80&w=1035'
+video_embed: null
 tags:
-    - home
-    - painting
+- home
+- painting
+- lifestyle
+tags_color: '#1788b1'
 ---
 
 Painting your home can be an exciting, transformative process. It’s a fantastic way to breathe some new life into a space and create a whole new look without the need to spend a huge amount of money or make massive structural changes. However, painting can be quite a messy process, and if you are not careful, it can end up damaging your floors. Keep reading to find out more about some of the best way to protect your floors so you can enjoy the painting process without worrying about damage.

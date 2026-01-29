@@ -1,13 +1,15 @@
 ---
 layout: post
-title: "Why the Most Successful Leaders Still Need Mentors"
-description: "Senior leaders often think they've outgrown mentorship. That's exactly when they need it most. Here's why staying teachable matters at every stage."
-date: 2026-01-26 12:00:54 +0530
+title: Why the Most Successful Leaders Still Need Mentors
+description: Senior leaders often think they've outgrown mentorship. That's exactly when they need it most. Here's why staying teachable matters at every stage.
+date: '2026-01-26 12:00:54 +0530'
 author: adam
 image: 'https://images.unsplash.com/photo-1765707886613-f4961bbd07dd?q=80&w=988'
-video_embed:
-tags: [news, business]
-tags_color: '#2b2b2b'
+video_embed: null
+tags:
+- news
+- business
+tags_color: '#d32f2f'
 ---
 
 There's this weird assumption in corporate culture that once you've climbed high enough, you stop needing people to learn from. You've arrived. You're the sage now, not the student.

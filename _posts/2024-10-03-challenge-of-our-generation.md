@@ -1,13 +1,15 @@
 ---
 layout: post
-title:  Sustainability - The Challenge of Our Generation
-description: The choices we make today will define the future of our planet, and with growing concerns around climate change, it’s clear that action is needed.
-date:   2024-10-03 18:05:55 +0300
+title: Sustainability - The Challenge of Our Generation
+description: 'The choices we make today will define the future of our planet, and with growing concerns around climate change, it’s clear that action is needed.'
+date: '2024-10-03 18:05:55 +0300'
 author: alena
-image:  '/images/011.jpg'
-tags:   [climate, future]
-tags_color: '#618770'
-featured: true
+image: 'https://images.unsplash.com/photo-1764075832552-bd8cd81cc063?q=80&w=1035'
+video_embed: null
+tags:
+- climate
+- future
+tags_color: '#1788b1'
 ---
 As the world continues to grow and develop, the conversation around sustainability has become more important than ever. The choices we make today will define the future of our planet, and with growing concerns around climate change, it’s clear that action is needed.
 

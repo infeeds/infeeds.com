@@ -1,13 +1,15 @@
 ---
 layout: post
-title: "Scientists Just Figured Out How to Outsmart Locust Swarms With Dirt"
-description: "A simple soil treatment could save millions from crop devastation. The secret? Making plants taste terrible to locusts by changing their nutritional makeup."
-date: 2026-01-24 04:00:27 +0530
+title: Scientists Just Figured Out How to Outsmart Locust Swarms With Dirt
+description: A simple soil treatment could save millions from crop devastation. The secret? Making plants taste terrible to locusts by changing their nutritional makeup.
+date: '2026-01-24 04:00:27 +0530'
 author: adam
 image: 'https://images.unsplash.com/photo-1765707886613-f4961bbd07dd?q=80&w=988'
-video_embed:
-tags: [news, science]
-tags_color: '#1788b1'
+video_embed: null
+tags:
+- news
+- science
+tags_color: '#d32f2f'
 ---
 
 There's something oddly charming about a single locust, according to Arianne Cease, who runs Arizona State University's Global Locust Initiative. "They're very destructive when there's a lot of them, but one-on-one, what's not to love?" she says. It's a sentiment most farmers dealing with swarms probably don't share, but Cease's affection for these insects hasn't stopped her from finding ways to control them.

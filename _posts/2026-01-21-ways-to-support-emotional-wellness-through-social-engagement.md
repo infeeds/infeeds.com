@@ -1,13 +1,15 @@
 ---
 layout: post
 title: Ways to Support Emotional Wellness Through Social Engagement
-description: Emotional wellness is an essential aspect of overall health, yet it is often overlooked, especially as people age or face changes in their daily routines.
-date: 2026-01-21 01:07:10 +0300
+description: 'Emotional wellness is an essential aspect of overall health, yet it is often overlooked, especially as people age or face changes in their daily routines.'
+date: '2026-01-21 01:07:10 +0300'
 author: alena
 image: 'https://images.unsplash.com/photo-1580869318757-a6c605b061ed?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
-video_embed:
-tags: [health, lifestyle]
-tags_color: '#b17917'
+video_embed: null
+tags:
+- health
+- lifestyle
+tags_color: '#4caf50'
 ---
 
 Emotional wellness is an essential aspect of overall health, yet it is often overlooked, especially as people age or face changes in their daily routines. Maintaining strong social connections and actively engaging with others can have a profound impact on mental health, reducing feelings of loneliness and fostering a sense of purpose.

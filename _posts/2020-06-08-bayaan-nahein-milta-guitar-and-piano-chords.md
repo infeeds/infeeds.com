@@ -4,12 +4,12 @@ title: Bayaan – Nahein Milta Guitar & Piano Chords
 description: 'Artist : BayaanYear : 2015Tuning : STANDARD |EADGBe|  Capo : 3rd Fret  Chords : Cadd9 or C . G .  B7 . F7 . Em . Bm . Am . D  INTRO  Cadd9 . G...'
 date: '2020-06-08 19:04:06'
 author: r7
-image: https://images.unsplash.com/photo-1510915361894-db8b60106cb1?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-video_embed:
+image: 'https://images.unsplash.com/photo-1510915361894-db8b60106cb1?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+video_embed: null
 tags:
-  - diaryofr7
-  - tutorial
-tags_color: '#34a890'
+- diaryofr7
+- tutorial
+tags_color: '#1788b1'
 ---
 ```
 Artist : Bayaan

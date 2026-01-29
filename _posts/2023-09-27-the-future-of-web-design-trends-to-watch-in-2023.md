@@ -1,39 +1,16 @@
 ---
-id: 1117
+layout: post
 title: 'The Future of Web Design: Trends to Watch in 2023'
+description: 'In the ever-evolving landscape of web design, staying ahead of the curve is crucial to creating compelling and effective websites. As we enter 2023, several ex...'
 date: '2023-09-27T11:44:04+00:00'
 author: adam
-layout: post
-guid: 'https://infeeds.com/?p=1117'
-permalink: /the-future-of-web-design-trends-to-watch-in-2023/
-csco_singular_layout:
-    - default
-csco_page_header_type:
-    - default
-csco_page_load_nextpost:
-    - default
-csco_post_video_bg_location:
-    - 'a:1:{i:0;s:7:"archive";}'
-csco_post_video_bg_start_time:
-    - '0'
-csco_post_video_bg_end_time:
-    - '0'
-csco_post_media_location:
-    - content
-csco_post_gallery_type:
-    - slider
-powerkit_post_format_link:
-    - ''
-powerkit_post_format_audio:
-    - ''
-powerkit_post_format_video:
-    - ''
-image: /images/ux-indonesia-qC2n6RQU4Vw-unsplash.jpg
-categories:
-    - Technology
+image: 'https://images.unsplash.com/photo-1764075832552-bd8cd81cc063?q=80&w=1035'
+video_embed: null
 tags:
-    - design
-    - trends
+- design
+- trends
+- technology
+tags_color: '#1788b1'
 ---
 
 In the ever-evolving landscape of web design, staying ahead of the curve is crucial to creating compelling and effective websites. As we enter 2023, several exciting trends are shaping the future of [web design](https://www.weareweb.com/ux-web-design). These trends are driven by advancements in technology, changing user expectations, and the need for more innovative and immersive online experiences. In this blog, we’ll explore the top web design trends to watch in 2023 and how they are reshaping the digital landscape.

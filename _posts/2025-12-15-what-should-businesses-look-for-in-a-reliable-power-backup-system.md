@@ -1,13 +1,15 @@
 ---
 layout: post
 title: What Should Businesses Look for in a Reliable Power Backup System?
-description: A UPS keeps important equipment functioning, stops data loss, and gives workers ample time to securely operate systems. The best setup for your organisation relies on how it functions, what tools you use, and how much downtime you can handle.
-date: 2025-12-15 03:01:35 +0300
+description: 'A UPS keeps important equipment functioning, stops data loss, and gives workers ample time to securely operate systems. The best setup for your organisation relies on how it functions, what tools you use, and how much downtime you can handle.'
+date: '2025-12-15 03:01:35 +0300'
 author: adam
 image: 'https://images.unsplash.com/photo-1413882353314-73389f63b6fd?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
-video_embed:
-tags: [home, australia]
-tags_color: '#3b468aff'
+video_embed: null
+tags:
+- home
+- australia
+tags_color: '#1788b1'
 ---
 
 Power outages can disrupt any organisation. Even a short drop in electricity can shut down computers, interrupt digital systems and cause unwanted delays. This is why many Australian businesses rely on a [UPS uninterrupted power supply](https://upssolutions.com.au/). A UPS keeps important equipment functioning, stops data loss, and gives workers ample time to securely operate systems. The best setup for your organisation relies on how it functions, what tools you use, and how much downtime you can handle.

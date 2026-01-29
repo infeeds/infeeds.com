@@ -1,13 +1,15 @@
 ---
 layout: post
 title: 5 great reasons to call on a professional home styling team when selling a home
-description: It’s likely to hold plenty of happy memories, sometimes seeing children grow from being born to the time when they become young adults.
-date: 2025-10-22 03:01:35 +0300
+description: 'It’s likely to hold plenty of happy memories, sometimes seeing children grow from being born to the time when they become young adults.'
+date: '2025-10-22 03:01:35 +0300'
 author: adam
 image: 'https://images.unsplash.com/photo-1605146769289-440113cc3d00?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=2070'
-video_embed:
-tags: [real estate, australia]
-tags_color: '#8cba0dff'
+video_embed: null
+tags:
+- real estate
+- australia
+tags_color: '#1788b1'
 ---
 
 Selling a home is one of life’s biggest financial and emotional decisions, especially if a property has been lived in for several years. It’s likely to hold plenty of happy memories, sometimes seeing children grow from being born to the time when they become young adults. Once a decision to sell has been made, it’s important to get the best possible price for it, allowing greater scope wherever life may lead.

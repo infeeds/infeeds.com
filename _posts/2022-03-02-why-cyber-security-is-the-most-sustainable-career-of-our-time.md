@@ -1,44 +1,16 @@
 ---
-id: 708
-title: 'Why Cyber Security Is the Most Sustainable Career of Our Time'
+layout: post
+title: Why Cyber Security Is the Most Sustainable Career of Our Time
+description: The idea of a sustainable career is one that you can do for as long as possible and that both fulfils you as a person and a professional. It is something that...
 date: '2022-03-02T21:11:38+00:00'
 author: adam
-layout: post
-guid: 'http://infeeds.com/?p=708'
-permalink: /why-cyber-security-is-the-most-sustainable-career-of-our-time/
-csco_singular_layout:
-    - default
-csco_page_header_type:
-    - default
-csco_page_load_nextpost:
-    - default
-csco_post_video_bg_location:
-    - 'a:1:{i:0;s:7:"archive";}'
-csco_post_video_bg_start_time:
-    - '0'
-csco_post_video_bg_end_time:
-    - '0'
-csco_post_media_location:
-    - content
-csco_post_gallery_type:
-    - slider
-powerkit_post_format_link:
-    - ''
-powerkit_post_format_audio:
-    - ''
-powerkit_post_format_video:
-    - ''
-powerkit_share_buttons_transient_facebook:
-    - '1668203498'
-powerkit_share_buttons_transient_pinterest:
-    - '1668203498'
-image: /images/cyber-sec-career.jpeg
-categories:
-    - Technology
+image: 'https://images.unsplash.com/photo-1768405942773-87e8d4fb782b?q=80&w=2070'
+video_embed: null
 tags:
-    - career
-    - security
-    - technology
+- career
+- security
+- technology
+tags_color: '#1788b1'
 ---
 
 The idea of a sustainable career is one that you can do for as long as possible and that both fulfils you as a person and a professional. It is something that has become important for many in the professional world to strive for as it reduces the stress of having to move from one job to another. A sustainable job provides a sense of certainty as you spend your energy working towards reaching the pinnacle or the best you can be in a particular field or sector. In an age where data is the new gold, the area of cyber security has arguably become the epitome of the sustainable career; here is why.

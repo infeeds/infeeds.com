@@ -1,13 +1,15 @@
 ---
 layout: post
-title: "Waymo's Zeekr Van Crashes Into Parked Cars in Echo Park, But Here's the Catch"
-description: "A Waymo Zeekr van crashed into multiple parked cars in Echo Park, but the autonomous vehicle wasn't actually driving itself during the incident."
-date: 2026-01-28 00:00:53 +0530
+title: 'Waymo''s Zeekr Van Crashes Into Parked Cars in Echo Park, But Here''s the Catch'
+description: 'A Waymo Zeekr van crashed into multiple parked cars in Echo Park, but the autonomous vehicle wasn''t actually driving itself during the incident.'
+date: '2026-01-28 00:00:53 +0530'
 author: adam
 image: 'https://images.unsplash.com/photo-1765707886613-f4961bbd07dd?q=80&w=988'
-video_embed:
-tags: [news, tech]
-tags_color: '#e91e63'
+video_embed: null
+tags:
+- news
+- tech
+tags_color: '#d32f2f'
 ---
 
 A Waymo Zeekr van made headlines for all the wrong reasons after crashing into several parked cars in Echo Park. Video footage shows the vehicle driving up onto an embankment before plowing into the parked vehicles. But before everyone starts pointing fingers at autonomous [Technology](https://infeeds.com/tags/?tag=technology) gone wrong, there's an important detail to consider.

@@ -1,13 +1,15 @@
 ---
 layout: post
-title: "DNA Technology Finally Reveals True Identity of Beachy Head Woman After Decades of Mystery"
-description: "Advanced genetic analysis overturns previous theories about a Roman-era skeleton, showing she was likely from Britain all along."
-date: 2026-01-25 12:00:41 +0530
+title: DNA Technology Finally Reveals True Identity of Beachy Head Woman After Decades of Mystery
+description: 'Advanced genetic analysis overturns previous theories about a Roman-era skeleton, showing she was likely from Britain all along.'
+date: '2026-01-25 12:00:41 +0530'
 author: adam
 image: 'https://images.unsplash.com/photo-1674064205823-1668a0777091?q=80&w=988'
-video_embed:
-tags: [news, science]
-tags_color: '#1788b1'
+video_embed: null
+tags:
+- news
+- science
+tags_color: '#d32f2f'
 ---
 
 Sometimes the most interesting stories are the ones that keep changing. That's exactly what happened with the Beachy Head Woman, a Roman-era skeleton that's been puzzling researchers since someone opened a dusty box in Eastbourne Town Hall back in 2012.

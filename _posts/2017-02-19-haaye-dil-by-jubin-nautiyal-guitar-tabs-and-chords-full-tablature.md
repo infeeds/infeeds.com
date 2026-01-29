@@ -1,15 +1,15 @@
 ---
 layout: post
 title: Haaye Dil by Jubin Nautiyal Guitar Tabs & Chords (Full Tablature)
-description: 'TUNING : STANDARD |EADGBe|CHORDS : C#m (Dbm) . B . AYou can play these chords (with 1st &amp; 2nd Strings Open).- &nbsp;C#me |-0-|B |-0-|G |-6-|D |-6-...'
+description: 'TUNING : STANDARD |EADGBe|CHORDS : C#m (Dbm) . B . AYou can play these chords (with 1st & 2nd Strings Open).-  C#me |-0-|B |-0-|G |-6-|D |-6-...'
 date: '2017-02-19 14:41:34'
 author: r7
-image: https://images.unsplash.com/photo-1510915361894-db8b60106cb1?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-video_embed:
+image: 'https://images.unsplash.com/photo-1510915361894-db8b60106cb1?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+video_embed: null
 tags:
-  - diaryofr7
-  - tutorial
-tags_color: '#0e34e6'
+- diaryofr7
+- tutorial
+tags_color: '#1788b1'
 ---
 ```
 TUNING : STANDARD |EADGBe|

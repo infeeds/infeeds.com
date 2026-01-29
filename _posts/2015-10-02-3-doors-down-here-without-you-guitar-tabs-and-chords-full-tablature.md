@@ -4,12 +4,12 @@ title: 3 Doors Down - Here Without You Guitar Tabs & Chords (Full Tablature)
 description: "Tuning : Half (1/2) Step Down [d# . A# . F# . C# . G# . D#]Intro :\_ \_ \_ Bm d# |-----------------------------------|A# |--------3-----2-----2-----3----..."
 date: '2015-10-02 20:53:28'
 author: r7
-image: https://images.unsplash.com/photo-1510915361894-db8b60106cb1?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-video_embed:
+image: 'https://images.unsplash.com/photo-1510915361894-db8b60106cb1?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+video_embed: null
 tags:
-  - diaryofr7
-  - tutorial
-tags_color: '#d57858'
+- diaryofr7
+- tutorial
+tags_color: '#1788b1'
 ---
 `Tuning : Half (1/2) Step Down [d# . A# . F# . C# . G# . D#]`
 

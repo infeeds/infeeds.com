@@ -1,13 +1,15 @@
 ---
 layout: post
-title: "Astronomers Just Created the Most Stunning Radio Portrait of Our Galaxy Ever Made"
-description: "A PhD student spent 18 months and used 1 million CPU hours to create an unprecedented low-frequency radio image of the Milky Way that's changing how we see our home."
-date: 2026-01-23 20:00:28 +0530
+title: Astronomers Just Created the Most Stunning Radio Portrait of Our Galaxy Ever Made
+description: A PhD student spent 18 months and used 1 million CPU hours to create an unprecedented low-frequency radio image of the Milky Way that's changing how we see our home.
+date: '2026-01-23 20:00:28 +0530'
 author: adam
 image: 'https://images.unsplash.com/photo-1768663319879-e6a2b4c7408f?q=80&w=2070'
-video_embed:
-tags: [news, science]
-tags_color: '#1788b1'
+video_embed: null
+tags:
+- news
+- science
+tags_color: '#d32f2f'
 ---
 
 If you think you've seen the Milky Way, think again. Astronomers just unveiled what might be the most impressive portrait of our home galaxy ever captured, and it's not in the visible light you'd expect. This is a radio image, showing our galaxy in wavelengths our eyes can't see, revealing secrets that ordinary telescopes would completely miss.

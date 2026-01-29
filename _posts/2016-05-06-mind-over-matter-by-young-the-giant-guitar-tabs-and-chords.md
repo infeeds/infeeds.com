@@ -4,12 +4,12 @@ title: Mind Over Matter by Young The Giant Guitar Tabs & Chords
 description: 'Tuning : STANDARD |EADGBe|INTRO :e |------3--3---5--|B |----5------5----|G |--5-------------|D |----------------|A |----------------|E |--------------...'
 date: '2016-05-06 00:09:07'
 author: r7
-image: https://images.unsplash.com/photo-1510915361894-db8b60106cb1?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-video_embed:
+image: 'https://images.unsplash.com/photo-1510915361894-db8b60106cb1?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+video_embed: null
 tags:
-  - diaryofr7
-  - tutorial
-tags_color: '#0ee795'
+- diaryofr7
+- tutorial
+tags_color: '#1788b1'
 ---
 `Tuning : STANDARD |EADGBe|`
 

@@ -1,40 +1,17 @@
 ---
-id: 1269
+layout: post
 title: 'Mohammed Shami and Virat Kohli: A Tale of Two Titans'
+description: 'In the illustrious annals of cricket history, the names Mohammed Shami and Virat Kohli stand out as shining beacons of excellence. Their remarkable achievement...'
 date: '2023-11-16T05:15:11+00:00'
 author: adam
-layout: post
-guid: 'https://infeeds.com/?p=1269'
-permalink: /mohammed-shami-and-virat-kohli-a-tale-of-two-titans/
-csco_singular_layout:
-    - default
-csco_page_header_type:
-    - default
-csco_page_load_nextpost:
-    - default
-csco_post_video_bg_location:
-    - 'a:1:{i:0;s:7:"archive";}'
-csco_post_video_bg_start_time:
-    - '0'
-csco_post_video_bg_end_time:
-    - '0'
-csco_post_media_location:
-    - content
-csco_post_gallery_type:
-    - slider
-powerkit_post_format_link:
-    - ''
-powerkit_post_format_audio:
-    - ''
-powerkit_post_format_video:
-    - ''
-image: /images/17835-virat-kohli-heaped-plenty-of-praise-on-pakistan.png
-categories:
-    - Sports
+image: 'https://images.unsplash.com/photo-1764075832552-bd8cd81cc063?q=80&w=1035'
+video_embed: null
 tags:
-    - cricket
-    - kohli
-    - 'world cup'
+- cricket
+- kohli
+- world cup
+- sports
+tags_color: '#1788b1'
 ---
 
 In the illustrious annals of cricket history, the names Mohammed Shami and Virat Kohli stand out as shining beacons of excellence. Their remarkable achievements, marked by their ability to consistently deliver under pressure, have cemented their positions among the sport’s most respected and revered figures.

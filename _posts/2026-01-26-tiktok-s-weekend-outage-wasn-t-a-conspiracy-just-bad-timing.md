@@ -1,13 +1,15 @@
 ---
 layout: post
-title: "TikTok's Weekend Outage Wasn't a Conspiracy, Just Bad Timing"
-description: "When TikTok went dark Sunday, theories exploded. Turns out it was just a power outage, but users aren't buying that the app feels the same anymore."
-date: 2026-01-26 16:00:53 +0530
+title: 'TikTok''s Weekend Outage Wasn''t a Conspiracy, Just Bad Timing'
+description: 'When TikTok went dark Sunday, theories exploded. Turns out it was just a power outage, but users aren''t buying that the app feels the same anymore.'
+date: '2026-01-26 16:00:53 +0530'
 author: adam
 image: 'https://images.unsplash.com/photo-1597495227772-d48ecb5f2639?q=80&w=2070'
-video_embed:
-tags: [news, lifestyle]
-tags_color: '#795548'
+video_embed: null
+tags:
+- news
+- lifestyle
+tags_color: '#d32f2f'
 ---
 
 Sunday was weird for TikTok users. Not the usual kind of weird where you accidentally end up watching someone organize their fridge for 20 minutes. The app just stopped working. And because timing is everything in life, this happened right after TikTok officially transferred to U.S. control.

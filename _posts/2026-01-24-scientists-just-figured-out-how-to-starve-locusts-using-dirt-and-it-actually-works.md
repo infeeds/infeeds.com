@@ -1,13 +1,15 @@
 ---
 layout: post
-title: "Scientists Just Figured Out How to Starve Locusts Using Dirt (And It Actually Works)"
-description: "A simple soil trick could revolutionize how we fight locust swarms. Arizona State researchers tested it on real farms in Senegal, and the results are remarkable."
-date: 2026-01-24 08:00:27 +0530
+title: Scientists Just Figured Out How to Starve Locusts Using Dirt (And It Actually Works)
+description: 'A simple soil trick could revolutionize how we fight locust swarms. Arizona State researchers tested it on real farms in Senegal, and the results are remarkable.'
+date: '2026-01-24 08:00:27 +0530'
 author: adam
 image: 'https://images.unsplash.com/photo-1768663319879-e6a2b4c7408f?q=80&w=2070'
-video_embed:
-tags: [news, science]
-tags_color: '#1788b1'
+video_embed: null
+tags:
+- news
+- science
+tags_color: '#d32f2f'
 ---
 
 Arianne Cease has spent over 15 years studying some of the most destructive insects on the planet, and she still manages to find them charming. "They're very destructive when there's a lot of them, but one-on-one, what's not to love?" she says about locusts. It's the kind of perspective that probably helps when you're dedicating your career to understanding creatures that can wipe out entire harvests.
