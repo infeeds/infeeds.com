@@ -1,36 +1,14 @@
 ---
 id: 1384
-title: 'The Importance of the Countryside on Mental Health'
-date: '2024-04-16T05:38:21+00:00'
-author: adam
 layout: post
-guid: 'https://infeeds.com/?p=1384'
-permalink: /the-importance-of-the-countryside-on-mental-health/
-csco_singular_layout:
-    - default
-csco_page_header_type:
-    - default
-csco_page_load_nextpost:
-    - default
-csco_post_video_bg_location:
-    - 'a:1:{i:0;s:7:"archive";}'
-csco_post_video_bg_start_time:
-    - '0'
-csco_post_video_bg_end_time:
-    - '0'
-csco_post_media_location:
-    - content
-csco_post_gallery_type:
-    - slider
-powerkit_post_format_link:
-    - ''
-powerkit_post_format_audio:
-    - ''
-powerkit_post_format_video:
-    - ''
+title: "The Importance of the Countryside on Mental Health"
+description: "If you’re someone who has lived in dense, urban environments their whole life, the idea of the countryside might be one that feels distant and uncomfortable."
+date: 2024-04-16 08:00:55 +0530
+author: adam
 image: /images/dan-meyers-hluOJZjLVXc.jpg
-categories:
-    - Health
+video_embed:
+tags: [health, technology]
+tags_color: '#16d33f'
 ---
 
 If you’re someone who has lived in dense, urban environments their whole life, the idea of the countryside might be one that feels distant and uncomfortable. The city can provide you with means, put you closer to transportation links and offer you a greater variety of food and drink than you find in the countryside. However, there is a quality that more rural spaces often have that is more difficult to quantify.
@@ -47,7 +25,7 @@ If you’re used to living a fast-paced lifestyle, embracing the slow and relaxe
 
 Alternatively, this shift might be one that you prefer to think about in terms of the future. Right now, you might enjoy everything that the city has to offer, but when you’re less inclined to go out and enjoy the various offerings it has on display, you might prefer the idea of a calm and peaceful retreat. Many people think about retiring to the countryside, so it could be worth visiting the various destinations that are often popular for this to help you decide if you want to do the same.
 
-At the same time, it’s worth thinking about how living in nature can be incorporated into residential care. While it’s easy to think of this as not being a component of what you expect from care homes, examples like [Isle Court care home in Shrewsbury](https://www.morriscare.co.uk/care-homes/isle-court-shrewsbury/) are situated in idyllic locales that can help residents feel a sense of calming solitude.
+At the same time, it’s worth thinking about how living in nature can be incorporated into residential care. While it’s easy to think of this as not being a component of what you expect from care homes, examples like [Isle Court care home in Shrewsbury](https://islecourtcarehome.co.uk/) are situated in idyllic locales that can help residents feel a sense of calming solitude.
 
 ## **Connecting with Nature**
 
