@@ -1,6 +1,8 @@
 ---
 id: 1384
 layout: post
+guid: 'https://infeeds.com/?p=1384'
+permalink: /the-importance-of-the-countryside-on-mental-health/
 title: "The Importance of the Countryside on Mental Health"
 description: "If you’re someone who has lived in dense, urban environments their whole life, the idea of the countryside might be one that feels distant and uncomfortable."
 date: 2024-04-16 08:00:55 +0530
