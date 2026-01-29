@@ -4,12 +4,13 @@ title: 'When Cat Bongo Videos Go Political: The Internet''s Apolitical Creators 
 description: 'From wood-chopping influencers to Reddit''s cat bongo enthusiasts, even the most seemingly neutral corners of the internet are breaking their silence.'
 date: '2026-01-25 04:00:39 +0530'
 author: adam
-image: 'https://images.unsplash.com/photo-1768405942773-87e8d4fb782b?q=80&w=2070'
+image: 'https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?q=80&w=2043&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
 video_embed: null
 tags:
 - news
 - tech
 tags_color: '#d32f2f'
+featured: true
 ---
 
 Something weird is happening on the internet, and no, I'm not talking about another AI chatbot going rogue or crypto crashing again. I'm talking about the parts of the internet that have historically stayed far, far away from anything resembling [politics](https://infeeds.com/tags/?tag=politics). The duck painters. The bourbon reviewers. The people who film themselves playing cats like percussion instruments.
