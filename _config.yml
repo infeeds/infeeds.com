@@ -7,7 +7,7 @@ url: "https://infeeds.com" # the base hostname & protocol for your site, e.g. ht
 #-------------------------------
 # Build Settings
 markdown: kramdown
-permalink: /:title
+permalink: /:title/
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
