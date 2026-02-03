@@ -6,7 +6,7 @@ date: 2026-02-03 17:55:34 +0530
 author: adam
 image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Peter_Attia_in_2025.jpg/960px-Peter_Attia_in_2025.jpg'
 video_embed:
-tags: health, scandal, media
+tags: [health, scandal, media]
 tags_color: '#6a0dad'
 ---
 

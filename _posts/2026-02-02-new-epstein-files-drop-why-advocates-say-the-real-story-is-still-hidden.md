@@ -6,7 +6,7 @@ date: 2026-02-02 17:55:34 +0530
 author: alena
 image: 'https://images.unsplash.com/photo-1762472961528-f9a93573db50?q=80&w=1973&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
 video_embed:
-tags: politics, scandal, news
+tags: [politics, scandal, news]
 tags_color: '#c41e3a'
 ---
 
