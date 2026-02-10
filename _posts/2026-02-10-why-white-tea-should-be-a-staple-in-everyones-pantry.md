@@ -2,7 +2,7 @@
 layout: post
 title: "Why White Tea Should Be a Staple in Everyone’s Pantry"
 description: "White tea is made from young tea buds and very young leaves that are harvested early and minimally processed. There’s no rolling involved, no heavy oxidation—the leaves are simply picked and dried."
-date: 2026-02-09 00:00:17 +0530
+date: 2026-02-10 00:00:17 +0530
 author: alena
 image: 'https://images.unsplash.com/photo-1484836443634-3d3fd80edccf?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
 video_embed:
