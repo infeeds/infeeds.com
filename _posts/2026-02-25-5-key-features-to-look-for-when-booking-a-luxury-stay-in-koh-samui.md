@@ -4,7 +4,7 @@ title: "5 Key Features to Look for When Booking a Luxury Stay in Koh Samui"
 description: "Among its many gems, Koh Samui stands out as a destination that perfectly balances tropical serenity with high-end sophistication."
 date: 2026-02-25 00:00:26 +0530
 author: alena
-image: 'https://images.unsplash.com/photo-1513568720563-6a5b8c6caab3?q=80&w=2044&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+image: 'https://images.unsplash.com/photo-1561501900-3701fa6a0864?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
 video_embed:
 tags: [tourism, thailand]
 tags_color: '#0e90b1'
