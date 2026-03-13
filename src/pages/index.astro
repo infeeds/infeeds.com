@@ -11,7 +11,7 @@ const featuredPosts = await getCollection('posts', ({ data }) => data.featured =
 const hasFeatured = featuredPosts.length > 0;
 ---
 
-<Layout>
+<Layout title="Online directory for news, stories and ideas">
 	<Hero />
 	<FeaturedPosts />
 	<BlogSection showHero={!hasFeatured} />

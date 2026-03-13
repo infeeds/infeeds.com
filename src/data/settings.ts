@@ -1,5 +1,5 @@
 export const settings = {
-  title: "Welcome to Infeeds",
+  title: "Infeeds",
   logo: "/images/logo.png",
   description: "This is Infeeds, an online directory for news, stories and ideas. Become a part of the directory to share your story.",
   color_scheme: "auto",

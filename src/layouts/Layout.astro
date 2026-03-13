@@ -11,7 +11,7 @@ interface Props {
 }
 
 const { title, description, image } = Astro.props;
-const siteTitle = title ? `${title} – ${settings.title}` : settings.title;
+const siteTitle = title ? `${title} : ${settings.title}` : settings.title;
 const siteDescription = description || settings.description;
 const siteUrl = Astro.site?.toString() || settings.description || 'https://infeeds.com';
 const currentUrl = new URL(Astro.url.pathname, siteUrl).toString();
