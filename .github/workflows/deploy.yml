@@ -9,7 +9,7 @@ env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
@@ -30,6 +30,28 @@ jobs:
 
       - name: Build Astro
         run: bun run build
+
+      - name: Skip and Rename Failed Files
+        if: always()
+        run: |
+          if [ -f .skipped_files.json ]; then
+            FILES=$(cat .skipped_files.json | jq -r '.[]')
+            if [ -n "$FILES" ]; then
+              git config --global user.name "github-actions[bot]"
+              git config --global user.email "github-actions[bot]@users.noreply.github.com"
+              for FILE in $FILES; do
+                if [ -f "$FILE" ]; then
+                  DIR=$(dirname "$FILE")
+                  BASENAME=$(basename "$FILE")
+                  mv "$FILE" "$DIR/_fail_$BASENAME"
+                  git add "$DIR/_fail_$BASENAME"
+                  git rm "$FILE"
+                fi
+              done
+              git commit -m "chore: rename skipped files that failed validation" || echo "No changes to commit"
+              git push
+            fi
+          fi
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v4
