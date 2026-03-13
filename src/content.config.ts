@@ -1,8 +1,61 @@
 import { defineCollection, z } from 'astro:content';
 import { glob } from 'astro/loaders';
+import fs from 'node:fs';
+import path from 'node:path';
+import matter from 'gray-matter';
 
 const postsCollection = defineCollection({
-  loader: glob({ pattern: '**/[^_]*.{md,mdx,markdown}', base: "./src/content/posts" }),
+  loader: async () => {
+    const postsDir = path.resolve('./src/content/posts');
+    const skippedFiles = [];
+    const entries = [];
+
+    if (!fs.existsSync(postsDir)) return [];
+
+    const files = fs.readdirSync(postsDir).filter(f =>
+      (f.endsWith('.md') || f.endsWith('.markdown')) && !f.startsWith('_')
+    );
+
+    for (const file of files) {
+      const filePath = path.join(postsDir, file);
+      let rawContent = fs.readFileSync(filePath, 'utf8');
+
+      // Sanitization: Remove AI-added code fences if they wrap the entire file
+      if (rawContent.trim().startsWith('```markdown') && rawContent.trim().endsWith('```')) {
+        rawContent = rawContent.trim().replace(/^```markdown\n?/, '').replace(/\n?```$/, '');
+      }
+
+      try {
+        const { data, content } = matter(rawContent);
+
+        // Validation: Title is required
+        if (!data.title) {
+          console.warn(`[Content Loader] Skipping ${file}: Title is missing.`);
+          skippedFiles.push(path.relative(process.cwd(), filePath));
+          continue;
+        }
+
+        entries.push({
+          id: file.replace(/\.(md|markdown)$/, ''),
+          ...data,
+          body: content,
+          // We pass the sanitized content if it was modified
+          _raw: rawContent
+        });
+      } catch (e) {
+        console.error(`[Content Loader] Error parsing ${file}:`, e);
+        skippedFiles.push(path.relative(process.cwd(), filePath));
+      }
+    }
+
+    // Write skipped files to a temp file for the CI task to pick up
+    fs.writeFileSync('./.skipped_files.json', JSON.stringify(skippedFiles, null, 2));
+
+    return entries.map(({ id, ...rest }) => ({
+      id,
+      ...rest
+    }));
+  },
   schema: z.object({
     layout: z.string().optional().default('post'),
     title: z.string(),
@@ -17,12 +70,12 @@ const postsCollection = defineCollection({
   }).transform((data) => {
     const char = data.title ? data.title[0].toUpperCase() : 'A';
     const code = char.charCodeAt(0);
-    
+
     if (!data.author) {
       const authors = ['adam', 'alena', 'tiana'];
       data.author = authors[code % authors.length];
     }
-    
+
     if (!data.image) {
       const images = [
         "/images/posts/photo-1454923634634-bd1614719a7b.webp",
@@ -38,7 +91,7 @@ const postsCollection = defineCollection({
       ];
       data.image = images[code % images.length];
     }
-    
+
     if (!data.tags_color) {
       const colors = [
         '#f74a4aff', // red
@@ -57,7 +110,7 @@ const postsCollection = defineCollection({
       ];
       data.tags_color = colors[code % colors.length];
     }
-    
+
     return data;
   }),
 });
