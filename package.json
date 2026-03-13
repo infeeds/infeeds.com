@@ -7,10 +7,10 @@
   },
   "scripts": {
     "sync-markdown": "for f in src/content/posts/*.markdown; do [ -f \"$f\" ] && mv \"$f\" \"${f%.markdown}.md\"; done || true",
-    "dev": "bun run sync-markdown && astro dev",
-    "build": "bun run sync-markdown && astro build",
-    "preview": "astro preview",
-    "astro": "astro"
+    "dev": "bun run sync-markdown && bunx --bun astro dev",
+    "build": "bun run sync-markdown && bunx --bun astro build",
+    "preview": "bunx --bun astro preview",
+    "astro": "bunx --bun astro"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.7.1",
