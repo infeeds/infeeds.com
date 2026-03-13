@@ -1,0 +1,22 @@
+{
+  "name": "helpless-houston",
+  "type": "module",
+  "version": "0.0.1",
+  "engines": {
+    "node": ">=22.12.0"
+  },
+  "scripts": {
+    "sync-markdown": "for f in src/content/posts/*.markdown; do [ -f \"$f\" ] && mv \"$f\" \"${f%.markdown}.md\"; done || true",
+    "dev": "bun run sync-markdown && astro dev",
+    "build": "bun run sync-markdown && astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/sitemap": "^3.7.1",
+    "astro": "^6.0.4"
+  },
+  "devDependencies": {
+    "sass": "^1.98.0"
+  }
+}

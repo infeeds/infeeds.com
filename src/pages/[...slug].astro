@@ -1,0 +1,149 @@
+---
+import { getCollection, getEntry, render } from 'astro:content';
+import Layout from '../layouts/Layout.astro';
+import { settings } from '../data/settings';
+import { getCleanSlug, getDateFromFilename } from '../utils/slug';
+import AdUnit from '../components/AdUnit.astro';
+import SocialShare from '../components/SocialShare.astro';
+import RelatedPosts from '../components/RelatedPosts.astro';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('posts');
+  const pages = await getCollection('pages');
+
+  const postPaths = posts.map((post) => ({
+    params: { slug: getCleanSlug(post.id) },
+    props: { entry: post, type: 'post' },
+  }));
+
+  const pagePaths = pages.map((page) => ({
+    params: { slug: page.id },
+    props: { entry: page, type: 'page' },
+  }));
+
+  return [...postPaths, ...pagePaths];
+}
+
+const { entry, type } = Astro.props;
+const { data } = entry;
+const { Content } = await render(entry);
+
+const authorEntry = type === 'post' ? await getEntry('authors', data.author) : null;
+const author = authorEntry?.data;
+
+const rawDate = data.date || getDateFromFilename(entry.id);
+const formattedDate = rawDate ? new Date(rawDate).toLocaleDateString('en-US', {
+  year: 'numeric',
+  month: 'short',
+  day: 'numeric',
+}) : '';
+
+const siteUrl = Astro.site?.toString() || settings.url || '';
+const currentUrl = `${siteUrl}${getCleanSlug(entry.id)}/`;
+---
+
+<Layout title={data.title} description={data.description} image={data.image}>
+  {type === 'post' ? (
+    <div class="container">
+      <div class="post-head">
+        <div class={`post__info ${data.video_embed ? 'post__info-video' : ''}`}>
+          {data.tags && data.tags.length > 0 && (
+            <div class="post__tags">
+              {data.tags.map((tag: string) => (
+                <a 
+                  href={`/tags/?tag=${tag.toLowerCase()}`} 
+                  class="post__tag"
+                  style={data.tags_color ? { backgroundColor: data.tags_color, color: '#fff' } : {}}
+                >
+                  {tag}
+                </a>
+              ))}
+            </div>
+          )}
+
+          <h1 class="post__title">{data.title}</h1>
+
+          {data.description && <div class="post__description">{data.description}</div>}
+
+          <div class="post__meta">
+            <a href={author ? `/author/${author.username}/` : '/about/'} class="post__author__image">
+              <img class="lazy loaded" src={author?.image || settings.author.avatar} alt={author?.name || settings.author.name} />
+            </a>
+
+            <div class="post__meta__bottom">
+              <a class="post__author__name" href={author ? `/author/${author.username}/` : '/about/'}>
+                {author?.name || settings.author.name}
+              </a>
+              {rawDate && <time class="post__date" datetime={new Date(rawDate).toISOString()}>{formattedDate}</time>}
+            </div>
+          </div>
+        </div>
+
+        {data.video_embed ? (
+          <div class="post-video">
+            <div class="post-video__wrap">
+              <iframe src={data.video_embed} loading="lazy" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+            </div>
+          </div>
+        ) : data.image && (
+          <div class="post-image">
+            <img class="lazy loaded" src={data.image} alt={data.title} />
+          </div>
+        )}
+      </div>
+    </div>
+  ) : (
+    <div class="container">
+      <div class="post-head">
+        <div class="post__info">
+          <h1 class="post__title">{data.title}</h1>
+        </div>
+      </div>
+    </div>
+  )}
+
+  <div class="container">
+    <article class="post">
+      <div class="post__content">
+        <AdUnit location="sidebar_ad" context="blog" />
+        <Content />
+      </div>
+      
+      {type === 'post' && (
+        <SocialShare 
+          title={data.title} 
+          url={currentUrl} 
+          image={data.image} 
+          description={data.description} 
+          siteTitle={settings.title} 
+        />
+      )}
+    </article>
+  </div>
+
+  {type === 'post' && (
+    <div class="container">
+      <div class="card-author">
+        <div class="card-author__media">
+          <a class="card-author__image" href={author ? `/author/${author.username}/` : '/about/'}>
+            <img class="lazy loaded" src={author?.image || settings.author.avatar} alt={author?.name || settings.author.name} />
+          </a>
+        </div>
+      
+        <div class="card-author__content">
+          <div class="card-author__role">Written by</div>
+          <h3 class="card-author__name">
+            <a href={author ? `/author/${author.username}/` : '/about/'} class="card-author__link">
+              {author?.name || settings.author.name}
+            </a>
+          </h3>
+          <p class="card-author__description">{author?.content || settings.author.bio}</p>
+        </div>
+      </div>
+    </div>
+  )}
+
+  {type === 'post' && data.tags && (
+    <RelatedPosts currentPostId={entry.id} tags={data.tags} />
+  )}
+</Layout>

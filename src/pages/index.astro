@@ -1,0 +1,20 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Hero from '../components/Hero.astro';
+import FeaturedPosts from '../components/FeaturedPosts.astro';
+import BlogSection from '../components/BlogSection.astro';
+import TagSection from '../components/TagSection.astro';
+import AuthorSection from '../components/AuthorSection.astro';
+import { getCollection } from 'astro:content';
+
+const featuredPosts = await getCollection('posts', ({ data }) => data.featured === true);
+const hasFeatured = featuredPosts.length > 0;
+---
+
+<Layout>
+	<Hero />
+	<FeaturedPosts />
+	<BlogSection showHero={!hasFeatured} />
+	<TagSection />
+	<AuthorSection />
+</Layout>

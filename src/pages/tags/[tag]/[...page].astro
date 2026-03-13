@@ -1,0 +1,84 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../../layouts/Layout.astro';
+import ArticleCard from '../../../components/ArticleCard.astro';
+import Pagination from '../../../components/Pagination.astro';
+
+export async function getStaticPaths() {
+  const allPosts = (await getCollection('posts')).sort(
+    (a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime()
+  );
+  
+  const tags = [...new Set(allPosts.flatMap((post) => post.data.tags || []))].sort();
+
+  const pages = [];
+  const regularPageSize = 12;
+
+  tags.forEach(tag => {
+    const postsWithTag = allPosts
+      .filter((post) => post.data.tags?.includes(tag));
+
+    const totalPosts = postsWithTag.length;
+    const lastPage = Math.ceil(totalPosts / regularPageSize);
+
+    let currentPos = 0;
+    let pageNum = 1;
+
+    // Use Astro's standard slugification for URL construction
+    const safeTagSlug = tag.toLowerCase().replace(/\s+/g, '-');
+
+    while (currentPos < totalPosts) {
+      const endPos = currentPos + regularPageSize;
+      
+      pages.push({
+        params: { 
+          tag: safeTagSlug,
+          page: pageNum === 1 ? undefined : pageNum.toString()
+        },
+        props: {
+          tag: tag,
+          page: {
+            data: postsWithTag.slice(currentPos, endPos),
+            currentPage: pageNum,
+            lastPage: lastPage,
+            totalPosts: totalPosts,
+            url: {
+              prev: pageNum === 1 ? undefined : (pageNum === 2 ? `/tags/${safeTagSlug}/` : `/tags/${safeTagSlug}/${pageNum - 1}/`),
+              next: endPos < totalPosts ? `/tags/${safeTagSlug}/${pageNum + 1}/` : undefined
+            }
+          }
+        }
+      });
+      currentPos = endPos;
+      pageNum++;
+    }
+  });
+
+  return pages;
+}
+
+const { page, tag } = Astro.props;
+---
+
+<Layout title={`Tags - ${tag}`}>
+  <div class="container tags__inner">
+    <div class="row">
+      <div class="col col-12">
+        <div class="tag__info">
+          <div class="tag__counter">
+            {page.totalPosts} {page.totalPosts === 1 ? 'Post' : 'Posts'}
+          </div>
+          <h2 class="tag__name">{tag}</h2>
+        </div>
+      </div>
+    </div>
+
+    <div class="row">
+      {page.data.map((post: any, index: number) => (
+        <ArticleCard post={post} index={index} />
+      ))}
+    </div>
+
+    <Pagination page={page} baseUrl={`/tags/${tag.toLowerCase().replace(/\s+/g, '-')}/`} />
+  </div>
+</Layout>

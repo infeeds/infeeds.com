@@ -1,0 +1,37 @@
+---
+import { getCollection } from 'astro:content';
+import { settings } from '../data/settings';
+import ArticleCard from './ArticleCard.astro';
+
+const { tag__settings } = settings;
+const sectionTag = tag__settings.tag?.split(',')[0].trim(); // Taking the first tag as example or logic from Jekyll
+
+const posts = sectionTag ? (await getCollection('posts', ({ data }) => {
+  return data.tags?.includes(sectionTag);
+})).sort((a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime()).slice(0, 4) : [];
+---
+
+{tag__settings.enable && sectionTag && posts.length > 0 && (
+  <section class="section section-tag animate">
+    <div class="container">
+      <div class="row">
+        <div class="col col-12">
+          <div class="section__inner">
+            <div class="section__info">
+              <div class="section__head">
+                <h2 class="section__title" style="text-transform: capitalize;">{sectionTag}</h2>
+                <a class="section__link" href={`/tags/?tag=${sectionTag.toLowerCase()}`}>See more <i class="ion ion-md-arrow-forward"></i></a>
+              </div>
+            </div>
+
+            <div class="row">
+              {posts.map((post, index) => (
+                <ArticleCard post={post} index={index} />
+              ))}
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+)}

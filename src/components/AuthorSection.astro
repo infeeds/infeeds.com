@@ -1,0 +1,31 @@
+---
+import { settings } from '../data/settings';
+
+const { author__section } = settings;
+---
+
+{author__section.enable && (
+  <section class="section section-author animate">
+    <div class="container">
+      <div class="row">
+        <div class="col col-12">
+          <div class="section-author__inner">
+            <div class={`section-author__image ${author__section.author__section__big__image && author__section.author__section__small__image ? 'two-author-images' : ''}`}>
+              {author__section.author__section__big__image && (
+                <img class="lazy loaded author__big__image" src={author__section.author__section__big__image} alt={settings.author.name} />
+              )}
+            </div>
+
+            <div class="section-author__content">
+              <h2 class="section-author__title">{author__section.author__section__title}</h2>
+              <p class="section-author__description">{author__section.author__section__description}</p>
+              <a href={author__section.aurhor__section__button__link} class="section-author__button button">
+                {author__section.aurhor__section__button__text}
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+)}

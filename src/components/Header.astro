@@ -1,0 +1,69 @@
+---
+import { settings } from '../data/settings';
+import AdUnit from './AdUnit.astro';
+
+const menuItems = settings.menu.items;
+---
+
+<!-- begin header -->
+<header class="header">
+  <div class="container-big">
+    <div class="row">
+      <div class="header__inner col col-12">
+
+        <div class="logo">
+          <a class="logo__link" href="/">
+            {settings.logo ? (
+              <img class="logo__image" src={settings.logo} alt={settings.title} />
+            ) : (
+              settings.title
+            )}
+          </a>
+        </div>
+
+        <div class="hamburger">
+          <div></div>
+        </div>
+
+        <nav class="main-nav" aria-label="Main menu">
+          <div class="main-nav__box">
+            <ul class="nav__list list-reset">
+              {menuItems.map((item) => (
+                item.submenu ? (
+                  <li class="nav__item dropdown">
+                    <span class="nav__link dropdown-toggle">
+                      {item.title} <i class="ion ion-ios-arrow-down arrow-down"></i>
+                    </span>
+                    <div class="dropdown-menu">
+                      {item.submenu.map((subItem) => (
+                        <a href={subItem.url} class="nav__link">{subItem.title}</a>
+                      ))}
+                    </div>
+                  </li>
+                ) : (
+                  <li class="nav__item">
+                    <a href={item.url} class="nav__link">{item.title}</a>
+                  </li>
+                )
+              ))}
+            </ul>
+          </div>
+
+          <div class="nav-button">
+            <div class="toggle-theme">
+              <div class="toggle-moon" title="Enable dark mode" aria-hidden="true">
+                <i class="ion ion-ios-moon"></i>
+              </div>
+              <div class="toggle-sun" title="Enable light mode" aria-hidden="true">
+                <i class="ion ion-ios-sunny"></i>
+              </div>
+            </div>
+          </div>
+        </nav>
+
+      </div>
+    </div>
+  </div>
+  <AdUnit location="header_ad" context="blog" />
+</header>
+<!-- end header -->

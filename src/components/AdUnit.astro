@@ -1,0 +1,50 @@
+---
+import { settings } from '../data/settings';
+
+interface Props {
+  location: 'header_ad' | 'sidebar_ad' | 'footer_ad';
+  context: 'homepage' | 'blog';
+}
+
+const { location, context } = Astro.props;
+const ad = settings.ads?.[context]?.[location];
+
+const isActive = () => {
+  if (!ad || !ad.enabled) return false;
+  if (ad.start_date && ad.duration_days) {
+    const startDate = new Date(ad.start_date);
+    const endDate = new Date(startDate.getTime() + ad.duration_days * 86400000);
+    const now = new Date();
+    return now >= startDate && now < endDate;
+  }
+  return true;
+};
+
+const active = isActive();
+---
+
+{active && (
+  <div class={`ad-unit ad-unit--${location}`}>
+    {ad.type === 'image' && ad.image_url && ad.link_url && (
+      <a href={ad.link_url} target="_blank" rel="noopener sponsored">
+        <img src={ad.image_url} alt={ad.alt_text || 'Advertisement'} />
+      </a>
+    )}
+
+    {ad.type === 'html' && ad.html_content && (
+      <Fragment set:html={ad.html_content} />
+    )}
+
+    {ad.type === 'text' && ad.text_content && (
+      <div class="ad-unit--text">
+        {ad.text_title && <h4>{ad.text_title}</h4>}
+        <p>{ad.text_content}</p>
+        {ad.text_link_url && ad.text_link_label && (
+          <a href={ad.text_link_url} class="button" target="_blank" rel="noopener sponsored" style="color:rgb(22, 22, 216)">
+            {ad.text_link_label}
+          </a>
+        )}
+      </div>
+    )}
+  </div>
+)}

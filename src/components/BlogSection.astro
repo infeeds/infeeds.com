@@ -1,0 +1,43 @@
+---
+import { getCollection } from 'astro:content';
+import { settings } from '../data/settings';
+import ArticleCard from './ArticleCard.astro';
+
+interface Props {
+  showHero?: boolean;
+}
+
+const { showHero = false } = Astro.props;
+
+const allPosts = (await getCollection('posts', ({ data }) => {
+  return data.featured !== true;
+})).sort((a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime()).slice(0, showHero ? 9 : 8);
+---
+
+{settings.blog__settings.enable && (
+  <section class="section blog animate">
+    <div class="container">
+      <div class="row">
+        <div class="col col-12">
+          <div class="section__inner">
+            <div class="section__info">
+              <div class="section__head">
+                <h2 class="section__title">{settings.blog__settings.blog__title}</h2>
+                <a class="section__link" href="/blog/">See all posts <i class="ion ion-md-arrow-forward"></i></a>
+              </div>
+              {settings.blog__settings.blog__description && (
+                <p class="section__description">{settings.blog__settings.blog__description}</p>
+              )}
+            </div>
+
+            <div class="row">
+              {allPosts.map((post, index) => (
+                <ArticleCard post={post} index={index} isHero={showHero && index === 0} isHome={true} />
+              ))}
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+)}

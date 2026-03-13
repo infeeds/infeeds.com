@@ -1,0 +1,36 @@
+---
+import { getCollection } from 'astro:content';
+import ArticleCard from './ArticleCard.astro';
+
+interface Props {
+  currentPostId: string;
+  tags: string[];
+}
+
+const { currentPostId, tags } = Astro.props;
+
+const allPosts = await getCollection('posts');
+const relatedPosts = allPosts
+  .filter(post => post.id !== currentPostId && post.data.tags?.some(tag => tags.includes(tag)))
+  .sort((a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime())
+  .slice(0, 3);
+---
+
+{relatedPosts.length > 0 && (
+  <div class="container">
+    <section class="related-posts is-related animate">
+      <div class="row">
+        <div class="col col-12">
+          <div class="container__inner">
+            <h2 class="related-posts__title">You may also like...</h2>
+            <div class="row">
+              {relatedPosts.map((post, index) => (
+                <ArticleCard post={post} index={index} isHero={false} isRelated={true} />
+              ))}
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </div>
+)}
