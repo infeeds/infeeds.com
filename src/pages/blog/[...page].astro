@@ -1,0 +1,83 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+import ArticleCard from '../../components/ArticleCard.astro';
+import Pagination from '../../components/Pagination.astro';
+
+export async function getStaticPaths() {
+  const posts = (await getCollection('posts')).sort(
+    (a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime()
+  );
+
+  const pages = [];
+  const firstPageSize = 13;
+  const regularPageSize = 12;
+  const totalPosts = posts.length;
+  const lastPage = Math.ceil((totalPosts - firstPageSize) / regularPageSize) + 1;
+
+  // Page 1
+  pages.push({
+    params: { page: undefined },
+    props: {
+      page: {
+        data: posts.slice(0, firstPageSize),
+        currentPage: 1,
+        lastPage: lastPage,
+        url: {
+          prev: undefined,
+          next: totalPosts > firstPageSize ? "/blog/2/" : undefined
+        }
+      }
+    }
+  });
+
+  // Subsequent pages
+  let currentPos = firstPageSize;
+  let pageNum = 2;
+  while (currentPos < totalPosts) {
+    const endPos = currentPos + regularPageSize;
+    pages.push({
+      params: { page: pageNum.toString() },
+      props: {
+        page: {
+          data: posts.slice(currentPos, endPos),
+          currentPage: pageNum,
+          lastPage: lastPage,
+          url: {
+            prev: pageNum === 2 ? "/blog/" : `/blog/${pageNum - 1}/`,
+            next: endPos < totalPosts ? `/blog/${pageNum + 1}/` : undefined
+          }
+        }
+      }
+    });
+    currentPos = endPos;
+    pageNum++;
+  }
+
+  return pages;
+}
+
+const { page } = Astro.props;
+---
+
+<Layout title="Blog">
+  <div class="container">
+    <div class="row">
+      <div class="col col-12">
+        <div class="section__info">
+          <div class="section__head">
+            <h1 class="section__title">Blog</h1>
+          </div>
+        </div>
+
+        <div class="row">
+          {page.data.map((post: any, index: number) => (
+            <ArticleCard post={post} index={index} isHero={index === 0 && page.currentPage === 1} />
+          ))}
+        </div>
+
+        <Pagination page={page} baseUrl="/blog/" />
+      </div>
+    </div>
+  </div>
+</Layout>

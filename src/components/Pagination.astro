@@ -1,0 +1,79 @@
+---
+interface Props {
+  page: any;
+  baseUrl: string;
+}
+
+const { page, baseUrl } = Astro.props;
+
+const current = page.currentPage;
+const total = page.lastPage;
+const window = 2;
+
+let start = current - window;
+let end = current + window;
+
+if (start < 2) start = 2;
+if (end > total - 1) end = total - 1;
+
+const pages = [];
+for (let i = start; i <= end; i++) {
+  pages.push(i);
+}
+
+const getUrl = (p: number) => {
+  if (p === 1) return baseUrl;
+  return `${baseUrl}${p}/`;
+};
+---
+
+{total > 1 && (
+  <div class="container">
+    <div class="row">
+      <div class="col col-12">
+        <nav class="pagination animate">
+          <div class="pagination__list">
+            
+            {page.url.prev ? (
+              <a class="previous-link" href={page.url.prev}>&laquo;</a>
+            ) : (
+              <span class="disabled">&laquo;</span>
+            )}
+
+            <div class="counter-box">
+              {/* First Page */}
+              {current === 1 ? (
+                <span class="active-link">1</span>
+              ) : (
+                <a class="back-link" href={getUrl(1)}>1</a>
+              )}
+
+              {/* Left Dots */}
+              {start > 2 && <span class="dots">…</span>}
+
+              {/* Window */}
+              {pages.map((p) => (
+                p === current ? (
+                  <span class="active-link">{p}</span>
+                ) : (
+                  <a class="count-number" href={getUrl(p)}>{p}</a>
+                )
+              ))}
+
+              {/* Right Dots */}
+              {end < total - 1 && <span class="dots">…</span>}
+
+              {/* Last Page removed as per request */}
+            </div>
+
+            {page.url.next ? (
+              <a class="next-link" href={page.url.next}>&raquo;</a>
+            ) : (
+              <span class="disabled">&raquo;</span>
+            )}
+          </div>
+        </nav>
+      </div>
+    </div>
+  </div>
+)}

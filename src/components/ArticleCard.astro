@@ -1,0 +1,129 @@
+---
+import { getEntry } from 'astro:content';
+import { settings } from '../data/settings';
+import { getCleanSlug, getDateFromFilename } from '../utils/slug';
+
+interface Props {
+  post: any;
+  index: number;
+  isHero?: boolean;
+  isRelated?: boolean;
+  isHome?: boolean;
+}
+
+const { post, index, isHero, isRelated = false, isHome = false } = Astro.props;
+const { data, id } = post;
+const cleanSlug = getCleanSlug(id);
+
+const authorEntry = await getEntry('authors', data.author);
+const author = authorEntry?.data;
+
+const rawDate = data.date || getDateFromFilename(id);
+const formattedDate = rawDate ? new Date(rawDate).toLocaleDateString('en-US', {
+  year: 'numeric',
+  month: 'short',
+  day: 'numeric',
+}) : '';
+
+const finalColClass = isHero ? "col-12 article--first" : (isRelated ? "col-12 article--horizontal" : (isHome ? "col-6 col-w-6 col-d-12" : "col-4 col-w-6 col-d-12"));
+---
+
+<div class={`article col ${finalColClass}`}>
+  <div class="article__inner">
+    <div class="article__head">
+      {data.video_embed && (
+        <div class="video-icon">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+            <polygon points="40,30 65,50 40,70"></polygon>
+          </svg>
+        </div>
+      )}
+
+      {data.image && (
+        <a href={`/${cleanSlug}/`} class="article__image" aria-hidden="true" tabindex="-1">
+          <img class="lazy loaded" src={data.image} alt={data.title} />
+        </a>
+      )}
+    </div>
+
+    <div class="article__content">
+      {data.tags && data.tags.length > 0 && (
+        <div class="article__tags">
+          {data.tags.map((tag: string) => (
+            <a 
+              href={`/tags/${tag.toLowerCase().replace(/\\s+/g, '-')}/`} 
+              class="article__tag"
+              style={data.tags_color ? { color: data.tags_color } : {}}
+            >
+              {tag}
+            </a>
+          ))}
+        </div>
+      )}
+
+      <h2 class="article__title">
+        <a href={`/${cleanSlug}/`}>{data.title}</a>
+      </h2>
+
+      <p class="article__excerpt">
+        {data.description || ""}
+      </p>
+
+      <div class="article__meta">
+        <a href={author ? `/author/${author.username}/` : '/about/'} class="article__author__image">
+          <img class="lazy loaded" src={author?.image || settings.author.avatar} alt={author?.name || settings.author.name} />
+        </a>
+
+        <div class="article__meta__bottom">
+          <a class="article__author__name" href={author ? `/author/${author.username}/` : '/about/'}>
+            {author?.name || settings.author.name}
+          </a>
+          {rawDate && (
+            <time class="article__date" datetime={new Date(rawDate).toISOString()}>
+              {formattedDate}
+            </time>
+          )}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<style>
+  .article--horizontal .article__inner {
+    display: flex;
+    align-items: center;
+  }
+  .article--horizontal .article__head {
+    width: 35%;
+    margin-right: 24px;
+    margin-bottom: 0;
+  }
+  .article--horizontal .article__image {
+    padding-bottom: 75%;
+    margin-bottom: 0;
+  }
+  .article--horizontal .article__content {
+    width: 65%;
+  }
+  @media only screen and (max-width: 1200px) {
+    .article--horizontal .article__inner {
+      display: block;
+    }
+    .article--horizontal .article__head {
+      width: 100%;
+      margin-right: 0;
+      margin-bottom: 20px;
+    }
+    .article--horizontal .article__content {
+      width: 100%;
+    }
+  }
+  /* Ensure tags have transition */
+  .article__tag {
+    transition: opacity 0.2s;
+  }
+  .article__tag:hover {
+    opacity: 0.9;
+  }
+</style>

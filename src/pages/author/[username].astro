@@ -1,0 +1,81 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+import ArticleCard from '../../components/ArticleCard.astro';
+import { settings } from '../../data/settings';
+
+export async function getStaticPaths() {
+  const authors = await getCollection('authors');
+  const posts = await getCollection('posts');
+
+  return authors.map((author) => {
+    const authorPosts = posts
+      .filter((post) => post.data.author === author.data.username)
+      .sort((a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime());
+
+    return {
+      params: { username: author.data.username },
+      props: { author: author.data, authorBody: author.body, posts: authorPosts },
+    };
+  });
+}
+
+const { author, authorBody, posts } = Astro.props;
+---
+
+<Layout title={author.name} description={authorBody} image={author.image}>
+  {author.cover && (
+    <div class="hero__image">
+      <div class="hero__image__inner">
+        <img class="lazy loaded" src={author.cover} alt={author.name} />
+      </div>
+    </div>
+  )}
+
+  <section class="author">
+    <div class="container">
+      <div class="author__content">
+        <div class="author__image">
+          <img class="lazy loaded" src={author.image} alt={author.name} />
+        </div>
+        <h1 class="author__name">{author.name}</h1>
+        <div class="author__posts__count">
+          {posts.length} {posts.length === 1 ? 'Post' : 'Posts'}
+        </div>
+
+        <div class="author__info">
+          {author.location && (
+            <span class="author__social__item"><i class="ion ion-md-pin"></i> {author.location}</span>
+          )}
+          {author.website && (
+            <a class="author__social__item" href={author.website} aria-label="Website link">
+              <i class="ion ion-ios-link"></i> Website
+            </a>
+          )}
+          {author.twitter && (
+            <a class="author__social__item" href={author.twitter} aria-label="Twitter link">
+              <i class="ion ion-logo-twitter"></i> Twitter
+            </a>
+          )}
+          {author.facebook && (
+            <a class="author__social__item" href={author.facebook} aria-label="Facebook link">
+              <i class="ion ion-logo-facebook"></i> Facebook
+            </a>
+          )}
+        </div>
+
+        <div class="author__description">
+          {authorBody}
+        </div>
+      </div>
+    </div>
+
+    <div class="container animate">
+      <div class="row">
+        {posts.map((post, index) => (
+          <ArticleCard post={post} index={index} />
+        ))}
+      </div>
+    </div>
+  </section>
+</Layout>

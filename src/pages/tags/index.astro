@@ -1,0 +1,42 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+
+const allPosts = await getCollection('posts');
+const tagsWithColors = new Map();
+
+allPosts.forEach(post => {
+  if (post.data.tags) {
+    post.data.tags.forEach(tag => {
+      if (!tagsWithColors.has(tag)) {
+        tagsWithColors.set(tag, post.data.tags_color || undefined);
+      }
+    });
+  }
+});
+
+const tags = Array.from(tagsWithColors.keys()).sort();
+---
+
+<Layout title="All Tags">
+  <div class="container">
+    <div class="row">
+      <div class="col col-12">
+        <div class="section__info" style="margin-top: 60px;">
+          <h1 class="section__title">All Tags</h1>
+        </div>
+        <div class="article__tags" style="margin-bottom: 60px;">
+          {tags.map((tag) => (
+            <a 
+              href={`/tags/${tag.toLowerCase().replace(/\s+/g, '-')}/`} 
+              class="article__tag"
+              style={tagsWithColors.get(tag) ? { color: tagsWithColors.get(tag) } : {}}
+            >
+              {tag}
+            </a>
+          ))}
+        </div>
+      </div>
+    </div>
+  </div>
+</Layout>
