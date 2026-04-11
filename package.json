@@ -1,0 +1,23 @@
+{
+  "name": "infeeds",
+  "type": "module",
+  "version": "0.0.1",
+  "engines": {
+    "node": ">=22.12.0"
+  },
+  "scripts": {
+    "sync-markdown": "for f in src/content/posts/*.markdown; do [ -f \"$f\" ] && mv \"$f\" \"${f%.markdown}.md\"; done || true && node cleanup.js",
+    "dev": "bun run sync-markdown && bunx --bun astro dev",
+    "build": "bun run sync-markdown && bunx --bun astro build",
+    "preview": "bunx --bun astro preview",
+    "astro": "bunx --bun astro"
+  },
+  "dependencies": {
+    "@astrojs/sitemap": "^3.7.1",
+    "astro": "^6.0.4",
+    "gray-matter": "^4.0.3"
+  },
+  "devDependencies": {
+    "sass": "^1.98.0"
+  }
+}
