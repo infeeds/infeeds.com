@@ -30,7 +30,7 @@ The physical design of the bottle also plays a role in label adhesion. Different
 
 ## Weight, Logistics, and Total Cost
 
-Using more cullet can significantly reduce the raw materials cost and [CO2 emissions](https://normative.io/insight/reduce-manufacturer-carbon-emissions/) associated with producing your glass, but you might also find that it changes the appearance, and perhaps even the performance, of the bottle in unexpected ways.
+Using more cullet can significantly reduce the raw materials cost and [CO2 emissions](https://normative.io/insight/reduce-manufacturer-carbon-emissions/) associated with producing your glass, but you might also find that it changes the appearance, and perhaps even the performance, of the bottle in unexpected ways. It's critical to weigh all the elements of a material change before you start producing new products. Sometimes, the higher price for extra shipping weight is worth it when you factor in the perceived quality difference by your customers.
 
 ## Neck Finish and Closure Compatibility
 
