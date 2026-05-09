@@ -36,4 +36,6 @@ Additionally, Institutional Review Boards (IRB) play a crucial role in overseein
 
 ## **Conclusion**
 
+<img width="1792" height="672" alt="image" src="https://github.com/user-attachments/assets/ac883dbf-9bd9-440c-84a2-0a739f337210" />
+
 Early identification and intervention are key in managing Early Onset Alzheimer's Symptoms. By focusing on memory loss, cognitive decline, mood changes, and speech issues, individuals can take proactive steps towards treatment. Advancements in research tools and methodologies continue to enhance our understanding, offering hope for those affected by this challenging condition. Prioritizing these symptoms can lead to improved management and a better quality of life for patients and their families.
