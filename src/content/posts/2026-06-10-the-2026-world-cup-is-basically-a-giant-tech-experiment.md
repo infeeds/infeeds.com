@@ -1,3 +1,4 @@
+---
 title: "The 2026 World Cup Is Basically a Giant Tech Experiment"
 description: "FIFA is deploying digital twins, 500-times-per-second ball tracking, and AI-assisted officiating. But is it worth it?"
 date: 2026-06-10 16:00:19 +0530
