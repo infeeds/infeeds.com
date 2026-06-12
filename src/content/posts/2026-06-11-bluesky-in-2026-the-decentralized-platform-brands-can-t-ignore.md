@@ -1,3 +1,4 @@
+---
 title: "Bluesky in 2026: The Decentralized Platform Brands Can't Ignore"
 description: "With 44 million users and real engagement, Bluesky is proving it has staying power. Here's what marketers need to know."
 date: 2026-06-11 20:00:20 +0530
