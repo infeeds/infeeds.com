@@ -1,4 +1,5 @@
-: "Jimmy Kimmel Just Assigned Rosie O'Donnell to Torture Trump This Summer"
+---
+title: "Jimmy Kimmel Just Assigned Rosie O'Donnell to Torture Trump This Summer"
 description: "Kimmel handed Trump a summer surprise: Rosie O’Donnell as guest host. The feud continues."
 date: 2026-06-18 12:00:22 +0530
 author: adam
