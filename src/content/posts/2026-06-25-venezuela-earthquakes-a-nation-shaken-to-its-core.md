@@ -3,7 +3,7 @@ title: "Venezuela Earthquakes: A Nation Shaken to Its Core"
 description: "Two devastating earthquakes strike Venezuela, killing at least 235 people and injuring thousands more as rescue teams race against time."
 date: 2026-06-25 10:00:35 +0530
 author: adam
-image: 'https://images.unsplash.com/photo-1765707886613-f4961bbd7dd?q=80&w=988'
+image: 'https://images.unsplash.com/photo-1768405942773-87e8d4fb782b?q=80&w=2070'
 tags: [news, news]
 tags_color: '#1f78b4'
 ---
