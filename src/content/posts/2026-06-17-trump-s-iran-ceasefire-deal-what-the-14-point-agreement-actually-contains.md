@@ -1,9 +1,9 @@
 ---
-title: " Trump's Iran Ceasefire Deal: What the 14-Point Agreement Actually Contains"
+title: "Trump's Iran Ceasefire Deal: What the 14-Point Agreement Actually Contains"
 description: "A breakdown of the US-Iran Memorandum of Understanding signed at the G7 summit, covering the Strait of Hormuz, sanctions, and nuclear commitments."
 date: 2026-06-17 10:00:18 +0530
 author: adam
-image: 'https://images.unsplash.com/photo-1765707886613-f4961bbd7?q=80&w=988'
+image: 'https://images.unsplash.com/photo-1768405942773-87e8d4fb782b?q=80&w=2070'
 tags: [news, news]
 tags_color: '#1f78b4'
 ---

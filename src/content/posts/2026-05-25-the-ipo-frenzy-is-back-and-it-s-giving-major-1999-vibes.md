@@ -3,7 +3,7 @@ title: "The IPO Frenzy Is Back And It's Giving Major 1999 Vibes"
 description: "SpaceX, OpenAI, Anthropic are lining up to go public. But should investors brace for another bubble?"
 date: 2026-05-25 16:00:21 +0530
 author: adam
-image: 'https://images.unsplash.com/photo-1765707886613-f4961bbd7?q=80&w=988'
+image: 'https://images.unsplash.com/photo-1768405942773-87e8d4fb782b?q=80&w=2070'
 tags: [news, business]
 tags_color: '#795548'
 ---

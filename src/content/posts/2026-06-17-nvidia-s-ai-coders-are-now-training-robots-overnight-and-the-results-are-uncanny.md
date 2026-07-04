@@ -3,7 +3,7 @@ title: "NVIDIA's AI Coders Are Now Training Robots Overnight, And The Results Ar
 description: "NVIDIA's new ENPIRE framework lets AI agents autonomously train robots to 99% success rates while humans sleep."
 date: 2026-06-17 02:00:19 +0530
 author: adam
-image: 'https://images.unsplash.com/photo-1765707886613-f4961bbd7?q=80&w=988'
+image: 'https://images.unsplash.com/photo-1768405942773-87e8d4fb782b?q=80&w=2070'
 tags: [news, tech]
 tags_color: '#3f51b5'
 ---

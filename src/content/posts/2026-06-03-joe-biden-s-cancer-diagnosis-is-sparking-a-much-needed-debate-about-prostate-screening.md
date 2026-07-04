@@ -3,7 +3,7 @@ title: "Joe Biden's Cancer Diagnosis Is Sparking a Much-Needed Debate About Pros
 description: "Why doctors stopped screening men over 70 for prostate cancer—and whether that guidance needs to change."
 date: 2026-06-03 06:00:18 +0530
 author: adam
-image: 'https://images.unsplash.com/photo-1765707886613-f4961bbd7?q=80&w=988'
+image: 'https://images.unsplash.com/photo-1768405942773-87e8d4fb782b?q=80&w=2070'
 tags: [news, health]
 tags_color: '#e91e63'
 ---

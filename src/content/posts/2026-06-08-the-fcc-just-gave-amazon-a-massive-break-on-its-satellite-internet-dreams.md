@@ -3,7 +3,7 @@ title: "The FCC Just Gave Amazon a Massive Break on Its Satellite Internet Dream
 description: "Amazon won’t have to meet a key satellite launch deadline, but the road to competing with Starlink is still rocky."
 date: 2026-06-08 14:00:19 +0530
 author: adam
-image: 'https://images.unsplash.com/photo-1765707886613-f4961bbd7?q=80&w=988'
+image: 'https://images.unsplash.com/photo-1768405942773-87e8d4fb782b?q=80&w=2070'
 tags: [news, tech]
 tags_color: '#3f51b5'
 ---

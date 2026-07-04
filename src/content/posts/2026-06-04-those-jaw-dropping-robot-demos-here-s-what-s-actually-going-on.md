@@ -3,7 +3,7 @@ title: "Those Jaw-Dropping Robot Demos? Here's What's Actually Going On"
 description: "Robot videos look incredible, but they're not telling you the whole story. Here's what to watch for."
 date: 2026-06-04 18:00:19 +0530
 author: adam
-image: 'https://images.unsplash.com/photo-1765707886613-f4961bbd7?q=80&w=988'
+image: 'https://images.unsplash.com/photo-1768405942773-87e8d4fb782b?q=80&w=2070'
 tags: [news, tech]
 tags_color: '#3f51b5'
 ---

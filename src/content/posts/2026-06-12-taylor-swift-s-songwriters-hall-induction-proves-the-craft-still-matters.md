@@ -3,7 +3,7 @@ title: "Taylor Swift's Songwriters Hall Induction Proves the Craft Still Matters
 description: "At 35, Taylor Swift becomes the youngest woman inducted into the Songwriters Hall of Fame, and her speech was a mic drop moment."
 date: 2026-06-12 00:00:20 +0530
 author: adam
-image: 'https://images.unsplash.com/photo-1768663319879-e6a2c4c7408f?q=80&w=2070'
+image: 'https://images.unsplash.com/photo-1768405942773-87e8d4fb782b?q=80&w=2070'
 tags: [news, entertainment]
 tags_color: '#9c27b0'
 ---

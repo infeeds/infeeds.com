@@ -3,7 +3,7 @@ title: "Blue Origin's New Glenn Explodes in Flames"
 description: "The massive rocket suffered a catastrophic failure during a static fire test in Florida, marking one of the worst incidents in the company's history."
 date: 2026-05-28 12:00:18 +0530
 author: adam
-image: 'https://images.unsplash.com/photo-1768663319879-e6a2c4c7408f?q=80&w=2070'
+image: 'https://images.unsplash.com/photo-1768405942773-87e8d4fb782b?q=80&w=2070'
 tags: [news, tech]
 tags_color: '#00ba65'
 ---

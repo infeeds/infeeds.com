@@ -3,7 +3,7 @@ title: "Apache Crash Near Strait of Hormuz Puts Spotlight on Risky U.S. Role in 
 description: "Trump says crew safe after helicopter crash amid escalating tensions and fragile ceasefire negotiations"
 date: 2026-06-08 22:00:18 +0530
 author: adam
-image: 'https://images.unsplash.com/photo-1765707886613-f4961bbd7?q=80&w=988'
+image: 'https://images.unsplash.com/photo-1768405942773-87e8d4fb782b?q=80&w=2070'
 tags: [news, news]
 tags_color: '#795548'
 ---

@@ -3,7 +3,7 @@ title: "When the Pope Quotes Gandalf: A Subtle Message to Silicon Valley's Tolki
 description: "Pope Leo's AI encyclical includes a Gandalf quote that looks like a quiet rebuttal to Peter Thiel's tech messianism"
 date: 2026-05-26 06:00:19 +0530
 author: adam
-image: 'https://images.unsplash.com/photo-1765707886613-f4961bbd7?q=80&w=988'
+image: 'https://images.unsplash.com/photo-1768405942773-87e8d4fb782b?q=80&w=2070'
 tags: [news, tech]
 tags_color: '#3f51b5'
 ---

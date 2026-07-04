@@ -3,7 +3,7 @@ title: "Why Your Social Media Posts Keep Slipping Through Unapproved"
 description: "A messy approval workflow is a liability. Here's how to build one that actually holds up."
 date: 2026-06-03 00:00:19 +0530
 author: adam
-image: 'https://images.unsplash.com/photo-1768663319879-e6a2c4c7408f?q=80&w=2070'
+image: 'https://images.unsplash.com/photo-1768405942773-87e8d4fb782b?q=80&w=2070'
 tags: [news, business]
 tags_color: '#ff9800'
 ---

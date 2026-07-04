@@ -3,7 +3,7 @@ title: "GitHub Copilot's New Pricing Is Giving Users a Rude Awakening"
 description: "Users are burning through monthly AI credits in hours under the new usage-based model."
 date: 2026-06-01 06:00:19 +0530
 author: adam
-image: 'https://images.unsplash.com/photo-1768663319879-e6a2c4c7408f?q=80&w=2070'
+image: 'https://images.unsplash.com/photo-1768405942773-87e8d4fb782b?q=80&w=2070'
 tags: [news, tech]
 tags_color: '#3f51b5'
 ---

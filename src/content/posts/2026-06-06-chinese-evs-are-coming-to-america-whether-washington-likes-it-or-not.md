@@ -3,7 +3,7 @@ title: "Chinese EVs Are Coming to America — Whether Washington Likes It or Not
 description: "American drivers may soon get Chinese EVs despite tariffs and political opposition. Here's what that means for the auto industry."
 date: 2026-06-06 06:00:19 +0530
 author: adam
-image: 'https://images.unsplash.com/photo-1768663319879-e6a2c4c7408f?q=80&w=2070'
+image: 'https://images.unsplash.com/photo-1768405942773-87e8d4fb782b?q=80&w=2070'
 tags: [news, business]
 tags_color: '#4caf50'
 ---

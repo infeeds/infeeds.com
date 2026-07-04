@@ -3,7 +3,7 @@ title: "Iranian Tankers Slip Past US Blockade, And Nobody Seems Sure What Happen
 description: "Three oil tankers just crossed the Gulf of Oman, testing a blockade that may or may not still exist"
 date: 2026-06-16 22:00:18 +0530
 author: adam
-image: 'https://images.unsplash.com/photo-1768663319879-e6a2c4c7408f?q=80&w=2070'
+image: 'https://images.unsplash.com/photo-1768405942773-87e8d4fb782b?q=80&w=2070'
 tags: [news, news]
 tags_color: '#1f78b4'
 ---

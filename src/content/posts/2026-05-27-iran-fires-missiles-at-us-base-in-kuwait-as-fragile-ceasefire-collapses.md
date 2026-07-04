@@ -3,7 +3,7 @@ title: "Iran Fires Missiles at US Base in Kuwait as Fragile Ceasefire Collapses"
 description: "IRGC targets American air base after fresh US strikes, threatening already fragile peace talks."
 date: 2026-05-27 20:00:18 +0530
 author: adam
-image: 'https://images.unsplash.com/photo-1765707886613-f4961bbd7?q=80&w=988'
+image: 'https://images.unsplash.com/photo-1768405942773-87e8d4fb782b?q=80&w=2070'
 tags: [news, news]
 tags_color: '#1f78b4'
 ---

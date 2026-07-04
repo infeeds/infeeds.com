@@ -3,7 +3,7 @@ title: "The AI IPO Race Is Getting Weird—And That's Putting It Softly"
 description: "From San Francisco houses selling for Anthropic stock to Trump's underwhelming AI executive order, it's been a wild week in tech."
 date: 2026-06-04 02:00:19 +0530
 author: adam
-image: 'https://images.unsplash.com/photo-1768663319879-e6a2c4c7408f?q=80&w=2070'
+image: 'https://images.unsplash.com/photo-1768405942773-87e8d4fb782b?q=80&w=2070'
 tags: [news, tech]
 tags_color: '#ff5722'
 ---

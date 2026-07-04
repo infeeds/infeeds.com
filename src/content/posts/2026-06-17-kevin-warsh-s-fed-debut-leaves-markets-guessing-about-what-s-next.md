@@ -3,7 +3,7 @@ title: "Kevin Warsh's Fed Debut Leaves Markets Guessing About What's Next"
 description: "The new Fed chair's first meeting threw curveballs that left investors unsettled and questioning the central bank's direction."
 date: 2026-06-17 12:00:19 +0530
 author: adam
-image: 'https://images.unsplash.com/photo-1765707886613-f4961bbd7d?8?q=80&w=988'
+image: 'https://images.unsplash.com/photo-1768405942773-87e8d4fb782b?q=80&w=2070'
 tags: [news, business]
 tags_color: '#4caf50'
 ---

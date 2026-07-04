@@ -3,7 +3,7 @@ title: "Elon Musk Just Became The World's First Trillionaire And The Numbers Are
 description: "SpaceX's massive IPO has catapulted Elon Musk into uncharted wealth territory. Here's what his trillion-dollar fortune actually means."
 date: 2026-06-14 12:00:18 +0530
 author: adam
-image: 'https://images.unsplash.com/photo-1768663319879-e6a2c4c7408f?q=80&w=2070'
+image: 'https://images.unsplash.com/photo-1768405942773-87e8d4fb782b?q=80&w=2070'
 tags: [news, tech]
 tags_color: '#1f78b4'
 ---

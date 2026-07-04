@@ -3,7 +3,7 @@ title: "Olivia Rodrigo’s New Album Is a Breakup Story Told in Two Halves"
 description: "Olivia Rodrigo returns after four years with a 13-track double album chronicling a relationship's unraveling."
 date: 2026-06-11 10:00:18 +0530
 author: adam
-image: 'https://images.unsplash.com/photo-1768663319879-e6a2c4c7408f?q=80&w=2070'
+image: 'https://images.unsplash.com/photo-1768405942773-87e8d4fb782b?q=80&w=2070'
 tags: [news, entertainment]
 tags_color: '#9c27b0'
 ---

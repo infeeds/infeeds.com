@@ -3,7 +3,7 @@ title: "Where Music Is the Real National Sport in Cape Verde"
 description: "Cape Verde's musical soul runs deeper than its World Cup debut. A look at the islands where everyone plays."
 date: 2026-05-27 08:00:18 +0530
 author: adam
-image: 'https://images.unsplash.com/photo-1765707886613-f4961bbd7?q=80&w=988'
+image: 'https://images.unsplash.com/photo-1768405942773-87e8d4fb782b?q=80&w=2070'
 tags: [news, news]
 tags_color: '#ff5722'
 ---

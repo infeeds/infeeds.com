@@ -3,7 +3,7 @@ title: "Want Fewer Nightmares? What You Do Before Bed Matters More Than You Thin
 description: "A neuroscientist reveals the surprising link between your pre-sleep routine and those terrifying dreams that wake you up."
 date: 2026-06-05 12:00:18 +0530
 author: adam
-image: 'https://images.unsplash.com/photo-1765707886613-f4961bbd7?q=80&w=988'
+image: 'https://images.unsplash.com/photo-1768405942773-87e8d4fb782b?q=80&w=2070'
 tags: [news, health]
 tags_color: '#e91e63'
 ---

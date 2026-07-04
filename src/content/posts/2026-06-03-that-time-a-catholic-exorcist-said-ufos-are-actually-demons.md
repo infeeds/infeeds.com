@@ -3,7 +3,7 @@ title: "That Time a Catholic Exorcist Said UFOs Are Actually Demons"
 description: "The Archdiocese of Washington just cut ties with a prominent exorcist over his viral claims about aliens. Here's what happened."
 date: 2026-06-03 12:00:18 +0530
 author: adam
-image: 'https://images.unsplash.com/photo-1765707886613-f4961bbd7?q=80&w=988'
+image: 'https://images.unsplash.com/photo-1768405942773-87e8d4fb782b?q=80&w=2070'
 tags: [news, news]
 tags_color: '#795548'
 ---

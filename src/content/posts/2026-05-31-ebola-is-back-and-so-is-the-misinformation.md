@@ -3,7 +3,7 @@ title: "Ebola Is Back, and So Is the Misinformation"
 description: "A deadly outbreak in Congo meets social media rumors, while funding cuts leave health workers struggling."
 date: 2026-05-31 04:00:18 +0530
 author: adam
-image: 'https://images.unsplash.com/photo-1768663319879-e6a2c4c7408f?q=80&w=2070'
+image: 'https://images.unsplash.com/photo-1768405942773-87e8d4fb782b?q=80&w=2070'
 tags: [news, news]
 tags_color: '#ff5722'
 ---

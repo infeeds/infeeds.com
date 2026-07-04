@@ -3,7 +3,7 @@ title: "Why Iron Deficiency Is Quietly Sabotaging Your Life (And How to Fix It)"
 description: "Feeling exhausted even when you sleep enough? Iron deficiency might be the culprit behind your brain fog and fatigue."
 date: 2026-06-14 06:00:19 +0530
 author: adam
-image: 'https://images.unsplash.com/photo-1765707886613-f4961bbd7?q=80&w=988'
+image: 'https://images.unsplash.com/photo-1768405942773-87e8d4fb782b?q=80&w=2070'
 tags: [news, health]
 tags_color: '#e91e63'
 ---

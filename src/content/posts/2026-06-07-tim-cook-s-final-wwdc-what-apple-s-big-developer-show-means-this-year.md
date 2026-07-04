@@ -3,7 +3,7 @@ title: "Tim Cook's Final WWDC: What Apple's Big Developer Show Means This Year"
 description: "WWDC 2026 kicks off with Tim Cook's last keynote, new OS updates, and big questions about Apple's AI future."
 date: 2026-06-07 18:00:20 +0530
 author: adam
-image: 'https://images.unsplash.com/photo-1768663319879-e6a2c4c7408f?q=80&w=2070'
+image: 'https://images.unsplash.com/photo-1768405942773-87e8d4fb782b?q=80&w=2070'
 tags: [news, tech]
 tags_color: '#2196f3'
 ---

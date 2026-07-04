@@ -3,7 +3,7 @@ title: "Oliver Tree Dead at 32 After Tragic Helicopter Crash in Rio de Janeiro"
 description: "The eccentric musician known for viral hits like Alien Boy and Ugly Is Beautiful has died in a mid-air helicopter collision."
 date: 2026-06-14 04:00:18 +0530
 author: adam
-image: 'https://images.unsplash.com/photo-1768663319879-e6a2c4c7408f?q=80&w=2070'
+image: 'https://images.unsplash.com/photo-1768405942773-87e8d4fb782b?q=80&w=2070'
 tags: [news, entertainment]
 tags_color: '#9c27b0'
 ---

@@ -3,7 +3,7 @@ title: "Trump's 80th Birthday Came With a UFC Octagon on the White House Lawn"
 description: "The president celebrated his milestone birthday with UFC fights, a custom octagon, and a crypto announcement."
 date: 2026-06-14 20:00:18 +0530
 author: adam
-image: 'https://images.unsplash.com/photo-1768595629816-cb207205bdec2?q=80&w=987'
+image: 'https://images.unsplash.com/photo-1768405942773-87e8d4fb782b?q=80&w=2070'
 tags: [news, news]
 tags_color: '#795548'
 ---

@@ -3,7 +3,7 @@ title: "Why Standing Desks Actually Make Sense (And What to Look For)"
 description: "Standing desks aren't a fad. Here's what the testing tells us about making them work."
 date: 2026-06-17 00:00:22 +0530
 author: adam
-image: 'https://images.unsplash.com/photo-1765707886613-f4961bbd7?q=80&w=988'
+image: 'https://images.unsplash.com/photo-1768405942773-87e8d4fb782b?q=80&w=2070'
 tags: [news, tech]
 tags_color: '#2196f3'
 ---

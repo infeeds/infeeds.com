@@ -3,7 +3,7 @@ title: "Apple's $1.4 Trillion App Store Pitch Is Getting Harder to Swallow"
 description: "Apple's latest App Store numbers are eye-popping, but the commission story gets complicated fast."
 date: 2026-06-03 20:00:18 +0530
 author: adam
-image: 'https://images.unsplash.com/photo-1765707886613-f4961bbd7?q=80&w=988'
+image: 'https://images.unsplash.com/photo-1768405942773-87e8d4fb782b?q=80&w=2070'
 tags: [news, tech]
 tags_color: '#00ba65'
 ---

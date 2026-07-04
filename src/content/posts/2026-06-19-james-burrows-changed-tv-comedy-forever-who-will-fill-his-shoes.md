@@ -3,7 +3,7 @@ title: "James Burrows Changed TV Comedy Forever. Who Will Fill His Shoes?"
 description: "The legendary director behind Cheers, Friends, and Taxi directed over 1,000 episodes. Let's talk about what made him so special."
 date: 2026-06-19 02:00:28 +0530
 author: adam
-image: 'https://images.unsplash.com/photo-1765707886613-f4961bbd7?q=80&w=988'
+image: 'https://images.unsplash.com/photo-1768405942773-87e8d4fb782b?q=80&w=2070'
 tags: [news, entertainment]
 tags_color: '#9c27b0'
 ---
