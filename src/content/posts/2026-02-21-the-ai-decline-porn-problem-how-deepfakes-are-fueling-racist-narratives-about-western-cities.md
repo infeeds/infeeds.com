@@ -40,7 +40,7 @@ What's remarkable is how quickly this trend scaled. RadialB didn't invent declin
 
 YouTuber Kurt Caz, who has over four million subscribers, got caught doctoring thumbnails to make London look more dangerous. The thumbnail showed a man in a balaclava in front of Arabic shop signs, but the actual video showed English signs and a friendly interaction. When called out, Caz dismissed it as "clickbait" and suggested critics weren't being thorough enough in their "hit piece."
 
-This is [technology](https://infeeds.com/tags/?tag=technology) at a crossroads. The tools that allow creators to make compelling content also allow them to manufacture false realities at scale. The barrier to entry for creating convincing deepfakes has collapsed. AI tools are cheap, accessible, and getting better by the week.
+This is [technology](https://infeeds.com/tags/technology) at a crossroads. The tools that allow creators to make compelling content also allow them to manufacture false realities at scale. The barrier to entry for creating convincing deepfakes has collapsed. AI tools are cheap, accessible, and getting better by the week.
 
 ## The Bigger Picture
 

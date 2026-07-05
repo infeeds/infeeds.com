@@ -30,11 +30,11 @@ The implication is stark. If most people can't or won't pay £3.99 a month for a
 
 Navarra framed it even more bluntly to the BBC: "We are heading towards a two-tiered social internet. One version for people who can afford more control and privacy, and another version for everybody else."
 
-That's not speculation. That's already happening across multiple <a href="https://infeeds.com/tags/?tag=technology">Technology</a> platforms simultaneously.
+That's not speculation. That's already happening across multiple <a href="https://infeeds.com/tags/technology">Technology</a> platforms simultaneously.
 
 ## The Business Logic
 
-From a <a href="https://infeeds.com/tags/?tag=business">Business</a> standpoint, you can see why platforms are doing this. Advertising revenue has been under pressure for years. User growth has plateaued. Subscriptions offer a new revenue stream from a captive audience that either can't tolerate ads or can actually afford privacy.
+From a <a href="https://infeeds.com/tags/business">Business</a> standpoint, you can see why platforms are doing this. Advertising revenue has been under pressure for years. User growth has plateaued. Subscriptions offer a new revenue stream from a captive audience that either can't tolerate ads or can actually afford privacy.
 
 TikTok's UK managing director, Kris Boger, framed it differently: "Advertising on our platform is already helping thousands of British businesses reach new customers, increase sales and create jobs, while our new ad-free option gives people greater control over their experience."
 

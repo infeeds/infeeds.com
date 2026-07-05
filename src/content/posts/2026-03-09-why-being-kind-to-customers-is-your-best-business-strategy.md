@@ -38,7 +38,7 @@ That experience did to me what Peter Marshall had done to Kevin. It created a li
 
 Decades later, as editor in chief of Entrepreneur, I arranged an interview with Kevin specifically to tell him this story. And during that conversation, he said something that stuck with me: "The audience is your boss. When you meet the boss at any job, you're not like, 'Hey, here's the 10 things wrong about you.' You're like, 'Hey, great to meet you.'"
 
-## Why [Business](https://infeeds.com/tags/?tag=business) Gets This Wrong
+## Why [Business](https://infeeds.com/tags/business) Gets This Wrong
 
 The problem is we're all drowning. We're busy, frantic, and completely absorbed in our own urgency. It's genuinely easy to forget that a small act of kindness multiplies in ways we can't predict.
 

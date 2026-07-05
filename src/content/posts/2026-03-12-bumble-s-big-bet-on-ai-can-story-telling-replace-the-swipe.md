@@ -34,7 +34,7 @@ There's something appealing about letting an algorithm handle the work. There's 
 
 Perhaps the wildest part of Bumble's announcement is this: they might test eliminating the swipe entirely in certain markets. No more left-right binary thinking. Just matches presented by Bee based on compatibility scores.
 
-That's a seismic shift for dating [technology](https://infeeds.com/tags/?tag=technology). The swipe has been the fundamental interaction model for nearly a decade. It's addictive, it's instant, it gamifies rejection. Removing it means completely rethinking how people engage with the app. Will they stick around, or will they get bored without the dopamine hit of swiping?
+That's a seismic shift for dating [technology](https://infeeds.com/tags/technology). The swipe has been the fundamental interaction model for nearly a decade. It's addictive, it's instant, it gamifies rejection. Removing it means completely rethinking how people engage with the app. Will they stick around, or will they get bored without the dopamine hit of swiping?
 
 Wolfe Herd says users are tired of "being reduced to images and potentially dismissed with a swipe." She's not wrong. But she's also betting that people want something slower and more thoughtful. That's a cultural shift that's hard to predict.
 

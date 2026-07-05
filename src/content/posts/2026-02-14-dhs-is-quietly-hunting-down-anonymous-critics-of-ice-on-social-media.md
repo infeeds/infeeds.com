@@ -22,7 +22,7 @@ The Washington Post already flagged this growing practice, but the scale reporte
 
 ## Tech Companies Are Playing Along
 
-The really disappointing part? Google, Meta, and Reddit have reportedly complied with at least some of these requests. Sure, Google says it informs users when possible and pushes back on "overbroad" subpoenas, but that's cold comfort when your anonymous account criticizing government [policy](https://infeeds.com/tags/?tag=business) suddenly isn't so anonymous anymore.
+The really disappointing part? Google, Meta, and Reddit have reportedly complied with at least some of these requests. Sure, Google says it informs users when possible and pushes back on "overbroad" subpoenas, but that's cold comfort when your anonymous account criticizing government [policy](https://infeeds.com/tags/business) suddenly isn't so anonymous anymore.
 
 Think about what's happening here. Someone posts that ICE agents are in a certain area, maybe to warn immigrant communities. Or someone criticizes how ICE operates. And the response from DHS is to hunt down who said it?
 
@@ -30,8 +30,8 @@ This isn't about catching terrorists or stopping genuine threats. The focus on a
 
 ## The Chilling Effect Is The Point
 
-The [technology](https://infeeds.com/tags/?tag=technology) companies have the power to push back harder than they are. They could refuse these judge-free subpoenas on principle. They could make DHS get a warrant. Instead, they're hedging their bets and handing over user data when it's convenient.
+The [technology](https://infeeds.com/tags/technology) companies have the power to push back harder than they are. They could refuse these judge-free subpoenas on principle. They could make DHS get a warrant. Instead, they're hedging their bets and handing over user data when it's convenient.
 
 What's particularly insidious is how this creates a chilling effect. If you know that criticizing ICE online might result in the government identifying you, are you going to post that criticism? If you're thinking about warning your community that ICE is conducting raids nearby, will you risk it? That's exactly the calculation DHS is hoping people make.
 
-The whole setup feels like something you'd expect from a government far less interested in free speech than America claims to be. Administrative subpoenas were supposed to be tools for routine regulatory matters, not weapons for identifying anonymous critics of [government](https://infeeds.com/tags/?tag=politics) agencies. But when you give agencies the power to police themselves, don't be surprised when they use that power to silence criticism rather than welcome it.
+The whole setup feels like something you'd expect from a government far less interested in free speech than America claims to be. Administrative subpoenas were supposed to be tools for routine regulatory matters, not weapons for identifying anonymous critics of [government](https://infeeds.com/tags/politics) agencies. But when you give agencies the power to police themselves, don't be surprised when they use that power to silence criticism rather than welcome it.

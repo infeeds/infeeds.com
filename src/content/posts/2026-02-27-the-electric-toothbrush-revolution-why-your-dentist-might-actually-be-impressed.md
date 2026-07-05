@@ -30,7 +30,7 @@ Once you've got the cleaning part down, people naturally want their teeth whiter
 
 Guru Nanda whitening strips supposedly rival professional treatments without the price tag. One person who describes themselves as "addicted to teeth whitening" (their words, not mine) claimed nothing beats these. The strips use hydrogen peroxide and something called "superior adhesion," which just means they don't slide around like cheap ones do. That detail actually matters because falling strips are genuinely annoying.
 
-Then there's purple toothpaste, which sounds like a gimmick from a kids' cartoon but actually operates on real [color theory](https://infeeds.com/tags/?tag=technology). Violet pigments offset yellow undertones the same way violet shampoo corrects brassy hair. One user reported almost immediate results after the first use, which is either placebo or genuinely useful. The fact that it's peroxide-free means no sensitivity, which is clutch if your teeth are already touchy.
+Then there's purple toothpaste, which sounds like a gimmick from a kids' cartoon but actually operates on real [color theory](https://infeeds.com/tags/technology). Violet pigments offset yellow undertones the same way violet shampoo corrects brassy hair. One user reported almost immediate results after the first use, which is either placebo or genuinely useful. The fact that it's peroxide-free means no sensitivity, which is clutch if your teeth are already touchy.
 
 The LED whitening kits are the wild cards. 35% carbamide peroxide gel activated by light to theoretically rival in-office laser treatments. One person reported visible results after just a few uses without the sensitivity that usually comes with whitening products. That matters because sensitivity is the thing that stops people from actually maintaining their teeth aesthetics.
 
@@ -46,6 +46,6 @@ The bigger issue is that nothing replaces actual dental habits. You can buy the 
 
 What strikes me about the reviews is how many people seem surprised that something affordable actually works well. We've been conditioned to believe that premium = better, and sometimes that's true. But teeth cleaning isn't rocket science. The oscillating head of the Oral-B Pro 1000 does the mechanical work better than your hand can. The timer keeps you honest. The pressure sensor prevents damage from aggressive brushing.
 
-The whitening products work because they address actual stain problems using established [scientific methods](https://infeeds.com/tags/?tag=health) rather than relying on trendy ingredients with zero research behind them.
+The whitening products work because they address actual stain problems using established [scientific methods](https://infeeds.com/tags/health) rather than relying on trendy ingredients with zero research behind them.
 
 Maybe the real revelation isn't that these products work. It's that we've been overthinking basic dental care for so long that simple, effective solutions feel revolutionary when we finally try them.

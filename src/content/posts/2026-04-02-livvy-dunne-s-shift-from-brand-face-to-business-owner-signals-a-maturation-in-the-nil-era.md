@@ -56,6 +56,6 @@ What Dunne is doing right now, at 23, is worth watching closely. She's demonstra
 
 The real test will be what happens next. Can she scale this model? Will other athletes follow and learn to value equity over immediate payouts? And perhaps most importantly, will building ownership stakes actually protect creators from the whims of viral moments and algorithm changes that have made social media careers notoriously precarious?
 
-For now, Dunne seems to be playing a much longer game than most people in her position. She's not just building a personal brand. She's building a <a href="https://infeeds.com/tags/?tag=business">business</a> where her personal brand is the entry point, not the end goal. That distinction might sound subtle, but it's the difference between having influence and having leverage. Between being an asset to other people's companies and building your own.
+For now, Dunne seems to be playing a much longer game than most people in her position. She's not just building a personal brand. She's building a <a href="https://infeeds.com/tags/business">business</a> where her personal brand is the entry point, not the end goal. That distinction might sound subtle, but it's the difference between having influence and having leverage. Between being an asset to other people's companies and building your own.
 
 The pandemic created the conditions for her rise, but strategy is what's keeping her there. That's the part worth learning from, far more than any viral moment ever will be.

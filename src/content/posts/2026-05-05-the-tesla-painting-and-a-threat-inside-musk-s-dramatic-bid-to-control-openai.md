@@ -40,7 +40,7 @@ Later that night, board member Shivon Zilis called Brockman. She had spoken with
 
 ## The Bigger Picture
 
-This trial isn't really about a painting or even the $38 million anymore. It's about who gets to decide what happens when competing visions of power collide in <a href="https://infeeds.com/tags/?tag=business">Business</a> that moves at internet speed. Musk wanted unilateral control. The founders wanted collective decision-making. One side won; the other is now in court.
+This trial isn't really about a painting or even the $38 million anymore. It's about who gets to decide what happens when competing visions of power collide in <a href="https://infeeds.com/tags/business">Business</a> that moves at internet speed. Musk wanted unilateral control. The founders wanted collective decision-making. One side won; the other is now in court.
 
 Brockman's position on all this is clear. "It is wrong to give unilateral control," he said. Fair enough. But the question Musk's lawsuit raises, regardless of legal merits, is whether someone who funds something gets a say in its direction, and what happens when that answer is "no."
 

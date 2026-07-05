@@ -20,7 +20,7 @@ Here's the thing about lithium extraction that nobody really talks about. Tradit
 
 EnergyX claims their patented technology can recover three times more lithium than conventional methods. That's the kind of efficiency gain that makes CFOs wake up at 3 AM with spreadsheets dancing in their heads. Whether it actually scales at commercial levels remains the big question, but they've apparently moved past the proof-of-concept stage and into deployment mode.
 
-The [technology](https://infeeds.com/tags/?tag=technology) itself uses some kind of advanced membrane system. I'm simplifying here, but basically it's a filtration approach rather than the old evaporation game. Faster, more efficient, less water intensive. In an industry racing to meet exploding demand, that matters.
+The [technology](https://infeeds.com/tags/technology) itself uses some kind of advanced membrane system. I'm simplifying here, but basically it's a filtration approach rather than the old evaporation game. Faster, more efficient, less water intensive. In an industry racing to meet exploding demand, that matters.
 
 ## Why Everyone Suddenly Cares About Battery Materials
 
@@ -28,7 +28,7 @@ Satya Nadella said something interesting recently. He thinks the AI race won't b
 
 That's a fascinating lens through which to view the entire lithium market. Every AI data center, every autonomous vehicle, every grid-scale battery storage system needs lithium. Projections show demand growing five times over by 2040. That's not incremental growth. That's a complete market transformation.
 
-Elon Musk, never one for subtlety, basically said the lithium business is like printing money. He's not wrong if you're positioned correctly. The [business](https://infeeds.com/tags/?tag=business) fundamentals are almost absurdly favorable. Demand keeps climbing, supply struggles to keep pace, and the companies that can extract lithium efficiently have pricing power.
+Elon Musk, never one for subtlety, basically said the lithium business is like printing money. He's not wrong if you're positioned correctly. The [business](https://infeeds.com/tags/business) fundamentals are almost absurdly favorable. Demand keeps climbing, supply struggles to keep pace, and the companies that can extract lithium efficiently have pricing power.
 
 ## The Regulation A Investment Window
 

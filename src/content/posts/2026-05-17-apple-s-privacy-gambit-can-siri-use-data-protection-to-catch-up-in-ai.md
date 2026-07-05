@@ -26,7 +26,7 @@ So Apple is outsourcing to Google while claiming privacy as its differentiator. 
 
 ## What Users Actually Want
 
-The real question isn't whether privacy is important. It is. The question is whether it's important enough to make people switch from ChatGPT or stick with a <a href="https://infeeds.com/tags/?tag=technology">technology</a> that's been disappointing them for years.
+The real question isn't whether privacy is important. It is. The question is whether it's important enough to make people switch from ChatGPT or stick with a <a href="https://infeeds.com/tags/technology">technology</a> that's been disappointing them for years.
 
 Privacy advocates will appreciate the gesture. Privacy-conscious users might genuinely prefer this approach. But casual users who just want a tool that works well? They might not care where their data goes if the chatbot actually gives them better answers. That's the gap Apple needs to close, and privacy alone won't do it.
 

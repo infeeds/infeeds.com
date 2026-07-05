@@ -14,7 +14,7 @@ Sam Basu quit Google in early 2023, right when everyone and their cousin was eit
 
 Nothing did. Until a friend called asking for help with customs paperwork.
 
-That phone call led Basu down a rabbit hole that would completely change his trajectory. He started cold-calling customs brokers around Los Angeles, expecting to find at least some semblance of modern [technology](https://infeeds.com/tags/?tag=technology) integration. What he discovered instead was an industry stuck somewhere in the 1990s, complete with fax machines and filing cabinets overflowing with paper.
+That phone call led Basu down a rabbit hole that would completely change his trajectory. He started cold-calling customs brokers around Los Angeles, expecting to find at least some semblance of modern [technology](https://infeeds.com/tags/technology) integration. What he discovered instead was an industry stuck somewhere in the 1990s, complete with fax machines and filing cabinets overflowing with paper.
 
 The real turning point came during a FaceTime call with his first potential customer. She gave him a virtual tour of her office, camera panning across stacks upon stacks of manila folders. Basu immediately booked a flight to see it in person.
 
@@ -32,7 +32,7 @@ First Round Capital and Pear VC saw enough potential to co-lead a $4.5 million f
 
 Here's where things get interesting. The customs brokerage industry is facing a perfect storm of challenges that make it ripe for AI disruption. The licensing exam has a pass rate hovering between 10% to 20%. By law, customs brokers must be U.S.-based, so companies can't just offshore the work to cut costs. And experienced workers are burning out and leaving the field.
 
-Enter Trump's chaotic trade policy, which has turned customs brokers into some of the most important people in [business](https://infeeds.com/tags/?tag=business) right now. Chris Bachinski, CEO of 125-year-old firm GHY International, told TechCrunch that many importers don't even have their own compliance teams. They're completely dependent on brokers to figure out how sudden tariff changes affect their shipments, especially goods already in transit.
+Enter Trump's chaotic trade policy, which has turned customs brokers into some of the most important people in [business](https://infeeds.com/tags/business) right now. Chris Bachinski, CEO of 125-year-old firm GHY International, told TechCrunch that many importers don't even have their own compliance teams. They're completely dependent on brokers to figure out how sudden tariff changes affect their shipments, especially goods already in transit.
 
 Bachinski became one of Amari's early adopters after catching one of Basu's presentations at a trade show. GHY isn't a mom-and-pop shop, but it's also not FedEx. They're in that middle ground where staying competitive means embracing new tech before everyone else does.
 
@@ -52,7 +52,7 @@ It's worth noting that optical character recognition software has existed for ye
 
 Bachinski made a joke that hits different when you think about it: last year was the first time in history that customs brokers' families actually understood what they do for a living. Trade policy suddenly became dinner table conversation across America.
 
-That visibility is both a blessing and a curse for the industry. More attention means more pressure to perform, but it also means more opportunities for companies like Amari to step in and provide solutions. The customs brokerage world is waking up to the fact that [technology](https://infeeds.com/tags/?tag=technology) is going to transform their industry faster than most players realize.
+That visibility is both a blessing and a curse for the industry. More attention means more pressure to perform, but it also means more opportunities for companies like Amari to step in and provide solutions. The customs brokerage world is waking up to the fact that [technology](https://infeeds.com/tags/technology) is going to transform their industry faster than most players realize.
 
 Whether Amari becomes the dominant player in this space remains to be seen. But Basu's willingness to actually understand the industry from the inside out, to show up in person and see the manila folders for himself, gives the company a better shot than most AI startups chasing problems that don't really exist.
 

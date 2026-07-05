@@ -20,7 +20,7 @@ The wake-up call came gradually, not in some dramatic moment. Getting older does
 
 Here's what nobody tells you about trying to eat healthier as an adult: it's absolutely draining. Every week there's a new study contradicting the last one. Eggs are good, eggs are bad, eggs are good again. Carbs will kill you, unless they're the right carbs, but actually some people need more carbs. The noise is constant and conflicting.
 
-And that's before you even get to the practical stuff. Finding time to cook when you're already stretched thin. Resisting the siren call of DoorDash after a brutal day. Learning recipes that don't require seventeen ingredients you'll use once and never touch again. It's a [lifestyle](https://infeeds.com/tags/?tag=lifestyle) overhaul that feels impossible when you're already running on fumes.
+And that's before you even get to the practical stuff. Finding time to cook when you're already stretched thin. Resisting the siren call of DoorDash after a brutal day. Learning recipes that don't require seventeen ingredients you'll use once and never touch again. It's a [lifestyle](https://infeeds.com/tags/lifestyle) overhaul that feels impossible when you're already running on fumes.
 
 I've spent years fantasizing about some mythical future where I'd have the bandwidth to learn proper cooking. You know, when life calms down. Except life doesn't calm down. It just keeps happening, one chaotic day after another.
 
@@ -40,6 +40,6 @@ Every goal becomes more realistic when you have the physical and mental energy t
 
 The point isn't to eat perfectly or never order takeout or transform into someone who meal preps every Sunday. It's about making it easier to choose food that helps you feel better more often than not. Small improvements that compound over time instead of dramatic overhauls that last three weeks.
 
-The [health](https://infeeds.com/tags/?tag=health) industry loves selling transformation. But real change is usually quieter than that. It's learning a few flexible cooking techniques. It's understanding which foods actually make you feel good versus which ones just sound healthy. It's building routines that become automatic instead of requiring constant willpower.
+The [health](https://infeeds.com/tags/health) industry loves selling transformation. But real change is usually quieter than that. It's learning a few flexible cooking techniques. It's understanding which foods actually make you feel good versus which ones just sound healthy. It's building routines that become automatic instead of requiring constant willpower.
 
 Because willpower runs out. Systems stick around. And feeling good in your body shouldn't require a personality transplant or waiting for life to become less hectic. Sometimes you just need a framework that actually fits into the life you already have, chaos and all.

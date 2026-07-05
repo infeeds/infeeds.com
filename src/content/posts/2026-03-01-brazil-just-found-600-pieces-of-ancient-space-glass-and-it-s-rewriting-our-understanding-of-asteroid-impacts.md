@@ -48,6 +48,6 @@ The team believes the object that struck Earth wasn't small. The volume of melte
 
 Crósta himself has been studying meteorite impacts since 1978, when he first worked on them for his master's research. He also manages an Instagram account called @defesaplanetaria with undergraduate students, focusing on science communication and distinguishing genuine cosmic risks from exaggerated claims about asteroid threats.
 
-It's worth remembering that impacts were incredibly common in the early solar system when debris was abundant and planetary orbits were unstable. Today, the solar system is far more stable, and major impacts happen much less frequently. Understanding how these ancient events shaped our world helps separate real science from <a href="https://infeeds.com/tags/?tag=science">science</a> fiction.
+It's worth remembering that impacts were incredibly common in the early solar system when debris was abundant and planetary orbits were unstable. Today, the solar system is far more stable, and major impacts happen much less frequently. Understanding how these ancient events shaped our world helps separate real science from <a href="https://infeeds.com/tags/science">science</a> fiction.
 
 The discovery of the geraisites reminds us that Earth's history is literally written in the rocks beneath our feet, waiting for someone curious enough to look closely and ask the right questions.

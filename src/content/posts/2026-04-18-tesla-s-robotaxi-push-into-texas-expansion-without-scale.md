@@ -16,7 +16,7 @@ The company now operates robotaxi service across three Texas cities following it
 
 Launching in a new city sounds exciting in a press release. The emoji, the video, the implicit promise that a new transportation future has arrived. But one vehicle per city isn't a service yet. It's a proof of concept that's already been proven. It's Austin all over again, just in different zip codes.
 
-This matters because [technology](https://infeeds.com/tags/?tag=technology) companies love to conflate expansion with progress. Two new cities sounds like growth. One vehicle in each city sounds like threading a needle. The distinction matters when you're trying to understand what's actually happening versus what the narrative wants you to believe.
+This matters because [technology](https://infeeds.com/tags/technology) companies love to conflate expansion with progress. Two new cities sounds like growth. One vehicle in each city sounds like threading a needle. The distinction matters when you're trying to understand what's actually happening versus what the narrative wants you to believe.
 
 Tesla did start offering rides without safety drivers in January 2026, which represents a shift from earlier operations. That's a genuine step forward. But the company has also reported serious collisions. In a February filing, Tesla disclosed that its Austin robotaxis have been involved in 14 crashes since the service launched. That detail didn't make the social media celebration, naturally.
 

@@ -52,7 +52,7 @@ The shift from nonstop bombardment to sporadic violence created space for someth
 
 ## The Problem Isn't the Technology
 
-Here's what doesn't make the headlines: this crisis has nothing to do with innovation gaps or insufficient <a href="https://infeeds.com/tags/?tag=technology">technology</a>. Gaza's hospitals don't need better algorithms or AI targeting systems. They need gauze. They need antibiotics. They need equipment that already exists and works perfectly fine.
+Here's what doesn't make the headlines: this crisis has nothing to do with innovation gaps or insufficient <a href="https://infeeds.com/tags/technology">technology</a>. Gaza's hospitals don't need better algorithms or AI targeting systems. They need gauze. They need antibiotics. They need equipment that already exists and works perfectly fine.
 
 The problem is that these things are being deliberately withheld. It's orchestrated. It's intentional. Ask yourself why an occupation authority would confiscate antibiotics if not to advance infections it knew existed. The restriction on medical supplies isn't a byproduct of security measures. It's the point.
 

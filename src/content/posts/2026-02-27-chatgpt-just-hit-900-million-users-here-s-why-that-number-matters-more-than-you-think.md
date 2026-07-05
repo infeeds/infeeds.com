@@ -18,7 +18,7 @@ The jump from 800 million users in October 2025 to 900 million now might seem in
 
 The real story here isn't just the user numbers. It's the $110 billion funding round that just closed, one of the largest private funding rounds ever. Amazon threw in $50 billion. Nvidia and SoftBank each contributed $30 billion. All of this at a $730 billion pre-money valuation, and the round is apparently still open for more investors to jump in.
 
-This isn't investors throwing money at hype anymore. This is serious institutional capital recognizing that [artificial intelligence and technology](https://infeeds.com/tags/?tag=technology) have moved from "interesting experiment" to "foundational infrastructure." The players betting billions here aren't venture capitalists gambling on a moonshot. They're major tech companies and chip makers who need AI to work.
+This isn't investors throwing money at hype anymore. This is serious institutional capital recognizing that [artificial intelligence and technology](https://infeeds.com/tags/technology) have moved from "interesting experiment" to "foundational infrastructure." The players betting billions here aren't venture capitalists gambling on a moonshot. They're major tech companies and chip makers who need AI to work.
 
 ## Why 900 Million Actually Matters
 
@@ -32,7 +32,7 @@ The infrastructure around it keeps improving too. OpenAI mentioned faster respon
 
 Here's where things get interesting. Fifty million paying subscribers might sound modest compared to 900 million free users, but the conversion rate tells you something. If even a fraction of your audience converts to paid, you're looking at a machine that can generate serious revenue while also maintaining this massive free user base.
 
-The fact that [business](https://infeeds.com/tags/?tag=business) momentum is accelerating in early 2026 suggests the value proposition is getting clearer. People aren't subscribing because they feel obligated. They're subscribing because ChatGPT Plus or whatever other paid tiers exist are solving real problems faster than free alternatives.
+The fact that [business](https://infeeds.com/tags/business) momentum is accelerating in early 2026 suggests the value proposition is getting clearer. People aren't subscribing because they feel obligated. They're subscribing because ChatGPT Plus or whatever other paid tiers exist are solving real problems faster than free alternatives.
 
 ## What's Next
 

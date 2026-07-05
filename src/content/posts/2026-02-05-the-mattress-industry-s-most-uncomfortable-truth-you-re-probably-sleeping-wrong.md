@@ -18,7 +18,7 @@ What they've discovered should make the bed-in-a-box industry nervous.
 
 ## The Helix Problem Nobody Talks About
 
-The Helix Midnight Luxe has held the top spot for nearly a decade, which in the fast-moving world of [Technology](https://infeeds.com/tags/?tag=technology) and direct-to-consumer products is practically unheard of. At $1,436 for a twin (and nearly $3,000 for a California King), it's not exactly budget-friendly, but there's a reason it keeps winning.
+The Helix Midnight Luxe has held the top spot for nearly a decade, which in the fast-moving world of [Technology](https://infeeds.com/tags/technology) and direct-to-consumer products is practically unheard of. At $1,436 for a twin (and nearly $3,000 for a California King), it's not exactly budget-friendly, but there's a reason it keeps winning.
 
 Helix manufactures almost everything in-house at their Arizona factory. They cut their own wire, pour their own foam, and individually wrap each spring. This vertical integration matters more than most marketing buzzwords because it means quality control actually exists. The zoned coils provide firmer support where your spine needs it most, theoretically preventing that lower back pain that makes you question every life decision at 2am.
 
@@ -34,7 +34,7 @@ Hybrid construction solves multiple problems simultaneously. The coil layers cre
 
 That's the brutal reality of mattress testing. Your back becomes a quality control mechanism.
 
-The bed-in-a-box [Business](https://infeeds.com/tags/?tag=business) model fundamentally changed how we buy mattresses, but it also created a strange problem. You're committing to something you'll use for a decade based on online reviews and marketing copy. The showroom experience was flawed, sure, but at least you could lie down for five minutes and get some sense of what you were buying.
+The bed-in-a-box [Business](https://infeeds.com/tags/business) model fundamentally changed how we buy mattresses, but it also created a strange problem. You're committing to something you'll use for a decade based on online reviews and marketing copy. The showroom experience was flawed, sure, but at least you could lie down for five minutes and get some sense of what you were buying.
 
 ## The Firmness Paradox That Confuses Everyone
 
@@ -54,7 +54,7 @@ The Bryte Balance Pro costs between $5,999 and $6,899, which is money most peopl
 
 It sounds like science fiction, and in practice it kind of is. The surface can look uneven as different zones adjust to different firmness levels. You can manually control everything through an app, or let the bed make its own decisions about what you need. The strangest feature is the relaxation mode that literally rocks you to sleep with ocean wave motions, then gently nudges you awake instead of blaring an alarm.
 
-This is what happens when [Technology](https://infeeds.com/tags/?tag=technology) companies get interested in sleep. You end up with beds that cost as much as used cars and require software updates.
+This is what happens when [Technology](https://infeeds.com/tags/technology) companies get interested in sleep. You end up with beds that cost as much as used cars and require software updates.
 
 The Sleep Number p6 Smart Bed follows similar logic with its Responsive Air chambers that inflate and deflate based on sensor data. The bed makes noise as it adjusts throughout the night, which seems counterproductive to the whole sleeping thing. And the real performance requires buying an adjustable base separately, adding thousands more to an already expensive purchase.
 

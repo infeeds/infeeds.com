@@ -38,7 +38,7 @@ There's also the matter of generational optics. Trump is 78. Vance is in his 40s
 
 ## The Broader Question Nobody's Asking
 
-So why is this moment worth paying attention to? Because it exposes something uncomfortable about [politics](https://infeeds.com/tags/?tag=politics) in general. We live in an era where principles can be shuffled and reshuffled depending on what's available. Power and proximity to power seem to matter more than consistency or conviction.
+So why is this moment worth paying attention to? Because it exposes something uncomfortable about [politics](https://infeeds.com/tags/politics) in general. We live in an era where principles can be shuffled and reshuffled depending on what's available. Power and proximity to power seem to matter more than consistency or conviction.
 
 The people Newsom is criticizing aren't fringe figures. They're men who helped shape the Republican Party's direction. They had platforms and influence. They used those platforms to warn against Trump. And then they accepted his offer.
 

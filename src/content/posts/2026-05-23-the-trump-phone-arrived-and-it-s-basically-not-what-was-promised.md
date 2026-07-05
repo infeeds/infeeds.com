@@ -12,7 +12,7 @@ After nearly a year of delays, redesigns, and abandoned promises, the Trump Mobi
 
 Let's start with the obvious: this thing is not made in the USA, despite what the marketing materials once claimed. Trump Mobile dropped the "made in the US" promise sometime after it became clear that domestic smartphone manufacturing at scale wasn't happening. The box now just says "Proudly assembled in the USA," which is doing a lot of work for three words. According to reporting from The Verge, executives said the T1 is made in a "favored nation" with "final assembly" in Florida. Nobody quite knows what "favored nation" means, and Trump Mobile won't clarify. The actual manufacturing appears to have happened in Taiwan.
 
-This matters because the whole pitch was rooted in American manufacturing. That was the core sell. When you strip that away, you're left with a phone that costs the same as or more than phones from companies that have actual track records in the <a href="https://infeeds.com/tags/?tag=technology">technology</a> space.
+This matters because the whole pitch was rooted in American manufacturing. That was the core sell. When you strip that away, you're left with a phone that costs the same as or more than phones from companies that have actual track records in the <a href="https://infeeds.com/tags/technology">technology</a> space.
 
 ## What You Actually Get
 

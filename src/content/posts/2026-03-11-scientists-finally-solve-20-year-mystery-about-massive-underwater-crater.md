@@ -34,7 +34,7 @@ This isn't some made-up scenario. The evidence backs it up completely. The aster
 
 You might be wondering why anyone cares about an old crater under the sea. Fair question. But here's the thing: impact craters like Silverpit are genuinely rare. Earth's got 200 confirmed impact craters on land, but only about 33 have been spotted beneath the ocean. Our planet is just too dynamic. Plate tectonics, erosion, and time itself conspire to erase most evidence of these cosmic collisions.
 
-Finding a well-preserved crater gives us a window into how asteroids have shaped our world throughout <a href="https://infeeds.com/tags/?tag=science">history</a>. It's the same reason the Chicxulub Crater in Mexico matters so much, the one connected to the dinosaur extinction event.
+Finding a well-preserved crater gives us a window into how asteroids have shaped our world throughout <a href="https://infeeds.com/tags/science">history</a>. It's the same reason the Chicxulub Crater in Mexico matters so much, the one connected to the dinosaur extinction event.
 
 Gareth Collins, a professor at Imperial College London who contributed the numerical simulations for this research, was part of that 2009 debate when most geologists actually rejected the impact hypothesis. He always believed it was right, though. "It is very rewarding to have finally found the silver bullet," he said. And honestly, you can hear the vindication in those words.
 

@@ -8,7 +8,7 @@ tags: [news, business]
 tags_color: '#2b2b2b'
 ---
 
-I once watched a TV commercial for an oral spray where some CEO claimed it made him feel like a "mental ninja." I laughed and changed the channel. If only building a successful [business](https://infeeds.com/tags/?tag=business) were that simple.
+I once watched a TV commercial for an oral spray where some CEO claimed it made him feel like a "mental ninja." I laughed and changed the channel. If only building a successful [business](https://infeeds.com/tags/business) were that simple.
 
 The truth is, there's no spray, pill, or shortcut that replaces what your body and mind actually need. As an entrepreneur, you already know this intellectually. But knowing it and living it are entirely different things.
 

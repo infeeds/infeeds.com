@@ -60,7 +60,7 @@ Iran's top negotiator Mohammad Baqer Qalibaf put it bluntly: "We are not going t
 
 One thing is clear: the instability is hitting markets. Asian markets experienced a tech sell-off and oil became volatile as investors tried to price in the conflict. The Strait of Hormuz blockade earlier in the war sent oil prices surging. If that happens again, the economic pain will spread far beyond the Middle East.
 
-For those tracking the broader economic implications, the intersection of geopolitical conflict and global markets represents a critical [Business](https://infeeds.com/tags/?tag=business) story that affects everyday people worldwide.
+For those tracking the broader economic implications, the intersection of geopolitical conflict and global markets represents a critical [Business](https://infeeds.com/tags/business) story that affects everyday people worldwide.
 
 ## The Bigger Picture
 

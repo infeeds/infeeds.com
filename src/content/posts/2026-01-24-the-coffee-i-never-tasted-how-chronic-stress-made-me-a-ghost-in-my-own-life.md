@@ -22,7 +22,7 @@ That moment cracked something open in me. Because if I couldn't remember drinkin
 
 For the longest time, I wore my stress like it meant something. Like it proved I was important, necessary, dedicated. I was the midnight email responder, the person who never said no, the one who took work calls during lunch and pretended it was normal.
 
-Everyone around me seemed to be playing the same game. We compared how little sleep we got, how many projects we were juggling, how busy we were. It felt like a [lifestyle](https://infeeds.com/tags/?tag=lifestyle) competition I couldn't afford to lose.
+Everyone around me seemed to be playing the same game. We compared how little sleep we got, how many projects we were juggling, how busy we were. It felt like a [lifestyle](https://infeeds.com/tags/lifestyle) competition I couldn't afford to lose.
 
 But productivity and exhaustion aren't the same thing. Neither are dedication and self-abandonment.
 
@@ -50,7 +50,7 @@ The present moment, the only place where life actually exists, becomes invisible
 
 I realized I'd spent years living everywhere except where I was. At dinner with friends, mentally rehearsing tomorrow's meeting. In meetings, replaying earlier conversations. Walking my dog while drafting emails in my head. I was present for everything except my actual life.
 
-The connection between stress and [health](https://infeeds.com/tags/?tag=health) isn't just physical. It's existential. Chronic stress doesn't just exhaust your body. It disconnects you from the experience of being alive.
+The connection between stress and [health](https://infeeds.com/tags/health) isn't just physical. It's existential. Chronic stress doesn't just exhaust your body. It disconnects you from the experience of being alive.
 
 ## Thirty Seconds That Saved My Life
 

@@ -20,7 +20,7 @@ Natural gas isn't like oil. Markets don't just flow smoothly year-round. Countri
 
 "Whatever impact that has had on inventories today, we have to offset it completely by the end of October," Dart said on the podcast recorded before the recent US-Iran ceasefire announcement.
 
-This timing is brutal. There's no margin for error. The global <a href="https://infeeds.com/tags/?tag=business">business</a> infrastructure for natural gas operates on razor-thin reserves, and that's by design. It's also fragile.
+This timing is brutal. There's no margin for error. The global <a href="https://infeeds.com/tags/business">business</a> infrastructure for natural gas operates on razor-thin reserves, and that's by design. It's also fragile.
 
 ## Prices Are Already Climbing, and Goldman Sees Worse Coming
 

@@ -30,7 +30,7 @@ It's like watching someone build a house on quicksand while using cheaper materi
 
 ## The Retail Investor Exodus
 
-This downgrade didn't happen in a vacuum. The <a href="https://infeeds.com/tags/?tag=business">business</a> world has been watching private credit funds crack for weeks now. Retail investors have been yanking their money out faster than the funds can handle. Some have actually implemented gates, basically telling people "sorry, you can't get your cash right now."
+This downgrade didn't happen in a vacuum. The <a href="https://infeeds.com/tags/business">business</a> world has been watching private credit funds crack for weeks now. Retail investors have been yanking their money out faster than the funds can handle. Some have actually implemented gates, basically telling people "sorry, you can't get your cash right now."
 
 The nightmare scenario for these funds is a software lending exposure that's looking increasingly sketchy. Nobody wants to be holding the bag when that sector finally implodes for real.
 

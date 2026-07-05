@@ -26,7 +26,7 @@ You don't need to be a political analyst to see where this is heading in the con
 
 ## When Your Own Playbook Becomes Your Weakest Point
 
-The real problem for Trump here isn't that people are finally calling out the contradiction. It's that the contradiction has become so obvious that even mainstream comedy shows can't ignore it anymore. [Politics](https://infeeds.com/tags/?tag=politics) in America has always involved some level of selective memory and convenient reframing, but this feels different.
+The real problem for Trump here isn't that people are finally calling out the contradiction. It's that the contradiction has become so obvious that even mainstream comedy shows can't ignore it anymore. [Politics](https://infeeds.com/tags/politics) in America has always involved some level of selective memory and convenient reframing, but this feels different.
 
 Jost's reaction to the clip is what really gets you though. He just nods and says, "Yeah, yeah. See, now that's the Trump I voted for!" It's funny because it's pointed without being preachy. He's not delivering some long monologue about consistency or integrity. He's just letting the audience see the gap between what Trump said and what Trump did.
 

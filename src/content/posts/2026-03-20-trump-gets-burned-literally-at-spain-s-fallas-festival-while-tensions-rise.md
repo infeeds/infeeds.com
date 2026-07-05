@@ -14,7 +14,7 @@ The Fallas festival in Valencia concluded this week with its traditional finale:
 
 ## When Art Becomes Political Commentary
 
-Fallas isn't new to taking shots at Trump. The festival has made him a recurring punchline since he burst onto the global stage. But this year felt different. The effigies weren't just about personal ridicule. They reflected a genuine [political](https://infeeds.com/tags/?tag=politics) rift that's grown between the Trump administration and Spain's government.
+Fallas isn't new to taking shots at Trump. The festival has made him a recurring punchline since he burst onto the global stage. But this year felt different. The effigies weren't just about personal ridicule. They reflected a genuine [political](https://infeeds.com/tags/politics) rift that's grown between the Trump administration and Spain's government.
 
 Spain has been vocally critical of Trump's Iran war policies. The government also resisted pressure from Washington to increase defense spending, positioning itself as a reluctant partner in whatever military adventures the US might be planning next. When your country's leadership is publicly opposing your foreign policy decisions, ending up as a burning figure at a major cultural event starts to feel less like entertainment and more like a diplomatic message.
 
@@ -24,7 +24,7 @@ The timing matters here. These weren't just pre-planned satirical displays that 
 
 There's an interesting dynamic at play here. Spain is technically an ally of the United States. They're both members of NATO. They have diplomatic relations, trade agreements, all the formal structures of partnership. Yet there they were, literally burning the guy's likeness at a public festival with thousands watching.
 
-This kind of public dissent from an ally would have been unthinkable in previous administrations. Not because past presidents were more popular, but because the nature of [international relations](https://infeeds.com/tags/?tag=politics) has shifted. Social media, 24-hour news cycles, and a more fractured global order mean that disagreements that would have been handled quietly in smoke-filled rooms now play out on streets and festival grounds across the world.
+This kind of public dissent from an ally would have been unthinkable in previous administrations. Not because past presidents were more popular, but because the nature of [international relations](https://infeeds.com/tags/politics) has shifted. Social media, 24-hour news cycles, and a more fractured global order mean that disagreements that would have been handled quietly in smoke-filled rooms now play out on streets and festival grounds across the world.
 
 The Spanish government's position on Iran and defense spending isn't some fringe opinion. It reflects genuine concerns about escalation and about the costs of being pulled into conflicts that don't directly serve Spanish interests. When your population sees their government disagreeing with US policy, and then sees their cultural institutions expressing that disagreement through fire and pageantry, it sends a signal.
 

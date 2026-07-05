@@ -68,6 +68,6 @@ The prime minister's office did respond to NPR, saying the government understand
 
 Whether anyone believes that is another story entirely.
 
-For more on how international business interests intersect with local communities and politics, check out our coverage of [Business](https://infeeds.com/tags/?tag=business) and [politics](https://infeeds.com/tags/?tag=politics) around the world.
+For more on how international business interests intersect with local communities and politics, check out our coverage of [Business](https://infeeds.com/tags/business) and [politics](https://infeeds.com/tags/politics) around the world.
 
 What's clear is that this story is less about a resort and more about who gets to shape a country's future. The swim that captivated Ivanka Trump years ago has become a battle over Albania's soul.

@@ -34,6 +34,6 @@ Hosabale's appearance at a Washington think tank signals that the RSS sees value
 
 What's particularly striking about this moment is what it reveals about how movements amplify their influence. The RSS didn't become the world's largest right-wing organization by accident. It built itself through decades of patient institutional work, youth recruitment, and political alignment. Now it's expanding into a new arena: Western perception management.
 
-This raises uncomfortable questions for anyone paying attention to global [politics](https://infeeds.com/tags/?tag=politics). When secretive organizations decide it's time to go public, it's worth asking what changed. Did their goals shift? Or did they simply decide the moment was right to stop hiding?
+This raises uncomfortable questions for anyone paying attention to global [politics](https://infeeds.com/tags/politics). When secretive organizations decide it's time to go public, it's worth asking what changed. Did their goals shift? Or did they simply decide the moment was right to stop hiding?
 
 The interview between NPR and Hosabale is important precisely because it's so unusual. We'll learn more about what the RSS actually believes and wants when we hear what its leaders choose to say when they finally decide the Western world is worth addressing directly.

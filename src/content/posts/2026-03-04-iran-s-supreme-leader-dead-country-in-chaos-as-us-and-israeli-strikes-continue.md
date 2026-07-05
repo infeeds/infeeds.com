@@ -50,7 +50,7 @@ President Masoud Pezeshkian told neighboring countries that diplomacy had failed
 
 Here's where it gets complicated. State media showed crowds of Khamenei supporters protesting the strikes and rallying around the Islamic Republic. But social media videos told a different story. In Tehran and other cities, opponents of the regime were celebrating. Khamenei had just crushed nationwide protests last December and January with unprecedented brutality, killing at least 6,480 people according to human rights groups.
 
-The man was no democrat. He had maintained an iron grip on power for 37 years, ensuring that <a href="https://infeeds.com/tags/?tag=geopolitics">geopolitical</a> rivals couldn't challenge his authority. Now that he's gone, there's relief mixed with fear, hope mixed with uncertainty. Some Iranians see an opportunity for change. Others worry about what comes next.
+The man was no democrat. He had maintained an iron grip on power for 37 years, ensuring that <a href="https://infeeds.com/tags/geopolitics">geopolitical</a> rivals couldn't challenge his authority. Now that he's gone, there's relief mixed with fear, hope mixed with uncertainty. Some Iranians see an opportunity for change. Others worry about what comes next.
 
 The succession won't solve this. The Assembly of Experts will pick another conservative, likely Mojtaba, and the machinery of authoritarian rule will continue. But the window has opened, even if just slightly. Iran's future isn't predetermined anymore, and that terrifies the establishment.
 

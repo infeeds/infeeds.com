@@ -20,7 +20,7 @@ It doesn't. Not even close.
 
 ChatGPT is good at sounding confident, which is exactly why it's dangerous for serious work without verification. But there's a difference between using an AI tool to brainstorm or draft something, versus relying on it as your source of truth. Most people haven't figured out where that line is yet.
 
-The <a href="https://infeeds.com/tags/?tag=technology">Technology</a> media certainly hasn't. Every new AI model release gets treated like a watershed moment when usually it's just incremental progress with slightly different tradeoffs.
+The <a href="https://infeeds.com/tags/technology">Technology</a> media certainly hasn't. Every new AI model release gets treated like a watershed moment when usually it's just incremental progress with slightly different tradeoffs.
 
 ## What's Actually Changing (Quietly)
 
@@ -28,7 +28,7 @@ Meanwhile, the real shift is happening in places nobody's writing Medium essays 
 
 None of these are revolutionary. All of them are useful. That's the distinction people keep missing.
 
-The adoption curve for <a href="https://infeeds.com/tags/?tag=business">Business</a> software is always slow and unsexy. Everyone wants to hear about the moonshot. Nobody wants to admit that the real value is in replacing tedious, repetitive work that humans shouldn't be doing anyway.
+The adoption curve for <a href="https://infeeds.com/tags/business">Business</a> software is always slow and unsexy. Everyone wants to hear about the moonshot. Nobody wants to admit that the real value is in replacing tedious, repetitive work that humans shouldn't be doing anyway.
 
 ## The Skills Gap is Bigger Than the Tech Gap
 

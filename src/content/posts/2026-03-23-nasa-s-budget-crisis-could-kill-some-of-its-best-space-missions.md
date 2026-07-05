@@ -22,7 +22,7 @@ Congress pushed back hard. Lawmakers rejected most of those cuts and passed a fi
 
 ## Five Missions Hanging in the Balance
 
-Juno isn't alone in this limbo. Five major <a href="https://infeeds.com/tags/?tag=technology">technology</a> and science missions are waiting to find out if they'll survive: Juno itself, two Mars rovers, and the Odyssey orbiter. Odyssey is basically running on fumes. The Mars Reconnaissance Orbiter and Curiosity rover are the expensive ones to keep running, but they're also among the most scientifically productive spacecraft humanity has ever built.
+Juno isn't alone in this limbo. Five major <a href="https://infeeds.com/tags/technology">technology</a> and science missions are waiting to find out if they'll survive: Juno itself, two Mars rovers, and the Odyssey orbiter. Odyssey is basically running on fumes. The Mars Reconnaissance Orbiter and Curiosity rover are the expensive ones to keep running, but they're also among the most scientifically productive spacecraft humanity has ever built.
 
 Curiosity, for instance, discovered something remarkable in 2022 and 2023 about the carbon cycle on ancient Mars. The kind of discovery that might tell us something about whether life ever existed there. Except Curiosity only made that breakthrough because NASA had already extended its mission twice before. If budget pressure had forced them to shut it down earlier, we'd never know.
 

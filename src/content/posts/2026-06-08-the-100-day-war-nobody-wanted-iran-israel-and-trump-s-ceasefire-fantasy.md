@@ -28,6 +28,6 @@ The markets, for their part, showed their usual pragmatism. Oil prices surged mo
 
 What we're watching is a conflict that has confounded every timeline, every prediction, and every optimistic headline. The situation involves ancient enmities, shifting regional alliances, and domestic political pressures on all sides that make compromise nearly impossible. Trump may believe he can broker peace through force of will and social media posts, but 100 days of war have shown just how stubborn reality can be.
 
-For more [business](https://infeeds.com/tags/?tag=news) news and analysis, keep reading Infeeds.
+For more [business](https://infeeds.com/tags/news) news and analysis, keep reading Infeeds.
 
 The question isn't whether anyone wants peace. The question is whether anyone is willing to pay the price to get it, and right now, nobody seems eager to blink first.

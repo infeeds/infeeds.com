@@ -14,7 +14,7 @@ The footage, which surfaced via TMZ, was recorded by Mortensen himself and alleg
 
 ## When Reality TV Meets Reality
 
-There's something particularly uncomfortable about watching [entertainment](https://infeeds.com/tags/?tag=entertainment) news cycles collide with actual legal matters. Paul was previously arrested in 2023 on assault and domestic violence charges, but she reached a plea deal and pleaded guilty to aggravated assault with all other charges dismissed with prejudice. Now, with this new video making headlines, there's apparently an open domestic assault investigation into both Paul and Mortensen through the Draper City Police Department in Utah.
+There's something particularly uncomfortable about watching [entertainment](https://infeeds.com/tags/entertainment) news cycles collide with actual legal matters. Paul was previously arrested in 2023 on assault and domestic violence charges, but she reached a plea deal and pleaded guilty to aggravated assault with all other charges dismissed with prejudice. Now, with this new video making headlines, there's apparently an open domestic assault investigation into both Paul and Mortensen through the Draper City Police Department in Utah.
 
 Paul's spokesperson wasted no time firing back at Mortensen, characterizing the video release as "a reprehensible attempt" timed conveniently on their son's birthday. They argued the footage lacks context and painted Mortensen as someone with a pattern of "manipulation" and "attention-seeking" behavior.
 
@@ -32,4 +32,4 @@ The bigger question hanging over all this is what happens to reality TV stars wh
 
 ABC's decision to pump the brakes suggests they're not willing to ride this wave. Whether that's the right call from a moral standpoint or just a business decision to avoid advertiser backlash probably depends on who you ask. For now, there's no "Bachelorette" season coming with Paul as the lead, and that's where we stand.
 
-The whole situation underscores something we keep seeing over and over: [the entertainment](https://infeeds.com/tags/?tag=entertainment) industry's complicated relationship with accountability, and how quickly networks can pull the plug when public perception turns negative, leaving us wondering what really happened behind closed doors.
+The whole situation underscores something we keep seeing over and over: [the entertainment](https://infeeds.com/tags/entertainment) industry's complicated relationship with accountability, and how quickly networks can pull the plug when public perception turns negative, leaving us wondering what really happened behind closed doors.

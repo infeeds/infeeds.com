@@ -26,7 +26,7 @@ All of this gets managed through the Notion CLI, a command-line tool available o
 
 ## What This Actually Means
 
-This matters because [productivity software](https://infeeds.com/tags/?tag=technology) is increasingly becoming less about note-taking and more about connecting the sprawling ecosystem of tools and data that companies actually use. Notion was always good at consolidating information into one place. Now it's trying to become the place where people and agents coordinate work across multiple systems.
+This matters because [productivity software](https://infeeds.com/tags/technology) is increasingly becoming less about note-taking and more about connecting the sprawling ecosystem of tools and data that companies actually use. Notion was always good at consolidating information into one place. Now it's trying to become the place where people and agents coordinate work across multiple systems.
 
 That's different. That's the move from a nice-to-have app into something that looks like core infrastructure.
 
@@ -40,6 +40,6 @@ Notion is saying: what if automation lived inside the tools you already use? Wha
 
 The risk is obvious: Notion could be overreaching. Building a serious developer platform is hard. Supporting multiple external agents with different capabilities requires maintenance and careful iteration. But the company clearly has conviction. Offering Workers free through August signals confidence that developers will want to stick around.
 
-The bigger question is whether [business](https://infeeds.com/tags/?tag=business) teams will actually adopt this. Custom code deployments and sandbox environments require a different mindset than using a polished consumer app. But for companies building internal AI systems or managing complex workflows, the appeal is real.
+The bigger question is whether [business](https://infeeds.com/tags/business) teams will actually adopt this. Custom code deployments and sandbox environments require a different mindset than using a polished consumer app. But for companies building internal AI systems or managing complex workflows, the appeal is real.
 
 Zhao's framing at the end sums up the ambition cleanly: "Any data, any tool, any agent." That's the architecture they're building toward. Whether they can pull it off will say a lot about whether productivity platforms can evolve into the infrastructure layer that modern companies actually need.

@@ -50,7 +50,7 @@ The irony is that having so many options doesn't necessarily make things easier.
 
 If you're a one-person social media manager, this isn't some abstract productivity discussion. This is about survival. You have a mountain of content to create, admin work to manage, and approximately zero hours in the day to do it all.
 
-AI tools specifically for [business](https://infeeds.com/tags/?tag=business) and [technology](https://infeeds.com/tags/?tag=technology) functions can genuinely change the equation. They let you repurpose one blog post into multiple formats. They can translate content in minutes. They handle the formatting work that would eat hours of your week.
+AI tools specifically for [business](https://infeeds.com/tags/business) and [technology](https://infeeds.com/tags/technology) functions can genuinely change the equation. They let you repurpose one blog post into multiple formats. They can translate content in minutes. They handle the formatting work that would eat hours of your week.
 
 Hensley points out something crucial here: "As so many social media managers are a one-person band, having AI to help draft and repurpose content is crucial." She's not saying it's nice to have. She's saying it's necessary.
 

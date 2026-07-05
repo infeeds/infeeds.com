@@ -44,7 +44,7 @@ Then there's FENDI for the luxury fashion house clue. This one's interesting bec
 
 Once you start noticing these patterns, you can't unsee them. FLAG as a relationship warning sign feels like something the puzzle designers recycle every few months. FROST appears constantly whenever the theme involves cold weather or winter metaphors.
 
-It's almost like there's a [tech](https://infeeds.com/tags/?tag=technology) backend somewhere that's algorithmically designed to pick the most reliable crossword clues. The New York Times probably has an entire database of "tested and proven" answers that work well in their grids.
+It's almost like there's a [tech](https://infeeds.com/tags/technology) backend somewhere that's algorithmically designed to pick the most reliable crossword clues. The New York Times probably has an entire database of "tested and proven" answers that work well in their grids.
 
 The reality is that crossword construction is genuinely difficult. Creating a puzzle that's solvable, interesting, and doesn't have terrible fill is way harder than it looks. So when puzzle-makers find a clue that works, they milk it.
 
@@ -52,7 +52,7 @@ The reality is that crossword construction is genuinely difficult. Creating a pu
 
 There's something weirdly comforting about knowing that AMINO and FENDI are probably going to show up again next month. It's like visiting your favorite coffee shop and ordering the same thing every time. The familiarity is part of the appeal.
 
-If you're looking for more help with today's puzzle or other NYT games, the puzzle hints page has what you need. And if you're really struggling with your [tech](https://infeeds.com/tags/?tag=technology)-adjacent brain that's too lazy to remember basic biology, at least you know you can come back here for answers.
+If you're looking for more help with today's puzzle or other NYT games, the puzzle hints page has what you need. And if you're really struggling with your [tech](https://infeeds.com/tags/technology)-adjacent brain that's too lazy to remember basic biology, at least you know you can come back here for answers.
 
 The Mini Crossword is deliberately designed to be quick and accessible, which means it can't get too experimental with its clues. That's why you see the same patterns recycled over and over. It's not laziness, it's actually smart design.
 

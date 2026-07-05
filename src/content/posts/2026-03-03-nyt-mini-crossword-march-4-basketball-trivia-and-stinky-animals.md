@@ -38,7 +38,7 @@ The puzzle could've just asked "smelly black and white animal" but instead it we
 
 Crosswords aren't just idle entertainment. They're how many of us process current events, pop culture, and random trivia that somehow sticks in our brains. When you solve a clue about Nikola Jokic, you're not just filling in squares, you're engaging with recent sports history in a way that makes it memorable.
 
-The New York Times knows exactly what they're doing when they construct these puzzles. They're betting that their audience is paying attention to the world around them, whether that's the NBA or animal <a href="https://infeeds.com/tags/?tag=technology">technology</a> and classification systems.
+The New York Times knows exactly what they're doing when they construct these puzzles. They're betting that their audience is paying attention to the world around them, whether that's the NBA or animal <a href="https://infeeds.com/tags/technology">technology</a> and classification systems.
 
 If you're looking for more help with today's puzzles, the Times also has answers and hints for Wordle, Strands, and Connections. But honestly, the Mini Crossword is the perfect warm-up before diving into those heavier puzzles.
 

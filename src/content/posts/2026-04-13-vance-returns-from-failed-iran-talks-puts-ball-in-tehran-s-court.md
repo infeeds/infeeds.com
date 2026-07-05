@@ -30,7 +30,7 @@ The bigger issue, though, remains Iran's nuclear program. Every "red line" the U
 
 What's noteworthy is how Vance positioned the next move. He didn't threaten further blockades or military action. Instead, he essentially said the U.S. has done its part. "The ball is in Iran's court," became his refrain. The delegation is heading back to Washington. If Iran wants to continue talks, it knows where to find us.
 
-This framing suggests a strategy: the Trump administration believes it has signaled seriousness through both diplomacy and economic pressure. Whether that's enough to push Iranian leadership toward compromise remains an open question. Energy markets have already felt the impact of disrupted oil flows, and prolonged blockade conditions could ratchet up pressure on Iran's economy and the global <a href="https://infeeds.com/tags/?tag=business">business</a> environment alike.
+This framing suggests a strategy: the Trump administration believes it has signaled seriousness through both diplomacy and economic pressure. Whether that's enough to push Iranian leadership toward compromise remains an open question. Energy markets have already felt the impact of disrupted oil flows, and prolonged blockade conditions could ratchet up pressure on Iran's economy and the global <a href="https://infeeds.com/tags/business">business</a> environment alike.
 
 Vance's repeated insistence that progress was made but insufficient feels like it's designed for multiple audiences. For a domestic audience, it says the administration negotiated in good faith and is now taking decisive action. For Iran, it leaves an opening: move further on the uranium and verification issues, and a deal remains possible.
 

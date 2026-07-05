@@ -34,7 +34,7 @@ What it does reveal is that streaming has democratized access to massive hit sta
 
 The flip side: a handful of older songs now get their moment in the sun years after release. "Mr. Brightside" by The Killers went diamond in January 2024, more than 20 years after it dropped. "Don't Stop Believin'" by Journey followed weeks later. These songs didn't suddenly become hits. They'd been accumulating streams for decades, slowly marching toward a threshold they were never designed to meet.
 
-## What This Means for <a href="https://infeeds.com/tags/?tag=business">Business</a> Strategy
+## What This Means for <a href="https://infeeds.com/tags/business">Business</a> Strategy
 
 Labels are now weaponizing the certification process. The source material notes that artists and labels must actually request certification through an application process, and that can delay updated sales figures. Translation: you could have a diamond-level hit and nobody officially knows it yet because you haven't filed the paperwork.
 

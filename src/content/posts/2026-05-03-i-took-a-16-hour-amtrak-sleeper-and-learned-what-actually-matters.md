@@ -50,6 +50,6 @@ WiFi can be spotty or nonexistent on some Amtrak routes. She'd downloaded a show
 
 ## The Alcohol They Don't Tell You About
 
-After boarding, she learned that <a href="https://infeeds.com/tags/?tag=business">Amtrak passengers in sleeper cars can bring their own alcohol</a> as long as it stays in their room. She hadn't known this. Next time, she'll bring wine or hard cider to drink while watching the sunset through her window. It's the kind of detail that transforms a trip from functional to genuinely enjoyable.
+After boarding, she learned that <a href="https://infeeds.com/tags/business">Amtrak passengers in sleeper cars can bring their own alcohol</a> as long as it stays in their room. She hadn't known this. Next time, she'll bring wine or hard cider to drink while watching the sunset through her window. It's the kind of detail that transforms a trip from functional to genuinely enjoyable.
 
 Long-distance train travel requires a different mindset than flying or driving. You can't really control much once you're on board. What you can control is what you bring, how you prepare, and whether you've thought through the gaps between "probably fine" and "actually miserable." The difference between a tedious journey and a memorable one often comes down to small things that seemed unnecessary until they suddenly weren't.

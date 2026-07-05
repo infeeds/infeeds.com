@@ -20,7 +20,7 @@ The timing couldn't have been more suspicious. TikTok had just completed its tra
 
 TikTok finally addressed the elephant in the room Monday morning with a statement on X. Turns out it was just a power outage at a U.S. data center. Their exact words: "Since yesterday we've been working to restore our services following a power outage at a U.S. data center impacting TikTok and other apps we operate."
 
-Pretty anticlimactic, right? No grand conspiracy, no deliberate shutdown, just good old-fashioned [Technology](https://infeeds.com/tags/?tag=technology) infrastructure problems. The kind of thing that happens when you rely on massive server farms to keep billions of videos flowing to millions of phones every second.
+Pretty anticlimactic, right? No grand conspiracy, no deliberate shutdown, just good old-fashioned [Technology](https://infeeds.com/tags/technology) infrastructure problems. The kind of thing that happens when you rely on massive server farms to keep billions of videos flowing to millions of phones every second.
 
 The app's back up and running now, so if the power outage story holds water, their data center partner apparently got things sorted out. But here's where it gets interesting.
 
@@ -34,8 +34,8 @@ I reached out to TikTok for comment on whether they actually changed anything wi
 
 ## The Trust Is Already Gone
 
-Here's the thing about [social media](https://infeeds.com/tags/?tag=social-media) platforms: once users smell something fishy, good luck convincing them otherwise. It doesn't matter if TikTok releases a hundred statements saying nothing changed. People are going to believe what they're seeing on their screens.
+Here's the thing about [social media](https://infeeds.com/tags/social-media) platforms: once users smell something fishy, good luck convincing them otherwise. It doesn't matter if TikTok releases a hundred statements saying nothing changed. People are going to believe what they're seeing on their screens.
 
 And honestly? Can you blame them? A forced sale to new owners, an immediate outage, and suddenly everyone's feed looks different. That's not exactly a great look for maintaining user confidence in your platform's integrity.
 
-The real test will come over the next few weeks. If these complaints keep piling up and patterns emerge that can't be explained away by coincidence or confirmation bias, TikTok's new [Business](https://infeeds.com/tags/?tag=business) leadership is going to have a serious mess on their hands. Because at the end of the day, an app is only as good as users think it is, and right now the vibes are decidedly off.
+The real test will come over the next few weeks. If these complaints keep piling up and patterns emerge that can't be explained away by coincidence or confirmation bias, TikTok's new [Business](https://infeeds.com/tags/business) leadership is going to have a serious mess on their hands. Because at the end of the day, an app is only as good as users think it is, and right now the vibes are decidedly off.

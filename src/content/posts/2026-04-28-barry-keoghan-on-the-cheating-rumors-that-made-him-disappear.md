@@ -22,7 +22,7 @@ What's striking about Keoghan's confession isn't just that he denied the cheatin
 
 "There is a lot of hatred towards me for just looking like this," Keoghan said on the podcast. He wasn't alone in that vulnerability either. Benny Blanco, one of the hosts, shared similar experiences about being torn up online over appearance. But while Blanco suggested he has thick skin, Keoghan seemed more affected.
 
-The distinction matters. Keoghan's point wasn't just about celebrity gossip or relationship drama. He was talking about the compounding weight of false narratives amplified across [entertainment](https://infeeds.com/tags/?tag=entertainment) networks, paired with aesthetic judgment from strangers on the internet. That combination can hollow someone out.
+The distinction matters. Keoghan's point wasn't just about celebrity gossip or relationship drama. He was talking about the compounding weight of false narratives amplified across [entertainment](https://infeeds.com/tags/entertainment) networks, paired with aesthetic judgment from strangers on the internet. That combination can hollow someone out.
 
 "Unfortunately, having a relationship in the public eye, it gets put out there and it's amplified," Keoghan said.
 
@@ -44,4 +44,4 @@ He's right to call it out. There's a peculiar cruelty in how quickly online spac
 
 That's what unverified narratives plus pile-on culture actually does. It doesn't just annoy people. It can make them disappear.
 
-Keoghan said he doesn't need new fans, but he wants people to "stop jumping on this narrative" and "dragging" him down. Whether that plea will land in an [entertainment](https://infeeds.com/tags/?tag=entertainment) ecosystem designed to consume and discard people is another question entirely.
+Keoghan said he doesn't need new fans, but he wants people to "stop jumping on this narrative" and "dragging" him down. Whether that plea will land in an [entertainment](https://infeeds.com/tags/entertainment) ecosystem designed to consume and discard people is another question entirely.

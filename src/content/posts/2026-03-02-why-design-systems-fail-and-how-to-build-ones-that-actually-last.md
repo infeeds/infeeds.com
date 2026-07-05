@@ -14,7 +14,7 @@ Most design systems launch with confidence. There's a beautiful documentation si
 
 The system wasn't broken at launch. It just wasn't built for what comes next.
 
-In <a href="https://infeeds.com/tags/?tag=business">business</a>, design eventually stops being something the creative team maintains on the side. At scale, it becomes infrastructure. When that happens, most systems run into the same problem: scale moves faster than the structure designed to support it.
+In <a href="https://infeeds.com/tags/business">business</a>, design eventually stops being something the creative team maintains on the side. At scale, it becomes infrastructure. When that happens, most systems run into the same problem: scale moves faster than the structure designed to support it.
 
 The issue isn't usually talent or effort. It's that organizations build systems for the moment they launch, not for the chaos of real growth.
 

@@ -20,7 +20,7 @@ The X preview enhancement might sound basic, but anyone who's scheduled posts kn
 
 Truth Social integration into Hootsuite Listening probably won't matter to most teams. But for brands operating in specific niches or tracking political discourse, it's a legitimate expansion of coverage. You're no longer flying blind on an entire platform just because it's newer or smaller than the others.
 
-More interesting is the multilingual Conversation Clusters feature. If your brand operates globally, this is genuinely useful. You can now track discussions across multiple languages within a single cluster. No more manually parsing through conversations in Spanish, French, German, and Japanese separately. [Global business strategy](https://infeeds.com/tags/?tag=business) decisions need global data, and this makes that easier.
+More interesting is the multilingual Conversation Clusters feature. If your brand operates globally, this is genuinely useful. You can now track discussions across multiple languages within a single cluster. No more manually parsing through conversations in Spanish, French, German, and Japanese separately. [Global business strategy](https://infeeds.com/tags/business) decisions need global data, and this makes that easier.
 
 The LLM Insights integration deserves its own moment here. This one's actually forward-thinking. You can now see how your brand gets mentioned across ChatGPT, Gemini, Claude, and Perplexity. As more people use AI tools to discover information, knowing how you're represented in those environments matters. This isn't just social listening anymore. It's cultural listening.
 

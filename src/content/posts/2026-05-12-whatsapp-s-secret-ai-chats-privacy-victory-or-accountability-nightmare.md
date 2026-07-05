@@ -32,13 +32,13 @@ But here's the thing: smoother user adoption doesn't solve the accountability pr
 
 ## The Technical Side Isn't the Issue
 
-Cathcart described this as equivalent to end-to-end encryption, though the actual [technology](https://infeeds.com/tags/?tag=technology) is different. According to BBC reporting, Woodward said there's a low risk of this second system compromising WhatsApp's existing security. That's the good news. The technical execution doesn't appear to be the weak link here.
+Cathcart described this as equivalent to end-to-end encryption, though the actual [technology](https://infeeds.com/tags/technology) is different. According to BBC reporting, Woodward said there's a low risk of this second system compromising WhatsApp's existing security. That's the good news. The technical execution doesn't appear to be the weak link here.
 
 What concerns Woodward and other security experts is the policy gap. Meta AI will use guardrails to try refusing obviously harmful requests, but disappearing messages mean there's no paper trail if those guardrails fail. There's no way to audit whether an AI misdirected someone on a critical health decision or encouraged self-harm.
 
 The lack of accountability isn't a technical problem. It's a governance problem.
 
-## The Bigger Picture on AI and [Business](https://infeeds.com/tags/?tag=business)
+## The Bigger Picture on AI and [Business](https://infeeds.com/tags/business)
 
 What's happening at Meta mirrors a larger tension in AI development. Companies want to move fast, deploy at scale, and show investors impressive user numbers. Privacy advocates want safeguards and transparency. Regulators are still trying to figure out what safeguards even look like.
 

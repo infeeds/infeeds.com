@@ -36,6 +36,6 @@ Kuwait says its production cuts are precautionary and will be reviewed as condit
 
 Natural gas markets are watching this too. If LNG exports stay shut down, electricity prices spike. Home heating costs surge. Winter energy bills climb. This ripples far beyond just filling your gas tank.
 
-The real question isn't whether oil prices will stay elevated. It's how long the Strait of Hormuz stays effectively closed and what that does to global [business](https://infeeds.com/tags/?tag=business) cycles that depend on stable energy costs.
+The real question isn't whether oil prices will stay elevated. It's how long the Strait of Hormuz stays effectively closed and what that does to global [business](https://infeeds.com/tags/business) cycles that depend on stable energy costs.
 
 When a fifth of the world's oil supply can't move, everybody pays the price in ways they don't immediately understand. The pain spreads slowly but relentlessly through supply chains, shipping costs, manufacturing, and consumer goods. We're watching the first domino fall, and the rest are still toppling.

@@ -10,7 +10,7 @@ tags_color: '#2196f3'
 
 Nearly a year after its announcement and nine months past its original launch date, the Trump Mobile T1 has finally arrived. The golden Android phone touched down with CNET this week, and it's already raising questions about whether all that waiting was worth it.
 
-Let's be clear about what happened here. Trump Mobile announced the T1 in June 2025 with promises of domestic manufacturing and an August launch. That didn't happen. When it became obvious that large-scale smartphone manufacturing in the US wasn't feasible on that timeline, the company dropped the "made in the US" claim and pushed back the launch. The phone has since undergone three separate redesigns. "The [<u>technology</u>](https://infeeds.com/tags/?tag=technology) business is more difficult than some may realize," Trump Mobile CEO Pat O'Brien told CNET last week, citing delays in testing and quality assurance.
+Let's be clear about what happened here. Trump Mobile announced the T1 in June 2025 with promises of domestic manufacturing and an August launch. That didn't happen. When it became obvious that large-scale smartphone manufacturing in the US wasn't feasible on that timeline, the company dropped the "made in the US" claim and pushed back the launch. The phone has since undergone three separate redesigns. "The [<u>technology</u>](https://infeeds.com/tags/technology) business is more difficult than some may realize," Trump Mobile CEO Pat O'Brien told CNET last week, citing delays in testing and quality assurance.
 
 That's a fair point. Phone manufacturing is genuinely complex. But there's a pattern of overpromising and underdelivering here that's hard to ignore.
 

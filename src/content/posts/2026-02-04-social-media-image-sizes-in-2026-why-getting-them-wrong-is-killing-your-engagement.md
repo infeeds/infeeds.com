@@ -36,7 +36,7 @@ X seems to be one of the few platforms that hasn't completely abandoned desktop 
 
 Facebook image sizes differ between desktop and mobile, and since most people access Facebook on their phones, you're basically optimizing for mobile and hoping desktop doesn't look terrible.
 
-The platform has been around long enough that you'd think they'd have standardized this stuff by now. Instead, we get different dimensions for personal profiles, business pages, cover photos, and ads. Managing a [business](https://infeeds.com/tags/?tag=business) presence on Facebook means keeping a cheat sheet handy or just accepting that something will probably look off somewhere.
+The platform has been around long enough that you'd think they'd have standardized this stuff by now. Instead, we get different dimensions for personal profiles, business pages, cover photos, and ads. Managing a [business](https://infeeds.com/tags/business) presence on Facebook means keeping a cheat sheet handy or just accepting that something will probably look off somewhere.
 
 The variation between mobile and desktop viewing experiences creates headaches for brands trying to maintain visual consistency. You can nail the mobile version and end up with weird crops on desktop, or vice versa.
 
@@ -46,7 +46,7 @@ Just when you think you've figured out LinkedIn's image requirements, you realiz
 
 For feed images, 1200 x 1200 pixels works well. Link previews prefer 1200 x 627 pixels. But these numbers change depending on whether you're posting as yourself or as a company, which makes batch creation of content significantly more annoying than it needs to be.
 
-LinkedIn's [business](https://infeeds.com/tags/?tag=business) focus means professional imagery matters more here than on other platforms. Poorly sized images don't just look bad, they make your brand look amateurish to an audience that's specifically there for professional content.
+LinkedIn's [business](https://infeeds.com/tags/business) focus means professional imagery matters more here than on other platforms. Poorly sized images don't just look bad, they make your brand look amateurish to an audience that's specifically there for professional content.
 
 ## The Real Cost Of Wrong Image Sizes
 
@@ -76,7 +76,7 @@ Shared tools for resizing help maintain consistency across teams. When everyone 
 
 Services like Hootsuite build platform-specific dimensions into their workflows so you don't need to memorize specs or maintain spreadsheets. You select your network, and it automatically formats your image correctly.
 
-This isn't revolutionary technology. It's a basic feature that exists because social platforms have made proper image sizing unnecessarily complicated. The fact that an entire [business](https://infeeds.com/tags/?tag=business) model exists around fixing this problem tells you how broken the current system is.
+This isn't revolutionary technology. It's a basic feature that exists because social platforms have made proper image sizing unnecessarily complicated. The fact that an entire [business](https://infeeds.com/tags/business) model exists around fixing this problem tells you how broken the current system is.
 
 The built-in Canva integration lets you edit and resize without leaving the dashboard, which at least streamlines the annoying parts. But you're still dealing with a problem that shouldn't exist in the first place.
 

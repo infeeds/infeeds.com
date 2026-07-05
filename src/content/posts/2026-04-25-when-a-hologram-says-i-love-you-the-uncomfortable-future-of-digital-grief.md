@@ -8,7 +8,7 @@ tags: [news, tech]
 tags_color: '#1f78b4'
 ---
 
-Pam Cronrath wanted to honor her husband. She didn't expect it would cost her fifteen times what she'd budgeted, or that it would involve the kind of [technology](https://infeeds.com/tags/?tag=technology) usually reserved for dead pop stars making surprise appearances at award shows.
+Pam Cronrath wanted to honor her husband. She didn't expect it would cost her fifteen times what she'd budgeted, or that it would involve the kind of [technology](https://infeeds.com/tags/technology) usually reserved for dead pop stars making surprise appearances at award shows.
 
 Bill died last year after nearly sixty years of marriage. Pam, 78, lives in Wenatchee, Washington, a quiet agricultural town on the eastern edge of the Cascade Mountains. She'd promised Bill a "super wake" with a $2,000 budget. What she created instead was something stranger, more ambitious, and far more expensive: a hologram of her late husband speaking directly to two hundred people at his memorial service.
 

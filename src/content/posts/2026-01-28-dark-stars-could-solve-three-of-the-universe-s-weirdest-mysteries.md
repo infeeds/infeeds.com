@@ -30,7 +30,7 @@ JWST spotted these incredibly bright, compact galaxies that astronomers started 
 
 Before JWST launched, exactly zero models anticipated galaxies like this. It's not a small gap in our understanding. It's the kind of discovery that makes you go back and question fundamental assumptions about how quickly the universe could get its act together after the Big Bang.
 
-The [science](https://infeeds.com/tags/?tag=science) community has been scrambling to explain these blue monsters, and dark stars offer a compelling answer. If these objects are actually enormous dark-matter-powered stars rather than entire galaxies, suddenly their properties make a lot more sense.
+The [science](https://infeeds.com/tags/science) community has been scrambling to explain these blue monsters, and dark stars offer a compelling answer. If these objects are actually enormous dark-matter-powered stars rather than entire galaxies, suddenly their properties make a lot more sense.
 
 ## Black Holes That Grew Up Too Fast
 
@@ -54,6 +54,6 @@ What makes this dark star hypothesis so compelling isn't just that it explains o
 
 Dark stars haven't been directly confirmed yet, but the evidence keeps stacking up. The research builds on earlier studies from 2023 and 2025 that identified photometric and spectroscopic candidates. Each new JWST observation seems to add another piece to the puzzle.
 
-If dark stars are real, they're not just interesting astronomy trivia. They'd give us a direct way to study dark matter particles themselves, connecting cosmic observations with particle physics experiments happening in labs on Earth. That connection between the very large and very small is exactly what makes fundamental [physics](https://infeeds.com/tags/?tag=science) so fascinating.
+If dark stars are real, they're not just interesting astronomy trivia. They'd give us a direct way to study dark matter particles themselves, connecting cosmic observations with particle physics experiments happening in labs on Earth. That connection between the very large and very small is exactly what makes fundamental [physics](https://infeeds.com/tags/science) so fascinating.
 
 The universe apparently had tricks up its sleeve during cosmic dawn that we're only now starting to appreciate, and dark stars might be the key to understanding how the earliest chapters of cosmic history actually played out.

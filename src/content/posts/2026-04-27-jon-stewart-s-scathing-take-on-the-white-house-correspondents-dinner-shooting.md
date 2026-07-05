@@ -48,4 +48,4 @@ The shooting interrupted an event that probably shouldn't exist in the first pla
 
 What matters is that guns showed up, panic followed, and in the scramble to safety, some people's instincts revealed something uncomfortable. For Stewart and everyone watching, it raises an uncomfortable question about the state of American life right now. We can't even get through a dinner celebrating the free press without violence interrupting it. And when violence does interrupt, the powerful make sure they're safe first.
 
-Whether that's a feature or a bug in American [news](https://infeeds.com/tags/?tag=news) cycles at this point is almost beside the point.
+Whether that's a feature or a bug in American [news](https://infeeds.com/tags/news) cycles at this point is almost beside the point.

@@ -14,7 +14,7 @@ She thought it was grief. She thought it was anxiety. She thought, maybe, she wa
 
 What it actually was: Cushing's syndrome, a rare hormonal disorder caused by a tiny tumor on her adrenal gland that had been quietly secreting cortisol, the stress hormone, into her system for months. No one had told her the tumor existed. She'd found it herself, buried in a medical report she stumbled upon by accident.
 
-This isn't just a story about a diagnosis. It's about what happens when the machinery of modern [health](https://infeeds.com/tags/?tag=health) care fails to communicate, and what it takes for a patient to get heard.
+This isn't just a story about a diagnosis. It's about what happens when the machinery of modern [health](https://infeeds.com/tags/health) care fails to communicate, and what it takes for a patient to get heard.
 
 ## The Year Everything Broke
 

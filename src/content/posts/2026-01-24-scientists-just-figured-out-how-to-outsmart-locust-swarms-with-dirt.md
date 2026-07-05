@@ -30,7 +30,7 @@ One hundred farmers each planted two plots of millet. One got nitrogen fertilize
 
 The results weren't subtle. Fertilized plots had fewer locusts, less leaf damage, and harvests that were literally twice as large. No new pest problems showed up either. The research, published in Scientific Reports, represents the first real-world test of this method, and it worked exactly as hoped.
 
-Mamour Touré, an associate professor at Université Gaston Berger in Senegal who led the study, says the findings matter beyond just [science](https://infeeds.com/tags/?tag=science). "The results are of major importance to the scientific community and also to Senegalese farmers. The study gave them a better understanding of grasshoppers and locusts, as well as a practical way to control them at the local level."
+Mamour Touré, an associate professor at Université Gaston Berger in Senegal who led the study, says the findings matter beyond just [science](https://infeeds.com/tags/science). "The results are of major importance to the scientific community and also to Senegalese farmers. The study gave them a better understanding of grasshoppers and locusts, as well as a practical way to control them at the local level."
 
 But there's a catch. Nitrogen fertilizer isn't affordable or sustainable for many farming communities, especially in regions where locust damage hits hardest. Chemical fertilizers cost money most farmers don't have, and they can degrade soil health over time.
 
@@ -38,7 +38,7 @@ But there's a catch. Nitrogen fertilizer isn't affordable or sustainable for man
 
 That's where the story gets interesting. Cease's team switched to compost and got the same results. The farmers noticed too. After USAID funding for the project ended in early 2025, the Senegalese farmers kept composting on their own. Touré notes that farmers "unanimously stated that they no longer burn crop residues after land clearing, but instead practice composting to fertilize their fields, thereby helping to reduce grasshopper infestations."
 
-It's the kind of organic adoption you hope for in [agriculture](https://infeeds.com/tags/?tag=business) research but rarely see. The farmers aren't continuing because someone's paying them to. They're doing it because it works and makes economic sense.
+It's the kind of organic adoption you hope for in [agriculture](https://infeeds.com/tags/business) research but rarely see. The farmers aren't continuing because someone's paying them to. They're doing it because it works and makes economic sense.
 
 The approach also fits into a broader understanding of locust outbreaks that considers environmental conditions, insect behavior, economic pressures, and land management as interconnected systems. The Global Locust Initiative, part of ASU's Julie Ann Wrigley Global Futures Laboratory, looks at all these factors to find intervention points that actually stick.
 
@@ -50,6 +50,6 @@ You might think this is someone else's problem. The U.S. doesn't have native loc
 
 Even without locusts, American ranchers already deal with what the USDA calls the "Dirty Dozen," 12 species of rangeland grasshoppers (and one cricket) that strip grazing land when they swarm. They compete with livestock for food and create serious economic losses. Right now, chemical pesticides are the main control method, but work on alternatives could change that.
 
-What scientists learn from controlling locusts in Senegal might end up protecting American ranches and farms. It's one of those rare cases where [research](https://infeeds.com/tags/?tag=science) addressing problems in developing countries also prepares wealthier nations for challenges that haven't arrived yet but probably will.
+What scientists learn from controlling locusts in Senegal might end up protecting American ranches and farms. It's one of those rare cases where [research](https://infeeds.com/tags/science) addressing problems in developing countries also prepares wealthier nations for challenges that haven't arrived yet but probably will.
 
 The elegance of Cease's approach lies in its simplicity. No new chemicals, no expensive technology, just understanding insect biology well enough to make crops less appealing. It's a reminder that sometimes the best solutions come from asking what the pest actually wants and then making sure they can't get it.

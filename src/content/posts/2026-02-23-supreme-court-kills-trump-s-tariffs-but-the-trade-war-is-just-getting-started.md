@@ -18,7 +18,7 @@ Within days of the ruling, Trump doubled down. New tariffs up to 15% are now hit
 
 The Supreme Court's ruling should have been definitive. The legal path was blocked. Case closed, right? Wrong. The Trump administration is simply pivoting to different sections of the Tariff Act of 1974, particularly sections 232 and 301, to keep the tariff machinery running. It's like they were always prepared with a backup plan.
 
-Section 122, which Trump is now leaning on for the new tariffs, has its own quirk. Those 15% duties only last until mid-July before needing congressional approval. But that's plenty of time to cause real damage to <a href="https://infeeds.com/tags/?tag=business">business</a> planning and international relationships.
+Section 122, which Trump is now leaning on for the new tariffs, has its own quirk. Those 15% duties only last until mid-July before needing congressional approval. But that's plenty of time to cause real damage to <a href="https://infeeds.com/tags/business">business</a> planning and international relationships.
 
 The EU isn't hiding its displeasure. European leaders expressed dismay over the new tariffs, arguing that this policy shift upends trade deals already negotiated with the U.S. and the U.K. last year. They've postponed a key vote on their deal with the U.S. again. That's not a minor bureaucratic shuffle. That's a sign that trust in American trade commitments is cracking.
 

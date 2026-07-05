@@ -46,7 +46,7 @@ This is happening right now, in the voids, in the places we usually think of as 
 
 So here's the real kicker: cosmic voids are empty of matter, which is literally how astronomers identify them and measure them. But their emptiness doesn't make them powerless. Their emptiness is precisely what makes them powerful. Without matter to compete with, the quantum vacuum becomes everything. These spaces that appear to contain nothing are actually filled with the subtle energy of quantum fields.
 
-That's not poetic language. That's [science](https://infeeds.com/tags/?tag=science). That's reality.
+That's not poetic language. That's [science](https://infeeds.com/tags/science). That's reality.
 
 You could travel to the deepest, darkest void in the universe, the emptiest possible pocket of space, and you'd never actually be alone. The quantum fields would be there. Dark energy would be there. The fundamental substrate of reality would be surrounding you completely.
 

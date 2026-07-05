@@ -20,7 +20,7 @@ The reported deal, as it stands, isn't some grand bargain that resolves decades 
 
 US Secretary of State Marco Rubio told reporters in Delhi that "we thought we might have some news last night. Maybe today." That was Monday. Here we are, still waiting. Rubio himself cautioned "I wouldn't read too much into it," which is diplomat-speak for "this could fall apart any minute."
 
-The practical stakes are enormous. Even if a deal gets announced tomorrow, shipping companies won't rush back to normal operations. Lars Jensen, chief executive of Vespucci Maritime, told BBC Radio 4's Today programme that it could be months before supply chains return to their pre-crisis shape. The industry would remain "cautious and hesitant" to make major operational changes, he explained. That's the [Business](https://infeeds.com/tags/?tag=business) reality behind all the diplomatic theater.
+The practical stakes are enormous. Even if a deal gets announced tomorrow, shipping companies won't rush back to normal operations. Lars Jensen, chief executive of Vespucci Maritime, told BBC Radio 4's Today programme that it could be months before supply chains return to their pre-crisis shape. The industry would remain "cautious and hesitant" to make major operational changes, he explained. That's the [Business](https://infeeds.com/tags/business) reality behind all the diplomatic theater.
 
 ## The Political Blowback
 

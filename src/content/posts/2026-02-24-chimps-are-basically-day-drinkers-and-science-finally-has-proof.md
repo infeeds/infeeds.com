@@ -34,7 +34,7 @@ What's particularly interesting is who wasn't drinking. Female chimps in estrus 
 
 ## What This Means for Human Evolution
 
-The connection between <a href="https://infeeds.com/tags/?tag=science">science</a> and our everyday habits is rarely this direct. We've all wondered why humans uniquely obsess over alcohol across virtually every culture. It seems bizarre from an evolutionary standpoint. Why would we develop such a powerful attraction to something that impairs our judgment and slows our reflexes?
+The connection between <a href="https://infeeds.com/tags/science">science</a> and our everyday habits is rarely this direct. We've all wondered why humans uniquely obsess over alcohol across virtually every culture. It seems bizarre from an evolutionary standpoint. Why would we develop such a powerful attraction to something that impairs our judgment and slows our reflexes?
 
 The answer might be simpler than we thought: because our ancestors were doing it too.
 

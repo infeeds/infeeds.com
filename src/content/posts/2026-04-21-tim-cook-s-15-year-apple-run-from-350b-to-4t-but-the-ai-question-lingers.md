@@ -22,7 +22,7 @@ Start with what he actually nailed. Cook, who built Apple's global supply chain 
 
 Cook also expanded the iPhone ecosystem into wearables and gadgets that actually complemented each other. He released multiple iPad sizes and price points, essentially turning tablets into genuine computers. He championed the transition to Apple Silicon chips starting in 2020, wrapping it up by 2023, which delivered longer battery life, better performance, and cleaner power efficiency. Apple Park, that 175-acre marvel of 12,000 employees and renewable energy, became real under his watch.
 
-This wasn't luck. This was a CEO who understood operational excellence and had the discipline to execute it repeatedly across massive product lines. For most of his tenure, Cook was executing a playbook that already existed. He was perfecting [technology](https://infeeds.com/tags/?tag=technology) that either Apple invented or that competitors had already validated.
+This wasn't luck. This was a CEO who understood operational excellence and had the discipline to execute it repeatedly across massive product lines. For most of his tenure, Cook was executing a playbook that already existed. He was perfecting [technology](https://infeeds.com/tags/technology) that either Apple invented or that competitors had already validated.
 
 Then came the part where he had to actually innovate into the future.
 
@@ -40,7 +40,7 @@ This isn't operational failure. This is strategic hesitation at exactly the mome
 
 ## What John Ternus Inherits
 
-Ternus is taking over a company that still prints money, still commands cultural gravity, and still knows how to execute on hardware. But he's inheriting one that's no longer leading the [business](https://infeeds.com/tags/?tag=business) conversation. Apple is now following, responding, and hoping its brand loyalty carries it through an AI transition it didn't see coming fast enough.
+Ternus is taking over a company that still prints money, still commands cultural gravity, and still knows how to execute on hardware. But he's inheriting one that's no longer leading the [business](https://infeeds.com/tags/business) conversation. Apple is now following, responding, and hoping its brand loyalty carries it through an AI transition it didn't see coming fast enough.
 
 The $600 billion U.S. spending commitment Cook announced with Trump earlier this year, focused on semiconductor and advanced technology manufacturing, is a genuine investment in the future. That's the kind of bold, long-term thinking Cook excelled at. But it doesn't change the fact that Apple lost a crucial 18 months when it should have been planning for a world where AI was going to matter as much as the processor.
 

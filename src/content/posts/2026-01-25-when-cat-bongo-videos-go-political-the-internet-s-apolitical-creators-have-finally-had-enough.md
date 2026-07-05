@@ -13,7 +13,7 @@ tags_color: '#d32f2f'
 featured: true
 ---
 
-Something weird is happening on the internet, and no, I'm not talking about another AI chatbot going rogue or crypto crashing again. I'm talking about the parts of the internet that have historically stayed far, far away from anything resembling [politics](https://infeeds.com/tags/?tag=politics). The duck painters. The bourbon reviewers. The people who film themselves playing cats like percussion instruments.
+Something weird is happening on the internet, and no, I'm not talking about another AI chatbot going rogue or crypto crashing again. I'm talking about the parts of the internet that have historically stayed far, far away from anything resembling [politics](https://infeeds.com/tags/politics). The duck painters. The bourbon reviewers. The people who film themselves playing cats like percussion instruments.
 
 They're all speaking out now. And when r/catbongos has had enough of your administration, you've probably lost the plot.
 
@@ -31,7 +31,7 @@ Here's where it gets really interesting. r/military, a subreddit you'd expect to
 
 The memes mocking Secretary of Defense Pete Hegseth are everywhere. And this isn't coming from the usual suspects on the left. This is coming from within the military community itself.
 
-Even r/conservative is showing cracks. Some members are pushing back against Kristi Noem's description of Alexi Pretti as a "domestic terrorist," telling her to "just be quiet for a while." There are arguments breaking out about Second Amendment hypocrisy. When your own base starts eating itself over inconsistencies, that's a [business](https://infeeds.com/tags/?tag=business) problem for any administration.
+Even r/conservative is showing cracks. Some members are pushing back against Kristi Noem's description of Alexi Pretti as a "domestic terrorist," telling her to "just be quiet for a while." There are arguments breaking out about Second Amendment hypocrisy. When your own base starts eating itself over inconsistencies, that's a [business](https://infeeds.com/tags/business) problem for any administration.
 
 ## The Podcast Bros and Influencers Join In
 
@@ -43,7 +43,7 @@ Canadian musicians and social media personalities Chris and Patrick Vörös chim
 
 ## The Niche Communities Rise Up
 
-The spread across Reddit has been particularly wild. r/Fauxmoi (celebrity gossip), r/NFCNorthMemeWar (football memes), r/DungeonCrawlerCarl (a subreddit about a specific sci-fi book series). None of these are [technology](https://infeeds.com/tags/?tag=technology) platforms or political forums. They're hobby communities. Entertainment spaces. Places people go to escape the news cycle.
+The spread across Reddit has been particularly wild. r/Fauxmoi (celebrity gossip), r/NFCNorthMemeWar (football memes), r/DungeonCrawlerCarl (a subreddit about a specific sci-fi book series). None of these are [technology](https://infeeds.com/tags/technology) platforms or political forums. They're hobby communities. Entertainment spaces. Places people go to escape the news cycle.
 
 And they're all flooded with anti-ICE content.
 

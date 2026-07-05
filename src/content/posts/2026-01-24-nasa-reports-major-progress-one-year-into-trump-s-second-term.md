@@ -18,7 +18,7 @@ The agency credits much of this momentum to clear direction from the White House
 
 ## Building On First Term Foundations
 
-To be fair, some groundwork was already laid. Trump's first term saw the establishment of the U.S. Space Force, the launch of the Artemis campaign, and the creation of the Artemis Accords. Those accords now include 60 nations, which is actually pretty significant for international [cooperation](https://infeeds.com/tags/?tag=science) in space. American astronauts also returned to launching from U.S. soil after years of relying on Russian spacecraft.
+To be fair, some groundwork was already laid. Trump's first term saw the establishment of the U.S. Space Force, the launch of the Artemis campaign, and the creation of the Artemis Accords. Those accords now include 60 nations, which is actually pretty significant for international [cooperation](https://infeeds.com/tags/science) in space. American astronauts also returned to launching from U.S. soil after years of relying on Russian spacecraft.
 
 The current push seems to be about acceleration rather than reinvention. NASA is preparing for Artemis II, which would send astronauts around the Moon for the first time in over 50 years. That mission is supposed to pave the way for a sustained return to the lunar surface by 2028, complete with plans for a lunar base.
 
@@ -26,7 +26,7 @@ Whether that timeline is realistic remains to be seen. Space agencies have a lon
 
 ## Science Beyond The Moon
 
-While human spaceflight grabs headlines, NASA's [science](https://infeeds.com/tags/?tag=science) missions continue quietly in the background. The Nancy Grace Roman Space Telescope is expected to come online before the year ends. The agency is also working on planetary defense initiatives, Earth science programs, and next-generation aeronautics [technology](https://infeeds.com/tags/?tag=technology).
+While human spaceflight grabs headlines, NASA's [science](https://infeeds.com/tags/science) missions continue quietly in the background. The Nancy Grace Roman Space Telescope is expected to come online before the year ends. The agency is also working on planetary defense initiatives, Earth science programs, and next-generation aeronautics [technology](https://infeeds.com/tags/technology).
 
 The focus on nuclear power and propulsion for deep space travel is particularly interesting. These technologies could genuinely change what's possible for missions to Mars and beyond. But they also require sustained investment and political will across multiple administrations, something that's been hard to come by historically.
 

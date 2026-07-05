@@ -28,7 +28,7 @@ Before this funding round, Pronto had raised about $40 million from investors in
 
 ## What This Means for the Sector
 
-The funding and valuation momentum around Pronto reflects broader investor appetite for [Technology](https://infeeds.com/tags/?tag=technology) solutions in emerging markets, particularly in labor-intensive service sectors. If Pronto can continue executing and managing its worker base effectively, it could establish a playbook for on-demand services in India. If it stumbles on logistics, quality control, or worker retention, the valuation math falls apart quickly.
+The funding and valuation momentum around Pronto reflects broader investor appetite for [Technology](https://infeeds.com/tags/technology) solutions in emerging markets, particularly in labor-intensive service sectors. If Pronto can continue executing and managing its worker base effectively, it could establish a playbook for on-demand services in India. If it stumbles on logistics, quality control, or worker retention, the valuation math falls apart quickly.
 
 The real test isn't in the next few quarters. It's whether Pronto can maintain 20% week-over-week growth while keeping its workers happy and its service quality consistent across 10+ cities. That's a different beast than moving from 1,000 daily orders to 25,000.
 

@@ -8,9 +8,9 @@ tags: [news, tech]
 tags_color: '#3f51b5'
 ---
 
-We've all seen them. A humanoid robot doing a backflip, a mechanical arm gracefully pouring a glass of wine, some futuristic machine effortlessly folding laundry. These videos flood our feeds and make it feel like the age of [General-purpose robots](https://infeeds.com/tags/?tag=technology) is practically here. But here's the uncomfortable truth: what you're watching is often a very polished performance, not a preview of what robots can actually do in the real world.
+We've all seen them. A humanoid robot doing a backflip, a mechanical arm gracefully pouring a glass of wine, some futuristic machine effortlessly folding laundry. These videos flood our feeds and make it feel like the age of [General-purpose robots](https://infeeds.com/tags/technology) is practically here. But here's the uncomfortable truth: what you're watching is often a very polished performance, not a preview of what robots can actually do in the real world.
 
-According to reporting from Ars Technica, there's a massive gap between what robot demonstrations showcase and what robots can reliably and repeatedly do outside of carefully controlled environments. And that gap matters, because these videos shape how the public thinks about [robotic technology](https://infeeds.com/tags/?tag=technology) far more than any academic paper ever will.
+According to reporting from Ars Technica, there's a massive gap between what robot demonstrations showcase and what robots can reliably and repeatedly do outside of carefully controlled environments. And that gap matters, because these videos shape how the public thinks about [robotic technology](https://infeeds.com/tags/technology) far more than any academic paper ever will.
 
 ## The Anthropomorphization Trap
 
@@ -38,6 +38,6 @@ Third, check the playback speed. Robots are often very slow for safety reasons. 
 
 Not all robot videos are created equal. Some are clearly performative entertainment, designed to go viral on social media or attract investors. Others might offer a more genuine behind-the-scenes look at the training process, including honest acknowledgment of failures along the way. But even the most impressive and authentic-looking demos from the most reputable research labs are still just a tiny glimpse of the bigger picture.
 
-The real measure of progress in [robotics](https://infeeds.com/tags/?tag=technology) isn't easily packaged for internet audiences. It involves quantitative, large-scale evaluations in real-world environments over time. That's not nearly as satisfying to watch as a robot catching a ball, but it's where actual progress happens.
+The real measure of progress in [robotics](https://infeeds.com/tags/technology) isn't easily packaged for internet audiences. It involves quantitative, large-scale evaluations in real-world environments over time. That's not nearly as satisfying to watch as a robot catching a ball, but it's where actual progress happens.
 
 So next time you see a stunning robot video, appreciate the engineering achievement while remembering you're watching a highlight reel, not a promise.

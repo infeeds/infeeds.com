@@ -40,9 +40,9 @@ House Minority Leader Hakeem Jeffries, who Trump previously targeted with an AI 
 
 The NAACP president Derrick Johnson called the video "disgusting and utterly despicable," while Ben Rhodes, a former Obama administration official, suggested future Americans will embrace the Obamas while studying Trump as "a stain on our country."
 
-## The Social Media [Politics](https://infeeds.com/tags/?tag=politics) Problem
+## The Social Media [Politics](https://infeeds.com/tags/politics) Problem
 
-This incident highlights a broader issue about [social media](https://infeeds.com/tags/?tag=social-media) and political accountability. When a president can post dozens of things overnight without proper vetting, when staff members apparently have carte blanche to share content under the presidential account, when the first instinct is to defend rather than apologize, we have a systemic problem.
+This incident highlights a broader issue about [social media](https://infeeds.com/tags/social-media) and political accountability. When a president can post dozens of things overnight without proper vetting, when staff members apparently have carte blanche to share content under the presidential account, when the first instinct is to defend rather than apologize, we have a systemic problem.
 
 The video stayed up for hours before being removed. The White House's explanation that it was "erroneously" posted doesn't answer the fundamental question: how does something like this happen in the first place? What's the approval process? Who's responsible?
 
@@ -50,4 +50,4 @@ The excuse that Trump only saw the beginning of the video before passing it alon
 
 California Governor Gavin Newsom's office demanded every Republican denounce the behavior immediately. That's where we are now: basic human decency requiring political declarations because the baseline has dropped so low.
 
-The question isn't really whether Trump saw the whole video or just part of it. The question is why a video like that was anywhere near the president's social media queue in the first place, and what it says about the [news](https://infeeds.com/tags/?tag=news) cycle we're trapped in when "I didn't watch it all" somehow passes as an acceptable presidential response to sharing racist content.
+The question isn't really whether Trump saw the whole video or just part of it. The question is why a video like that was anywhere near the president's social media queue in the first place, and what it says about the [news](https://infeeds.com/tags/news) cycle we're trapped in when "I didn't watch it all" somehow passes as an acceptable presidential response to sharing racist content.

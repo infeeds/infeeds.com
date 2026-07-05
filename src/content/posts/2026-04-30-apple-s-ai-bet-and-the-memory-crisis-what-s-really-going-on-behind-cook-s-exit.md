@@ -39,7 +39,7 @@ The larger question is whether Apple has a real AI strategy or whether it's scra
 
 ## Services Keep the Lights On
 
-One bright spot in the [business](https://infeeds.com/tags/?tag=business) is services. Revenue in that division grew 16% to $26.65 billion, and it's generating gross margins above 49%, up from 48.2% last quarter. Apple's customer base of over 2.5 billion active devices gives the company an enormous moat for selling subscriptions and services.
+One bright spot in the [business](https://infeeds.com/tags/business) is services. Revenue in that division grew 16% to $26.65 billion, and it's generating gross margins above 49%, up from 48.2% last quarter. Apple's customer base of over 2.5 billion active devices gives the company an enormous moat for selling subscriptions and services.
 
 That matters because device sales growth is flattering compared to last year but slowing compared to expectations. Greater China was a standout, jumping 28% to $20.5 billion, but that's partly a comparison against a weak year-ago quarter.
 
@@ -49,7 +49,7 @@ Services is where Apple's real pricing power lives, and it's the reason the comp
 
 Cook's exit is being framed as orderly succession planning, and it probably is. But the timing is worth noting. Cook is stepping into the executive chairman role right as the company faces a genuine supply chain crisis tied to AI-driven memory costs and uncertainty about its own AI product roadmap.
 
-Is Ternus being set up for success or handed a mess? Probably both. The hardware business remains strong, and [technology](https://infeeds.com/tags/?tag=technology) innovation at Apple doesn't happen overnight. But the next CEO will inherit a company navigating structural cost pressures while trying to convince the market it has a credible AI vision.
+Is Ternus being set up for success or handed a mess? Probably both. The hardware business remains strong, and [technology](https://infeeds.com/tags/technology) innovation at Apple doesn't happen overnight. But the next CEO will inherit a company navigating structural cost pressures while trying to convince the market it has a credible AI vision.
 
 The stock went up 3% after the earnings call, which suggests investors are betting on Ternus and assuming the memory cost pressure is manageable. Maybe they're right. But Cook's unusually explicit warnings about margin pressure suggest the company is bracing for a harder road than the headline numbers imply, and that's the part of this story that actually matters.
 

@@ -28,9 +28,9 @@ Here's where things get messy. The Linux kernel security team was notified in la
 
 That lag is where the danger lives. CISA's May 15 deadline for federal agencies is an acknowledgment that this isn't theoretical. It's happening now. Defenders are scrambling. The question isn't whether CopyFail will be exploited. It already is.
 
-## Why Your Enterprise [Technology](https://infeeds.com/tags/?tag=technology) Stack Is at Risk
+## Why Your Enterprise [Technology](https://infeeds.com/tags/technology) Stack Is at Risk
 
-Linux dominates enterprise environments. It runs the computers that operate much of the world's datacenters. If you work in cloud infrastructure, you're almost certainly running on Linux. If your company uses AWS, Azure, or Google Cloud, there's Linux underneath your applications. If your [business](https://infeeds.com/tags/?tag=business) relies on any form of modern computing infrastructure, CopyFail is relevant to you.
+Linux dominates enterprise environments. It runs the computers that operate much of the world's datacenters. If you work in cloud infrastructure, you're almost certainly running on Linux. If your company uses AWS, Azure, or Google Cloud, there's Linux underneath your applications. If your [business](https://infeeds.com/tags/business) relies on any form of modern computing infrastructure, CopyFail is relevant to you.
 
 A successful compromise of a single server in a datacenter could give an attacker access to every application, database, and customer data that shares that infrastructure. It could cascade outward to other systems on the same network. In environments where multiple companies' servers coexist, one compromised machine could be the foothold for much worse.
 

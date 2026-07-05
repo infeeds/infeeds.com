@@ -30,7 +30,7 @@ Skarsgård and Kidman both earned Primetime Emmy Awards for their roles as troub
 
 ## The Flip Side: When Someone Smells Amazing
 
-But it's not all criticism. When asked about which [entertainment](https://infeeds.com/tags/?tag=entertainment) figure smells the best, Kidman gushed about Rihanna with zero hesitation.
+But it's not all criticism. When asked about which [entertainment](https://infeeds.com/tags/entertainment) figure smells the best, Kidman gushed about Rihanna with zero hesitation.
 
 "Rihanna," she said enthusiastically. "We don't need to unravel it or decipher it, just know it's all true... It's intoxicating, it is like, 'I will follow you around.'"
 

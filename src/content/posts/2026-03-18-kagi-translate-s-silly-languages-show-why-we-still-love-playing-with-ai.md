@@ -26,7 +26,7 @@ This whole thing happened because Kagi's engineers didn't build strong guardrail
 
 Here's where it gets sticky, though. The same flexibility that makes the tool fun also means you can ask it to emulate "someone who keeps saying slurs" and it'll probably do it. No fancy jailbreak needed. Just type it in. The company didn't sanitize inputs, and that's the kind of oversight failure that becomes a bigger problem when you're building tools at scale.
 
-But unlike Google's AI Overviews that hallucinate fake information or some startup's sketchy AI therapy bot handing out medical advice, the stakes here are genuinely low. Nobody's going to trust Kagi Translate to make important decisions. It's not being used for anything critical. It's just a toy that showed us something interesting about how <a href="https://infeeds.com/tags/?tag=technology">technology</a> companies can accidentally create fun when they leave enough room for play.
+But unlike Google's AI Overviews that hallucinate fake information or some startup's sketchy AI therapy bot handing out medical advice, the stakes here are genuinely low. Nobody's going to trust Kagi Translate to make important decisions. It's not being used for anything critical. It's just a toy that showed us something interesting about how <a href="https://infeeds.com/tags/technology">technology</a> companies can accidentally create fun when they leave enough room for play.
 
 The thing is, even "toys" need some basic sense. You don't have to go full corporate paranoia mode, but maybe catch the most egregious stuff before it ships. Kagi probably should have seen this coming, or at least thought about what might happen when you let users type arbitrary text into a language parameter field connected to an LLM.
 
@@ -34,7 +34,7 @@ The thing is, even "toys" need some basic sense. You don't have to go full corpo
 
 The rush to test increasingly ridiculous translation targets says something about why people got interested in AI in the first place. It wasn't the promise of productivity gains or workplace automation or whatever the industry evangelists were selling. It was the weirdness. It was the fact that you could ask a machine to do something completely unexpected and sometimes it would actually work.
 
-Five years ago, you couldn't just ask a tool to think like Werner Herzog or write like you were explaining tech to McKinsey consultants. Now you can, and while that's not going to revolutionize anything, it's genuinely delightful in a way that most <a href="https://infeeds.com/tags/?tag=tech">tech</a> isn't anymore.
+Five years ago, you couldn't just ask a tool to think like Werner Herzog or write like you were explaining tech to McKinsey consultants. Now you can, and while that's not going to revolutionize anything, it's genuinely delightful in a way that most <a href="https://infeeds.com/tags/tech">tech</a> isn't anymore.
 
 The real question is whether we'll see more of this kind of playful experimentation or if every company will lock everything down so tight that using an AI tool becomes just another sterile, corporate experience. Kagi stumbled into something that felt like the early internet vibes, even if it was partly accidental.
 

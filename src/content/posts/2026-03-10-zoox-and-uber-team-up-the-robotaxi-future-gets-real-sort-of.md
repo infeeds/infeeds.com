@@ -34,7 +34,7 @@ The company even launched new divisions to support this strategy. There's "AV La
 
 The robotaxi moment feels inevitable, right? Everyone from tech startups to legacy automakers is working on it. But the speed at which this happens really does depend on regulatory sign-offs. Zoox has been offering free rides in Las Vegas and San Francisco for a while. They're mapping out Dallas, Phoenix, and six other cities. The infrastructure is being built.
 
-But free rides and commercial deployment are different animals. One is a demo. The other is a real business. And that's where <a href="https://infeeds.com/tags/?tag=technology">technology</a> companies tend to get impatient with government processes.
+But free rides and commercial deployment are different animals. One is a demo. The other is a real business. And that's where <a href="https://infeeds.com/tags/technology">technology</a> companies tend to get impatient with government processes.
 
 Morrison's comment about removing "unnecessary and unintended barriers to innovation" suggests there's political will to move faster. Whether that translates into actual approval decisions remains to be seen. NHTSA could greenlight Zoox in months, or this could drag on for years. In the autonomous vehicle world, regulatory timelines are basically a mystery wrapped in bureaucratic secrecy.
 

@@ -14,7 +14,7 @@ In August 2025, the co-founder of fintech startup Aspiration Partners pleaded gu
 
 ## The Aspiration Story: Green Dreams, Fictional Revenue
 
-Aspiration Partners looked like the kind of company that would thrive in 2020s [technology](https://infeeds.com/tags/?tag=technology) culture. Green fintech. Sustainable banking. Credit cards that planted trees. The pitch was compelling, and the backers were impressive: Steve Ballmer, the former Microsoft CEO and current LA Clippers owner, was among the investors.
+Aspiration Partners looked like the kind of company that would thrive in 2020s [technology](https://infeeds.com/tags/technology) culture. Green fintech. Sustainable banking. Credit cards that planted trees. The pitch was compelling, and the backers were impressive: Steve Ballmer, the former Microsoft CEO and current LA Clippers owner, was among the investors.
 
 By 2021, the company announced plans to go public via a SPAC merger, valuing itself at $2.3 billion. That deal never happened. Now we know why.
 
@@ -36,7 +36,7 @@ What Ballmer experienced wasn't just a bad investment. It was reputational damag
 
 ## The Message for Founders
 
-There's a reason [business](https://infeeds.com/tags/?tag=business) schools teach ethics, though not every founder pays attention. The Aspiration case isn't subtle about its lesson. When you fabricate financial documents to raise capital, the outcome isn't a slap on the wrist or a quiet settlement. It's federal prosecution, prison time, and permanent scarring of anyone who believed in you.
+There's a reason [business](https://infeeds.com/tags/business) schools teach ethics, though not every founder pays attention. The Aspiration case isn't subtle about its lesson. When you fabricate financial documents to raise capital, the outcome isn't a slap on the wrist or a quiet settlement. It's federal prosecution, prison time, and permanent scarring of anyone who believed in you.
 
 Sanberg's case also demonstrates something founders often underestimate: the collateral damage of fraud extends to investors, employees, customers, and business partners. It's not an isolated failure. It's a contagion.
 

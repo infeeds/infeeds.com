@@ -36,7 +36,7 @@ The real validation comes next week during the Flight Readiness Review, when sen
 
 ## Why This Matters
 
-Here's the thing about [space exploration](https://infeeds.com/tags/?tag=technology): it demands an almost obsessive attention to detail. One small failure cascades into catastrophe. So when NASA's teams spend days examining countdown data and reassessing avionics systems over relatively minor issues, that's not overcautious bureaucracy. That's professionalism.
+Here's the thing about [space exploration](https://infeeds.com/tags/technology): it demands an almost obsessive attention to detail. One small failure cascades into catastrophe. So when NASA's teams spend days examining countdown data and reassessing avionics systems over relatively minor issues, that's not overcautious bureaucracy. That's professionalism.
 
 The Artemis program represents a massive bet on human spaceflight's future. It's ambitious, expensive, and technically complex in ways that most people don't fully appreciate. Every successful test, every problem solved, and every day closer to launch matters immensely.
 

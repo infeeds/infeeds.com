@@ -32,7 +32,7 @@ The railway company posted a video of Penn receiving the statue, and honestly, y
 
 This isn't Penn's first gesture toward Ukraine. He's actually given one of his previous Oscars to the country. Back during a visit to Zelensky, Penn told him: "When you win, bring it back to Malibu. Because I'll feel much better knowing there's a piece of me here." That's not just talk. Penn literally left behind a piece of his legacy.
 
-In 2023, Penn and director Aaron Kaufman released their [documentary Superpower](https://infeeds.com/tags/?tag=entertainment), which explored Ukraine and Zelensky's story during the invasion. It's the kind of work that doesn't come from someone just checking a box.
+In 2023, Penn and director Aaron Kaufman released their [documentary Superpower](https://infeeds.com/tags/entertainment), which explored Ukraine and Zelensky's story during the invasion. It's the kind of work that doesn't come from someone just checking a box.
 
 Penn's career is built on roles that challenge systems and expose uncomfortable truths. Mystic River, Milk, countless other performances where he dove into morally complex characters. Maybe it shouldn't be surprising that his real life follows the same pattern. He's not content to play a character who fights for something. He's actually doing it.
 

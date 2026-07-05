@@ -18,7 +18,7 @@ A study showed that nearly 60% of users return to niche sites within a month bec
 
 ## The Problem With Being For Everyone
 
-When you say your product is "for busy professionals," you've said absolutely nothing. Every professional is busy. That's not a target market, that's just noise dressed up as [business](https://infeeds.com/tags/?tag=business) strategy.
+When you say your product is "for busy professionals," you've said absolutely nothing. Every professional is busy. That's not a target market, that's just noise dressed up as [business](https://infeeds.com/tags/business) strategy.
 
 Think about department stores for a second. They sell literally everything. Clothes, furniture, random kitchen gadgets your aunt bought once and never used. But when you need hiking boots that work for wide feet in wet climates, you don't go to the department store. You go to that weird outdoor shop that only sells hiking gear and employs people who look like they live on mountains.
 
@@ -56,7 +56,7 @@ But here's the math nobody does. Taking 1% of a market with 10 million people me
 
 When you dominate a micro-niche, you set the rules. You're the default option. You control the conversation. Customers trust you more because you solve their exact problem instead of kind of addressing it along with seventeen other things.
 
-This isn't about thinking small. It's about being realistic with how [markets](https://infeeds.com/tags/?tag=business) actually work in 2026.
+This isn't about thinking small. It's about being realistic with how [markets](https://infeeds.com/tags/business) actually work in 2026.
 
 ## Marketing Gets Stupid Easy
 

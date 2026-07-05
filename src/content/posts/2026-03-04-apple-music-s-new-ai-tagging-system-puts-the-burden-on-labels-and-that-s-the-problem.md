@@ -22,7 +22,7 @@ Here's what's actually happening. Apple is adding optional metadata fields that 
 
 But here's the kicker: it's entirely opt-in.
 
-That means the label or distributor has to manually decide to flag their AI usage. There's no automated detection. There's no enforcement. It's basically trust, but make it <a href="https://infeeds.com/tags/?tag=technology">technology</a>.
+That means the label or distributor has to manually decide to flag their AI usage. There's no automated detection. There's no enforcement. It's basically trust, but make it <a href="https://infeeds.com/tags/technology">technology</a>.
 
 Spotify is taking the same approach. They're also letting distributors self-report AI content. It's easy to implement, costs nothing, and looks good in a press release. But we all know how this tends to go with voluntary compliance systems.
 
@@ -44,4 +44,4 @@ But knowing something is AI-generated and knowing it came from an opt-in disclos
 
 The music industry has never been great at transparency. This feels like another case of making just enough noise about doing the right thing while the actual incentives stay misaligned. Apple gets credit for addressing "AI transparency." Distributors get a checkbox they can tick or ignore depending on what serves them best. Users get metadata that may or may not actually reflect reality.
 
-Maybe the real question isn't whether Apple Music's new tagging system is good or bad. Maybe it's whether voluntary disclosure systems ever actually work when <a href="https://infeeds.com/tags/?tag=business">business</a> interests are on the line.
+Maybe the real question isn't whether Apple Music's new tagging system is good or bad. Maybe it's whether voluntary disclosure systems ever actually work when <a href="https://infeeds.com/tags/business">business</a> interests are on the line.

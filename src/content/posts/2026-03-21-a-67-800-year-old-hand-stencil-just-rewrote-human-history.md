@@ -34,7 +34,7 @@ Scientists have debated two main pathways into Sahul. The southern route runs mo
 
 The implications are massive. If people were in Sulawesi 67,800 years ago, they were almost certainly island-hopping their way deeper into the Pacific. These weren't accidental voyages. Early humans possessed the skill, courage, and navigation ability to cross open water deliberately.
 
-Professor Renaud Joannes-Boyau from Southern Cross University sees this as confirmation that the northern route deserves serious consideration. With modern <a href="https://infeeds.com/tags/?tag=science">science</a> backing up what the archaeological record has been hinting at, the picture becomes clearer. Ancient Indonesian islands weren't isolated dead ends. They were highways.
+Professor Renaud Joannes-Boyau from Southern Cross University sees this as confirmation that the northern route deserves serious consideration. With modern <a href="https://infeeds.com/tags/science">science</a> backing up what the archaeological record has been hinting at, the picture becomes clearer. Ancient Indonesian islands weren't isolated dead ends. They were highways.
 
 ## A Glimpse of Shared Meaning
 

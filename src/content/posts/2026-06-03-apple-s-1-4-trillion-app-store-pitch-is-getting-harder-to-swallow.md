@@ -8,7 +8,7 @@ tags: [news, tech]
 tags_color: '#00ba65'
 ---
 
-Apple is at it again with the big numbers just before [WWDC](https://infeeds.com/tags/?tag=technology). The company dropped its annual App Store ecosystem report this week, and as usual, the figures are designed to make your head spin for all the right reasons.
+Apple is at it again with the big numbers just before [WWDC](https://infeeds.com/tags/technology). The company dropped its annual App Store ecosystem report this week, and as usual, the figures are designed to make your head spin for all the right reasons.
 
 Here's the headline: $1.4 trillion in developer billings and sales in 2025. That's up from $1.3 trillion last year. On the surface, that looks like healthy growth and proof that Apple is basically printing money for developers.
 
@@ -44,4 +44,4 @@ The App Store is undeniably massive. It's facilitated over a trillion dollars in
 
 The truth is somewhere in the middle, as it usually is. The digital goods portion where Apple actually makes money is growing, but it's a fraction of the overall ecosystem. And the AI explosion is creating new opportunities that neither Apple nor developers fully understand yet.
 
-If you're a developer, the numbers are mostly academic. What matters is whether your users are converting, not what Apple's total ecosystem looks like. But for the rest of us watching the [Technology](https://infeeds.com/tags/?tag=technology) industry, these reports serve as a useful reminder that Apple's revenue story is more complicated than the company lets on.
+If you're a developer, the numbers are mostly academic. What matters is whether your users are converting, not what Apple's total ecosystem looks like. But for the rest of us watching the [Technology](https://infeeds.com/tags/technology) industry, these reports serve as a useful reminder that Apple's revenue story is more complicated than the company lets on.

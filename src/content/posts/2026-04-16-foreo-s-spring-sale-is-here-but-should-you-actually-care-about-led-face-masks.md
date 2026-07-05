@@ -11,7 +11,7 @@ tags_color: '#ff5722'
 
 Foreo, the Swedish beauty tool brand, is running its springtime sale right now with discounts up to 50% off across its lineup. There's also a limited-time promo code, SPRING25, that stacks an additional 25% off sitewide. If you're considering dropping money on an LED mask or microcurrent device, the timing is decent. But before you load up your cart, it's worth asking: what exactly are these tools supposed to do, and do they actually deliver?
 
-The brand itself was born from a practical frustration. Founder Filip Sedic launched Foreo in 2013 after watching his wife use a facial brush he thought was too abrasive and unhygienic. That obsession with gentler, more sanitary beauty tools has defined the company ever since. Over the past decade, they've built a solid reputation across skincare, haircare, oral care, and eye care. Now they're getting serious about hair removal and LED light therapy, which tells you something about where beauty [technology](https://infeeds.com/tags/?tag=technology) is headed.
+The brand itself was born from a practical frustration. Founder Filip Sedic launched Foreo in 2013 after watching his wife use a facial brush he thought was too abrasive and unhygienic. That obsession with gentler, more sanitary beauty tools has defined the company ever since. Over the past decade, they've built a solid reputation across skincare, haircare, oral care, and eye care. Now they're getting serious about hair removal and LED light therapy, which tells you something about where beauty [technology](https://infeeds.com/tags/technology) is headed.
 
 ## Testing Foreo's Newest Devices
 

@@ -26,7 +26,7 @@ A social inbox tool is basically a traffic controller for all your social messag
 
 The good tools do more than just organize messages. They give you saved reply templates so you're not typing the same answer fifty times a day. They let you assign conversations to specific team members. They show you the full history of each customer so context isn't lost between handoffs. Some even have AI chatbots that handle the obvious stuff so your humans can focus on problems that actually need a human.
 
-If you're managing <a href="https://infeeds.com/tags/?tag=business">business</a> operations at any real scale, this stuff matters.
+If you're managing <a href="https://infeeds.com/tags/business">business</a> operations at any real scale, this stuff matters.
 
 ## The Heavy Hitters
 
@@ -74,6 +74,6 @@ The real cost isn't always what the vendor charges per month. It's the time your
 
 Most of these tools offer free trials. Use them. Have your team actually try the thing for a week. See if it feels natural or if it feels like you're fighting the interface to do your job.
 
-Because the ultimate test of any <a href="https://infeeds.com/tags/?tag=technology">technology</a> isn't the feature list or the price tag. It's whether your team actually uses it the way it's supposed to be used, or whether they eventually find workarounds and go back to checking platforms manually.
+Because the ultimate test of any <a href="https://infeeds.com/tags/technology">technology</a> isn't the feature list or the price tag. It's whether your team actually uses it the way it's supposed to be used, or whether they eventually find workarounds and go back to checking platforms manually.
 
 The best social inbox tool is the one your team will actually open instead of ignore.

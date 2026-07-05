@@ -24,14 +24,14 @@ The standalone app is expected to arrive with Rivian's 2026.03 software update, 
 
 ## The CarPlay Elephant in the Room
 
-Here's the thing that keeps bugging me about Rivian's approach to Apple integration. They're spending all this [Technology](https://infeeds.com/tags/?tag=technology) development effort on Apple Watch apps and digital keys, but they still won't support Apple CarPlay. Neither will Tesla, for that matter, though rumors suggest Tesla might finally cave on that front.
+Here's the thing that keeps bugging me about Rivian's approach to Apple integration. They're spending all this [Technology](https://infeeds.com/tags/technology) development effort on Apple Watch apps and digital keys, but they still won't support Apple CarPlay. Neither will Tesla, for that matter, though rumors suggest Tesla might finally cave on that front.
 
 It's a weird stance to take in 2026. Most car buyers expect CarPlay at this point, especially when they're dropping serious money on a premium electric vehicle. Both Rivian and Tesla argue that their native infotainment systems are superior, but that's a decision that should belong to the customer, not the manufacturer.
 
-The [business](https://infeeds.com/tags/?tag=business) reasoning is pretty transparent. Keep people locked into your ecosystem, control the entire user experience, and maybe eventually monetize that captive audience. But it's also a potential deal breaker for buyers who've built their digital lives around Apple's ecosystem.
+The [business](https://infeeds.com/tags/business) reasoning is pretty transparent. Keep people locked into your ecosystem, control the entire user experience, and maybe eventually monetize that captive audience. But it's also a potential deal breaker for buyers who've built their digital lives around Apple's ecosystem.
 
 I get that building out Apple Watch support shows Rivian is at least trying to play nice with Apple devices. And honestly, having comprehensive watch controls for your vehicle is genuinely useful. But it feels like they're cherry picking the integrations that don't threaten their control over the main infotainment screen.
 
-The contrast is pretty stark when you look at traditional automakers who've embraced CarPlay universally while also developing their own systems. They let customers choose, and somehow their [tech](https://infeeds.com/tags/?tag=tech) stacks haven't collapsed because of it.
+The contrast is pretty stark when you look at traditional automakers who've embraced CarPlay universally while also developing their own systems. They let customers choose, and somehow their [tech](https://infeeds.com/tags/tech) stacks haven't collapsed because of it.
 
 As Rivian continues building out its Apple Watch capabilities, you have to wonder whether they'll ever reconsider their CarPlay stance, or if stubbornness will continue to trump customer preference.

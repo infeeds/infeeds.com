@@ -22,7 +22,7 @@ Nine viewers filed complaints saying the ad trivialised sexual violence. Activis
 
 The company insisted they weren't sexualising security searches at all. According to them, the humour was about discomfort, not sex. Even if viewers picked up on innuendo, they argued there wasn't any explicit content or objectifying imagery.
 
-But here's the thing about [Technology](https://infeeds.com/tags/?tag=technology) and advertising in 2025: you can't just hide behind "it's parody" when the joke relies on implied non-consensual penetration. The ASA wasn't buying it either.
+But here's the thing about [Technology](https://infeeds.com/tags/technology) and advertising in 2025: you can't just hide behind "it's parody" when the joke relies on implied non-consensual penetration. The ASA wasn't buying it either.
 
 ## The Regulator's Take
 
@@ -36,10 +36,10 @@ Two other viewers also complained about a separate scene showing replacement off
 
 This isn't Activision's first rodeo with the ASA. Back in 2012, a Call of Duty: Modern Warfare 3 commercial got a daytime ban for showing armed men firing at a lorry. The violence and destruction were deemed inappropriate for young audiences.
 
-The gaming industry's relationship with [advertising](https://infeeds.com/tags/?tag=business) standards has always been rocky. These are M-rated games designed for adults, but the marketing often pushes boundaries in ways that feel less "edgy" and more "did anyone in the room think this through?"
+The gaming industry's relationship with [advertising](https://infeeds.com/tags/business) standards has always been rocky. These are M-rated games designed for adults, but the marketing often pushes boundaries in ways that feel less "edgy" and more "did anyone in the room think this through?"
 
 What's particularly frustrating is that the Call of Duty franchise doesn't need shock value to sell copies. These games move millions of units based on brand recognition alone. The airport security bit wasn't clever marketing. It was lazy writing that confused discomfort with comedy.
 
-The broader [entertainment](https://infeeds.com/tags/?tag=entertainment) landscape is full of examples where companies mistake offensive for funny, then act surprised when regulators or consumers push back. Disney once argued a severed figure in their ad was clearly a robot, not a human. Coinbase got dinged for trivialising cryptocurrency investment risks. The line between attention-grabbing and tone-deaf keeps getting tested.
+The broader [entertainment](https://infeeds.com/tags/entertainment) landscape is full of examples where companies mistake offensive for funny, then act surprised when regulators or consumers push back. Disney once argued a severed figure in their ad was clearly a robot, not a human. Coinbase got dinged for trivialising cryptocurrency investment risks. The line between attention-grabbing and tone-deaf keeps getting tested.
 
 Maybe the real question isn't whether adults can handle irreverent humour, but whether a joke about invasive searches and non-consensual touching was ever funny to begin with.

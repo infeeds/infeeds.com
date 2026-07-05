@@ -22,7 +22,7 @@ Not anymore.
 
 Spotify says "Babydoll" has seen a 175 percent increase in streams since its February resurgence, now sitting at over 974 million plays. That's not some viral fluke that peaks in two weeks and disappears. That's sustained momentum. The song has become a fixture on TikTok with over 213,000 videos using it as a soundtrack. "White Keys," a newer single Fike dropped in November 2025, is riding the same wave with a 120 percent stream increase over the past month.
 
-What's fascinating is that this didn't happen because someone important tweeted about it or because a celebrity used it in a trend. Fike's fans never let "Babydoll" die. He's been playing it at nearly every show, sometimes performing it more regularly than "3 Nights." There's a loyalty there that's rare to see in modern <a href="https://infeeds.com/tags/?tag=entertainment">entertainment</a>, where everything moves at the speed of the algorithm.
+What's fascinating is that this didn't happen because someone important tweeted about it or because a celebrity used it in a trend. Fike's fans never let "Babydoll" die. He's been playing it at nearly every show, sometimes performing it more regularly than "3 Nights." There's a loyalty there that's rare to see in modern <a href="https://infeeds.com/tags/entertainment">entertainment</a>, where everything moves at the speed of the algorithm.
 
 The musician himself acknowledged this strange timeline when he finally released the official music video last week. In an Instagram post, he reflected on making the tape eight years ago in a Florida room while on house arrest, describing a time when he was just making music the way humans used to make art: without thinking about streams, trends, or what would perform well.
 

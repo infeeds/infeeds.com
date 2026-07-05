@@ -28,7 +28,7 @@ Around 6.9 million Americans over 65 are living with Alzheimer's right now. You 
 
 Dr. Steve Fallek suggests treating your brain like a muscle. Do crossword puzzles, read actual books, try to remember track listings from old albums you owned. Whatever makes your brain work a little harder counts. Can you remember all the lyrics to that album you played on repeat in college? That's the kind of mental gymnastics that keeps you sharp.
 
-Learning new things is even better. Pick up a language, learn an instrument, make new friends who challenge how you think. Novelty keeps your brain creating new pathways instead of relying on the same worn-out ones. This ties into [health](https://infeeds.com/tags/?tag=health) in ways most people don't consider until it's too late.
+Learning new things is even better. Pick up a language, learn an instrument, make new friends who challenge how you think. Novelty keeps your brain creating new pathways instead of relying on the same worn-out ones. This ties into [health](https://infeeds.com/tags/health) in ways most people don't consider until it's too late.
 
 ## Actually Talk to People
 
@@ -42,7 +42,7 @@ We're social creatures whether we like it or not. Cutting yourself off from regu
 
 Some stress is actually helpful, keeps you alert and motivated. But chronic stress will wreck your body, especially your heart, as you age.
 
-Dr. Laura Purdy puts it simply: find things that bring you peace and do them daily. Rest when you need to. Reset however works for you. Stop doing things that consistently stress you out if you have any choice in the matter. This isn't about being lazy, it's about protecting your [health](https://infeeds.com/tags/?tag=health) in ways that actually matter.
+Dr. Laura Purdy puts it simply: find things that bring you peace and do them daily. Rest when you need to. Reset however works for you. Stop doing things that consistently stress you out if you have any choice in the matter. This isn't about being lazy, it's about protecting your [health](https://infeeds.com/tags/health) in ways that actually matter.
 
 ## Don't Skip Your Doctor Appointments
 

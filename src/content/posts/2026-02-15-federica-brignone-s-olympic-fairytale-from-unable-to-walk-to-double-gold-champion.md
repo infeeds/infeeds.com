@@ -10,7 +10,7 @@ tags: [news, news]
 tags_color: '#795548'
 ---
 
-Picture this: two of your competitors literally dropping to their knees and bowing to you after a race. That's not something you see every day in professional [sports](https://infeeds.com/tags/?tag=sports), but that's exactly what happened to Federica Brignone after she demolished the giant slalom field at her home Olympics in Cortina d'Ampezzo.
+Picture this: two of your competitors literally dropping to their knees and bowing to you after a race. That's not something you see every day in professional [sports](https://infeeds.com/tags/sports), but that's exactly what happened to Federica Brignone after she demolished the giant slalom field at her home Olympics in Cortina d'Ampezzo.
 
 The Italian skier just captured her second gold medal in four days, and the story behind it is absolutely wild. We're talking about a 35-year-old athlete who couldn't even walk for three months early last year. She broke multiple bones in her left leg, needed surgery, got a handful of screws put in, and spent her summer relearning how to put one foot in front of the other.
 
@@ -30,7 +30,7 @@ Here's the thing that makes this whole story even more impressive. Brignone ment
 
 Her fellow competitor Paula Moltzan summed it up perfectly: "She is the kindest, most genuine, athlete on tour. This comeback and to have two gold medals at home is, like, hands down, she's clearly the best skier in the world right now."
 
-Before these home Games, Brignone had collected a silver and two bronzes at various Olympics. Solid medals, sure, but never the big one. Now she has two golds in the span of 72 hours, and the Italian crowd absolutely lost it. They were chanting "FE-de, FE-de, FE-de" during the medal ceremony, and you could feel the [energy](https://infeeds.com/tags/?tag=news) through the screen.
+Before these home Games, Brignone had collected a silver and two bronzes at various Olympics. Solid medals, sure, but never the big one. Now she has two golds in the span of 72 hours, and the Italian crowd absolutely lost it. They were chanting "FE-de, FE-de, FE-de" during the medal ceremony, and you could feel the [energy](https://infeeds.com/tags/news) through the screen.
 
 ## The Shiffrin Struggle Continues
 

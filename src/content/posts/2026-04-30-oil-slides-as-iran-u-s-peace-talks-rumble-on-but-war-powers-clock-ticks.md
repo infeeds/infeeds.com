@@ -10,7 +10,7 @@ tags_color: '#4caf50'
 
 Oil prices dropped Friday on word that Iran and the U.S. are still talking. According to reporting from Axios, Tehran sent a response to American amendments to a draft peace agreement through mediators in Pakistan. U.S. crude futures fell more than 2% to $102.45 per barrel, while Brent crude edged down 0.41% to $109.95.
 
-It's a modest move in the market, but it signals something more significant: there's still a diplomatic door open, however narrow. That alone was enough to ease some of the geopolitical premium baked into [oil prices](/tags/?tag=business).
+It's a modest move in the market, but it signals something more significant: there's still a diplomatic door open, however narrow. That alone was enough to ease some of the geopolitical premium baked into [oil prices](/tags/business).
 
 But here's where things get complicated. The Trump administration is currently threading a legal needle around the War Powers Resolution, a 1973 law that requires presidents to withdraw troops within 60 days of notifying Congress of their deployment unless lawmakers authorize the military action. Congress hasn't done so in this case.
 

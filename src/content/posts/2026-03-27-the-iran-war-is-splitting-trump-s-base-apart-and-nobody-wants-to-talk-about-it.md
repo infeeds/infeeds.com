@@ -40,7 +40,7 @@ There's a reason that comment drew applause. It was calling out the gap between 
 
 ## Trust Is Holding, But It's Getting Tired
 
-Trump's longtime pollster Jim McLaughlin tried to downplay the divisions, suggesting they're temporary and that once gas prices drop, everything will go back to normal. Maybe he's right. Or maybe he's missing something about how [politics](https://infeeds.com/tags/?tag=politics) work when people are genuinely worried about their heating bills and their kids' futures.
+Trump's longtime pollster Jim McLaughlin tried to downplay the divisions, suggesting they're temporary and that once gas prices drop, everything will go back to normal. Maybe he's right. Or maybe he's missing something about how [politics](https://infeeds.com/tags/politics) work when people are genuinely worried about their heating bills and their kids' futures.
 
 Trump himself said the war is "winding down," but military deployments don't typically work that way. Once you've got thousands of troops on the ground, the situation develops its own momentum. The Iranian regime, Israel, and Arab allies will all have input on what happens next, and they might not read the same script as Washington.
 

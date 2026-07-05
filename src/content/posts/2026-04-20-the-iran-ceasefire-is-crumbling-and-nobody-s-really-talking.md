@@ -32,7 +32,7 @@ While nuclear weapons get the headlines, Iran's real bargaining chip is the Stra
 
 It's working. Gas prices in the U.S. have climbed above $4 a gallon. Global markets are rattled. The Trump administration wants commercial shipping fully restored, no conditions.
 
-But here's the thing: for Iran, that strait is leverage, and leverage is the only thing keeping them at a negotiating table at all. Mark Freeman, executive director of the Institute for Integrated Transitions, a peace and [security](https://infeeds.com/tags/?tag=geopolitics) think tank based in Spain, told NPR something worth chewing on: "The weaker party gains just by virtue of entering into a negotiation process."
+But here's the thing: for Iran, that strait is leverage, and leverage is the only thing keeping them at a negotiating table at all. Mark Freeman, executive director of the Institute for Integrated Transitions, a peace and [security](https://infeeds.com/tags/geopolitics) think tank based in Spain, told NPR something worth chewing on: "The weaker party gains just by virtue of entering into a negotiation process."
 
 Iran knows that. If they give up control of the Strait of Hormuz without getting something massive in return, they lose the one real card they have. The U.S. military has already blockaded Iranian shipping ports and forced 28 ships to turn back since the blockade began. Iran briefly reopened the strait for less than a day, then shut it down again in response.
 

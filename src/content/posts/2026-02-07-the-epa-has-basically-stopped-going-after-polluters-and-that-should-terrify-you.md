@@ -28,7 +28,7 @@ Here's the thing about that approach. Federal agencies like the EPA don't just e
 
 Pritzlaff's background tells you everything you need to know about where this is heading. He spent five years running enforcement for the Texas Commission on Environmental Quality, where Public Citizen called him a "reluctant regulator." Under his watch, an INEOS chemical plant racked up close to 100 violations over a decade before a 2023 explosion sent a worker to the hospital and sparked a fire that burned for an hour.
 
-The agency's excuse? They claimed it was more efficient to let violations pile up and handle them all in one enforcement action. That's not [efficiency](https://infeeds.com/tags/?tag=business), that's negligence dressed up in management speak. TCEQ eventually fined INEOS $2.3 million for violations that occurred between 2016 and 2021. Five years of violations, one fine, one explosion. That's the model now being imported to federal environmental enforcement.
+The agency's excuse? They claimed it was more efficient to let violations pile up and handle them all in one enforcement action. That's not [efficiency](https://infeeds.com/tags/business), that's negligence dressed up in management speak. TCEQ eventually fined INEOS $2.3 million for violations that occurred between 2016 and 2021. Five years of violations, one fine, one explosion. That's the model now being imported to federal environmental enforcement.
 
 The numbers back up what common sense tells us. Through September of last year, the EPA issued $41 million in penalties. That's $8 million less than the same period under Biden, even after adjusting for inflation. When penalties shrink and lawsuits disappear, polluters get the message loud and clear.
 
@@ -38,7 +38,7 @@ Administrative cases did actually increase during Trump's second term, but here'
 
 This isn't happening in a vacuum. From day one of his second term, Trump pushed an aggressive deregulatory agenda. Administrator Lee Zeldin launched what the administration called "the biggest deregulatory action in U.S. history" in March, with 31 separate efforts to roll back air and water pollution restrictions. The administration wants to hand more authority to states, some of which have spent decades proving they'd rather support lax enforcement than protect public health.
 
-Environmental advocates worry we're watching compliance collapse in real time. Erika Kranz from Harvard Law School points out that this decline in enforcement is just another mechanism the administration is using to sideline environmental and public [health](https://infeeds.com/tags/?tag=health) protections. If you're worried about the air your kids breathe or the water coming out of your tap, this trend should keep you up at night.
+Environmental advocates worry we're watching compliance collapse in real time. Erika Kranz from Harvard Law School points out that this decline in enforcement is just another mechanism the administration is using to sideline environmental and public [health](https://infeeds.com/tags/health) protections. If you're worried about the air your kids breathe or the water coming out of your tap, this trend should keep you up at night.
 
 The report acknowledges that many court cases last longer than a year, so we're still in early days of understanding the full scope. But the trajectory is clear and steep. Historically, administrations have broad discretion in making enforcement decisions. But this sharp of a drop might cross the line from exercising discretion to abandoning core statutory duties.
 

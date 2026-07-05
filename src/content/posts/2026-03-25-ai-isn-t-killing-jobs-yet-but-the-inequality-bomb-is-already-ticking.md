@@ -10,7 +10,7 @@ tags_color: '#00ba65'
 
 Here's the thing about AI and jobs that nobody wants to hear: we're probably not looking at the right problem yet.
 
-Anthropic just dropped its latest economic impact report, and the headline sounds almost reassuring. No widespread job displacement. Unemployment rates haven't budged. The labor market is still "healthy," according to Peter McCrory, the company's head of economics. Technical writers, data entry clerks, software engineers using Claude heavily? They're not getting laid off en masse compared to workers in jobs less exposed to [technology](https://infeeds.com/tags/?tag=technology).
+Anthropic just dropped its latest economic impact report, and the headline sounds almost reassuring. No widespread job displacement. Unemployment rates haven't budged. The labor market is still "healthy," according to Peter McCrory, the company's head of economics. Technical writers, data entry clerks, software engineers using Claude heavily? They're not getting laid off en masse compared to workers in jobs less exposed to [technology](https://infeeds.com/tags/technology).
 
 But here's where it gets uncomfortable. That rosy picture is basically a snapshot of right now. A freeze-frame of this exact moment before the avalanche starts moving.
 

@@ -34,7 +34,7 @@ Here's what's tricky about this story. OSHA determined the death was non-work re
 
 Yet workers in the same building were speculating about heat and airflow. They noticed a difference the very next day. Whether that difference mattered to the outcome remains unclear, but the fact that employees made that connection suggests deeper questions about working conditions that don't get resolved by an OSHA determination alone.
 
-The [technology](https://infeeds.com/tags/?tag=technology) sector, for all its talk about innovation and progress, has largely outsourced its fundamental labor challenges to warehouses and fulfillment centers where the work remains brutally physical. Amazon isn't unique in this, but it is the largest and most visible player in that space, which means it also bears the most scrutiny.
+The [technology](https://infeeds.com/tags/technology) sector, for all its talk about innovation and progress, has largely outsourced its fundamental labor challenges to warehouses and fulfillment centers where the work remains brutally physical. Amazon isn't unique in this, but it is the largest and most visible player in that space, which means it also bears the most scrutiny.
 
 Federal investigations into workplace safety at Amazon warehouses continue. Workers will keep documenting conditions on Reddit and other forums. The company will keep reporting safety improvements. And occasionally, something like this death will surface and force a conversation neither side seems fully prepared to have.
 

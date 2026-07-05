@@ -18,13 +18,13 @@ Phishing attacks are getting smarter, and let's be honest, most of us are still 
 
 ## The Economics of Getting Phished
 
-Here's the part that should make your [Business](https://infeeds.com/tags/?tag=business) alarm bells ring. IBM research shows that a successful phishing attack costs companies an average of $4.8 million. That's not a typo. One employee clicking the wrong link can trigger a cascade of problems that end up costing more than most people's mortgages.
+Here's the part that should make your [Business](https://infeeds.com/tags/business) alarm bells ring. IBM research shows that a successful phishing attack costs companies an average of $4.8 million. That's not a typo. One employee clicking the wrong link can trigger a cascade of problems that end up costing more than most people's mortgages.
 
 The new feature from 1Password is designed to catch those moments when you're moving too fast and not paying attention to the URL bar. You know, like when "paypa1.com" tries to pass itself off as the real thing with a sneaky number instead of the letter L.
 
 ## Not a Silver Bullet
 
-But let's pump the brakes on calling this a complete solution. You can still manually copy and paste your credentials into a suspicious site if you really want to. The [Technology](https://infeeds.com/tags/?tag=technology) isn't going to physically stop you from making bad decisions. It's more like a speed bump than a brick wall.
+But let's pump the brakes on calling this a complete solution. You can still manually copy and paste your credentials into a suspicious site if you really want to. The [Technology](https://infeeds.com/tags/technology) isn't going to physically stop you from making bad decisions. It's more like a speed bump than a brick wall.
 
 The feature is rolling out now, though it might take a few weeks to reach everyone. If you're on an individual or family plan, 1Password is turning this on by default, which is probably the right move. Most people won't enable security features themselves even when they should. For business users, admins will need to flip the switch manually.
 

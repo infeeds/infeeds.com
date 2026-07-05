@@ -36,7 +36,7 @@ For students, teachers, and casual users stuck in Google Classroom or Microsoft 
 
 The comparison to Chromebooks keeps coming up, and it's worth unpacking. A Chromebook at this price point is fine. It does what it does. But a MacBook Neo does everything a Chromebook does plus runs full macOS, uses Final Cut Pro if someone wants to teach themselves video editing, and doesn't feel like you're using training wheels software.
 
-You're not paying for cutting-edge [technology](https://infeeds.com/tags/?tag=technology). You're paying for the Mac experience at an actual entry-level price. That's genuinely different from what was available before.
+You're not paying for cutting-edge [technology](https://infeeds.com/tags/technology). You're paying for the Mac experience at an actual entry-level price. That's genuinely different from what was available before.
 
 The battery life claim of 16 hours is probably generous, but even if real-world numbers sit at 12-14 hours, that's solid. Two USB-C ports and a headphone jack on a $599 MacBook feels generous in 2026.
 

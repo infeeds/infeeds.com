@@ -10,9 +10,9 @@ tags: [news, business]
 tags_color: '#795548'
 ---
 
-The Los Angeles Unified School District just handed us a masterclass in how things can unravel when big money meets loose oversight. Alberto Carvalho, the superintendent who arrived in LA as an education reformer with an impressive resume, is now on paid leave while federal investigators dig into his involvement with a <a href="https://infeeds.com/tags/?tag=business">business</a> deal that collapsed spectacularly.
+The Los Angeles Unified School District just handed us a masterclass in how things can unravel when big money meets loose oversight. Alberto Carvalho, the superintendent who arrived in LA as an education reformer with an impressive resume, is now on paid leave while federal investigators dig into his involvement with a <a href="https://infeeds.com/tags/business">business</a> deal that collapsed spectacularly.
 
-Here's what we know so far. The FBI served search warrants at Carvalho's home, the district's headquarters, and a property in Miami connected to someone who helped broker the deal. The trigger? A $3 million contract with AllHere, an education <a href="https://infeeds.com/tags/?tag=technology">technology</a> company that promised an AI chatbot named "Ed" to help students but instead delivered a cautionary tale about due diligence.
+Here's what we know so far. The FBI served search warrants at Carvalho's home, the district's headquarters, and a property in Miami connected to someone who helped broker the deal. The trigger? A $3 million contract with AllHere, an education <a href="https://infeeds.com/tags/technology">technology</a> company that promised an AI chatbot named "Ed" to help students but instead delivered a cautionary tale about due diligence.
 
 ## When a Tech Deal Becomes a Disaster
 

@@ -26,7 +26,7 @@ Sheriff Wayne Woo wasn't mincing words at Wednesday's news conference. "Avoid th
 
 ## When Guided Tours Turn Deadly
 
-This wasn't a group of reckless thrill-seekers ignoring [weather](https://infeeds.com/tags/?tag=news) warnings. They were on a guided tour with Blackbird Mountain, a legitimate operation. The group included five clients and one guide among the survivors, while the full party consisted of 11 recreational skiers and four guides total.
+This wasn't a group of reckless thrill-seekers ignoring [weather](https://infeeds.com/tags/news) warnings. They were on a guided tour with Blackbird Mountain, a legitimate operation. The group included five clients and one guide among the survivors, while the full party consisted of 11 recreational skiers and four guides total.
 
 They were wrapping up a three-day backcountry trip when the mountain decided their plans didn't matter. The avalanche was rated D2.5 on a scale where D5 is the most destructive. That means it stretched over half a mile and packed enough power to bury people under walls of compacted snow moving faster than most people can run.
 
@@ -38,4 +38,4 @@ California Governor Gavin Newsom's office jumped in to coordinate resources, cal
 
 The search teams had to park two miles away from where survivors were sheltering in makeshift tents and ski in from there. Two miles doesn't sound like much until you're doing it through waist-deep powder in whiteout conditions while knowing people are dying if you don't move fast enough.
 
-The [news](https://infeeds.com/tags/?tag=news) out of Tahoe is a gut punch reminder that backcountry skiing carries risks that no amount of preparation can fully eliminate. Even with professional guides, even with proper equipment, even with experience, sometimes the mountain wins. The question everyone in the skiing community will be asking is whether there were warning signs that got missed or if this was just catastrophically bad luck at the worst possible time.
+The [news](https://infeeds.com/tags/news) out of Tahoe is a gut punch reminder that backcountry skiing carries risks that no amount of preparation can fully eliminate. Even with professional guides, even with proper equipment, even with experience, sometimes the mountain wins. The question everyone in the skiing community will be asking is whether there were warning signs that got missed or if this was just catastrophically bad luck at the worst possible time.

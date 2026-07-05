@@ -22,9 +22,9 @@ What's impressive is the scale they've hit in less than a decade. The team has g
 
 ## Profitability Actually Matters
 
-Here's where things get interesting from a <a href="https://infeeds.com/tags/?tag=business">business</a> standpoint. Alan declared operational profitability in France, its home market. They're also approaching operating break-even overall. After burning through $61 million in losses in 2023 and $56 million in 2024, they've managed to halve their losses as a percentage of revenue over the past 12 months.
+Here's where things get interesting from a <a href="https://infeeds.com/tags/business">business</a> standpoint. Alan declared operational profitability in France, its home market. They're also approaching operating break-even overall. After burning through $61 million in losses in 2023 and $56 million in 2024, they've managed to halve their losses as a percentage of revenue over the past 12 months.
 
-CEO Jean-Charles Samuelian-Werve made it clear the company isn't chasing profitability right now anyway. Instead, they're targeting $1.16 billion in ARR for 2026, which means plowing money back into <a href="https://infeeds.com/tags/?tag=technology">technology</a> and AI capabilities. Samuelian-Werve also sits on the board of Mistral AI, the French AI company, so there's clearly a strategic focus on building intelligent systems into their platform.
+CEO Jean-Charles Samuelian-Werve made it clear the company isn't chasing profitability right now anyway. Instead, they're targeting $1.16 billion in ARR for 2026, which means plowing money back into <a href="https://infeeds.com/tags/technology">technology</a> and AI capabilities. Samuelian-Werve also sits on the board of Mistral AI, the French AI company, so there's clearly a strategic focus on building intelligent systems into their platform.
 
 ## The Geography Play
 

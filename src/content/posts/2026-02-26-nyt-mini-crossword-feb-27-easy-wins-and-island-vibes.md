@@ -16,7 +16,7 @@ If you're anything like me, you've probably hammered through today's NYT Mini Cr
 
 DUMBO as the answer to "Movie with the fake newspaper headline 'Wonder Elephant Soars to Fame!'" is pretty much a no-brainer if you've seen the film. Disney's 1941 classic about a flying elephant has been in the cultural consciousness for so long that it's practically hardwired into our brains. The puzzle makers know this. They're betting on the fact that most people have either watched the movie themselves or at least heard enough about it to guess the answer confidently.
 
-What's interesting about the Mini Crossword format is how it forces the New York Times puzzle team to balance accessibility with actual challenge. You can read more about the <a href="https://infeeds.com/tags/?tag=tech">technology</a> behind how these puzzles get constructed and distributed if you're curious about the backend mechanics.
+What's interesting about the Mini Crossword format is how it forces the New York Times puzzle team to balance accessibility with actual challenge. You can read more about the <a href="https://infeeds.com/tags/tech">technology</a> behind how these puzzles get constructed and distributed if you're curious about the backend mechanics.
 
 ## The Mundane Answers
 

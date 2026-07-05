@@ -16,7 +16,7 @@ But then xAI showed up. According to reporting based on SpaceX's recent IPO fili
 
 The contradiction gets sharper when you look at how Musk's companies actually do business with each other. SpaceX dropped $131 million on Cybertrucks. xAI spent $697 million over two years on Tesla's Megapacks, those grid-scale battery systems designed to manage power loads. But Tesla solar panels? Barely a blip on xAI's shopping list.
 
-If Musk truly believed in his own [technology](https://infeeds.com/tags/?tag=technology) roadmap, you'd expect his companies to be his first customers.
+If Musk truly believed in his own [technology](https://infeeds.com/tags/technology) roadmap, you'd expect his companies to be his first customers.
 
 ## The Space Escape Route
 
@@ -50,6 +50,6 @@ The energy math is worth noting too. Humanity uses roughly 4 terawatts continuou
 
 Three years ago, Tesla released Master Plan Part 3. It outlined a roadmap to eliminate fossil fuels. Reading that document next to xAI's natural gas procurement strategy creates a kind of cognitive dissonance. One sounds like someone serious about climate impact. The other sounds like someone optimizing for short-term efficiency while betting the farm on a speculative long-term moonshot.
 
-[Business](https://infeeds.com/tags/?tag=business) pragmatism and ideological consistency don't always align. But when a founder has built his entire public brand on a particular vision, the gap between what he says and what his companies do becomes a story worth telling.
+[Business](https://infeeds.com/tags/business) pragmatism and ideological consistency don't always align. But when a founder has built his entire public brand on a particular vision, the gap between what he says and what his companies do becomes a story worth telling.
 
 Musk is betting that space-based solar will eventually solve the data center power problem. Maybe he's right. But in the meantime, his companies are doing the exact opposite of what his Master Plans promised. That's not a minor inconsistency. It's a fundamental question about whether the vision was ever the point, or just the marketing.

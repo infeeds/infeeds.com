@@ -33,7 +33,7 @@ The shift wasn't about automation replacing judgment. It was about clarity repla
 
 Before, launching a new course meant juggling timing, resource allocation, and capacity entirely in the founder's head. Was the release schedule realistic? Were we overcommitted? Could we actually execute? No clear answers existed, just intuition and crossed fingers. With better visibility into workload and timelines, different scenarios could be evaluated before committing to dates.
 
-This is where [AI](https://infeeds.com/tags/?tag=technology) delivered actual value. Not by replacing the founder's decision-making, but by giving that decision-making something solid to stand on.
+This is where [AI](https://infeeds.com/tags/technology) delivered actual value. Not by replacing the founder's decision-making, but by giving that decision-making something solid to stand on.
 
 ## The Bottleneck You Don't See Until It's Too Late
 
@@ -59,7 +59,7 @@ The breakthrough came from stepping back and examining trends intentionally, not
 
 Decisions stopped being reactive. They became aligned with defined outcomes.
 
-This is what good [business](https://infeeds.com/tags/?tag=business) leadership looks like at scale. Not more information. Not more tools. Disciplined focus on what actually moves the needle.
+This is what good [business](https://infeeds.com/tags/business) leadership looks like at scale. Not more information. Not more tools. Disciplined focus on what actually moves the needle.
 
 ## The Real Leverage Isn't Automation
 

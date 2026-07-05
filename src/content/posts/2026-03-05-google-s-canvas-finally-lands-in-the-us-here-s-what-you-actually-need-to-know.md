@@ -24,7 +24,7 @@ Here's the thing though: on mobile phones, Canvas gets a bit annoying. Since it 
 
 Rose Yao, VP of product for Google Search, shared a video showing Canvas creating an interactive dashboard for summer camp options. The tool automatically sorted camps by cost, distance, and focus. It's the kind of thing that would've taken some manual work before.
 
-Google's also signaling that more is coming. The company mentioned plans to add support for <a href="https://infeeds.com/tags/?tag=technology">Technology</a> tasks like coding and creative writing, which could open up Canvas to people building custom dashboards or interactive tools. That's actually interesting, because it pushes Canvas beyond just being a "planner" and into something closer to a light development tool.
+Google's also signaling that more is coming. The company mentioned plans to add support for <a href="https://infeeds.com/tags/technology">Technology</a> tasks like coding and creative writing, which could open up Canvas to people building custom dashboards or interactive tools. That's actually interesting, because it pushes Canvas beyond just being a "planner" and into something closer to a light development tool.
 
 ## The Real Question
 

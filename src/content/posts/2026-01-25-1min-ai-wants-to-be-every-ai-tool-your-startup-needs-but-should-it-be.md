@@ -14,7 +14,7 @@ tags_color: '#d32f2f'
 
 The pitch sounds perfect for cash-strapped startups: one subscription, 20 AI models, unlimited possibilities. 1min.AI is positioning itself as the Swiss Army knife of artificial intelligence tools, cramming everything from ChatGPT to DALL-E alternatives into a single platform for $74.97.
 
-That's 86% off the supposed regular price of $540, which immediately raises the question every savvy founder should ask. Why is a lifetime subscription to such a powerful [business](https://infeeds.com/tags/?tag=business) tool being sold for less than a decent office chair?
+That's 86% off the supposed regular price of $540, which immediately raises the question every savvy founder should ask. Why is a lifetime subscription to such a powerful [business](https://infeeds.com/tags/business) tool being sold for less than a decent office chair?
 
 ## The All-in-One AI Promise
 
@@ -28,7 +28,7 @@ The feature list reads like someone asked an AI to generate every possible use c
 
 But there's a catch with platforms that try to do everything. They often end up doing nothing particularly well.
 
-Most [technology](https://infeeds.com/tags/?tag=technology) professionals know that specialized tools exist for a reason. Video editors use Adobe Premiere or DaVinci Resolve because those tools are built specifically for video. Designers use Figma or Photoshop because the workflows are optimized for design work. Writers might prefer Claude or GPT-4 directly because the interfaces are cleaner and more focused.
+Most [technology](https://infeeds.com/tags/technology) professionals know that specialized tools exist for a reason. Video editors use Adobe Premiere or DaVinci Resolve because those tools are built specifically for video. Designers use Figma or Photoshop because the workflows are optimized for design work. Writers might prefer Claude or GPT-4 directly because the interfaces are cleaner and more focused.
 
 When you bundle 20 different AI models into one dashboard, you're adding a layer of abstraction between your team and the actual tools. That middle layer needs to work flawlessly, and based on the aggressive pricing, it's hard to imagine the development budget exists to maintain that level of polish.
 

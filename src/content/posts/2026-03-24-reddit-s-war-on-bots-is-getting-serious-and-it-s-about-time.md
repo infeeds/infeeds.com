@@ -24,7 +24,7 @@ Steve Huffman, Reddit's co-founder and CEO, put it well: "The goal is to increas
 
 The bot problem isn't just annoying. It's become foundational to how the internet functions now. According to Cloudflare, bots are expected to exceed human traffic by 2027. That's not some distant science fiction scenario anymore. It's the trajectory we're on right now.
 
-Bots on <a href="https://infeeds.com/tags/?tag=technology">Technology</a> platforms like Reddit get weaponized for all kinds of stuff. Political manipulation, spreading misinformation, fake engagement inflation, astroturfing for brands, generating training data for AI models. Reddit's become particularly attractive for bots because its content gets licensed to AI companies, which means bad actors can game the system by posting prompts and questions designed to generate training data.
+Bots on <a href="https://infeeds.com/tags/technology">Technology</a> platforms like Reddit get weaponized for all kinds of stuff. Political manipulation, spreading misinformation, fake engagement inflation, astroturfing for brands, generating training data for AI models. Reddit's become particularly attractive for bots because its content gets licensed to AI companies, which means bad actors can game the system by posting prompts and questions designed to generate training data.
 
 There's also this broader concern floating around called the "dead internet theory." The idea that we're heading toward a web where bots outnumber humans and most content is automated rather than human-created. It sounds paranoid until you realize it's already partially happening.
 

@@ -16,7 +16,7 @@ What struck many about The Osmonds' story wasn't just their chart dominance or t
 
 Donny Osmond didn't waste time with platitudes when he took to Instagram on Tuesday. Instead, he shared a black-and-white photograph from his infancy, one that captured Alan with his arm around his baby brother. "Even back then, you can see that he had his arm around me, watching over me," Donny wrote. "That's who he was. My protector. My guide."
 
-Those words matter because they reveal something often overlooked in <a href="https://infeeds.com/tags/?tag=entertainment">entertainment</a> history. The Osmonds didn't emerge as a five-piece sensation overnight. The group formed in the late 1950s with Alan, Wayne, Merrill, and Jay as a quartet. Donny came in during the mid-Sixties, transforming the act and eventually propelling them to global stardom with hits like "One Bad Apple." But behind every spotlight moment, every sold-out venue, every television appearance, Alan was there.
+Those words matter because they reveal something often overlooked in <a href="https://infeeds.com/tags/entertainment">entertainment</a> history. The Osmonds didn't emerge as a five-piece sensation overnight. The group formed in the late 1950s with Alan, Wayne, Merrill, and Jay as a quartet. Donny came in during the mid-Sixties, transforming the act and eventually propelling them to global stardom with hits like "One Bad Apple." But behind every spotlight moment, every sold-out venue, every television appearance, Alan was there.
 
 Donny acknowledged this in his tribute: "I will always be grateful for the sacrifices he made and the love he showed not just to me, but to every member of our family. I owe him more than I can ever fully express."
 

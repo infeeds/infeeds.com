@@ -16,7 +16,7 @@ After analyzing 137 systematic reviews covering over 30,000 participants, ACSM r
 
 ## The Most Extensive Evidence We've Ever Had
 
-This isn't just another fitness update. This is the most comprehensive, evidence-based set of resistance training guidelines ever compiled. Seventeen years is a long time in <a href="https://infeeds.com/tags/?tag=science" target="_blank">science</a>, and the research landscape has shifted dramatically since 2009.
+This isn't just another fitness update. This is the most comprehensive, evidence-based set of resistance training guidelines ever compiled. Seventeen years is a long time in <a href="https://infeeds.com/tags/science" target="_blank">science</a>, and the research landscape has shifted dramatically since 2009.
 
 Back then, we understood strength training helped people. Now we know exactly how much it matters for longevity, aging, disease prevention, and daily function. The data just kept piling up until it became impossible to ignore.
 

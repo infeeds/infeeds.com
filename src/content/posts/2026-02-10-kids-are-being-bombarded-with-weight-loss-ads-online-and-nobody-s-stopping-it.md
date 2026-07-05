@@ -18,9 +18,9 @@ The report surveyed 2,000 teenagers and held focus groups to understand what the
 
 ## When Bans Don't Actually Ban Anything
 
-Here's the thing that really gets me. We already have rules against this stuff. The Online Safety Act exists. Ofcom has regulations in place. There are supposed to be protections for children built into how [Technology](https://infeeds.com/tags/?tag=technology) platforms operate.
+Here's the thing that really gets me. We already have rules against this stuff. The Online Safety Act exists. Ofcom has regulations in place. There are supposed to be protections for children built into how [Technology](https://infeeds.com/tags/technology) platforms operate.
 
-But clearly, none of it is working. These ads are getting through anyway, and platforms seem more interested in keeping kids engaged than keeping them safe. It's almost like when your entire [business](https://infeeds.com/tags/?tag=business) model depends on attention and advertising revenue, you might not be super motivated to crack down on the ads that perform well.
+But clearly, none of it is working. These ads are getting through anyway, and platforms seem more interested in keeping kids engaged than keeping them safe. It's almost like when your entire [business](https://infeeds.com/tags/business) model depends on attention and advertising revenue, you might not be super motivated to crack down on the ads that perform well.
 
 Dr Peter Macaulay from the University of Derby isn't mincing words either. He says banning social media advertising to children is just a starting point. We need actual platform accountability, better enforcement, and education that helps kids understand the manipulation they're facing.
 
@@ -42,4 +42,4 @@ That's a nuclear option that raises its own questions about enforcement and whet
 
 Dame Rachel put it perfectly: "We cannot continue to accept an online world that profits from children's insecurities and constantly tells them they need to change or must be better."
 
-The question is whether anyone with actual power to change things will listen, or if we'll just get more statements about how seriously everyone takes child safety while the [news](https://infeeds.com/tags/?tag=news) cycle moves on and nothing fundamentally changes. Because right now, we've got regulations that don't regulate, protections that don't protect, and an entire generation of kids learning that their worth is measured by how closely they match whatever body type is being sold to them this week.
+The question is whether anyone with actual power to change things will listen, or if we'll just get more statements about how seriously everyone takes child safety while the [news](https://infeeds.com/tags/news) cycle moves on and nothing fundamentally changes. Because right now, we've got regulations that don't regulate, protections that don't protect, and an entire generation of kids learning that their worth is measured by how closely they match whatever body type is being sold to them this week.

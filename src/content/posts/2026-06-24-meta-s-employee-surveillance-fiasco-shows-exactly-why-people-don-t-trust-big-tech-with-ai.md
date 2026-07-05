@@ -10,7 +10,7 @@ tags_color: '#2196f3'
 
 This is what happens when you treat your own employees as unpaid training data.
 
-Meta's so-called "Model Capability Initiative" was exactly the kind of invasive, overreaching surveillance tactic that makes people rightfully skeptical of [Technology](https://infeeds.com/tags/?tag=technology). Launched in April, the program tracked employees' keystrokes, mouse clicks, and basically everything they did on their work computers to feed into the company's AI models. It logged activity in Gmail, GChat, and even Meta's own internal AI assistant called Metamate. Screenshot capture was part of the package too.
+Meta's so-called "Model Capability Initiative" was exactly the kind of invasive, overreaching surveillance tactic that makes people rightfully skeptical of [Technology](https://infeeds.com/tags/technology). Launched in April, the program tracked employees' keystrokes, mouse clicks, and basically everything they did on their work computers to feed into the company's AI models. It logged activity in Gmail, GChat, and even Meta's own internal AI assistant called Metamate. Screenshot capture was part of the package too.
 
 The logic, according to leaked audio of a company meeting, came straight from CEO Mark Zuckerberg himself. He reportedly said it made sense to use employees because "the average intelligence of the people who are at this company is significantly higher than the average set of people that you can get to do tasks." That's quite the endorsement of your workforce. Too bad the feeling wasn't mutual.
 
@@ -22,7 +22,7 @@ The company has now paused the initiative indefinitely, which is corporate speak
 
 Rory Mir from the Electronic Frontier Foundation put it plainly: "Seeking new data for AI training is no excuse" for this kind of worker surveillance. They called it "an abuse of power" and highlighted why we genuinely need legislation protecting worker privacy. When the EFF is telling you you've crossed a line, you probably have.
 
-Here's the uncomfortable part for Meta and the broader [Business](https://infeeds.com/tags/?tag=business) world: this isn't an isolated incident. As CNBC reported, nearly every Fortune 500 company is now tracking how much employees use AI tools, trying to measure productivity and ROI. The hunger for AI data is pushing companies to increasingly invasive lengths, and employee monitoring is the obvious path of least resistance when external data sources prove insufficient or too expensive.
+Here's the uncomfortable part for Meta and the broader [Business](https://infeeds.com/tags/business) world: this isn't an isolated incident. As CNBC reported, nearly every Fortune 500 company is now tracking how much employees use AI tools, trying to measure productivity and ROI. The hunger for AI data is pushing companies to increasingly invasive lengths, and employee monitoring is the obvious path of least resistance when external data sources prove insufficient or too expensive.
 
 Meta is reportedly spending at least $135 billion on AI infrastructure this year, trailing only Amazon, Microsoft, and Alphabet in the spending race. When you're investing that much money, the temptation to use every available data source becomes almost irresistible. But there's a fundamental difference between aggressive innovation and treating your own people as guinea pigs without meaningful consent.
 

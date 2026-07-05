@@ -12,7 +12,7 @@ I showed up at a hotel every Monday after lunch for six weeks straight. No email
 
 When I finally landed that concierge role, the HR manager pulled me aside and said something I've never forgotten: "Your persistence made you stand out. It says a lot about your character and drive." 
 
-That was 24 years ago. Since then, I've worked across nearly every corner of the hospitality industry, from concierge to events planning to running curated dinner parties. I've watched the world transform. Social media exploded. Algorithms became gatekeepers. Job boards replaced newspaper classifieds. And now everyone's asking whether <a href="https://infeeds.com/tags/?tag=technology">technology</a> will make us obsolete.
+That was 24 years ago. Since then, I've worked across nearly every corner of the hospitality industry, from concierge to events planning to running curated dinner parties. I've watched the world transform. Social media exploded. Algorithms became gatekeepers. Job boards replaced newspaper classifieds. And now everyone's asking whether <a href="https://infeeds.com/tags/technology">technology</a> will make us obsolete.
 
 The panic feels real, but I'm genuinely not concerned. And here's why.
 
@@ -22,7 +22,7 @@ My first month of training split perfectly in half. The first two weeks? Deep di
 
 But the second two weeks were different entirely. Etiquette. The psychology of complaints. How to actually understand what a guest needs when what they're saying isn't what they're really asking for.
 
-Here's the thing: the <a href="https://infeeds.com/tags/?tag=business">business</a> industry keeps betting that efficiency replaces everything. Faster email responses. Automated voicemails that acknowledge your problem. Chatbots that sound almost human.
+Here's the thing: the <a href="https://infeeds.com/tags/business">business</a> industry keeps betting that efficiency replaces everything. Faster email responses. Automated voicemails that acknowledge your problem. Chatbots that sound almost human.
 
 Except guests aren't efficiency metrics. They're people.
 

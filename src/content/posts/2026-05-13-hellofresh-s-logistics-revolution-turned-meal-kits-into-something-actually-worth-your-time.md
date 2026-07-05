@@ -46,6 +46,6 @@ HelloFresh's expansion into nearly 500 weekly options might sound like feature b
 
 The meal kit works best at the three to four meal per week frequency, that sweet spot where it's a treat on dreary days without becoming your entire dinner routine. Spending roughly $80 weekly on a few meals for two people saves you from impulsive $60 DoorDash orders while actually producing something you cooked. There's accomplishment in that, even if someone else did the conception.
 
-The real story isn't about logistics becoming sexy. It's about a company finally translating behind-the-scenes supply chain work into something that genuinely improves the user experience. When optimization work actually reaches customers as expanded choice rather than just higher margins, that's [business](https://infeeds.com/tags/?tag=business) working the way it should.
+The real story isn't about logistics becoming sexy. It's about a company finally translating behind-the-scenes supply chain work into something that genuinely improves the user experience. When optimization work actually reaches customers as expanded choice rather than just higher margins, that's [business](https://infeeds.com/tags/business) working the way it should.
 
 Whether HelloFresh maintains this momentum depends on whether those logistics gains were sustainable improvements or a temporary coordinated push. But right now, if you've written off meal kits as boring, repetitive, or too limited, that's no longer the story worth telling.

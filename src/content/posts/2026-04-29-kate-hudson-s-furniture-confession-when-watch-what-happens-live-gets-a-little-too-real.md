@@ -26,7 +26,7 @@ But here's where things got interesting. Instead of sticking with the joke, Huds
 
 Cohen, ever the professional, made sure to get clarity on what Hudson was saying. "You like to be taken in a chair," he offered, and Hudson went with it. No backtracking. No nervous laughter to soften the blow.
 
-The casual honesty here is worth noting. Here's a major Hollywood star, on a nationally broadcast show, talking about her sexual preferences without apology or excessive coy deflection. It's the kind of candidness that <a href="https://infeeds.com/tags/?tag=entertainment">entertainment</a> media has become increasingly comfortable with, though it still tends to catch people off guard.
+The casual honesty here is worth noting. Here's a major Hollywood star, on a nationally broadcast show, talking about her sexual preferences without apology or excessive coy deflection. It's the kind of candidness that <a href="https://infeeds.com/tags/entertainment">entertainment</a> media has become increasingly comfortable with, though it still tends to catch people off guard.
 
 Whether Hudson was being entirely literal or playfully exaggerating for effect remains unclear. But the specificity of the answer suggests something genuine underneath the gloss of a late-night appearance.
 

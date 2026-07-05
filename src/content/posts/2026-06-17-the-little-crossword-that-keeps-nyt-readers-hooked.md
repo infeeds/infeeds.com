@@ -24,7 +24,7 @@ The puzzle also lives comfortably alongside other brain-training trends, fitting
 
 ## Small Win, Big Impact
 
-There's something to be said for tiny victories. In a work world dominated by [Business](https://infeeds.com/tags/?tag=business) deadlines and constant connectivity, solving five clues feels like reclaiming a corner of your mind.
+There's something to be said for tiny victories. In a work world dominated by [Business](https://infeeds.com/tags/business) deadlines and constant connectivity, solving five clues feels like reclaiming a corner of your mind.
 
 The puzzle reminds us that not everything needs to be complex to be valuable. Sometimes a straightforward challenge—What's a kitchen appliance with burners? STOVE—is exactly what the doctor ordered. And if you need help? There's no shame in checking the answers. We all start somewhere.
 

@@ -18,7 +18,7 @@ Nearly two-thirds of Instagram users fall between 18 and 34 years old. Push that
 
 But here's where it gets interesting. The biggest single user group isn't the TikTok-obsessed Gen Z crowd everyone talks about. According to DataReportal data, it's men aged 25-34, making up 18.4% of the platform, followed closely by men aged 18-24 at 17.2%. The age distribution tells a different story than the hype suggests.
 
-In the United States specifically, the penetration is striking. Three out of four people aged 18-29 use Instagram regularly. That drops to 66% for adults aged 30-49, which is still remarkably high. For <a href="https://infeeds.com/tags/?tag=business">business</a> purposes, this means a significant portion of working-age Americans are on the platform, not just teenagers.
+In the United States specifically, the penetration is striking. Three out of four people aged 18-29 use Instagram regularly. That drops to 66% for adults aged 30-49, which is still remarkably high. For <a href="https://infeeds.com/tags/business">business</a> purposes, this means a significant portion of working-age Americans are on the platform, not just teenagers.
 
 ## Gender Patterns Vary Wildly by Region
 
@@ -54,7 +54,7 @@ This has real implications for brand strategy. Mega-influencers might drive awar
 
 ## The News Factor Nobody Saw Coming
 
-Twenty percent of U.S. adults now regularly get news from Instagram. That's a 9 percentage point jump since 2020. News consumption on the platform has nearly doubled. For <a href="https://infeeds.com/tags/?tag=business">business</a> accounts, this shift means your content exists in an environment where people are increasingly expecting substantive information alongside entertainment and product messaging.
+Twenty percent of U.S. adults now regularly get news from Instagram. That's a 9 percentage point jump since 2020. News consumption on the platform has nearly doubled. For <a href="https://infeeds.com/tags/business">business</a> accounts, this shift means your content exists in an environment where people are increasingly expecting substantive information alongside entertainment and product messaging.
 
 ## What This Means Going Forward
 

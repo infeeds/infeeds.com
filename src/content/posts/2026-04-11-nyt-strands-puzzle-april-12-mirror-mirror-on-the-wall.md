@@ -14,7 +14,7 @@ The good news? We've got the answers. The spangram for today is INTHEMIRROR, and
 
 ## Finding Your Way Through
 
-For those unfamiliar with how [Technology](https://infeeds.com/tags/?tag=technology) puzzles like Strands work, the basic premise is straightforward: find hidden words that tie into a theme. Every time you uncover three words with four letters or more, Strands rewards you by revealing one of the theme words. The ultimate goal is to find them all, including the spangram, which stretches from one edge of the puzzle to the other.
+For those unfamiliar with how [Technology](https://infeeds.com/tags/technology) puzzles like Strands work, the basic premise is straightforward: find hidden words that tie into a theme. Every time you uncover three words with four letters or more, Strands rewards you by revealing one of the theme words. The ultimate goal is to find them all, including the spangram, which stretches from one edge of the puzzle to the other.
 
 The tricky part? Sometimes the words are genuinely tough to spot. Sometimes they're just obscure enough that your brain skips right over them. That's where hints come in handy.
 

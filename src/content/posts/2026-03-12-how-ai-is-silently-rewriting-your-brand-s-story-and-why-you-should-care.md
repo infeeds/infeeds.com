@@ -70,7 +70,7 @@ Here's something that trips people up: AI doesn't pull information from nowhere.
 
 If those signals are outdated or mixed, AI will repeat an old version of your company. You might have completely repositioned your brand as a premium option, but if older content online still describes you as the budget choice, AI will blend both versions together. From an SEO perspective, you're showing up. From an LLM visibility perspective, you're being misrepresented.
 
-To change what AI says about you, you have to change what the internet says first. That means improving your <a href="https://infeeds.com/tags/?tag=business">business</a> reputation across reviews, articles, social media, and industry forums. It means making sure your actual positioning is reflected consistently across the web. It means updating outdated information wherever it lives online.
+To change what AI says about you, you have to change what the internet says first. That means improving your <a href="https://infeeds.com/tags/business">business</a> reputation across reviews, articles, social media, and industry forums. It means making sure your actual positioning is reflected consistently across the web. It means updating outdated information wherever it lives online.
 
 The infrastructure of web content feeds the AI engine. If you want that engine to describe you differently, you have to fix the fuel going into it.
 
@@ -78,7 +78,7 @@ The infrastructure of web content feeds the AI engine. If you want that engine t
 
 Manually checking prompts in ChatGPT tells you almost nothing useful. Results change based on personalization, location, timing, and how you phrase a question. What you see on Tuesday might be completely different from Wednesday. You might get one answer in the US and a totally different response in the UK.
 
-Testing different <a href="https://infeeds.com/tags/?tag=technology">technology</a> platforms separately is even worse. ChatGPT might describe your brand one way, Gemini another, Claude something different. A single manual check captures a snapshot, not a pattern.
+Testing different <a href="https://infeeds.com/tags/technology">technology</a> platforms separately is even worse. ChatGPT might describe your brand one way, Gemini another, Claude something different. A single manual check captures a snapshot, not a pattern.
 
 Building real LLM visibility requires consistent, systematic monitoring. You need to track how AI describes your brand across multiple platforms, multiple queries, and multiple time periods. You need to see patterns emerge and spot when sentiment shifts.
 

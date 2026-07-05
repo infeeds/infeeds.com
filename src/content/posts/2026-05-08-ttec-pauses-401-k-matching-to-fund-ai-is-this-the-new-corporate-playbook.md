@@ -8,7 +8,7 @@ tags: [news, business]
 tags_color: '#795548'
 ---
 
-TTEC, a customer experience [technology](https://infeeds.com/tags/?tag=technology) and services firm, just made a choice that quietly signals something bigger about where corporate priorities are heading. According to Business Insider reporting, the company has paused 401(k) matching for US employees through the end of 2026, citing investments in AI tools, automation, and workforce training as a key reason for the move.
+TTEC, a customer experience [technology](https://infeeds.com/tags/technology) and services firm, just made a choice that quietly signals something bigger about where corporate priorities are heading. According to Business Insider reporting, the company has paused 401(k) matching for US employees through the end of 2026, citing investments in AI tools, automation, and workforce training as a key reason for the move.
 
 Let that sink in for a moment. A company is explicitly telling workers that artificial intelligence takes precedence over their retirement security, at least for now.
 
@@ -16,7 +16,7 @@ Let that sink in for a moment. A company is explicitly telling workers that arti
 
 This isn't a story about a company in financial freefall. TTEC isn't bankrupt or desperate. The firm is making a deliberate resource allocation choice, and they're being transparent about it. That honesty is almost refreshing in a corporate world that usually hides hard decisions behind vague language about "operational efficiency" and "strategic priorities."
 
-But here's what makes this noteworthy: companies rarely frame cuts to worker benefits as a direct trade-off with technology investment. They usually just implement the cuts and move on. TTEC's willingness to connect the dots suggests something worth examining. In the race to stay competitive, AI infrastructure has become the hill [business](https://infeeds.com/tags/?tag=business) leaders are choosing to die on.
+But here's what makes this noteworthy: companies rarely frame cuts to worker benefits as a direct trade-off with technology investment. They usually just implement the cuts and move on. TTEC's willingness to connect the dots suggests something worth examining. In the race to stay competitive, AI infrastructure has become the hill [business](https://infeeds.com/tags/business) leaders are choosing to die on.
 
 The company's reasoning isn't entirely unreasonable. Automation and AI training are expensive. If a company doesn't invest now, it risks falling behind competitors who do. That competitive pressure is real. But the question is whether workers should absorb the cost of that transition.
 
@@ -32,6 +32,6 @@ Workforce training is part of the equation too, which isn't all bad. If TTEC is 
 
 What makes TTEC's decision feel significant is that it might not be unique for much longer. Other companies are facing the same pressure to invest in AI infrastructure. Not all of them will be as transparent as TTEC about where that money comes from, but the choices remain the same.
 
-If this trend accelerates, we're looking at a fundamental shift in how [business](https://infeeds.com/tags/?tag=business) allocates resources during technological transitions. Workers become the funding mechanism for corporate transformation.
+If this trend accelerates, we're looking at a fundamental shift in how [business](https://infeeds.com/tags/business) allocates resources during technological transitions. Workers become the funding mechanism for corporate transformation.
 
 The real question isn't whether TTEC has the right to make this choice. They do. The real question is whether this becomes normalized across the economy, and what that means for workers who have fewer options, fewer savings, and less ability to absorb financial surprises. When AI investment comes at the cost of retirement security, someone's future gets mortgaged for someone else's competitive advantage.

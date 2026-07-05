@@ -34,7 +34,7 @@ One bit had him recounting how Tony Bennett once convinced the soundperson to tu
 
 ## What This Says About Experience Now
 
-The cell phones were locked away in those little pouches. No one was recording fragments for TikTok or Instagram Stories. The entire experience was designed around the idea that some moments are better when they're just lived, when they exist only in memory and in the room itself. It's almost antithetical to how we consume <a href="https://infeeds.com/tags/?tag=entertainment">entertainment</a> in 2026, yet somehow McCartney's Fonda run proved that scarcity and restriction can actually deepen connection.
+The cell phones were locked away in those little pouches. No one was recording fragments for TikTok or Instagram Stories. The entire experience was designed around the idea that some moments are better when they're just lived, when they exist only in memory and in the room itself. It's almost antithetical to how we consume <a href="https://infeeds.com/tags/entertainment">entertainment</a> in 2026, yet somehow McCartney's Fonda run proved that scarcity and restriction can actually deepen connection.
 
 People were lined up outside the venue hoping to score last-minute tickets. Not desperate in a chaotic way, but genuinely hopeful. That's the kind of currency that can't be manufactured or guaranteed. It happens when an artist decides that sometimes less is exponentially more.
 

@@ -32,7 +32,7 @@ What really bothered Kimmel in the conversation was something subtler and perhap
 
 Obama added bluntly: "It's important for people to know that for some of these folks, this is a game. This is a hustle."
 
-That's the real fracture happening in [media](https://infeeds.com/tags/?tag=media) right now. It's not just about censorship or pressure from above. It's about individual creatives calculating whether authenticity or alignment pays better.
+That's the real fracture happening in [media](https://infeeds.com/tags/media) right now. It's not just about censorship or pressure from above. It's about individual creatives calculating whether authenticity or alignment pays better.
 
 ## When Admitting Mistakes Becomes Radical
 

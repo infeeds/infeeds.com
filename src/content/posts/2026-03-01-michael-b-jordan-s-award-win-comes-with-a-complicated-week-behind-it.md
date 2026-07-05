@@ -18,7 +18,7 @@ What struck about his win wasn't just the trophy itself, but the raw honesty in 
 
 Jordan spent time reflecting on his childhood dream of being part of SAG-AFTRA, describing it like some exclusive club he desperately wanted to join. "That kid from North Jersey is standing here right now," he said, and you could feel the weight of that statement. He wasn't just accepting an award. He was acknowledging how far he'd come.
 
-The acceptance speech also gave serious love to filmmaker Ryan Coogler, who has become a consistent collaborator and clearly someone Jordan trusts creatively. That kind of loyalty in Hollywood is refreshing when you see so much transactional relationship-building happening behind the scenes in the <a href="https://infeeds.com/tags/?tag=entertainment">entertainment</a> industry.
+The acceptance speech also gave serious love to filmmaker Ryan Coogler, who has become a consistent collaborator and clearly someone Jordan trusts creatively. That kind of loyalty in Hollywood is refreshing when you see so much transactional relationship-building happening behind the scenes in the <a href="https://infeeds.com/tags/entertainment">entertainment</a> industry.
 
 ## The Sinners Sweep
 

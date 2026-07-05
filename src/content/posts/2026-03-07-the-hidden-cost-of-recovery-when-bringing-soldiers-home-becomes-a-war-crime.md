@@ -46,7 +46,7 @@ The operation found nothing. The grave was empty. And 41 people, including three
 
 ## The Broader Picture
 
-This isn't happening in isolation. Across Lebanon, at least 294 people have been killed by Israeli military action since Monday alone. The <a href="https://infeeds.com/tags/?tag=middle-east">Middle East</a> is spiraling deeper into conflict as escalation breeds more escalation, as revenge cycles into counter-revenge, as the hunt for closure transforms into mass casualties.
+This isn't happening in isolation. Across Lebanon, at least 294 people have been killed by Israeli military action since Monday alone. The <a href="https://infeeds.com/tags/middle-east">Middle East</a> is spiraling deeper into conflict as escalation breeds more escalation, as revenge cycles into counter-revenge, as the hunt for closure transforms into mass casualties.
 
 Some residents of Nabi Chit claimed victory. "They came standing but we made them leave lying down," one man said, speaking about the failed recovery mission. Others simply grieved. A woman walked through the destroyed houses screaming that Israel was attacking unjustly.
 

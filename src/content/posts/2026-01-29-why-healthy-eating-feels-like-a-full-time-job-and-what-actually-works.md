@@ -14,7 +14,7 @@ I used to think I was healthy because I skipped dessert and barely touched meat.
 
 The thing about getting older is that your body stops letting you get away with things. You can't just survive on coffee and granola bars anymore without feeling like absolute trash by 3 PM. And when you have kids running circles around you, or a demanding career, or just want to feel like a functioning human, what you eat actually starts to matter.
 
-But here's where it gets annoying. Healthy eating has turned into this complicated, overwhelming [lifestyle](https://infeeds.com/tags/?tag=lifestyle) maze that requires a PhD in nutrition just to figure out if oat milk is still acceptable this week or if we're all supposed to hate it now.
+But here's where it gets annoying. Healthy eating has turned into this complicated, overwhelming [lifestyle](https://infeeds.com/tags/lifestyle) maze that requires a PhD in nutrition just to figure out if oat milk is still acceptable this week or if we're all supposed to hate it now.
 
 ## The Gut Health Revelation Nobody Warned You About
 
@@ -42,7 +42,7 @@ Her six-month coaching program, Joyful Cooking for Natural Vitality, starts with
 
 The focus is on replacing harmful food habits with sustainable ones, which is way more realistic than trying to overhaul everything overnight. Twenty-minute weekly Zoom calls with replays available sounds manageable even for people who can barely find time to shower some days.
 
-I'm always skeptical of [business](https://infeeds.com/tags/?tag=business) models built around subscriptions, but the "buy one get two memberships free" thing at least acknowledges that cooking usually benefits more than just one person in a household. And it works for all dietary requirements, which matters since everyone seems to have different needs these days.
+I'm always skeptical of [business](https://infeeds.com/tags/business) models built around subscriptions, but the "buy one get two memberships free" thing at least acknowledges that cooking usually benefits more than just one person in a household. And it works for all dietary requirements, which matters since everyone seems to have different needs these days.
 
 ## What Actually Changes When You Eat Better
 

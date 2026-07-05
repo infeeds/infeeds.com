@@ -34,7 +34,7 @@ Those plants can't function when they're sucking in oil. A region that's already
 
 Here's the one potentially silver lining, though it feels odd to call anything in a war a "silver lining." Countries across Europe have started realizing that fossil fuel dependency doesn't equal security. After the Ukraine invasion, we saw policy shifts toward renewable energy and decarbonization. What's happening in the Gulf right now might accelerate that trend globally.
 
-When oil infrastructure becomes a legitimate military target, when the fuel that powers your economy can literally be set on fire by an adversary, the calculus changes. People start asking harder questions about whether betting everything on oil and gas actually makes sense. Check out recent coverage on [energy policy](https://infeeds.com/tags/?tag=business) to see how these conflicts are reshaping decisions in government halls worldwide.
+When oil infrastructure becomes a legitimate military target, when the fuel that powers your economy can literally be set on fire by an adversary, the calculus changes. People start asking harder questions about whether betting everything on oil and gas actually makes sense. Check out recent coverage on [energy policy](https://infeeds.com/tags/business) to see how these conflicts are reshaping decisions in government halls worldwide.
 
 The problem is that when these situations hit, most countries don't immediately pivot to renewables. They panic and go back to coal or whatever fuel source they can access quickly. Real, lasting change takes time and political will.
 

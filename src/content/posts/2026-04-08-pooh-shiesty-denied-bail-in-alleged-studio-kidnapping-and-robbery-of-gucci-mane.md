@@ -42,6 +42,6 @@ This case sits against a backdrop that matters. Williams was released early from
 
 So if the allegations are accurate, Williams violated the terms of his release almost immediately. Not to mention the staggering scope of the alleged operation. Nine defendants are charged with conspiracy to commit kidnapping, a charge that carries life imprisonment.
 
-U.S. Attorney Ryan Raybould called it what he saw it: "Nine defendants traveled to Dallas, Texas, to kidnap and rob victims who thought they were coming into town for a <a href="https://infeeds.com/tags/?tag=business">business</a> meeting. Instead of discussing business in a civil manner, the defendants resorted to violence and intimidation to achieve their purported business objectives."
+U.S. Attorney Ryan Raybould called it what he saw it: "Nine defendants traveled to Dallas, Texas, to kidnap and rob victims who thought they were coming into town for a <a href="https://infeeds.com/tags/business">business</a> meeting. Instead of discussing business in a civil manner, the defendants resorted to violence and intimidation to achieve their purported business objectives."
 
 The legal system will ultimately decide whether the prosecution's narrative holds up under scrutiny, and whether Cohen's concerns about missing evidence prove consequential. What's clear is that this case represents a collision between ambition, contractual frustration, and alleged criminal desperation that ended with multiple people locked in a room and robbed at gunpoint.

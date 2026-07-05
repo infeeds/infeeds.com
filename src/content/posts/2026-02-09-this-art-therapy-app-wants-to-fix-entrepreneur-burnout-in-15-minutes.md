@@ -20,7 +20,7 @@ LINA Art Therapy App is banking on the idea that you can squeeze meaningful ment
 
 Created by certified art therapists and psychologists, LINA guides users through drawing exercises that require zero artistic talent. You draw something, reflect on it, and get AI-powered insights about your emotional state. It sounds almost too simple, which is either the point or the problem depending on how cynical you're feeling today.
 
-The [business](https://infeeds.com/tags/?tag=business) model here is straightforward. Pay $39.99 once, get lifetime access, and supposedly address your entrepreneurial trauma without recurring subscription fees eating into your already tight margins.
+The [business](https://infeeds.com/tags/business) model here is straightforward. Pay $39.99 once, get lifetime access, and supposedly address your entrepreneurial trauma without recurring subscription fees eating into your already tight margins.
 
 ## When Quick Fixes Meet Real Problems
 
@@ -34,7 +34,7 @@ The app includes journaling prompts, reflection oracle cards (yes, really), and 
 
 What's interesting isn't whether LINA works. It's what it says about how we've structured work that entrepreneurs need an app promising mental health benefits in 15-minute chunks because that's all the time they can spare.
 
-Maybe the problem isn't that we need better [technology](https://infeeds.com/tags/?tag=technology) to manage entrepreneurial stress. Maybe the problem is that we've normalized a work culture that treats burnout as inevitable rather than preventable. LINA might help some people feel better in the moment, but it's not addressing why so many business owners are struggling in the first place.
+Maybe the problem isn't that we need better [technology](https://infeeds.com/tags/technology) to manage entrepreneurial stress. Maybe the problem is that we've normalized a work culture that treats burnout as inevitable rather than preventable. LINA might help some people feel better in the moment, but it's not addressing why so many business owners are struggling in the first place.
 
 The lifetime subscription means you're not locked into another monthly payment, which matters when you're watching every expense. And if 15 minutes of guided drawing helps you sleep better or quiet your racing thoughts before an investor pitch, that's worth something.
 

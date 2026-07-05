@@ -10,7 +10,7 @@ tags: [news, entertainment]
 tags_color: '#9c27b0'
 ---
 
-Bad Bunny just delivered one of the most culturally significant Super Bowl halftime shows in history, and naturally, the internet went into full detective mode trying to decode every single moment. The performance was gorgeous, packed with Puerto Rican pride, Spanish lyrics dominating the biggest stage in American [sports](https://infeeds.com/tags/?tag=sports), and appearances from Lady Gaga, Ricky Martin, Karol G, and Cardi B all crammed into "la casita" onstage.
+Bad Bunny just delivered one of the most culturally significant Super Bowl halftime shows in history, and naturally, the internet went into full detective mode trying to decode every single moment. The performance was gorgeous, packed with Puerto Rican pride, Spanish lyrics dominating the biggest stage in American [sports](https://infeeds.com/tags/sports), and appearances from Lady Gaga, Ricky Martin, Karol G, and Cardi B all crammed into "la casita" onstage.
 
 But one moment really got people talking. Bad Bunny handed what looked like his Grammy award to a little boy during the performance, and social media immediately jumped to conclusions.
 
@@ -28,12 +28,12 @@ A rep for Bad Bunny quickly shut down the speculation. The child was actually Li
 
 The confusion is understandable though. Liam Ramos's story hit hard when it broke. He and his father Adrian Conejo Arias were both asylum seekers with open claims when ICE detained them. Reports said Ramos got sick while in custody. They were released on February 1st, but the damage to that kid's sense of safety? That doesn't just disappear.
 
-Bad Bunny's been incredibly vocal about this exact issue in the [entertainment](https://infeeds.com/tags/?tag=entertainment) world. His Grammy speech last week didn't pull punches: "We're not savage. We're not animals. We're not aliens. We are humans and we are Americans." At the Super Bowl, he kept it slightly more diplomatic but still made his point, shouting "God bless America!" before giving shoutouts to every Latin American country.
+Bad Bunny's been incredibly vocal about this exact issue in the [entertainment](https://infeeds.com/tags/entertainment) world. His Grammy speech last week didn't pull punches: "We're not savage. We're not animals. We're not aliens. We are humans and we are Americans." At the Super Bowl, he kept it slightly more diplomatic but still made his point, shouting "God bless America!" before giving shoutouts to every Latin American country.
 
 ## The Bigger Picture Nobody's Talking About
 
 Here's the thing that gets lost in all this. The fact that so many people immediately believed Bad Bunny would put Liam Ramos onstage tells you something important about where we are culturally. People wanted that story to be true because they're desperate for these big symbolic moments of resistance and healing.
 
-The actual performance was already radical enough. A predominantly Spanish-language halftime show at the Super Bowl is massive, no matter how you slice it. But in 2026, after years of increasingly hostile immigration rhetoric and [policy](https://infeeds.com/tags/?tag=politics), people are looking for their heroes to make even bolder statements.
+The actual performance was already radical enough. A predominantly Spanish-language halftime show at the Super Bowl is massive, no matter how you slice it. But in 2026, after years of increasingly hostile immigration rhetoric and [policy](https://infeeds.com/tags/politics), people are looking for their heroes to make even bolder statements.
 
 Maybe the fact that we're all playing "spot the political statement" during halftime shows means we've already moved past the point where these cultural moments can just be celebrations without carrying the weight of everything else happening in the country.

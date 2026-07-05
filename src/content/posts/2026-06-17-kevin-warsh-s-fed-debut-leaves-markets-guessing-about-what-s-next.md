@@ -26,4 +26,4 @@ That matters enormously. This wasn't a single decision day. It was an opening st
 
 Warsh clearly wants his branding to be "the reformer." Whether that label sticks remains to be seen, but the message was sent. Investors should buckle up, because as Dario Perkins at TS Lombard put it, "Fed watching just got harder."
 
-That might be the most accurate takeaway of the day. The relatively simple art of reading Fed communications just got a lot more complicated. Whether that's good for markets or bad for clarity, only time will tell. Related to this topic? Explore more [Business](https://infeeds.com/tags/?tag=business) news and analysis.
+That might be the most accurate takeaway of the day. The relatively simple art of reading Fed communications just got a lot more complicated. Whether that's good for markets or bad for clarity, only time will tell. Related to this topic? Explore more [Business](https://infeeds.com/tags/business) news and analysis.

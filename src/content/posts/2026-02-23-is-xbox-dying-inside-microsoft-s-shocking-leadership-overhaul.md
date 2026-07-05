@@ -28,13 +28,13 @@ The speculation machine went into overdrive. If Sharma's been working with AI, a
 
 Sharma responded quickly, promising that Xbox won't become a dumping ground for "soulless AI slop." She emphasized that games are art crafted by humans, with AI as a tool, not the soul. It's a reasonable statement, but it also felt a bit defensive, which kind of proves the point that people are genuinely worried.
 
-The bigger question nobody's asking loud enough is whether <a href="https://infeeds.com/tags/?tag=technology">technology</a> companies even understand what they're disrupting when they make these kinds of calls. Sharma might be brilliant at what she does, but brilliant at different things doesn't always translate.
+The bigger question nobody's asking loud enough is whether <a href="https://infeeds.com/tags/technology">technology</a> companies even understand what they're disrupting when they make these kinds of calls. Sharma might be brilliant at what she does, but brilliant at different things doesn't always translate.
 
 ## Matt Booty Tries to Calm the Chaos
 
 Matt Booty, who worked under Spencer as corporate vice president of Xbox Game Studios, got promoted to chief content officer. In his announcement, he basically tried to tell everyone to relax. "There are no organisational changes underway for our studios," he said, which is the corporate equivalent of "everything's fine" while the ship slowly sinks.
 
-Vikki Blake, a freelance journalist who covers gaming, acknowledged what everyone already knows: it's "hard to imagine Xbox without Phil Spencer." But she also noted that his departure wasn't shocking given how the <a href="https://infeeds.com/tags/?tag=business">business</a> has been struggling. Xbox has been losing relevance in the console market. Games like Halo aren't exclusive anymore. Sales are down. Development costs keep climbing. It's been a rough stretch.
+Vikki Blake, a freelance journalist who covers gaming, acknowledged what everyone already knows: it's "hard to imagine Xbox without Phil Spencer." But she also noted that his departure wasn't shocking given how the <a href="https://infeeds.com/tags/business">business</a> has been struggling. Xbox has been losing relevance in the console market. Games like Halo aren't exclusive anymore. Sales are down. Development costs keep climbing. It's been a rough stretch.
 
 ## A Different Kind of Xbox Future
 

@@ -29,7 +29,7 @@ These aren't isolated incidents or minor mix-ups. They're a recurring feature of
 
 ## The Real Issue Beneath the Error
 
-Fox's response was characteristically good-natured, but it masks something worth considering. CNN's error wasn't just embarrassing; it's reflective of larger problems in how [news](https://infeeds.com/tags/?tag=news) organizations operate today. Stories get prepared in advance, sometimes published prematurely, and then quietly removed when someone notices the mistake. The apology comes after the damage is done.
+Fox's response was characteristically good-natured, but it masks something worth considering. CNN's error wasn't just embarrassing; it's reflective of larger problems in how [news](https://infeeds.com/tags/news) organizations operate today. Stories get prepared in advance, sometimes published prematurely, and then quietly removed when someone notices the mistake. The apology comes after the damage is done.
 
 For Fox specifically, the irony cuts deeper. He's spent years as an advocate for Parkinson's research and stem cell research after his own diagnosis in 1991. His work on these causes has been serious and meaningful. A premature death announcement trivializes both his ongoing contributions and his very real medical battles.
 

@@ -22,7 +22,7 @@ Sure, the time-restricted feeding group lost an average of 5.5 pounds while the 
 
 What makes this particularly interesting is that both groups ate similar foods in similar amounts. Nobody was told to count calories or switch to salads. The timing itself seemed to trigger metabolic and immune changes that helped quiet the inflammatory storm characteristic of Crohn's disease.
 
-Dr. Maitreyi Raman, the study's senior author, pointed out that these improvements went beyond just symptom relief. The research suggests intermittent fasting might actually help patients maintain lasting remission, which is the holy grail for anyone living with inflammatory bowel disease. This kind of [science](https://infeeds.com/tags/?tag=science) breakthrough doesn't come around every day.
+Dr. Maitreyi Raman, the study's senior author, pointed out that these improvements went beyond just symptom relief. The research suggests intermittent fasting might actually help patients maintain lasting remission, which is the holy grail for anyone living with inflammatory bowel disease. This kind of [science](https://infeeds.com/tags/science) breakthrough doesn't come around every day.
 
 ## It's About Biology, Not Just Willpower
 
@@ -30,7 +30,7 @@ One of the most compelling aspects of this research is that it gives people with
 
 Dr. Natasha Haskey, the lead investigator, emphasized that this approach is grounded in biology. Your body's circadian rhythms, the internal clock that regulates everything from hormone release to digestion, respond to when you eat. Giving your digestive system a consistent 16-hour break each day might allow it to repair and reset in ways that constant grazing doesn't permit.
 
-The gut bacteria changes observed in the study are particularly promising. We're learning more every year about how the microbiome influences immune function and inflammation, especially in conditions like Crohn's. The fact that meal timing alone can shift bacterial populations suggests we've barely scratched the surface of understanding how eating patterns affect [health](https://infeeds.com/tags/?tag=health) at a fundamental level.
+The gut bacteria changes observed in the study are particularly promising. We're learning more every year about how the microbiome influences immune function and inflammation, especially in conditions like Crohn's. The fact that meal timing alone can shift bacterial populations suggests we've barely scratched the surface of understanding how eating patterns affect [health](https://infeeds.com/tags/health) at a fundamental level.
 
 ## Not a Magic Bullet Though
 

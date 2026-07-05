@@ -16,7 +16,7 @@ Ukraine has been learning this lesson in real time. What started as a unified mo
 
 Here's where things get tangled. Iran's involvement in the broader Middle East conflict isn't just about regional chess moves anymore. It's directly impacting the flow of air defense systems that Ukraine desperately needs to keep its skies from becoming a Russian shooting gallery.
 
-Every missile system delayed is another night of bombardment. Every system that gets diverted to other conflicts means fewer protection layers over Ukrainian cities. The geopolitical [news](https://infeeds.com/tags/?tag=news) cycle doesn't stop for anyone, and Ukraine is learning that lesson the hard way.
+Every missile system delayed is another night of bombardment. Every system that gets diverted to other conflicts means fewer protection layers over Ukrainian cities. The geopolitical [news](https://infeeds.com/tags/news) cycle doesn't stop for anyone, and Ukraine is learning that lesson the hard way.
 
 The timing couldn't be worse. Just when Kyiv needs the international community locked in and focused, attention is splintering across multiple conflicts. That's not helping morale on the ground.
 

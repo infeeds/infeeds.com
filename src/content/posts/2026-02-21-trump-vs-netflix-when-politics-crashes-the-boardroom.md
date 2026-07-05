@@ -24,7 +24,7 @@ Trump amplified a message from right-wing activist Laura Loomer, who had already
 
 ## The Netflix Problem
 
-This gets thorny fast. Netflix is in the middle of pursuing a major [business](https://infeeds.com/tags/?tag=business) deal that requires antitrust approval from the Department of Justice. That's where Trump's influence becomes particularly loaded. A president with concerns about a merger has real power in that process.
+This gets thorny fast. Netflix is in the middle of pursuing a major [business](https://infeeds.com/tags/business) deal that requires antitrust approval from the Department of Justice. That's where Trump's influence becomes particularly loaded. A president with concerns about a merger has real power in that process.
 
 Back in December, Trump said Netflix had "very big market share" and the potential Warner Bros. Discovery acquisition "could be a problem." By February, he walked it back slightly, saying he shouldn't be involved and would defer to his DOJ. But let's be real: the message was already out there. Netflix knows where the political winds are blowing.
 

@@ -34,7 +34,7 @@ YouTube TV itself is locked in a dispute with Disney, which complicates its rela
 
 ## Who Actually Wins?
 
-If you care about [Technology](https://infeeds.com/tags/?tag=technology) and want the best overall experience, YouTube TV remains the most sensible choice. Yes, it costs $83 a month. But it has an excellent interface, best-in-class cloud DVR with fast-forwarding, and enough channels to cover most viewing habits. The 4K add-on exists if you want it, though there's not much worth watching in 4K yet.
+If you care about [Technology](https://infeeds.com/tags/technology) and want the best overall experience, YouTube TV remains the most sensible choice. Yes, it costs $83 a month. But it has an excellent interface, best-in-class cloud DVR with fast-forwarding, and enough channels to cover most viewing habits. The 4K add-on exists if you want it, though there's not much worth watching in 4K yet.
 
 Sling TV makes sense if you're willing to do some work and live without local stations. Combining the Orange and Blue packages for $61 a month (or more in some regions) gives you decent coverage, though it requires actual effort to navigate. The service suggests pairing it with an antenna or an AirTV 2 DVR for a more complete experience. It's not as polished as YouTube TV, but the value proposition is hard to ignore if you're budget-conscious.
 

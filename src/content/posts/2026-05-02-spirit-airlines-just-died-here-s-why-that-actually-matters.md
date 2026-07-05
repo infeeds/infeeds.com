@@ -28,7 +28,7 @@ Seventeen thousand people just lost their jobs. That's worth sitting with for a 
 
 Spirit's last flight, NK1833 from Detroit to Dallas Fort Worth, touched down shortly after midnight. The airline had flown more than 50,000 passengers in the previous day alone, according to company data. All those people are now scrambling to figure out how to get where they were going.
 
-But the bigger question is what happens to <a href="https://infeeds.com/tags/?tag=business">business</a> travel pricing going forward. Spirit operated with a 3.9% market share as of February, down from 5.1% the year before. That might not sound huge, but it matters in competitive markets. Low-cost carriers don't just serve budget-conscious travelers. They force every other airline to keep prices honest.
+But the bigger question is what happens to <a href="https://infeeds.com/tags/business">business</a> travel pricing going forward. Spirit operated with a 3.9% market share as of February, down from 5.1% the year before. That might not sound huge, but it matters in competitive markets. Low-cost carriers don't just serve budget-conscious travelers. They force every other airline to keep prices honest.
 
 With Spirit gone, those competitive pressures ease up. Other airlines are already stepping in with rescue fares for stranded passengers: Southwest offering discounts up to $400, United capping fares at $299, American and JetBlue joining the effort. That's nice for people with Spirit tickets in hand. But once the immediate crisis passes, airfare in markets where Spirit was a strong competitor will likely drift upward. That's how these things work.
 

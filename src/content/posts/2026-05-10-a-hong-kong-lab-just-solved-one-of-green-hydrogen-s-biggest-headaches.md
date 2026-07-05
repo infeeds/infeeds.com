@@ -48,7 +48,7 @@ Consider the economics. For a typical 10-megawatt PEM electrolysis tank, structu
 
 ## Why This Matters Beyond the Lab
 
-The irony is that this paper was published in 2023, yet its core problem has only grown more urgent. Newer <a href="https://infeeds.com/tags/?tag=science">science</a> continues wrestling with the exact same corrosion barriers, side reactions, and durability limits. A 2025 Nature Reviews Materials paper described direct seawater electrolysis as promising but still held back by the same obstacles that plagued it years ago.
+The irony is that this paper was published in 2023, yet its core problem has only grown more urgent. Newer <a href="https://infeeds.com/tags/science">science</a> continues wrestling with the exact same corrosion barriers, side reactions, and durability limits. A 2025 Nature Reviews Materials paper described direct seawater electrolysis as promising but still held back by the same obstacles that plagued it years ago.
 
 Other research groups have explored stainless steel electrodes with protective coatings, including nickel-iron compounds and platinum clusters. Corrosion-resistant anodes built on stainless steel substrates keep appearing in the literature. The field is clearly convinced that stainless steel is the right base material. It just needed the right alloy design.
 

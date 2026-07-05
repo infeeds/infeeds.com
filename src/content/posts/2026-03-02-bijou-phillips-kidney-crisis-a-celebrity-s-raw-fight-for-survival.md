@@ -30,7 +30,7 @@ That hits different when you think about it. A 3-year-old playing with dolls, pr
 
 Enter Jamie Mazur, her boyfriend. Phillips credits him with pulling her back when she wanted to give up, with getting her to fight where she wouldn't have fought on her own. It's a reminder that sometimes surviving isn't something you do alone, no matter how independent you are or how many resources you have.
 
-This isn't a [news](https://infeeds.com/tags/?tag=news) story about a celebrity getting special treatment. If anything, it's the opposite. It's a story about how money and fame don't shield you from the randomness of illness, from the terror of your own mortality.
+This isn't a [news](https://infeeds.com/tags/news) story about a celebrity getting special treatment. If anything, it's the opposite. It's a story about how money and fame don't shield you from the randomness of illness, from the terror of your own mortality.
 
 ## The Reality Nobody Talks About
 

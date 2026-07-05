@@ -18,7 +18,7 @@ But here's the thing nobody tells you: starting a family business doesn't requir
 
 The shift toward remote work has completely changed the startup game. Working from home costs somewhere between $1,621 and $5,000 annually depending on where you live, but compare that to renting a physical storefront, paying for utilities, and dealing with all the overhead that comes with it.
 
-Families now have legitimate options to launch <a href="https://infeeds.com/tags/?tag=business">business</a> ventures entirely online. No landlord. No lease. No early morning commute. Just you, your family, and whatever you decide to build together.
+Families now have legitimate options to launch <a href="https://infeeds.com/tags/business">business</a> ventures entirely online. No landlord. No lease. No early morning commute. Just you, your family, and whatever you decide to build together.
 
 This creates an interesting advantage. While large corporations are busy managing office politics and expensive infrastructure, a family operation can stay lean, adaptable, and focused on actually serving customers.
 
@@ -76,7 +76,7 @@ You're looking at $10,000 to $30,000 for a small studio, or $50,000 plus for a f
 
 ## The Real Secret Nobody Talks About
 
-Starting a <a href="https://infeeds.com/tags/?tag=technology">technology</a>-driven or service-based business rarely feels perfectly timed. Most entrepreneurs wait for certainty that never arrives. They overthink. They research. They plan. And then someone else launches.
+Starting a <a href="https://infeeds.com/tags/technology">technology</a>-driven or service-based business rarely feels perfectly timed. Most entrepreneurs wait for certainty that never arrives. They overthink. They research. They plan. And then someone else launches.
 
 What families have that most solo entrepreneurs struggle to build is automatic trust and aligned motivation. You already know your family members. You already understand their strengths. You can divide responsibility naturally without navigating the politics that kill most partnerships.
 

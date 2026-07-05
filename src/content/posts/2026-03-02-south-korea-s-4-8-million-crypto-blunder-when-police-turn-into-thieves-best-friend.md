@@ -22,13 +22,13 @@ Let's be clear about what happened here. A blockchain analyst named Cho Jae-woo 
 
 The National Tax Service later apologized, acknowledging they included the images to make the press release more "eye-catching." Translation: they wanted to make themselves look good. Instead, they managed to highlight one of the most basic security blunders imaginable. Cho pointed out that preventing this would have been trivially simple. Don't photograph the recovery phrase. It's that easy.
 
-But this wasn't just a one-off mistake from inexperienced officers. Looking at the broader <a href="https://infeeds.com/tags/?tag=technology">technology</a> landscape, South Korean police have been struggling with cryptocurrency custody for months.
+But this wasn't just a one-off mistake from inexperienced officers. Looking at the broader <a href="https://infeeds.com/tags/technology">technology</a> landscape, South Korean police have been struggling with cryptocurrency custody for months.
 
 ## A Pattern of Carelessness
 
 In January, Gwangju officials lost a substantial amount of seized bitcoin, likely through a phishing attack on Coinbase. Then just last month, 22 bitcoins vanished from a police wallet in Seoul's Gangnam district. Another cold wallet mysteriously drained without anyone physically removing the device. That's the kind of thing that makes you wonder what's really going on behind the scenes.
 
-The Block reported on this series of lapses, and the pattern is concerning. It suggests that either bad actors are specifically monitoring police <a href="https://infeeds.com/tags/?tag=business">business</a> announcements, or police departments simply don't understand the security requirements for handling digital assets. Probably both.
+The Block reported on this series of lapses, and the pattern is concerning. It suggests that either bad actors are specifically monitoring police <a href="https://infeeds.com/tags/business">business</a> announcements, or police departments simply don't understand the security requirements for handling digital assets. Probably both.
 
 The thief in this latest case might have just been scrolling through press releases at dawn and stumbled on a goldmine. Or maybe they're part of a crew that specifically watches for these announcements. Either way, the cops basically opened the door and handed them the key.
 

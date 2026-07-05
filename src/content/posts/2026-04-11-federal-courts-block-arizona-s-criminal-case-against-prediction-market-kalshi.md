@@ -10,7 +10,7 @@ tags_color: '#00ba65'
 
 Arizona's attempt to prosecute prediction market Kalshi just hit a wall. On Friday, a federal court sided with the Commodity Futures Trading Commission and issued a temporary restraining order blocking the state from pursuing its criminal case against the company, according to Bloomberg reporting.
 
-This is a significant moment in the ongoing tug-of-war between state and federal regulators over who gets to police emerging financial <a href="https://infeeds.com/tags/?tag=technology">Technology</a>. And it underscores a real tension in how America regulates innovation.
+This is a significant moment in the ongoing tug-of-war between state and federal regulators over who gets to police emerging financial <a href="https://infeeds.com/tags/technology">Technology</a>. And it underscores a real tension in how America regulates innovation.
 
 ## The CFTC's Preemptive Strike
 
@@ -28,6 +28,6 @@ That context matters when evaluating how much weight this restraining order shou
 
 ## A Broader Pattern
 
-This isn't just about Arizona. The CFTC has also filed suits seeking to stop similar cases in Connecticut and Illinois. That suggests a coordinated federal strategy to prevent states from independently regulating prediction markets and related fintech products. Whether you view this as appropriate federal preemption or federal overreach probably depends on your perspective on <a href="https://infeeds.com/tags/?tag=business">Business</a> regulation.
+This isn't just about Arizona. The CFTC has also filed suits seeking to stop similar cases in Connecticut and Illinois. That suggests a coordinated federal strategy to prevent states from independently regulating prediction markets and related fintech products. Whether you view this as appropriate federal preemption or federal overreach probably depends on your perspective on <a href="https://infeeds.com/tags/business">Business</a> regulation.
 
 The underlying question is straightforward but contentious: when a company complies with federal law but violates state law, which jurisdiction wins? The court just provided one answer, at least temporarily. But this fight isn't over.

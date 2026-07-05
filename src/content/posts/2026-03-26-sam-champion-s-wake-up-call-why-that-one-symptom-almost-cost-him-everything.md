@@ -32,7 +32,7 @@ Here's what gets people killed: they ignore the weird stuff. The slightly off fe
 
 We're conditioned to think heart attacks announce themselves with chest-clutching drama straight out of a movie. But Champion's story is a reminder that real cardiac events often whisper before they scream. That breathlessness could have been dismissed forever. He almost dismissed it himself.
 
-Champion has been open about his [health](https://infeeds.com/tags/?tag=health) battles before. He was diagnosed with skin cancer at 26. In 2010, he had basal cell carcinoma removed from his shoulder while literally on air. Two years ago, he underwent Mohs surgery for another spot below his eye. So he knew something about medical curveballs.
+Champion has been open about his [health](https://infeeds.com/tags/health) battles before. He was diagnosed with skin cancer at 26. In 2010, he had basal cell carcinoma removed from his shoulder while literally on air. Two years ago, he underwent Mohs surgery for another spot below his eye. So he knew something about medical curveballs.
 
 But this one was different. This one was silent.
 

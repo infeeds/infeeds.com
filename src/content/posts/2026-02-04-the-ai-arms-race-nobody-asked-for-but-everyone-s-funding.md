@@ -16,7 +16,7 @@ The pattern is getting predictable. A company announces a new large language mod
 
 ## The Billion Dollar Question
 
-Here's what really gets me. These models cost hundreds of millions to train. Google, Microsoft, Meta, they're all burning cash like it's going out of style. And for what? So their chatbot can write slightly better poetry than the last version? Don't get me wrong, the [Technology](https://infeeds.com/tags/?tag=technology) itself is impressive. The engineering is remarkable.
+Here's what really gets me. These models cost hundreds of millions to train. Google, Microsoft, Meta, they're all burning cash like it's going out of style. And for what? So their chatbot can write slightly better poetry than the last version? Don't get me wrong, the [Technology](https://infeeds.com/tags/technology) itself is impressive. The engineering is remarkable.
 
 But impressive engineering doesn't always equal useful product. Remember when every company needed to have a blockchain strategy? This feels eerily similar, except the stakes are way higher because the infrastructure costs are astronomical.
 
@@ -26,7 +26,7 @@ The energy consumption alone should make us pause. Training these massive models
 
 The real problem is that most of these models are solving the same problems in nearly identical ways. Sure, one might be 3% better at coding tasks while another excels at translating obscure languages. But do we really need fifteen different companies each spending a billion dollars to achieve basically the same thing?
 
-This is where the [Business](https://infeeds.com/tags/?tag=business) logic falls apart for me. In a rational market, companies differentiate or die. But in AI right now, everyone's convinced that being second place means becoming irrelevant. So they're all building the same thing, hoping their version somehow becomes the standard.
+This is where the [Business](https://infeeds.com/tags/business) logic falls apart for me. In a rational market, companies differentiate or die. But in AI right now, everyone's convinced that being second place means becoming irrelevant. So they're all building the same thing, hoping their version somehow becomes the standard.
 
 OpenAI releases GPT-5, Google counters with Gemini Ultra 2.0, Anthropic drops Claude 4, Meta open sources Llama 4. The cycle repeats every few months. Meanwhile, actual problems that AI could help solve get less attention because they're not sexy enough for the headlines.
 
@@ -46,4 +46,4 @@ I'm not arguing that AI research should stop. Far from it. But maybe we need few
 
 The funny thing is, in five years we'll probably look back at this period and wonder what we were thinking. Either one or two models will have won and the rest will be forgotten, or we'll realize we were solving the wrong problem entirely and pivot to something else. Either way, a lot of smart people will have spent a lot of time and money chasing something that in retrospect seemed obvious to avoid.
 
-But that's the nature of [innovation](https://infeeds.com/tags/?tag=innovation), I guess. Sometimes you have to watch everyone make the same expensive mistake before you figure out the right path forward. The question is whether we can afford to keep making this particular mistake at this particular scale, or if we'll wise up before the bill comes due.
+But that's the nature of [innovation](https://infeeds.com/tags/innovation), I guess. Sometimes you have to watch everyone make the same expensive mistake before you figure out the right path forward. The question is whether we can afford to keep making this particular mistake at this particular scale, or if we'll wise up before the bill comes due.

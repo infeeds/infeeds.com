@@ -38,7 +38,7 @@ Here's what makes Pritchard's story difficult to land on: redemption is real, bu
 
 That doesn't mean the AP Foundation is doing nothing. It doesn't mean Pritchard's work is hollow. But it does mean we should hold both things at once. His advocacy work might be genuinely motivated. And it might also be a version of rebrand he can actually monetize.
 
-The <a href="https://infeeds.com/tags/?tag=business">business</a> of crime writing and ex-offender rehabilitation is real. People buy books about how to evade customs. Organizations fund charities run by reformed criminals. There's nothing inherently wrong with that. But there's something worth examining about whether we're celebrating the narrative or the actual outcomes.
+The <a href="https://infeeds.com/tags/business">business</a> of crime writing and ex-offender rehabilitation is real. People buy books about how to evade customs. Organizations fund charities run by reformed criminals. There's nothing inherently wrong with that. But there's something worth examining about whether we're celebrating the narrative or the actual outcomes.
 
 The real test isn't what Pritchard has written or whether he's raised money. It's whether any young people in the UK actually don't go into crime because of the AP Foundation. That's harder to measure, easier to claim.
 

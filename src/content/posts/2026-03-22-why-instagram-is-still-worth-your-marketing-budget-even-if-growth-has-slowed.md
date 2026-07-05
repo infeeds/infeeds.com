@@ -10,7 +10,7 @@ tags_color: '#ff9800'
 
 Instagram keeps changing. New features arrive monthly. The algorithm shifts without warning. Brands throw their hands up in frustration, wondering if it's even worth the effort anymore.
 
-But here's the thing: 3 billion people use Instagram every month. That's roughly the same as WhatsApp, and only Facebook dwarfs it globally. Even if growth has plateaued, the sheer scale of the platform means it deserves a spot in your <a href="https://infeeds.com/tags/?tag=business">business</a> strategy.
+But here's the thing: 3 billion people use Instagram every month. That's roughly the same as WhatsApp, and only Facebook dwarfs it globally. Even if growth has plateaued, the sheer scale of the platform means it deserves a spot in your <a href="https://infeeds.com/tags/business">business</a> strategy.
 
 The question isn't whether to market on Instagram. It's whether you're marketing there effectively.
 

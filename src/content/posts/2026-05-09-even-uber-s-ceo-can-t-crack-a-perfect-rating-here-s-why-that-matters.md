@@ -24,7 +24,7 @@ What makes Khosrowshahi's candor interesting is that he's clearly internalized t
 
 Even more telling is his awareness that being the Uber boss doesn't actually buy him special treatment. About half his drivers recognize him, and when they do, they chat about improving the product. The other half? They're just doing their own thing while he does his. No special passes. No override codes. Just a guy in the backseat trying to keep his rating respectable.
 
-That's either a feature or a bug of the system, depending on your perspective on <a href="https://infeeds.com/tags/?tag=business">business</a> leadership. Is Khosrowshahi genuinely committed to operating within the same constraints as everyone else, or is his participation in the rating game ultimately just another form of brand management? The honest answer is probably both.
+That's either a feature or a bug of the system, depending on your perspective on <a href="https://infeeds.com/tags/business">business</a> leadership. Is Khosrowshahi genuinely committed to operating within the same constraints as everyone else, or is his participation in the rating game ultimately just another form of brand management? The honest answer is probably both.
 
 The interview itself reveals something deeper about how these platforms operate. They don't just move people from point A to point B. They create a behavioral architecture where everyone's constantly conscious of being evaluated. Khosrowshahi isn't immune to that psychological pressure, even though he could theoretically exempt himself from it.
 

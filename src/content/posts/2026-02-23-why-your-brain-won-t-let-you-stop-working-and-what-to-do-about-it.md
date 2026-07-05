@@ -38,7 +38,7 @@ What feels like leadership in those moments is often just relief wearing a mask.
 
 You stay in control, you keep things moving, you manage that internal tension. But you're operating on autopilot now. The road is choosing the turns instead of you choosing them deliberately.
 
-The result is constant reactivity. And a reactive [business](https://infeeds.com/tags/?tag=business) leader doesn't think clearly. Clear thinking happens in calmer states. Innovation happens when the brain isn't in a low-grade stress response. When urgency is constant, you're literally chipping away at your own leadership performance, one decision at a time.
+The result is constant reactivity. And a reactive [business](https://infeeds.com/tags/business) leader doesn't think clearly. Clear thinking happens in calmer states. Innovation happens when the brain isn't in a low-grade stress response. When urgency is constant, you're literally chipping away at your own leadership performance, one decision at a time.
 
 ## The Quiet Arrival of Burnout
 

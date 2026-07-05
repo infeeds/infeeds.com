@@ -18,7 +18,7 @@ Let's say you've been celebrating a spike in Instagram comments. Great engagemen
 
 This is what happens when you confuse metrics with KPIs. You end up optimizing for vanity numbers instead of outcomes. A growing follower count looks impressive in a presentation, but it means nothing if those followers don't convert, don't care about your brand, and won't spend money on your products.
 
-Your <a href="https://infeeds.com/tags/?tag=business">business</a> goals should come first. Everything else flows from there. If your goal is to drive website traffic, then your KPI should be clicks from social to your site, not total impressions. If you're focused on sales, track conversion rate and customer acquisition cost, not likes.
+Your <a href="https://infeeds.com/tags/business">business</a> goals should come first. Everything else flows from there. If your goal is to drive website traffic, then your KPI should be clicks from social to your site, not total impressions. If you're focused on sales, track conversion rate and customer acquisition cost, not likes.
 
 The hard part isn't identifying KPIs. It's having the discipline to ignore everything else.
 

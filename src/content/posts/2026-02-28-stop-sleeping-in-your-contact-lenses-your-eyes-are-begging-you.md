@@ -42,7 +42,7 @@ Beyond contact lens hygiene, Redfern stressed the importance of eye protection d
 
 And if something does get lodged in your eye? Don't play doctor. Don't try to remove it yourself. Tape a paper cup over your eye and get to a hospital immediately. Pulling out a foreign object the wrong way could cause the inner contents of your eye to come out with it. That's not hyperbole. That's actual ophthalmology.
 
-She also addressed some common myths about <a href="https://infeeds.com/tags/?tag=health">health</a> and vision. Reading in dim light? It won't ruin your eyes. Floaters? Usually harmless, but sudden changes warrant a doctor's visit. The takeaway is that most of the stuff we worry about isn't actually the problem. The real threats are the things we're casually ignoring.
+She also addressed some common myths about <a href="https://infeeds.com/tags/health">health</a> and vision. Reading in dim light? It won't ruin your eyes. Floaters? Usually harmless, but sudden changes warrant a doctor's visit. The takeaway is that most of the stuff we worry about isn't actually the problem. The real threats are the things we're casually ignoring.
 
 ## What You're Actually Doing Right
 

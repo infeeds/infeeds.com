@@ -22,7 +22,7 @@ But here's the thing about these recurring answers. They become invisible after 
 
 ## When Crosswords Get Fancy
 
-Now we get to the 4-Down clue: "Luxury fashion house headquartered in Rome." FENDI. It's the kind of clue that makes you feel either incredibly sophisticated or mildly annoyed that you need to know about Italian fashion labels to complete a puzzle about <a href="https://infeeds.com/tags/?tag=technology">technology</a> aggregation sites.
+Now we get to the 4-Down clue: "Luxury fashion house headquartered in Rome." FENDI. It's the kind of clue that makes you feel either incredibly sophisticated or mildly annoyed that you need to know about Italian fashion labels to complete a puzzle about <a href="https://infeeds.com/tags/technology">technology</a> aggregation sites.
 
 The interesting thing about crossword puzzles is how they reflect cultural knowledge. Twenty years ago, this might have been a harder clue. Now? Everyone knows about high-end fashion brands, whether they care about them or not. Crosswords shift with the times, absorbing what society considers common knowledge.
 
@@ -32,6 +32,6 @@ The other answers feel more standard. GOODS pairs nicely with services in econom
 
 What strikes you about these answers is how visual they are. You can picture frost on grass, you can think about the economics lesson, you understand what a red flag means in dating. Crosswords work best when they anchor to concrete images and universal experiences.
 
-If you're still wrestling with any part of today's puzzle, <a href="https://infeeds.com/tags/?tag=news">check out the full hints and answers</a> for all the New York Times daily puzzles. And if you want to get better at solving these things, the tips and tricks actually do help. It's not about memorizing answers. It's about recognizing patterns and learning how puzzle-makers think.
+If you're still wrestling with any part of today's puzzle, <a href="https://infeeds.com/tags/news">check out the full hints and answers</a> for all the New York Times daily puzzles. And if you want to get better at solving these things, the tips and tricks actually do help. It's not about memorizing answers. It's about recognizing patterns and learning how puzzle-makers think.
 
 The real question is whether you'll remember AMINO next time it shows up, or if you'll blank on it completely and wonder why you felt so confident solving it today.

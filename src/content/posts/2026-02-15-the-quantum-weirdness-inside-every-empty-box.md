@@ -20,7 +20,7 @@ This is zero-point energy, and it's one of those quantum concepts that makes you
 
 Zero-point energy comes in two flavors. One hangs out in fields like the electromagnetic field, the invisible grid that lets light and radio waves do their thing. The other lives in actual stuff like atoms and molecules. You can cool these things down almost to absolute zero, that theoretical temperature where everything should just stop moving, and they'll still have energy left over.
 
-The reason goes back to one of quantum physics's greatest hits: the Heisenberg uncertainty principle. You literally cannot pin down both where something is and how fast it's moving at the same time. It's not a measurement problem or a [Technology](https://infeeds.com/tags/?tag=technology) limitation. The universe itself just doesn't allow it.
+The reason goes back to one of quantum physics's greatest hits: the Heisenberg uncertainty principle. You literally cannot pin down both where something is and how fast it's moving at the same time. It's not a measurement problem or a [Technology](https://infeeds.com/tags/technology) limitation. The universe itself just doesn't allow it.
 
 Think of a ball sitting at the bottom of a valley. To truly zero out its energy, you'd need to know exactly where it is and that it's not moving at all. Quantum mechanics laughs at this request and hands you a spread of possible positions and velocities instead.
 
@@ -44,7 +44,7 @@ But then there's gravity.
 
 ## The Vacuum Energy Problem That Won't Go Away
 
-Wolfgang Pauli figured out in 1946 that if all this zero-point energy actually gravitates the way normal [science](https://infeeds.com/tags/?tag=science) says it should, the universe should have exploded. Or imploded. Or done something dramatically catastrophic.
+Wolfgang Pauli figured out in 1946 that if all this zero-point energy actually gravitates the way normal [science](https://infeeds.com/tags/science) says it should, the universe should have exploded. Or imploded. Or done something dramatically catastrophic.
 
 It hasn't, obviously. We're still here. But nobody knows why.
 
@@ -52,4 +52,4 @@ Sean Carroll at Johns Hopkins puts it bluntly: all forms of energy gravitate, in
 
 What really bends your brain is thinking about what the vacuum actually is. It's not nothing. It's more like a shimmering soup of potential everything. Peter Milonni explains that every field and therefore every particle is somehow represented in the vacuum. Even if there's not a single electron anywhere nearby, the vacuum contains what he calls "electronness." The zero-point energy of the vacuum is basically every possible form of matter layered on top of each other, including forms we haven't discovered yet.
 
-So the next time someone talks about emptiness or nothingness, remember that quantum physics won't let those concepts exist. The universe is apparently allergic to true [emptiness](https://infeeds.com/tags/?tag=tech), filling every void with an irreducible buzz of energy that connects to everything that could possibly be.
+So the next time someone talks about emptiness or nothingness, remember that quantum physics won't let those concepts exist. The universe is apparently allergic to true [emptiness](https://infeeds.com/tags/tech), filling every void with an irreducible buzz of energy that connects to everything that could possibly be.

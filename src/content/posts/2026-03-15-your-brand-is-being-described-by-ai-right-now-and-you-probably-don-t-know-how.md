@@ -52,7 +52,7 @@ Ryan Smith, Senior Director of Marketing Strategy at Hootsuite, puts it perfectl
 
 That's not hyperbole. One in six people worldwide now use generative AI tools according to Microsoft, and that number is climbing. These aren't early adopters experimenting anymore. These are mainstream buyers making real decisions based on AI descriptions.
 
-Your entire <a href="https://infeeds.com/tags/?tag=business">business</a> model might depend on visibility inside these conversations, and most organizations are still flying blind.
+Your entire <a href="https://infeeds.com/tags/business">business</a> model might depend on visibility inside these conversations, and most organizations are still flying blind.
 
 ## The Gap Between What You Think and What AI Says
 

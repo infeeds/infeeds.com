@@ -24,7 +24,7 @@ Here's where the skepticism becomes understandable. The Strait of Hormuz, which 
 
 Saul Kavonic from MST Marquee put it bluntly: this release addresses maybe a quarter of that gap. It's genuinely helpful, don't get me wrong, but it's not a silver bullet. What really worries traders is what that release signals. If the IEA is pulling out its biggest tool this early, it suggests they don't think this conflict ends quickly. And here's the kicker: those barrels pulled from storage today need to be replaced tomorrow at higher prices.
 
-"Prices right now are still in panic mode. There is a lot of emotion, fear, uncertainty built into the price that we see," Pavel Molchanov, senior investment strategist at <a href="https://infeeds.com/tags/?tag=business">Raymond James</a>, told CNBC. He's capturing something real about the market psychology right now. This isn't purely about supply and demand calculations anymore.
+"Prices right now are still in panic mode. There is a lot of emotion, fear, uncertainty built into the price that we see," Pavel Molchanov, senior investment strategist at <a href="https://infeeds.com/tags/business">Raymond James</a>, told CNBC. He's capturing something real about the market psychology right now. This isn't purely about supply and demand calculations anymore.
 
 ## The Logistics Nightmare Nobody's Talking About
 

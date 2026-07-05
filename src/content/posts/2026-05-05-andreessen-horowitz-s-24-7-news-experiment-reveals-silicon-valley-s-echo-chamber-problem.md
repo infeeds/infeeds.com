@@ -8,7 +8,7 @@ tags: [news, business, technology]
 tags_color: '#795548'
 ---
 
-In April, Andreessen Horowitz launched Monitoring the Situation, or MTS, billing it as "the first timeline-native news network that's always on." The venture capital giant promised a 24/7 firehose of breaking news delivered straight to X. It sounded like a genuine attempt to reinvent how we consume information. What it actually revealed was something far more troubling: how <a href="https://infeeds.com/tags/?tag=technology">technology</a> money creates media not to inform the world, but to talk to itself.
+In April, Andreessen Horowitz launched Monitoring the Situation, or MTS, billing it as "the first timeline-native news network that's always on." The venture capital giant promised a 24/7 firehose of breaking news delivered straight to X. It sounded like a genuine attempt to reinvent how we consume information. What it actually revealed was something far more troubling: how <a href="https://infeeds.com/tags/technology">technology</a> money creates media not to inform the world, but to talk to itself.
 
 According to reporting from Business Insider, MTS isn't alone in this strategy. OpenAI recently acquired the popular tech podcast TBPN for nine figures. Before that, Andreessen Horowitz itself bought the podcast network Turpentine. These moves follow a long pattern. Airbnb, Casper, and Uber all launched their own magazines. Robinhood acquired a newsletter for young investors. Stripe publishes a quarterly magazine for software engineers. Every major tech player seems to want a media microphone these days.
 
@@ -28,7 +28,7 @@ What MTS represents is what media researcher Rodney Benson from New York Univers
 
 The guest list made this clear. During the week MTS was on air, guests included several current and former Andreessen Horowitz partners, founders of at least five startups the firm invested in, and Marc Andreessen himself. One host, Sofia Puccini, is a fellow in Andreessen Horowitz's New Media Fellowship, described as a "Thiel fellowship for the terminally online." The show broadcasts on X, a platform Andreessen Horowitz invested $400 million in when Elon Musk acquired it. MTS even debuted on April 20th, a date the tech world seems to treat as sacred.
 
-This raises an uncomfortable question: what happens when an industry tries to run its own news operation? Eric Newcomer, who writes about <a href="https://infeeds.com/tags/?tag=business">business</a> in tech, put it bluntly. "It's mostly the industry talking to itself."
+This raises an uncomfortable question: what happens when an industry tries to run its own news operation? Eric Newcomer, who writes about <a href="https://infeeds.com/tags/business">business</a> in tech, put it bluntly. "It's mostly the industry talking to itself."
 
 ## When Passion Meets Amateurism
 

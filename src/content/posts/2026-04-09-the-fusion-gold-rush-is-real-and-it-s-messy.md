@@ -48,9 +48,9 @@ These timelines should be taken with salt. The history of fusion is littered wit
 
 ## The Venture Capital Angle
 
-What's driving this isn't just scientific progress. It's also that fusion has become a venture [capital](https://infeeds.com/tags/?tag=business) play. A trillion-dollar market if it works. A cautionary tale if it doesn't. That's the kind of risk-reward profile that keeps VCs awake at night in a good way.
+What's driving this isn't just scientific progress. It's also that fusion has become a venture [capital](https://infeeds.com/tags/business) play. A trillion-dollar market if it works. A cautionary tale if it doesn't. That's the kind of risk-reward profile that keeps VCs awake at night in a good way.
 
-You've got some of the biggest names in tech and [business](https://infeeds.com/tags/?tag=business) behind these companies. Bill Gates through Breakthrough Energy Ventures. Sam Altman and Reid Hoffman backing Helion. Jeff Bezos in General Fusion. Peter Thiel's Mithril Capital. BlackRock.
+You've got some of the biggest names in tech and [business](https://infeeds.com/tags/business) behind these companies. Bill Gates through Breakthrough Energy Ventures. Sam Altman and Reid Hoffman backing Helion. Jeff Bezos in General Fusion. Peter Thiel's Mithril Capital. BlackRock.
 
 The money is real. The commitment is real. Whether the physics scales to commercial reality remains to be seen.
 

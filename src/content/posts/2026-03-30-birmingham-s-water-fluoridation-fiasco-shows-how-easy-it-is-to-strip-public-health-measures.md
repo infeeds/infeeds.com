@@ -34,7 +34,7 @@ Here's where things get messier. When CAW made its March announcement, it didn't
 
 This framing matters because it legitimizes doubts that have been circling for decades. Water fluoridation, introduced in the US in 1945, has been targeted by unfounded fears and conspiracy theories ever since. Those concerns have gotten fresh momentum in recent years thanks to anti-vaccine Health Secretary Robert F. Kennedy Jr., who has made strong claims that fluoridated water is unsafe despite having no background in medicine, public health, or science. As health secretary, he's pledged to remove fluoride from US water entirely.
 
-The [technology](https://infeeds.com/tags/?tag=technology) of public health recommendations is pretty clear, though. The American Dental Association and the American Academy of Pediatrics both recommend water fluoridation to prevent tooth decay, especially in children. A Harvard modeling study found that if Kennedy follows through on removing fluoride, it would result in 25 million more decayed teeth in children and teens in just the first five years.
+The [technology](https://infeeds.com/tags/technology) of public health recommendations is pretty clear, though. The American Dental Association and the American Academy of Pediatrics both recommend water fluoridation to prevent tooth decay, especially in children. A Harvard modeling study found that if Kennedy follows through on removing fluoride, it would result in 25 million more decayed teeth in children and teens in just the first five years.
 
 ## Why Toothpaste Isn't the Answer
 
@@ -46,8 +46,8 @@ That's the real issue here. Water fluoridation is considered one of the top 10 p
 
 ## The Accountability Question
 
-What happened in Birmingham raises uncomfortable questions about [business](https://infeeds.com/tags/?tag=business) accountability in utilities serving the public. CAW didn't just make a technical decision and fail to communicate it. The utility actively cited questionable health concerns in its announcement, effectively validating misinformation that's been debunked by medical professionals. Whether intentional or not, that's a form of narrative malpractice.
+What happened in Birmingham raises uncomfortable questions about [business](https://infeeds.com/tags/business) accountability in utilities serving the public. CAW didn't just make a technical decision and fail to communicate it. The utility actively cited questionable health concerns in its announcement, effectively validating misinformation that's been debunked by medical professionals. Whether intentional or not, that's a form of narrative malpractice.
 
-The fact that current leadership didn't know (or claim not to have known) that fluoride had been removed for two years is equally troubling. How does a major public health measure get quietly discontinued without institutional awareness? Either the [news](https://infeeds.com/tags/?tag=news) wasn't tracked properly, or it was forgotten in reorganization, or someone decided it wasn't worth mentioning. None of those scenarios are reassuring.
+The fact that current leadership didn't know (or claim not to have known) that fluoride had been removed for two years is equally troubling. How does a major public health measure get quietly discontinued without institutional awareness? Either the [news](https://infeeds.com/tags/news) wasn't tracked properly, or it was forgotten in reorganization, or someone decided it wasn't worth mentioning. None of those scenarios are reassuring.
 
 Birmingham's lawsuit might force the utility's hand, or it might not. Either way, this is a reminder that public health protections require constant vigilance. They're not permanent. They can disappear quietly, justified by equipment issues or outdated fears, until someone wakes up and asks why their kids' teeth are rotting.

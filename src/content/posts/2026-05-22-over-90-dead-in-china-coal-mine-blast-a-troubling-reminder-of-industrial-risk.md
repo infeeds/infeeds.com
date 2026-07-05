@@ -16,7 +16,7 @@ The explosion appears to have been triggered by a buildup of carbon monoxide, th
 
 It's worth noting that China's coal mining industry has genuinely improved over the past two decades. In the early 2000s, deadly accidents were routine, with lax enforcement and outdated equipment claiming thousands of lives annually. More rigorous safety standards have been implemented since then, and fatality rates have declined. That's real progress.
 
-Yet this incident demonstrates how fragile that progress can be. A single failure in gas monitoring, ventilation, or operational oversight can erase years of hard-won safety gains in seconds. The Tongzhou Group, which operates the mine, saw its officials detained by authorities following the blast, signaling that Chinese regulators are taking the incident seriously. The <a href="https://infeeds.com/tags/?tag=news">news</a> carries weight because it suggests consequences will follow.
+Yet this incident demonstrates how fragile that progress can be. A single failure in gas monitoring, ventilation, or operational oversight can erase years of hard-won safety gains in seconds. The Tongzhou Group, which operates the mine, saw its officials detained by authorities following the blast, signaling that Chinese regulators are taking the incident seriously. The <a href="https://infeeds.com/tags/news">news</a> carries weight because it suggests consequences will follow.
 
 ## The Question Beneath the Surface
 

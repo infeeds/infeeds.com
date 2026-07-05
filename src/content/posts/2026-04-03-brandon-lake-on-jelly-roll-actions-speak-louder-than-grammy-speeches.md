@@ -20,7 +20,7 @@ What's interesting here is Lake's refusal to separate the artist from the work. 
 
 According to Lake in the Rolling Stone interview, Jelly Roll is "loved by this community not just because of the songs he written, but because of the things he's done." That distinction matters. It suggests that whatever happened at the Grammys backstage, whatever was said that drew criticism, there's a longer track record worth considering.
 
-Lake himself seems genuinely committed to this philosophy. He released a new duet with Lainey Wilson on Good Friday titled "The Jesus I Know Now," and he's currently touring behind his album "King of Hearts," which includes tracks like "I Know a Name" and "Sevens." These aren't throwaway moves. They're part of a consistent narrative about faith expressed through [entertainment](https://infeeds.com/tags/?tag=entertainment) rather than just rhetoric.
+Lake himself seems genuinely committed to this philosophy. He released a new duet with Lainey Wilson on Good Friday titled "The Jesus I Know Now," and he's currently touring behind his album "King of Hearts," which includes tracks like "I Know a Name" and "Sevens." These aren't throwaway moves. They're part of a consistent narrative about faith expressed through [entertainment](https://infeeds.com/tags/entertainment) rather than just rhetoric.
 
 ## Living the Answer Rather Than Speaking It
 

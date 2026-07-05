@@ -36,7 +36,7 @@ That world is ending. Or at least, it's becoming a lot harder to navigate.
 
 ## The Decoupling Is Already Starting
 
-Some American officials have been pushing for exactly this kind of separation, particularly in <a href="https://infeeds.com/tags/?tag=technology">technology</a> fields deemed sensitive. AI sits right at the center of that bulls-eye. So does quantum computing. So does semiconductors. The logic is straightforward from a national security perspective: don't let competitors get access to your best research.
+Some American officials have been pushing for exactly this kind of separation, particularly in <a href="https://infeeds.com/tags/technology">technology</a> fields deemed sensitive. AI sits right at the center of that bulls-eye. So does quantum computing. So does semiconductors. The logic is straightforward from a national security perspective: don't let competitors get access to your best research.
 
 But the unintended consequences are rippling outward faster than anyone anticipated. Chinese researchers are now having real conversations about prioritizing domestic conferences. The academic evaluation system in China is shifting to penalize international collaboration in certain fields. Brilliant people are being forced to choose between their career ambitions and their home country's politics.
 

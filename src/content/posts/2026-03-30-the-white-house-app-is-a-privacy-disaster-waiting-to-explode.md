@@ -40,7 +40,7 @@ Government apps exist all over the world. They can be useful. A spokesperson for
 
 That's the friction point here. It's not just that the app has security problems. It's that the security problems exist in an environment where trust in government data handling is already fractured. When you combine lax protections with questions about data usage, people reasonably wonder what they're signing up for.
 
-The White House didn't respond to requests for comment about the [technology](https://infeeds.com/tags/?tag=technology) concerns. That silence speaks volumes.
+The White House didn't respond to requests for comment about the [technology](https://infeeds.com/tags/technology) concerns. That silence speaks volumes.
 
 ## The Practical Question
 

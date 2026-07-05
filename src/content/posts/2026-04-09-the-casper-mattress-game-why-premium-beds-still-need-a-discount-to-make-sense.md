@@ -43,7 +43,7 @@ If you want someone to actually set up your mattress and remove your old one, Ca
 
 ## The Bigger Picture: How Casper Stacks Up
 
-The bed-in-a-box market has gotten crowded in recent years. Casper is far from the only player offering quality mattresses with solid return policies and generous warranties. The real differentiation comes down to price, design options, and how well you connect with their specific product line. On the <a href="https://infeeds.com/tags/?tag=business">business</a> side of things, Casper has positioned itself as the premium option in a space that started as a disruption to premium pricing.
+The bed-in-a-box market has gotten crowded in recent years. Casper is far from the only player offering quality mattresses with solid return policies and generous warranties. The real differentiation comes down to price, design options, and how well you connect with their specific product line. On the <a href="https://infeeds.com/tags/business">business</a> side of things, Casper has positioned itself as the premium option in a space that started as a disruption to premium pricing.
 
 That positioning means you'll likely spend time comparing Casper against competitors like Purple, Mattress Firm, and Big Fig. Each brand has its own strengths and drawbacks. The best mattress isn't necessarily the most expensive one or the one with the catchiest marketing campaign. It's the one that actually supports your body through eight hours of sleep without forcing you to choose between comfort and financial responsibility.
 

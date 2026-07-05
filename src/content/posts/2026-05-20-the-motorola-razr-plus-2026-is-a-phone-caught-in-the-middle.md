@@ -32,7 +32,7 @@ Battery life gets you through a day with moderate use. During testing, the phone
 
 CNET's testing suggests the Razr Plus makes sense in two scenarios: if you owned last year's Plus or base Razr and genuinely want that bigger cover display without spending $1,500, or if you've decided you need more power and memory than the base model but can't justify the Ultra's price tag. For everyone else considering their first folding phone, the argument gets thin fast.
 
-The base Razr includes 256GB of storage (in Motorola's direct sales), the same dual 50-megapixel rear cameras, and all the same [technology](https://infeeds.com/tags/?tag=technology) features you'd use daily. Yes, its processor will struggle a bit more in low-light photography. Yes, the cover screen is smaller. But you're also pocketing $300 that could go toward a case, screen protector, or simply staying in your wallet.
+The base Razr includes 256GB of storage (in Motorola's direct sales), the same dual 50-megapixel rear cameras, and all the same [technology](https://infeeds.com/tags/technology) features you'd use daily. Yes, its processor will struggle a bit more in low-light photography. Yes, the cover screen is smaller. But you're also pocketing $300 that could go toward a case, screen protector, or simply staying in your wallet.
 
 Both phones get three years of software updates and five years of security patches, so longevity isn't a differentiator. The Razr Plus exists in that uncomfortable middle ground where it's better than the base model in ways that feel incremental, not transformative. It's the phone equivalent of ordering the medium when you're already questioning the price of the large.
 

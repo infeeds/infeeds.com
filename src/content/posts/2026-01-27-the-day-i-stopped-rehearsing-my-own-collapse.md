@@ -24,7 +24,7 @@ But here's what nobody tells you about survival mode. It doesn't clock out. It d
 
 ## When Protection Becomes Prison
 
-I spent years mistaking constant tension for strength. Every financial decision carried the weight of potential collapse. Every [health](https://infeeds.com/tags/?tag=health) update from my doctor felt like a countdown. Every silence from my adult children felt like the prelude to bad news. I was never not bracing for impact.
+I spent years mistaking constant tension for strength. Every financial decision carried the weight of potential collapse. Every [health](https://infeeds.com/tags/health) update from my doctor felt like a countdown. Every silence from my adult children felt like the prelude to bad news. I was never not bracing for impact.
 
 The thing about catastrophic thinking is that it feels responsible. It feels like you're doing something. Like your worry is a form of protection, a shield against being blindsided. But what it actually does is hollow you out from the inside. You become so busy rehearsing disaster that you forget how to just be present for your actual life.
 
@@ -44,7 +44,7 @@ But this time, I didn't listen to them. This time, I let that quiet voice stay. 
 
 ## The Difference Between Reaction and Response
 
-Documentary work taught me something I'd forgotten in my personal [lifestyle](https://infeeds.com/tags/?tag=lifestyle). On set, when crisis hits, you need rapid reaction. You don't have time to fall apart. You adapt. You move. You solve the problem in front of you.
+Documentary work taught me something I'd forgotten in my personal [lifestyle](https://infeeds.com/tags/lifestyle). On set, when crisis hits, you need rapid reaction. You don't have time to fall apart. You adapt. You move. You solve the problem in front of you.
 
 But there's a crucial difference between reaction and response. Reaction is your body gripping, your mind closing, your whole system going rigid with fear. Response is staying open. It's holding chaos without becoming it.
 
@@ -76,6 +76,6 @@ Maybe the best part is this: I feel like I'm standing on the edge of a new chapt
 
 If your mind constantly prepares for disaster, I get it. I lived that way for so long I forgot there was another option. But survival isn't the same as living. Fear isn't the same as wisdom. Preparation isn't the same as panic.
 
-Hope isn't naive or weak or foolish. Hope is a choice you make every single day. Hope is a discipline, a practice, an act of [personal](https://infeeds.com/tags/?tag=lifestyle) resistance against the voice that says it's safer to expect nothing.
+Hope isn't naive or weak or foolish. Hope is a choice you make every single day. Hope is a discipline, a practice, an act of [personal](https://infeeds.com/tags/lifestyle) resistance against the voice that says it's safer to expect nothing.
 
 The mind can be rewired. The heart can reopen. The narrative can change. I believe this now with everything in me: something good is coming, and the simple act of believing it might be what brings it into existence.

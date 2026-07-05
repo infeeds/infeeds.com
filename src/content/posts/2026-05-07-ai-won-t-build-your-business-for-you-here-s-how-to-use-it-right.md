@@ -40,7 +40,7 @@ But this is where a lot of founders over-rely on AI. It can explain. It shouldn'
 
 ## Execution Is Where AI Shines
 
-Where AI becomes immediately valuable is in execution. It can generate checklists for launching your <a href="https://infeeds.com/tags/?tag=business">business</a>, outline the steps to register in your state, and help you keep track of what needs to happen next. Starting a <a href="https://infeeds.com/tags/?tag=business">business</a> often feels overwhelming because of the sheer number of moving parts. Incorporation, permits, tax IDs, insurance, banking. AI helps organize that chaos.
+Where AI becomes immediately valuable is in execution. It can generate checklists for launching your <a href="https://infeeds.com/tags/business">business</a>, outline the steps to register in your state, and help you keep track of what needs to happen next. Starting a <a href="https://infeeds.com/tags/business">business</a> often feels overwhelming because of the sheer number of moving parts. Incorporation, permits, tax IDs, insurance, banking. AI helps organize that chaos.
 
 Resources like the U.S. Small Business Administration are still the source of truth, but AI makes them easier to navigate by translating complex requirements into something actually usable. That's not a shortcut. That's just being smart about your time.
 

@@ -10,7 +10,7 @@ tags_color: '#2196f3'
 
 Apple turned 50 this year, and the Mimms Museum of Technology and Art in Roswell, Georgia is throwing it a party. On April 1, they're opening "iNspire: 50 Years of Innovation from Apple," an exhibit sprawled across 20,000 square feet with over 2,000 Apple items on display. The ribbon-cutting happens at 10 a.m. local time for anyone interested in making the trip.
 
-This is the kind of exhibit that appeals to both the nostalgic and the curious. You'll get to see prototypes, devices, documents, and actual hands-on access to products that shaped how we think about <a href="https://infeeds.com/tags/?tag=technology">technology</a> today. From the Apple-1 to the iPhone 17E, the collection spans the company's entire arc from scrappy underdog to global icon.
+This is the kind of exhibit that appeals to both the nostalgic and the curious. You'll get to see prototypes, devices, documents, and actual hands-on access to products that shaped how we think about <a href="https://infeeds.com/tags/technology">technology</a> today. From the Apple-1 to the iPhone 17E, the collection spans the company's entire arc from scrappy underdog to global icon.
 
 ## The Appeal (and the Reality Check)
 

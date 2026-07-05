@@ -12,7 +12,7 @@ There's a Bay Area biotech startup quietly pitching what might be the most unset
 
 R3 Bio, backed by billionaire Tim Draper and a Singapore longevity fund, believes the future of drug testing doesn't involve monkeys screaming in labs or mice writhing under experimental compounds. It involves what they're calling "organ sacks"—living structures with all the organs you'd need except the consciousness to suffer through the process.
 
-It sounds like science fiction. It probably is, for now. But the fact that serious money is flowing into this concept says something uncomfortable about where medical <a href="https://infeeds.com/tags/?tag=technology">technology</a> is headed.
+It sounds like science fiction. It probably is, for now. But the fact that serious money is flowing into this concept says something uncomfortable about where medical <a href="https://infeeds.com/tags/technology">technology</a> is headed.
 
 ## Why Monkeys Are Becoming Impossible to Find
 

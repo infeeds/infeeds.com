@@ -24,7 +24,7 @@ That's a convenient argument, naturally. Whether Picasso would have actually end
 
 ## The Art World Reckoning Nobody's Talking About
 
-What's curious about this whole enterprise is how it sits awkwardly between two opposing worldviews about art. On one side, you have the traditional <a href="https://infeeds.com/tags/?tag=business">business</a> of fine art, where scarcity, provenance, and institutional gatekeeping determine value. On the other, you have a system that essentially says "anyone with a hundred euros can own a Picasso." 
+What's curious about this whole enterprise is how it sits awkwardly between two opposing worldviews about art. On one side, you have the traditional <a href="https://infeeds.com/tags/business">business</a> of fine art, where scarcity, provenance, and institutional gatekeeping determine value. On the other, you have a system that essentially says "anyone with a hundred euros can own a Picasso." 
 
 Hodara's first instinct wasn't to flip the painting or hang it in a trophy room. He said he'd tell his wife first and then keep it. That's worth noting. He's not thinking like a collector or an investor. He's thinking like someone who just got handed something extraordinary and wants to sit with it.
 

@@ -28,7 +28,7 @@ This is where it gets interesting. McKinsey's solution isn't another quarterly o
 
 Heather Stefanski, the firm's chief learning and development officer, explained that they've started emphasizing something called "leading self." Part of that involves breathing exercises and grounding techniques designed to bring leaders back to present-moment awareness.
 
-The logic is sound: when your brain is in overdrive processing dozens of simultaneous crises, you can't make good decisions. You're reactive, not strategic. The [business](https://infeeds.com/tags/?tag=business) world moves fast, but the human nervous system hasn't evolved to handle this level of constant stimulation. Breathing exercises sound almost absurdly simple, but they're actually a hack to reset your cognitive baseline.
+The logic is sound: when your brain is in overdrive processing dozens of simultaneous crises, you can't make good decisions. You're reactive, not strategic. The [business](https://infeeds.com/tags/business) world moves fast, but the human nervous system hasn't evolved to handle this level of constant stimulation. Breathing exercises sound almost absurdly simple, but they're actually a hack to reset your cognitive baseline.
 
 Think about it. A Navy SEAL or a professional sports coach doesn't win under pressure by working harder or thinking faster. They win by staying calm enough to execute fundamentals. McKinsey started importing these external voices specifically because they understand that complexity doesn't require panic. It requires presence.
 

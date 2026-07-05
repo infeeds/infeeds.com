@@ -26,7 +26,7 @@ The surveillance footage is genuinely unsettling. A masked man wearing gloves an
 
 Through forensic analysis, the FBI determined the suspect stands between 5'9" and 5'10" with an average build. These details matter when you're trying to identify someone from grainy nighttime footage, but they also describe a significant portion of the male population. Still, combined with the backpack and the DNA evidence, investigators might actually have something to work with.
 
-The sheriff's department is keeping their options open, saying they're "not ruling out any individuals or possibilities" despite the suspect description being a key focus. That's standard procedure in [news](https://infeeds.com/tags/?tag=news) investigations like this, but it also suggests they might be looking at multiple angles.
+The sheriff's department is keeping their options open, saying they're "not ruling out any individuals or possibilities" despite the suspect description being a key focus. That's standard procedure in [news](https://infeeds.com/tags/news) investigations like this, but it also suggests they might be looking at multiple angles.
 
 ## The Timeline and Health Concerns
 
@@ -44,4 +44,4 @@ What strikes me about this case is how methodical the suspect appears in that do
 
 Savannah's latest video appeal speaks directly to "whoever has her, or knows where she is," emphasizing that her mother's loved ones "still have hope." It's the kind of statement that requires immense strength to make publicly when you're probably falling apart privately. The waiting must be absolute torture for the family, watching investigators methodically process evidence while their mother and grandmother remains missing.
 
-The investigation continues with thousands of tips pouring in, but ultimately this case may come down to that single glove and the DNA profile it contains. Sometimes [crime](https://infeeds.com/tags/?tag=news) cases hinge on the smallest pieces of evidence, the things a perpetrator doesn't even realize they've left behind.
+The investigation continues with thousands of tips pouring in, but ultimately this case may come down to that single glove and the DNA profile it contains. Sometimes [crime](https://infeeds.com/tags/news) cases hinge on the smallest pieces of evidence, the things a perpetrator doesn't even realize they've left behind.

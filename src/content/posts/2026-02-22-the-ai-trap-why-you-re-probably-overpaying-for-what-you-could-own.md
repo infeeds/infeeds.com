@@ -20,7 +20,7 @@ Here's what's actually happening. You sign up for one AI service because it seem
 
 The math gets worse when you think about your actual usage. How many of these tools do you use daily? Honestly? Most people use maybe three consistently and forget about the rest until the payment notification reminds them.
 
-This is by design, of course. The <a href="https://infeeds.com/tags/?tag=business">business</a> model for cloud-based AI works beautifully for the providers. Recurring revenue, minimal support costs, and most customers won't bother to cancel even if they're not using the service.
+This is by design, of course. The <a href="https://infeeds.com/tags/business">business</a> model for cloud-based AI works beautifully for the providers. Recurring revenue, minimal support costs, and most customers won't bother to cancel even if they're not using the service.
 
 ## The Privacy Question That Won't Go Away
 
@@ -36,7 +36,7 @@ The concept of local-first software isn't new, but it's been overshadowed by the
 
 No internet dependency. No data trail. No monthly bill increasing year over year. Just you, your computer, and AI capabilities that actually work for your specific workflows.
 
-This approach won't work for everyone. If you need cutting-edge, bleeding-edge AI that requires massive computational resources, you'll still need the cloud. But for the vast majority of <a href="https://infeeds.com/tags/?tag=business">business</a> tasks, you don't actually need the fanciest model. You need something that writes decent emails, analyzes documents, helps with coding, and doesn't disappear when your internet cuts out.
+This approach won't work for everyone. If you need cutting-edge, bleeding-edge AI that requires massive computational resources, you'll still need the cloud. But for the vast majority of <a href="https://infeeds.com/tags/business">business</a> tasks, you don't actually need the fanciest model. You need something that writes decent emails, analyzes documents, helps with coding, and doesn't disappear when your internet cuts out.
 
 The practical appeal is obvious. Pay once, own it forever, keep everything on your device. No surprise fee increases. No terms of service changes that suddenly affect your workflow. It's almost retro in its simplicity.
 
@@ -52,7 +52,7 @@ The real question isn't whether this approach is objectively better. It's whethe
 
 We've been conditioned to believe that subscription models are inevitable and that cloud is always superior. Neither is actually true. They're just the dominant business models right now.
 
-What's interesting is watching entrepreneurs quietly reconsider their <a href="https://infeeds.com/tags/?tag=technology">technology</a> stacks as subscription fatigue sets in. Some are moving back to desktop software. Others are exploring open-source alternatives. A few are experimenting with hybrid approaches.
+What's interesting is watching entrepreneurs quietly reconsider their <a href="https://infeeds.com/tags/technology">technology</a> stacks as subscription fatigue sets in. Some are moving back to desktop software. Others are exploring open-source alternatives. A few are experimenting with hybrid approaches.
 
 This isn't a return to the past so much as a recognition that the cloud everything future might not be the right fit for everyone's needs.
 

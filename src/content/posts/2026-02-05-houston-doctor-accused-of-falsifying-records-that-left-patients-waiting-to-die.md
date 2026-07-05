@@ -24,7 +24,7 @@ The two patients who survived? They got their transplants at different hospitals
 
 ## Questions Without Answers
 
-Here's what makes this case even more disturbing. Federal prosecutors haven't explained why. What possible motive could drive a veteran transplant surgeon to allegedly falsify records that would condemn patients to death? The U.S. Attorney's Office declined to comment on that question. The [health](https://infeeds.com/tags/?tag=health) implications are staggering, and families deserve answers.
+Here's what makes this case even more disturbing. Federal prosecutors haven't explained why. What possible motive could drive a veteran transplant surgeon to allegedly falsify records that would condemn patients to death? The U.S. Attorney's Office declined to comment on that question. The [health](https://infeeds.com/tags/health) implications are staggering, and families deserve answers.
 
 Bynon's attorney, Samy Khalil, came out swinging after his client's court appearance. He called the prosecution "totally, totally misguided" and insisted everything Bynon did was lawful and in good faith. Khalil said they're looking forward to "educating, frankly, the government on the medical concepts" involved in the case.
 
@@ -42,7 +42,7 @@ Multiple families have filed lawsuits in Houston civil court. They're desperate 
 
 U.S. Attorney Nicholas J. Ganjei put it plainly in his statement: "Dr. Bynon is alleged to have betrayed the most sacred duty of a medical professional, to heal." He added that Bynon "stole years and hope from those who trusted him most."
 
-That word, trust, keeps coming up. Because what else do patients have when they're lying in a hospital bed waiting for a new liver? They can't audit their own medical records. They can't verify that their doctor is entering accurate information into transplant databases. They have no choice but to trust that the [medical](https://infeeds.com/tags/?tag=health) professionals caring for them are acting in their best interest.
+That word, trust, keeps coming up. Because what else do patients have when they're lying in a hospital bed waiting for a new liver? They can't audit their own medical records. They can't verify that their doctor is entering accurate information into transplant databases. They have no choice but to trust that the [medical](https://infeeds.com/tags/health) professionals caring for them are acting in their best interest.
 
 Each count against Bynon carries a potential five-year prison sentence. But no sentence can give back the time those patients lost or restore the hope their families held onto while watching them deteriorate.
 

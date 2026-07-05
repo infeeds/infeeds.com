@@ -36,7 +36,7 @@ It's the unsexy part of building something real. You can't just launch. You have
 
 ## Why This Actually Matters
 
-Phoenix specifically is worth noting. Arizona has become an autonomous <a href="https://infeeds.com/tags/?tag=technology">technology</a> testing ground because the state doesn't regulate like California does, the terrain is flat, and the weather cooperates. Waymo launched there in 2020 and has been operating ever since. If Zoox can prove it can operate competitively in Phoenix, it changes the conversation about who wins in this space.
+Phoenix specifically is worth noting. Arizona has become an autonomous <a href="https://infeeds.com/tags/technology">technology</a> testing ground because the state doesn't regulate like California does, the terrain is flat, and the weather cooperates. Waymo launched there in 2020 and has been operating ever since. If Zoox can prove it can operate competitively in Phoenix, it changes the conversation about who wins in this space.
 
 This is the first time Zoox will operate in Arizona. The company is essentially saying it's ready to compete on Waymo's home turf.
 

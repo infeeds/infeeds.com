@@ -12,7 +12,7 @@ tags_color: '#4caf50'
 
 The four horsemen of the internet economy are about to spend an absolutely bonkers amount of money this year. We're talking $700 billion combined. That's not a typo. Alphabet, Microsoft, Meta, and Amazon are opening their wallets wider than ever before to chase the AI dream.
 
-For context, that's more than the GDP of most countries. And it represents a 60% jump from what were already historic spending levels in 2025. The [technology](https://infeeds.com/tags/?tag=technology) giants are buying chips by the truckload, constructing massive data centers that probably have their own zip codes, and snapping up networking equipment like it's going out of style.
+For context, that's more than the GDP of most countries. And it represents a 60% jump from what were already historic spending levels in 2025. The [technology](https://infeeds.com/tags/technology) giants are buying chips by the truckload, constructing massive data centers that probably have their own zip codes, and snapping up networking equipment like it's going out of style.
 
 ## The Free Cash Flow Massacre
 
@@ -34,7 +34,7 @@ Jake Dollarhide from Longbow Asset Management isn't worried though. He's got Ama
 
 ## The Justification Game
 
-So what's the pitch here? Why are these companies willing to torch their cash generation in the near term? The answer is cloud computing and AI infrastructure. They're all betting that [business](https://infeeds.com/tags/?tag=business) demand for AI compute will be absolutely massive.
+So what's the pitch here? Why are these companies willing to torch their cash generation in the near term? The answer is cloud computing and AI infrastructure. They're all betting that [business](https://infeeds.com/tags/business) demand for AI compute will be absolutely massive.
 
 Andy Jassy at Amazon pointed out that AWS growth was the fastest they'd seen in 13 quarters. Morgan Stanley's Brian Nowak says Alphabet is seeing real returns on Google Cloud, Search, and YouTube. The narrative is that companies everywhere are building AI agents and applications, and all of that needs compute power.
 

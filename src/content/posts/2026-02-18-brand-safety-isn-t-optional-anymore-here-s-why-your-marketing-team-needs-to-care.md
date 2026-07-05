@@ -28,7 +28,7 @@ But here's where it gets interesting. Not every brand needs the same rules. A va
 
 ## Brand Safety vs. Brand Suitability: Understanding the Difference
 
-This distinction matters more than you'd think. Brand safety is about what's legally and ethically acceptable. Brand suitability is about what aligns with your specific [business](https://infeeds.com/tags/?tag=business) values and audience expectations.
+This distinction matters more than you'd think. Brand safety is about what's legally and ethically acceptable. Brand suitability is about what aligns with your specific [business](https://infeeds.com/tags/business) values and audience expectations.
 
 Take true crime content as an example. From a safety perspective, most true crime shows and podcasts are completely fine. They're legal, compliant, and honestly pretty mainstream at this point. But if you're a wellness brand focused on peace and mindfulness, advertising next to murder documentaries might send the wrong message. The content is brand safe but not brand suitable.
 
@@ -94,4 +94,4 @@ Brand safety isn't theoretical. The consequences are real and measurable. Brands
 
 The scary part is how fast things can spiral. A single screenshot can go viral in minutes. By the time your team notices and responds, thousands or millions of people have already seen it. The internet doesn't forget, and your competitors definitely won't let your audience forget either.
 
-Maybe the real question isn't whether you can afford to invest in brand safety, but whether you can afford not to when one mistake can undo years of careful [business](https://infeeds.com/tags/?tag=business) building in a single afternoon.
+Maybe the real question isn't whether you can afford to invest in brand safety, but whether you can afford not to when one mistake can undo years of careful [business](https://infeeds.com/tags/business) building in a single afternoon.

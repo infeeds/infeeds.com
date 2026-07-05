@@ -18,7 +18,7 @@ At least for now.
 
 Netgear became the first company to receive "Conditional Approval" despite having routers manufactured in Vietnam, Thailand, Indonesia, and Taiwan. The company's US headquarters apparently mattered enough to the FCC. The irony isn't lost on anyone paying attention.
 
-But here's the catch that should actually worry you: the FCC says firmware updates, which are crucial for security, can only continue "at least until March 1, 2027." That "at least" matters. It's wiggle room. But if your router doesn't make it onto the exemption list by then, it basically becomes a security liability. Without patches for new vulnerabilities, you're running an increasingly vulnerable device on your <a href="https://infeeds.com/tags/?tag=technology">Technology</a> network.
+But here's the catch that should actually worry you: the FCC says firmware updates, which are crucial for security, can only continue "at least until March 1, 2027." That "at least" matters. It's wiggle room. But if your router doesn't make it onto the exemption list by then, it basically becomes a security liability. Without patches for new vulnerabilities, you're running an increasingly vulnerable device on your <a href="https://infeeds.com/tags/technology">Technology</a> network.
 
 Nearly every router currently on US shelves has some stage of manufacturing outside the country. We're talking TP-Link, Asus, D-Link, and countless others. According to the source reporting, about 60% of routers in the US are manufactured in China. Even Starlink's newer models, apparently the only exception, are made in Texas. Everything else? Components sourced globally, assembly somewhere foreign.
 

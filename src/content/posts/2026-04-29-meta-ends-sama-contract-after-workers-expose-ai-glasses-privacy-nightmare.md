@@ -26,7 +26,7 @@ Within weeks of the Swedish investigation, Meta paused its work with Sama. Less 
 
 Meta's explanation was blunt: Sama didn't meet its standards. That's where the story might have ended, except Sama pushed back hard. In a statement to BBC News, the company said it had "consistently met the operational, security and quality standards required across our client engagements, including with Meta" and that it was "never notified of any failure to meet those standards."
 
-Here's where the timing becomes suspicious. Naftali Wambalo from the Africa Tech Workers Movement, who is involved in ongoing legal action against Meta over earlier <a href="https://infeeds.com/tags/?tag=business">business</a> practices, told the BBC he believed the real issue wasn't standards at all. "What I think are the standards they are talking about here are standards of secrecy," he said.
+Here's where the timing becomes suspicious. Naftali Wambalo from the Africa Tech Workers Movement, who is involved in ongoing legal action against Meta over earlier <a href="https://infeeds.com/tags/business">business</a> practices, told the BBC he believed the real issue wasn't standards at all. "What I think are the standards they are talking about here are standards of secrecy," he said.
 
 The argument cuts deep. If Sama genuinely failed to meet quality benchmarks, why wasn't this flagged months or years into the relationship? Why the sudden termination right after workers went public? Meta hasn't directly addressed these questions.
 
@@ -34,7 +34,7 @@ The argument cuts deep. If Sama genuinely failed to meet quality benchmarks, why
 
 This isn't Meta's first rough partnership with Sama either. The company also hired Sama to moderate Facebook content, a contract that later attracted criticism and legal action from former employees who described being traumatised by exposure to graphic material. Workers at that contract also faced pushback when they complained.
 
-Mercy Mutemi, a lawyer representing petitioners in the Facebook moderation case and executive director of campaign group the Oversight Lab, sees a troubling pattern. She warned the Kenyan government about building an AI industry on what she called "a very flimsy foundation." Her concern: Kenya risks becoming a global hub for outsourced <a href="https://infeeds.com/tags/?tag=technology">technology</a> work without proper protections for its workers.
+Mercy Mutemi, a lawyer representing petitioners in the Facebook moderation case and executive director of campaign group the Oversight Lab, sees a troubling pattern. She warned the Kenyan government about building an AI industry on what she called "a very flimsy foundation." Her concern: Kenya risks becoming a global hub for outsourced <a href="https://infeeds.com/tags/technology">technology</a> work without proper protections for its workers.
 
 Regulators have started paying attention. The UK's Information Commissioners Office wrote to Meta expressing concern shortly after the Swedish investigation. Kenya's Office of the Data Protection Commissioner announced its own investigation into privacy issues surrounding the glasses.
 

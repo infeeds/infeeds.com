@@ -20,7 +20,7 @@ The timing matters here. Oil prices shot up following his announcement because, 
 
 Let's talk about what's actually happening in the energy markets. Crude has been climbing steadily, and Iran's warning that prices could hit $200 per barrel isn't just inflammatory speech. It's a direct threat to the global economy. Refineries depend on that oil flow. Airlines need it. Manufacturers need it. When the Strait closes, everyone from Mumbai to Manhattan feels it in their wallet.
 
-The <a href="https://infeeds.com/tags/?tag=business">business</a> implications here are staggering. Shipping companies have already rerouted around Africa, which adds weeks to delivery times and billions in extra costs. Insurance premiums for tankers in the region have skyrocketed. Supply chains that were already fragile after the pandemic are facing yet another stress test they probably didn't need.
+The <a href="https://infeeds.com/tags/business">business</a> implications here are staggering. Shipping companies have already rerouted around Africa, which adds weeks to delivery times and billions in extra costs. Insurance premiums for tankers in the region have skyrocketed. Supply chains that were already fragile after the pandemic are facing yet another stress test they probably didn't need.
 
 What's wild is that this conflict seems to be accelerating rather than cooling down. There are no signs of de-escalation whatsoever. Instead, air and sea attacks have intensified this week. Iran has been hitting tankers. The US and Israel keep striking Iranian infrastructure. It's a spiral, and nobody's hitting the brakes.
 
@@ -38,7 +38,7 @@ Here's the thing though: experts have been pretty consistent that airstrikes alo
 
 The retaliatory cycle has turned into something resembling a grinding conflict. Iran says it will seek compensation from enemies or destroy their assets accordingly. That's not the language of someone looking for a ceasefire. That's the language of someone prepared for a long fight.
 
-The <a href="https://infeeds.com/tags/?tag=news">news</a> cycle will probably focus on the military angle, which is important. But the real story for anyone paying attention to markets is simpler: energy security just became a much bigger question mark, and volatility is likely to stay elevated for months.
+The <a href="https://infeeds.com/tags/news">news</a> cycle will probably focus on the military angle, which is important. But the real story for anyone paying attention to markets is simpler: energy security just became a much bigger question mark, and volatility is likely to stay elevated for months.
 
 Investors in renewable energy have to be looking at this situation and seeing both risk and opportunity. Geopolitical tensions always create demand for alternatives. But nobody's switching to solar panels overnight when your supply chains depend on Middle Eastern oil.
 

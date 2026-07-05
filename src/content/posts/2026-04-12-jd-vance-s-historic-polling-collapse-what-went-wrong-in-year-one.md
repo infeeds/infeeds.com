@@ -26,7 +26,7 @@ The timing matters here too. One year into a four-year term means there's still 
 
 One concrete factor stands out in Vance's unpopularity: his involvement in foreign policy, particularly his unsuccessful efforts to support Hungarian Prime Minister Viktor Orban. That's not an isolated misstep. It fits into a broader concern that, according to the data, most Americans share. They believe the Trump administration is too focused on foreign matters.
 
-This creates a political paradox. While Washington debates international strategy and [Business](https://infeeds.com/tags/?tag=business) leaders hedge their bets on geopolitical shifts, working Americans are grappling with something more immediate: rising costs, sudden instability, and genuine economic squeeze. When voters see their leaders obsessing over Hungary while their own bank accounts feel thinner, the disconnect registers as tone-deaf.
+This creates a political paradox. While Washington debates international strategy and [Business](https://infeeds.com/tags/business) leaders hedge their bets on geopolitical shifts, working Americans are grappling with something more immediate: rising costs, sudden instability, and genuine economic squeeze. When voters see their leaders obsessing over Hungary while their own bank accounts feel thinner, the disconnect registers as tone-deaf.
 
 Vance's role in these foreign policy maneuvers hasn't helped his standing. It's one thing to take heat for administration policies you didn't personally champion. It's another to actively own them and still watch your numbers collapse.
 

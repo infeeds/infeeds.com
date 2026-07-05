@@ -26,6 +26,6 @@ Welker attempted to redirect the conversation several times, asking about Acting
 
 What struck me most about this exchange wasn't the policy disagreements. It was the pattern: a refusal to provide evidence for serious allegations, followed by hostility toward the questioner when pressed. The weaponization fund controversy represents a significant financial and legal arrangement that affects millions in tax-related matters, and the public deserves more than assertions. The same goes for election integrity claims, which impact the fundamental functioning of democracy.
 
-This is [business](https://infeeds.com/tags/?tag=business) in the sense that it involves settlements, funds, and legal frameworks that have real economic implications. It's also a window into how the administration handles scrutiny. When the press pushes back, the response isn't always to engage. Sometimes, it's to walk away.
+This is [business](https://infeeds.com/tags/business) in the sense that it involves settlements, funds, and legal frameworks that have real economic implications. It's also a window into how the administration handles scrutiny. When the press pushes back, the response isn't always to engage. Sometimes, it's to walk away.
 
 The interview, of course, was taped. NBC will decide what to air. But the image of a president crushing a microphone on his way out speaks volumes about the current state of discourse between the White House and the press corps.

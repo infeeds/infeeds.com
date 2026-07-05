@@ -20,7 +20,7 @@ The overarching theme ties back to the spangram, which is the word that stretche
 
 If you're stuck after a few minutes, here's a practical hint: think about things that go up and things that stand out. One interpretation leans vertical, the other leans toward distinction. That should point you toward the right mental framework.
 
-The puzzle's difficulty partly comes from the fact that some answers are genuinely tough to unscramble. Your typical [tech](https://infeeds.com/tags/?tag=technology) puzzle solver might breeze through this, but most of us need to work for it a little.
+The puzzle's difficulty partly comes from the fact that some answers are genuinely tough to unscramble. Your typical [tech](https://infeeds.com/tags/technology) puzzle solver might breeze through this, but most of us need to work for it a little.
 
 ## The Full Answers
 

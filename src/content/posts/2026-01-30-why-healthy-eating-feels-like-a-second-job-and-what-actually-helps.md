@@ -24,7 +24,7 @@ And then there's the practical side. Finding time to cook when you're already st
 
 ## When Convenience Becomes the Enemy
 
-Here's what nobody talks about enough: our modern [lifestyle](https://infeeds.com/tags/?tag=lifestyle) has made convenience the default setting. We've built entire industries around not having to think about food. Just tap a button and someone brings you dinner. It's efficient in the moment but it slowly chips away at your relationship with actual nourishment.
+Here's what nobody talks about enough: our modern [lifestyle](https://infeeds.com/tags/lifestyle) has made convenience the default setting. We've built entire industries around not having to think about food. Just tap a button and someone brings you dinner. It's efficient in the moment but it slowly chips away at your relationship with actual nourishment.
 
 I catch myself fantasizing about some mythical future where I'll finally have time to learn proper cooking. Like there's going to be this magical window where life calms down and I can attend cooking classes and meal prep like those people on Instagram. But that's probably never coming, right? Life doesn't typically get less busy as you age.
 
@@ -36,7 +36,7 @@ One thing that resonates is this idea of cooking without recipes. I've noticed t
 
 There's a freedom in being able to look at whatever vegetables are dying in your fridge and turning them into something edible without consulting the internet. That's when cooking stops being a chore and starts being a practical skill you actually own.
 
-But getting to that point requires learning and practice, which brings us back to the time problem. Most of us are trying to change our [health](https://infeeds.com/tags/?tag=health) habits while simultaneously working, parenting, managing relationships, and keeping our heads above water. Adding "learn to cook intuitively" to that list feels impossible.
+But getting to that point requires learning and practice, which brings us back to the time problem. Most of us are trying to change our [health](https://infeeds.com/tags/health) habits while simultaneously working, parenting, managing relationships, and keeping our heads above water. Adding "learn to cook intuitively" to that list feels impossible.
 
 ## Making It Actually Doable
 

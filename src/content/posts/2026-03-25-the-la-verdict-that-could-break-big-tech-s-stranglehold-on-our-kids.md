@@ -44,7 +44,7 @@ Here's something that should worry us more than it does: children today don't co
 
 Facebook, Meta's original platform, has become a joke as the "boomer platform." Yet 2025 figures suggest nearly half of its worldwide users are aged 18-35. That's not by accident. That generation grew up on it. They were the test subjects.
 
-This is why Kaley's victory matters so much. There are more cases coming this year. More trials scheduled. More opportunities for courts to establish that yes, [tech](/tags/?tag=tech) companies knew what they were doing, and yes, they're responsible for the harm.
+This is why Kaley's victory matters so much. There are more cases coming this year. More trials scheduled. More opportunities for courts to establish that yes, [tech](/tags/tech) companies knew what they were doing, and yes, they're responsible for the harm.
 
 Ellen Roome, a British mother who lost her 14-year-old son Jools to what she believes was an online challenge, has been campaigning hard for change. Her position is simple: just ban it for kids now. Don't wait for more studies. Don't commission more reports. We know enough.
 

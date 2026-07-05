@@ -12,7 +12,7 @@ tags_color: '#e91e63'
 
 We all know walking is good for us. But here's the thing: most of us are probably doing it wrong. Not wrong in a dangerous way, but wrong in the sense that we're leaving so much potential on the table.
 
-Matthew Nolan, a chief instructor at Barry's in New York City, puts it pretty bluntly. Walking improves cardiovascular health, strengthens your heart, helps with circulation, and lowers blood pressure. It can even help prevent heart disease and stroke. On the mental [health](https://infeeds.com/tags/?tag=health) side, those endorphins flooding your system will boost your mood in ways that scrolling through social media never will.
+Matthew Nolan, a chief instructor at Barry's in New York City, puts it pretty bluntly. Walking improves cardiovascular health, strengthens your heart, helps with circulation, and lowers blood pressure. It can even help prevent heart disease and stroke. On the mental [health](https://infeeds.com/tags/health) side, those endorphins flooding your system will boost your mood in ways that scrolling through social media never will.
 
 But that's just scratching the surface. Daily walking builds bone and muscle strength, improves joint health, and can actually help people dealing with chronic lower back pain or knee issues. Tyler Moldoff, a physical therapist at the Hospital for Special Surgery in New York, says recent research shows that walking, when done properly, is an exceptional form of exercise.
 
@@ -24,7 +24,7 @@ The U.S. government says adults need at least 150 minutes of moderate-intensity 
 
 Moldoff has a clever trick for this. Instead of obsessing over your heart rate monitor, just queue up a song that's about 100 beats per minute and match your steps to the rhythm. You can find playlists on Spotify or Apple Music organized by tempo. After a few minutes of walking to that beat, you'll notice your breathing picking up. That's the moderate intensity you're after.
 
-If 100 BPM feels too easy, bump it up to 110 or 120. The music makes the whole thing more enjoyable anyway, which means you're more likely to stick with it. And consistency matters more than anything else when it comes to building a sustainable [fitness](https://infeeds.com/tags/?tag=fitness) routine.
+If 100 BPM feels too easy, bump it up to 110 or 120. The music makes the whole thing more enjoyable anyway, which means you're more likely to stick with it. And consistency matters more than anything else when it comes to building a sustainable [fitness](https://infeeds.com/tags/fitness) routine.
 
 ## Intervals Aren't Just for Runners
 
@@ -48,4 +48,4 @@ Walking uphill does the opposite. It challenges your cardiovascular system and, 
 
 Nolan stresses that consistency beats intensity every time. Walking regularly, at least 30 minutes most days of the week, delivers real benefits. But you need to listen to your body. Take rest days when you need them, and don't push through actual pain.
 
-It takes time to build up the strength and endurance for these challenges. That's completely normal. The point isn't to transform into an ultra-marathoner overnight. The point is to stop treating your daily walk like an afterthought and start treating it like the powerful tool for [lifestyle](https://infeeds.com/tags/?tag=lifestyle) improvement that it actually is.
+It takes time to build up the strength and endurance for these challenges. That's completely normal. The point isn't to transform into an ultra-marathoner overnight. The point is to stop treating your daily walk like an afterthought and start treating it like the powerful tool for [lifestyle](https://infeeds.com/tags/lifestyle) improvement that it actually is.

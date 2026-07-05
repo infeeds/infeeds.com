@@ -14,7 +14,7 @@ Snow rarely stops the Japanese from doing anything, and Sunday's election was no
 
 The Liberal Democratic Party had just lost its majority. Their decades-long coalition with Komeito had fallen apart. Corruption scandals were still fresh in everyone's minds. The last two LDP leaders couldn't even finish their terms. And here's Takaichi, deciding the best time for an election is the middle of winter, something Japan hasn't done in 36 years.
 
-But here's the thing about Takaichi. She's wildly popular. Her approval ratings hover above 70%, which is basically unheard of in modern Japanese [politics](https://infeeds.com/tags/?tag=politics). Her new coalition with the Japanese Innovation Party is projected to snag up to 300 of the 465 lower house seats. That's not just a win, that's a statement.
+But here's the thing about Takaichi. She's wildly popular. Her approval ratings hover above 70%, which is basically unheard of in modern Japanese [politics](https://infeeds.com/tags/politics). Her new coalition with the Japanese Innovation Party is projected to snag up to 300 of the 465 lower house seats. That's not just a win, that's a statement.
 
 ## The Money Problem Everyone's Worried About
 
@@ -22,7 +22,7 @@ Walk around Tokyo and ask people what they're thinking about, and it won't take 
 
 Rumi Hayama's story is one you'll hear repeated across the country. She and her husband both have decent jobs, but they can't afford a bigger place for their growing son. Housing costs have skyrocketed. Daily expenses keep creeping up. The Japan that felt stable and affordable just a few years ago now feels like it's slipping away.
 
-Takaichi's response? Spend more. Her populist promises and nationalist rhetoric have energized voters, but [business](https://infeeds.com/tags/?tag=business) leaders and economists are side-eyeing those pledges hard. Japan already has one of the highest government debt loads among developed nations. Throwing more money at the problem might win votes, but whether it actually fixes anything is another question entirely.
+Takaichi's response? Spend more. Her populist promises and nationalist rhetoric have energized voters, but [business](https://infeeds.com/tags/business) leaders and economists are side-eyeing those pledges hard. Japan already has one of the highest government debt loads among developed nations. Throwing more money at the problem might win votes, but whether it actually fixes anything is another question entirely.
 
 ## The Immigration Elephant Nobody Wants to Talk About
 
@@ -32,7 +32,7 @@ The irony isn't lost on anyone. Takaichi promises economic revival while closing
 
 ## China, Trump, and the Diplomatic Tightrope
 
-If domestic [policy](https://infeeds.com/tags/?tag=politics) is complicated, foreign policy is where things get really messy. Takaichi managed to anger Beijing, Japan's largest trading partner, by suggesting Japan might respond militarily if China attacked Taiwan. That's not exactly the kind of thing you say casually when your economy depends heavily on trade with your neighbour.
+If domestic [policy](https://infeeds.com/tags/politics) is complicated, foreign policy is where things get really messy. Takaichi managed to anger Beijing, Japan's largest trading partner, by suggesting Japan might respond militarily if China attacked Taiwan. That's not exactly the kind of thing you say casually when your economy depends heavily on trade with your neighbour.
 
 Then there's the Trump factor. She's courted him, he's publicly endorsed her (which is weird for a US president to do), and they both agree Japan should spend more on defence. The US initially threatened 25% tariffs but backed down to 15%, which is still significant. Voter Yuko Sakai summed up what a lot of people are thinking: where's the money coming from to balance defence spending with actually improving people's lives?
 

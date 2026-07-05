@@ -50,6 +50,6 @@ But balance issues are a genuine safety concern. There's no handrail, no emergen
 
 Before you buy, research. Not all under-desk treadmills are created equal. Some are smooth, quiet, and well-built. Others squeak and jolt. The price difference isn't always the indicator. Read reviews from people who actually use these daily, not just for a weekend test run.
 
-And if you're serious about getting fit, a full-size treadmill or <a href="https://infeeds.com/tags/?tag=technology">Technology</a> that gets you outside will do more for you in the long run. Under-desk treadmills are a supplement, not a solution. They're perfect for filling dead time with movement, but they're not a replacement for real exercise.
+And if you're serious about getting fit, a full-size treadmill or <a href="https://infeeds.com/tags/technology">Technology</a> that gets you outside will do more for you in the long run. Under-desk treadmills are a supplement, not a solution. They're perfect for filling dead time with movement, but they're not a replacement for real exercise.
 
 The real question isn't whether you can use one. It's whether you'll actually use it consistently. That's where most of us fall short, regardless of the equipment.

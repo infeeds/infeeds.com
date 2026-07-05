@@ -28,7 +28,7 @@ What's striking is how Reid has talked about this publicly. He hasn't shied away
 
 Most parents don't have to hand their kids a roadmap for orphanhood before heading to work. Most jobs don't require that kind of conversation. But spaceflight isn't most jobs, and Wiseman isn't pretending otherwise. He's being honest about what it costs.
 
-## The [Business](/tags/?tag=business) of Remembrance
+## The [Business](/tags/business) of Remembrance
 
 The Artemis II crew also proposed naming another crater after their Orion spacecraft, Integrity. It's a deliberate choice, that name. Everything about this mission has a weight to it that extends beyond the technical achievement.
 

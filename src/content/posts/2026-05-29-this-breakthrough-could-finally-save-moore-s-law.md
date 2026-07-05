@@ -36,7 +36,7 @@ They also redesigned the transistor architecture itself, using junctionless tran
 
 The results were compelling. They fabricated three stacked layers containing 625 transistors each, with device yields between 98 and 100 percent. The output current densities matched conventional silicon transistors fabricated on bulk wafers at much higher temperatures, and they outperformed monolithic devices made from alternative materials by a factor of three to four.
 
-This matters for [Technology](https://infeeds.com/tags/?tag=technology) because AI and data-intensive computing applications are particularly hungry for the advantages that 3D integration provides. Shorter wiring distances reduce parasitic capacitance and significantly increase communication bandwidth between different parts of a chip.
+This matters for [Technology](https://infeeds.com/tags/technology) because AI and data-intensive computing applications are particularly hungry for the advantages that 3D integration provides. Shorter wiring distances reduce parasitic capacitance and significantly increase communication bandwidth between different parts of a chip.
 
 Perhaps most significantly, the researchers believe this process is scalable. They demonstrated three layers, but there's no fundamental reason you couldn't keep stacking. The team is now preparing to transfer the technology to an industrial semiconductor foundry, working with partners including IBM, Intel, and Taiwan Semiconductor Manufacturing Company.
 

@@ -16,7 +16,7 @@ SpaceX released a video recently showcasing the Starfactory in South Texas, and 
 
 ## The Weight of Everything
 
-Here's what you need to understand about Starship V3: it's not just another test flight. It's the linchpin for an entire ecosystem of <a href="https://infeeds.com/tags/?tag=business">business</a> plans that SpaceX and dozens of other companies have already bet billions on.
+Here's what you need to understand about Starship V3: it's not just another test flight. It's the linchpin for an entire ecosystem of <a href="https://infeeds.com/tags/business">business</a> plans that SpaceX and dozens of other companies have already bet billions on.
 
 SpaceX itself has gone all-in on a future where Starship dominates. The company is pivoting away from its workhorse Falcon 9 rocket, which remains the most in-demand launch vehicle in the Western world. Last year, SpaceX flew Falcon 9 165 times. This year, that number is dropping. The company has halted Falcon 9 operations from one of its two Florida pads and repurposed it for Starship. It even retired one of its seagoing landing platforms to serve as a transporter for moving Starships from Texas to Florida.
 

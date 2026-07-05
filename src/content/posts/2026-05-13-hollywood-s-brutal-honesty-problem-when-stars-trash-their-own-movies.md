@@ -10,7 +10,7 @@ tags_color: '#a91e63'
 
 There's a peculiar tax on honesty in Hollywood. Tell the world a film is terrible, and the industry might reward you with silence, or worse, financial ruin. Yet actors keep doing it anyway, driven by something stronger than contractual obligations or PR strategy: the need to be truthful about their own work.
 
-The stories that emerge from this collision between art and commerce reveal something uncomfortable about how the entertainment <a href="https://infeeds.com/tags/?tag=business">business</a> actually operates. It's not just about protecting egos or box office numbers. It's about control, leverage, and what happens when someone decides the truth matters more than the paycheck.
+The stories that emerge from this collision between art and commerce reveal something uncomfortable about how the entertainment <a href="https://infeeds.com/tags/business">business</a> actually operates. It's not just about protecting egos or box office numbers. It's about control, leverage, and what happens when someone decides the truth matters more than the paycheck.
 
 ## When Speaking Up Costs You Everything
 
@@ -46,6 +46,6 @@ It's a sentiment that reads like therapy-speak until you remember he was talking
 
 That kind of clarity doesn't usually emerge from maintaining a safe silence. It emerges from reckoning with hard truths, including the hard truth that you made choices you regret.
 
-The <a href="https://infeeds.com/tags/?tag=entertainment">entertainment</a> industry will continue to reward discretion and punish candor because that's what protects the bottom line. But individual actors keep deciding that the truth about their work matters more than the consequences. Some lose money. Some lose face. Some eventually gain perspective. And a few, like Schwarzenegger, simply outmaneuver the entire system by refusing to play along in the first place.
+The <a href="https://infeeds.com/tags/entertainment">entertainment</a> industry will continue to reward discretion and punish candor because that's what protects the bottom line. But individual actors keep deciding that the truth about their work matters more than the consequences. Some lose money. Some lose face. Some eventually gain perspective. And a few, like Schwarzenegger, simply outmaneuver the entire system by refusing to play along in the first place.
 
 What does it say about an industry that makes honesty the riskiest career move an artist can make?

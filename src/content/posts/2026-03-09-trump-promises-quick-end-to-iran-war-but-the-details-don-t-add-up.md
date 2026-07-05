@@ -20,7 +20,7 @@ Defense Secretary Pete Hegseth recently said the war is just getting started. Tr
 
 What exactly is the end goal here? Trump hasn't clearly defined it. At one point he said the war ends when Iran can't use weapons against the U.S. and Israel "for a long time." That's wonderfully vague. A year? A decade? Forever? The ambiguity is the real story, not the military hardware being destroyed.
 
-The <a href="https://infeeds.com/tags/?tag=business">business</a> world has already reacted with anxiety. Oil spiked above $100 a barrel over the weekend, rattling global markets. Trump promised prices would fall, but that's assuming Iran doesn't block the Strait of Hormuz, the crucial chokepoint where most global crude passes through. An Iranian official already threatened to attack any tanker moving through those waters.
+The <a href="https://infeeds.com/tags/business">business</a> world has already reacted with anxiety. Oil spiked above $100 a barrel over the weekend, rattling global markets. Trump promised prices would fall, but that's assuming Iran doesn't block the Strait of Hormuz, the crucial chokepoint where most global crude passes through. An Iranian official already threatened to attack any tanker moving through those waters.
 
 ## The Oil Problem Nobody's Talking About
 

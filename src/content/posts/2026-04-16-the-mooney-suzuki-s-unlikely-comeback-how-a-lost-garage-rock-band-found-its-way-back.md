@@ -34,7 +34,7 @@ Twelve years passed. The world moved on. But in 2019, James decided to do someth
 
 That single show cracked something open. Since then, the Mooney Suzuki have played sporadically, accepting invitations that felt right. Never a full tour. Never a grand strategic comeback plan. Just moments where the opportunity aligned with the band's newfound philosophy: only show up if it truly excites you.
 
-The Underground Garage cruise represented something bigger, though. By their second performance on the ship's final night, Mooney Suzuki merchandise was everywhere. Eddie Spaghetti from the Supersuckers wore one of their shirts proudly. Members of the Buzzcocks and Social Distortion crowded near the stage. Suddenly, the band that got left behind was being treated like the great lost group of the [Entertainment](https://infeeds.com/tags/?tag=entertainment) scene.
+The Underground Garage cruise represented something bigger, though. By their second performance on the ship's final night, Mooney Suzuki merchandise was everywhere. Eddie Spaghetti from the Supersuckers wore one of their shirts proudly. Members of the Buzzcocks and Social Distortion crowded near the stage. Suddenly, the band that got left behind was being treated like the great lost group of the [Entertainment](https://infeeds.com/tags/entertainment) scene.
 
 ## What Comes Next
 

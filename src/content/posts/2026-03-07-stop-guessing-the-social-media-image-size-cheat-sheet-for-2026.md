@@ -36,7 +36,7 @@ X (formerly Twitter) is embracing more visual content with their new video tab, 
 
 ## LinkedIn: The Professional Network That Actually Cares About Details
 
-<a href="https://infeeds.com/tags/?tag=business" style="color: inherit; text-decoration: none;">LinkedIn</a> does something that makes total sense but takes most people by surprise: they differentiate between personal profiles and company pages. On personal profiles, use 1200 x 1200 pixels for feed images. If you're sharing a link preview, go with 1200 x 627 pixels.
+<a href="https://infeeds.com/tags/business" style="color: inherit; text-decoration: none;">LinkedIn</a> does something that makes total sense but takes most people by surprise: they differentiate between personal profiles and company pages. On personal profiles, use 1200 x 1200 pixels for feed images. If you're sharing a link preview, go with 1200 x 627 pixels.
 
 Company pages have slightly different requirements, and the aspect ratios shift a bit depending on what you're posting. It's not complicated once you know, but it's one of those details that trips people up because LinkedIn is clearly a more formal platform and they're stricter about their standards.
 
@@ -48,11 +48,11 @@ When you use the wrong dimensions, platforms compress your images or crop them i
 
 Brand consistency across platforms is harder to maintain when every platform is mangling your images differently. If your visual identity looks great on Instagram but terrible on Facebook, you're sending mixed signals to your audience.
 
-There's also the practical reality that <a href="https://infeeds.com/tags/?tag=technology" style="color: inherit; text-decoration: none;">technology</a> changes. Platforms update their algorithms and layouts gradually, but it happens. What worked perfectly in 2024 might need tweaking in 2026. The safest approach is staying informed about platform updates and adjusting your templates accordingly.
+There's also the practical reality that <a href="https://infeeds.com/tags/technology" style="color: inherit; text-decoration: none;">technology</a> changes. Platforms update their algorithms and layouts gradually, but it happens. What worked perfectly in 2024 might need tweaking in 2026. The safest approach is staying informed about platform updates and adjusting your templates accordingly.
 
 ## The Practical Solution
 
-Most <a href="https://infeeds.com/tags/?tag=business" style="color: inherit; text-decoration: none;">business</a> teams solve this problem by creating templates with approved aspect ratios. Instead of guessing every time someone needs to create a post, you have a standardized set of dimensions ready to go. It sounds boring, but it actually frees people up to focus on the creative work instead of troubleshooting image sizes.
+Most <a href="https://infeeds.com/tags/business" style="color: inherit; text-decoration: none;">business</a> teams solve this problem by creating templates with approved aspect ratios. Instead of guessing every time someone needs to create a post, you have a standardized set of dimensions ready to go. It sounds boring, but it actually frees people up to focus on the creative work instead of troubleshooting image sizes.
 
 Tools exist that keep up with platform changes automatically, which beats manually updating your spreadsheet every time Facebook tweaks something. The best ones let you select the platform and automatically resize your images to match current requirements.
 

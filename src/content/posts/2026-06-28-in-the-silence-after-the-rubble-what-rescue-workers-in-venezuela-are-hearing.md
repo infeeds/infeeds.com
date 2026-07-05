@@ -18,4 +18,4 @@ What strikes me about this is how it strips away the noise we associate with dis
 
 It's a grim business, this listening. Every silence might mean no one is left to find. But every once in a while, it means someone gets to see another sunrise.
 
-For more on how [news](https://infeeds.com/tags/?tag=news) coverage from around the world brings these stories to light, explore our coverage on Infeeds.
+For more on how [news](https://infeeds.com/tags/news) coverage from around the world brings these stories to light, explore our coverage on Infeeds.

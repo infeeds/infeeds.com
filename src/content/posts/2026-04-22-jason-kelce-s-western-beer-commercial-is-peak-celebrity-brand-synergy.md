@@ -22,7 +22,7 @@ It's corporate-speak, sure, but the thing is, he actually seems to believe it. M
 
 ## The Business Play
 
-This is also smart [business](/tags/?tag=business). Garage Beer introduced bottles this spring, a significant expansion from their grab-and-go cans that initially made them viral. Rather than boring everyone with a standard product announcement, the brand tied the launch to an actual film. Chief Creative Officer Corey Smale explained the thinking: "With Kelce, we've always used these films as a way to do something bigger than a traditional ad, but this is the first time we're tying one directly to a new product. So we treated it like a real moment."
+This is also smart [business](/tags/business). Garage Beer introduced bottles this spring, a significant expansion from their grab-and-go cans that initially made them viral. Rather than boring everyone with a standard product announcement, the brand tied the launch to an actual film. Chief Creative Officer Corey Smale explained the thinking: "With Kelce, we've always used these films as a way to do something bigger than a traditional ad, but this is the first time we're tying one directly to a new product. So we treated it like a real moment."
 
 The bottles come in two varieties, classic lager and lime-flavored, at 4% ABV and 95 calories each. They're already in stores. Whether the Western gimmick actually drives sales or just generates entertainment value is another question entirely, but the brand clearly understands that attention itself has become the product.
 

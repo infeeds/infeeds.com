@@ -10,7 +10,7 @@ tags_color: '#e91e63'
 
 We obsess over heart-healthy diets. We stress about cholesterol and sodium. But most people barely think about what they're eating for their brain, which, despite being just 2% of body weight, consumes roughly 20% of all the calories you take in each day.
 
-That disconnect matters. Brain [health](https://infeeds.com/tags/?tag=health) isn't some distant concern reserved for people worried about Alzheimer's. What you put on your plate today directly shapes how sharp you'll be tomorrow, how well you'll sleep tonight, and whether you're fueling the organ that literally runs your life or slowly starving it.
+That disconnect matters. Brain [health](https://infeeds.com/tags/health) isn't some distant concern reserved for people worried about Alzheimer's. What you put on your plate today directly shapes how sharp you'll be tomorrow, how well you'll sleep tonight, and whether you're fueling the organ that literally runs your life or slowly starving it.
 
 According to neuroscience researchers and clinicians, diet and environmental factors are fundamental players in both maintaining cognitive function and, in some cases, preventing or slowing neurodegenerative disease. The science is increasingly clear: you can't out-exercise a bad diet, and you can't think your way out of poor nutrition.
 

@@ -10,7 +10,7 @@ tags_color: '#2196f3'
 
 Apple's biggest software showcase of the year is here, and this one feels different. WWDC 2026 kicks off Monday, June 8 at 10 a.m. PT from Apple Park, and it'll be the last time Tim Cook takes the stage as CEO before handing the reins to John Ternus in September. That's the headline, but there's plenty more happening beneath it.
 
-The event runs next week and marks what could be the end of an era. Cook has been at Apple's helm for 15 years, steering the company through incredible growth, the transition from Steve Jobs' shadow, and into an age where AI is rewriting every category in [Technology](https://infeeds.com/tags/?tag=technology).
+The event runs next week and marks what could be the end of an era. Cook has been at Apple's helm for 15 years, steering the company through incredible growth, the transition from Steve Jobs' shadow, and into an age where AI is rewriting every category in [Technology](https://infeeds.com/tags/technology).
 
 ## What We're Actually Going to See
 

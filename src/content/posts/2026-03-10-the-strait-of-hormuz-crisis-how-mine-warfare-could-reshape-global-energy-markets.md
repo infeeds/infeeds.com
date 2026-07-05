@@ -18,7 +18,7 @@ Here's why you should care: roughly 31% of all seaborne crude oil passes through
 
 The thing about naval mines is that Iran doesn't even need to lay thousands of them to cause real damage. They just need enough to make shipping companies think twice. According to a declassified CIA report from 2009, Iran has long understood this math. A few mines, or even the threat of mines, can do what a full blockade would do: scare away ships and drive up insurance costs until ports essentially choke themselves.
 
-Reports suggest Iran has laid only "a few dozen" mines so far, yet insurance costs in the Middle East have already climbed to record levels. Some major war risk insurers have even stopped providing coverage for vessels in the Persian Gulf. That's telling. It means the threat alone is reshaping how the shipping <a href="https://infeeds.com/tags/?tag=business">business</a> operates.
+Reports suggest Iran has laid only "a few dozen" mines so far, yet insurance costs in the Middle East have already climbed to record levels. Some major war risk insurers have even stopped providing coverage for vessels in the Persian Gulf. That's telling. It means the threat alone is reshaping how the shipping <a href="https://infeeds.com/tags/business">business</a> operates.
 
 What makes this particularly concerning is that Iran still has over 80% of its small boats and minelayers intact. If things escalate further, Tehran could theoretically lay hundreds of mines using smaller craft that carry just two or three each. The U.S. decommissioned its main mine-clearing vessels back in late 2025, replacing them with Independence-class littoral combat ships that apparently aren't great at mine countermeasures. That's a timing problem nobody wanted.
 

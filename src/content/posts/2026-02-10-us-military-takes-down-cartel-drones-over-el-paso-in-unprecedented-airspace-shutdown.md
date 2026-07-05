@@ -36,11 +36,11 @@ The whole episode raises more questions than it answers. Was this a one-time bre
 
 ## The Bigger Picture on Drone Threats
 
-This isn't happening in a vacuum. Western militaries are scrambling to figure out how to deal with cheap, accessible drone [technology](https://infeeds.com/tags/?tag=technology) that anyone can get their hands on. The barrier to entry for drone operations is basically nonexistent now, and both state actors and criminal organizations know it.
+This isn't happening in a vacuum. Western militaries are scrambling to figure out how to deal with cheap, accessible drone [technology](https://infeeds.com/tags/technology) that anyone can get their hands on. The barrier to entry for drone operations is basically nonexistent now, and both state actors and criminal organizations know it.
 
 Europe dealt with a wave of mysterious drone incursions at the end of 2025. Russian drones violated NATO airspace. Unidentified drones showed up over critical infrastructure and airports across allied countries. It's become a genuine security headache that no one has fully solved yet.
 
-The [business](https://infeeds.com/tags/?tag=business) of counter-drone technology is booming because of this exact problem. Everyone from defense contractors to tech startups is pitching solutions, everything from kinetic interceptors to electromagnetic jammers to yes, laser weapons.
+The [business](https://infeeds.com/tags/business) of counter-drone technology is booming because of this exact problem. Everyone from defense contractors to tech startups is pitching solutions, everything from kinetic interceptors to electromagnetic jammers to yes, laser weapons.
 
 Fort Bliss, the massive Army installation in El Paso, couldn't be reached for comment. Which tracks, honestly. When something this sensitive goes down, the military tends to go radio silent until they've figured out exactly what they want to say.
 

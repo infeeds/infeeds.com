@@ -30,7 +30,7 @@ When Glaser told Fallon about it, she admitted her first thought was "Does Leo w
 
 ## Why This Actually Matters
 
-In our current [entertainment](https://infeeds.com/tags/?tag=entertainment) landscape, we're used to celebrities either taking things way too seriously or pretending they don't care at all. Neither response is particularly honest or endearing. DiCaprio's pasta move splits the difference perfectly. He acknowledged the joke, proved he has a sense of humor about himself, and did it in a way that's genuinely funny rather than trying to one-up the comedian or show her up.
+In our current [entertainment](https://infeeds.com/tags/entertainment) landscape, we're used to celebrities either taking things way too seriously or pretending they don't care at all. Neither response is particularly honest or endearing. DiCaprio's pasta move splits the difference perfectly. He acknowledged the joke, proved he has a sense of humor about himself, and did it in a way that's genuinely funny rather than trying to one-up the comedian or show her up.
 
 It's the kind of moment that reveals something real about a person, even if that person is extraordinarily famous and private. And it's the kind of moment that makes award show comedy actually land, because it shows the targets are genuinely good sports. Not everyone would respond. Fewer still would respond this well.
 

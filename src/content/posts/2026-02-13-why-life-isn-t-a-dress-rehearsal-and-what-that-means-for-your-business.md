@@ -10,7 +10,7 @@ tags: [news, business]
 tags_color: '#2b2b2b'
 ---
 
-Steve Forbes once told someone "This isn't a dress rehearsal," and honestly, it's one of those pieces of advice that sounds simple until you really think about what it means for your [business](https://infeeds.com/tags/?tag=business).
+Steve Forbes once told someone "This isn't a dress rehearsal," and honestly, it's one of those pieces of advice that sounds simple until you really think about what it means for your [business](https://infeeds.com/tags/business).
 
 At first glance, it feels like another version of "seize the day" or "live in the moment." Sure, those are nice sentiments. They make for good Instagram captions. But when you're actually running a company, making payroll, and deciding whether to launch that new product, you need something more concrete than motivational fluff.
 
@@ -26,7 +26,7 @@ But opening night? That's different. The seats are filled. The curtain goes up. 
 
 Running a business operates on opening night rules, not rehearsal rules. When the author of the original piece dealt with that FCC notice that temporarily killed carrier coverage for PhoneBurner, there was no pause button. Clients were watching. Employees were nervous. The clock was ticking. His response in those days defined how people would view both him and the company going forward.
 
-That's the reality of [leadership](https://infeeds.com/tags/?tag=business) nobody really prepares you for in business school.
+That's the reality of [leadership](https://infeeds.com/tags/business) nobody really prepares you for in business school.
 
 ## The Risk You Can't Avoid
 

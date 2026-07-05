@@ -38,7 +38,7 @@ The addition of multilingual Conversation Clusters is more interesting though. G
 
 ## AI Integration That Doesn't Feel Forced
 
-[OwlyGPT](https://infeeds.com/tags/?tag=technology) now sits directly in Create as a side panel. It detects which account you're posting to (LinkedIn, TikTok, etc.) and offers real-time recommendations for clarity, tone, and performance.
+[OwlyGPT](https://infeeds.com/tags/technology) now sits directly in Create as a side panel. It detects which account you're posting to (LinkedIn, TikTok, etc.) and offers real-time recommendations for clarity, tone, and performance.
 
 This is where AI integration actually makes sense. You're not getting a separate tool to learn. You're getting suggestions while you're already writing. The recommendations are contextual, account-specific, and immediately actionable. It's the kind of AI feature that feels natural rather than bolted on.
 

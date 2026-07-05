@@ -44,4 +44,4 @@ The only real limitation is capacity. A standard 4-quart model fits about six st
 
 The air fryer wins on speed, mess, and effort. You don't need to preheat it. You don't need to stand guard. You don't need to tackle a grease-covered surface afterward. It's faster than any other method tested, the bacon holds its shape better, and the entire experience is less unpleasant.
 
-This is [technology](https://infeeds.com/tags/?tag=technology) doing what it should: solving a genuine annoyance without requiring you to sacrifice quality. The question isn't really whether the air fryer makes better bacon. It's whether you're willing to keep doing things the hard way just because that's how you've always done them.
+This is [technology](https://infeeds.com/tags/technology) doing what it should: solving a genuine annoyance without requiring you to sacrifice quality. The question isn't really whether the air fryer makes better bacon. It's whether you're willing to keep doing things the hard way just because that's how you've always done them.

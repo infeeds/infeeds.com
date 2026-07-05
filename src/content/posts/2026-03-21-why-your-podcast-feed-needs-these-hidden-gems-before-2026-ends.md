@@ -24,7 +24,7 @@ For something completely different but equally gripping, try "Stuff You Should K
 
 ## When You Want Your Brain to Actually Work
 
-<a href="https://infeeds.com/tags/?tag=technology">Technology</a> criticism hits different when you hear it from someone who actually understands the landscape. Tristan Harris and Aza Raskin's "Center for Humane Technology" podcast talks about the dangers of living your life online, which might sound preachy, but it's surprisingly thoughtful. These aren't tech bro douchebags cheerleading disruption. They're asking uncomfortable questions about whether the digital life we've built is actually making us happy.
+<a href="https://infeeds.com/tags/technology">Technology</a> criticism hits different when you hear it from someone who actually understands the landscape. Tristan Harris and Aza Raskin's "Center for Humane Technology" podcast talks about the dangers of living your life online, which might sound preachy, but it's surprisingly thoughtful. These aren't tech bro douchebags cheerleading disruption. They're asking uncomfortable questions about whether the digital life we've built is actually making us happy.
 
 "Freakonomics" with Stephen Dubner is the opposite of pretentious despite its heavyweight subject matter. It's data-driven, but data that actually means something. One episode might tackle why sumo wrestlers cheat, and the next could explore the hidden costs of free parking. It's pop culture meets economics in a way that feels natural.
 
@@ -44,7 +44,7 @@ If you're trying to understand how the world actually works, "Planet Money" from
 
 "How I Built This" with Guy Raz explores the stories behind major companies, but here's what makes it work: it doesn't romanticize the hustle. You get cautionary tales alongside the success stories, and the interviews feel like genuine conversations rather than promotional material.
 
-For a deeper dive into <a href="https://infeeds.com/tags/?tag=business">business</a> psychology, Adam Grant's "WorkLife" tackles practical problems you'll actually face in your job. How do you handle someone who makes a terrible first impression? What's the best way to propose an idea? It's like having a work therapist.
+For a deeper dive into <a href="https://infeeds.com/tags/business">business</a> psychology, Adam Grant's "WorkLife" tackles practical problems you'll actually face in your job. How do you handle someone who makes a terrible first impression? What's the best way to propose an idea? It's like having a work therapist.
 
 ## The Ones That Just Feel Different
 

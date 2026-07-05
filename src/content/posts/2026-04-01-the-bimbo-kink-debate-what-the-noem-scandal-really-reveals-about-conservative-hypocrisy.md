@@ -36,7 +36,7 @@ The reason they don't talk about it? Research shows that in environments where p
 
 ## The Hypocrisy That Actually Matters
 
-This is where the story stops being about kinks and starts being about <a href="https://infeeds.com/tags/?tag=news">news</a> that matters.
+This is where the story stops being about kinks and starts being about <a href="https://infeeds.com/tags/news">news</a> that matters.
 
 Kristi Noem's party publicly espouses family values and routinely votes against LGBTQ+ rights and protections. The party's political platform is built, in no small part, on the idea that conservative families represent a moral authority that progressive ones don't. Yet here's the husband of a former DHS secretary allegedly engaged in cross-dressing, spending thousands of dollars in secret, and lying about it to his wife.
 

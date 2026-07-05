@@ -16,13 +16,13 @@ Giant sculptures of President Trump went up in flames on the final night of the 
 
 The Fallas festival has always had a satirical edge. It's a celebration rooted in Valencian culture where locals build enormous sculptures throughout the city, many of them poking fun at public figures and current events. But in recent years, Trump has become a recurring target, year after year.
 
-This time around, the timing hit different. Spain's government has been publicly critical of Trump's approach to Iran, pushing back against his military escalation in the region. They've also resisted pressure to increase defense spending, creating friction between the two [countries on international policy matters](https://infeeds.com/tags/?tag=politics).
+This time around, the timing hit different. Spain's government has been publicly critical of Trump's approach to Iran, pushing back against his military escalation in the region. They've also resisted pressure to increase defense spending, creating friction between the two [countries on international policy matters](https://infeeds.com/tags/politics).
 
 So when those effigies burned on Thursday night, it felt less like casual festival fun and more like a statement. The crowds weren't just watching a tradition unfold. They were witnessing a political message being sent in flames.
 
 ## The Bigger Picture
 
-What's interesting here is how [global politics](https://infeeds.com/tags/?tag=politics) increasingly bleed into cultural moments. A centuries-old festival in Spain becomes a venue for international criticism. Local traditions get wrapped up in transnational disagreements. It's not necessarily new, but it's becoming more visible, more deliberate.
+What's interesting here is how [global politics](https://infeeds.com/tags/politics) increasingly bleed into cultural moments. A centuries-old festival in Spain becomes a venue for international criticism. Local traditions get wrapped up in transnational disagreements. It's not necessarily new, but it's becoming more visible, more deliberate.
 
 The disconnect between the Trump administration and European allies has been well documented. The disagreements over Iran policy are real. The tension over defense spending contributions is genuine. But burning effigies is a different kind of communication entirely. It's visceral. It's public. It's meant to be seen and talked about.
 

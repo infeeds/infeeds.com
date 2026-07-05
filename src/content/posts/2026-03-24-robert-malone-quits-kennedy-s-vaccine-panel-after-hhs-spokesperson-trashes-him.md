@@ -30,7 +30,7 @@ Joseph Hibbeln, another Kennedy-appointed committee member who often clashed wit
 
 ## What Actually Happened Here?
 
-Look, it's hard to know if Malone genuinely felt blindsided by Nixon's statement or if the deeper frustrations finally boiled over. The court ruling that blocked Kennedy's appointments was a serious blow to the entire project, and working in that environment had to be exhausting. The technical aspects of federal [news](https://infeeds.com/tags/?tag=news) management and vaccine policy oversight clearly matter to a lot of people, which made the stakes feel higher.
+Look, it's hard to know if Malone genuinely felt blindsided by Nixon's statement or if the deeper frustrations finally boiled over. The court ruling that blocked Kennedy's appointments was a serious blow to the entire project, and working in that environment had to be exhausting. The technical aspects of federal [news](https://infeeds.com/tags/news) management and vaccine policy oversight clearly matter to a lot of people, which made the stakes feel higher.
 
 That said, his claim about miscommunication followed by an immediate retraction doesn't inspire confidence that he had things under control. And Hibbeln's observation about the irony of Malone complaining about drama while being one of the more dramatic voices in vaccine discourse is hard to ignore.
 

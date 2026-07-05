@@ -16,7 +16,7 @@ I spent most of my life waiting for the other shoe to drop. Financial ruin, prof
 
 It wasn't neurosis. At least, that's what I told myself. As a documentary filmmaker, you learn to anticipate every possible failure. Equipment dies at the worst moment. Weather changes. People change their minds about being filmed. A once-in-a-lifetime shot disappears because you blinked. So you train yourself to scan for danger constantly, to prepare for collapse before it arrives.
 
-But that survival mindset, the one that kept my professional [lifestyle](https://infeeds.com/tags/?tag=lifestyle) functional, started bleeding into everything else. My nervous system became a 24/7 emergency broadcast. Even on days off, I was bracing for impact. The alarm never turned off.
+But that survival mindset, the one that kept my professional [lifestyle](https://infeeds.com/tags/lifestyle) functional, started bleeding into everything else. My nervous system became a 24/7 emergency broadcast. Even on days off, I was bracing for impact. The alarm never turned off.
 
 ## When Survival Mode Becomes Your Only Mode
 
@@ -38,7 +38,7 @@ You have to hold chaos without becoming it.
 
 There's a massive difference between reaction and response. Reaction is your body gripping, tension masquerading as strength. Response is your mind opening, making space for what's actually happening instead of what you're terrified might happen.
 
-I'd spent years reacting to life. Constantly bracing. Mistaking anxiety for preparedness. Acting like catastrophic thinking was a form of [health](https://infeeds.com/tags/?tag=health) insurance.
+I'd spent years reacting to life. Constantly bracing. Mistaking anxiety for preparedness. Acting like catastrophic thinking was a form of [health](https://infeeds.com/tags/health) insurance.
 
 Since that moment with my mother, I've been practicing something absurdly simple. When fear starts its familiar spiral, I pause and ask myself: "Is this happening right now, or am I imagining it?"
 
@@ -58,7 +58,7 @@ The feeling itself might be the beginning of the good thing. Maybe expecting goo
 
 ## Hope as Discipline, Not Delusion
 
-Look, I get it if your mind constantly prepares for disaster. I lived that way for decades. It feels responsible. It feels like the only rational response to an unpredictable world where [news](https://infeeds.com/tags/?tag=news) constantly reminds us of everything that can go wrong.
+Look, I get it if your mind constantly prepares for disaster. I lived that way for decades. It feels responsible. It feels like the only rational response to an unpredictable world where [news](https://infeeds.com/tags/news) constantly reminds us of everything that can go wrong.
 
 But survival is not the same as living. Fear is not the same as wisdom. Preparation is not the same as panic.
 

@@ -8,7 +8,7 @@ tags: [news, tech]
 tags_color: '#2196f3'
 ---
 
-The LG G6 OLED is a genuinely impressive piece of [technology](https://infeeds.com/tags/?tag=technology). It's sleek, it's sharp, and for movie fans especially, it checks most of the boxes you'd want in a high-end TV. But here's the thing: when you're sitting with it side-by-side against last year's G5, or worse, against Samsung's S95H, the gap between them feels less like a canyon and more like a crack.
+The LG G6 OLED is a genuinely impressive piece of [technology](https://infeeds.com/tags/technology). It's sleek, it's sharp, and for movie fans especially, it checks most of the boxes you'd want in a high-end TV. But here's the thing: when you're sitting with it side-by-side against last year's G5, or worse, against Samsung's S95H, the gap between them feels less like a canyon and more like a crack.
 
 According to CNET's hands-on evaluation, the G6's headline feature is LG's new "tandem" OLED technology, which stacks two OLED panels to chase what's been LCD's advantage for years: brightness. The company claims up to 20% brighter performance than the G5, along with refined color systems like Hyper Radiant Color and Perfect Color. On paper, that's compelling. In practice, it's complicated.
 

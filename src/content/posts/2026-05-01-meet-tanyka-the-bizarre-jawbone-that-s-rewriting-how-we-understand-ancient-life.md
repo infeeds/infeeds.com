@@ -44,7 +44,7 @@ Fossils from this region and era are rare compared to those from the Global Nort
 
 ## What Remains Unknown
 
-The problem with nine isolated jawbones is obvious: they tell us how Tanyka ate but almost nothing about how it moved, what size it really was, or how it reproduced. We're looking at a creature through a keyhole, seeing only the mechanism of its mouth but not the animal itself. This is the reality of <a href="https://infeeds.com/tags/?tag=science">science</a> sometimes. We find fragments and build theories around them, knowing full well that the next discovery might require us to revise everything.
+The problem with nine isolated jawbones is obvious: they tell us how Tanyka ate but almost nothing about how it moved, what size it really was, or how it reproduced. We're looking at a creature through a keyhole, seeing only the mechanism of its mouth but not the animal itself. This is the reality of <a href="https://infeeds.com/tags/science">science</a> sometimes. We find fragments and build theories around them, knowing full well that the next discovery might require us to revise everything.
 
 What makes Tanyka worth the scientific effort is precisely this: it represents something we didn't know existed. An ancient branch of vertebrate life that persisted when it shouldn't have, that ate in ways its relatives didn't, that survived in the ecological shadow of newer, supposedly superior competitors. It's a reminder that evolution isn't a single story marching toward inevitable progress but a complicated landscape where old solutions sometimes keep working long after they're supposed to be obsolete.
 

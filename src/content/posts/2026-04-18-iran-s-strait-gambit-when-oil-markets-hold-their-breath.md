@@ -38,7 +38,7 @@ Trump's vision involves U.S. forces going into Iran to recover enriched uranium,
 
 ## What's Actually At Stake
 
-The [business](https://infeeds.com/tags/?tag=business) stakes here are enormous, but they're also deeply intertwined with security concerns that money alone can't resolve. The closure of the Strait of Hormuz doesn't just impact oil prices; it destabilizes the entire global economy. Every container ship delayed, every tanker turned back, every port stuck waiting for passage creates ripple effects across supply chains already fragile from years of disruption.
+The [business](https://infeeds.com/tags/business) stakes here are enormous, but they're also deeply intertwined with security concerns that money alone can't resolve. The closure of the Strait of Hormuz doesn't just impact oil prices; it destabilizes the entire global economy. Every container ship delayed, every tanker turned back, every port stuck waiting for passage creates ripple effects across supply chains already fragile from years of disruption.
 
 Iran, meanwhile, is using the strait as its only real leverage. Without control of that waterway, the country has limited ability to influence negotiations with a much more militarily powerful adversary. Opening it unconditionally would be seen as capitulation. But keeping it closed risks escalation that could make the current conflict look like a prelude.
 

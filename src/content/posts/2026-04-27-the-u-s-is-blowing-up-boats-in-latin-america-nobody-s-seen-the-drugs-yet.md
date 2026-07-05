@@ -28,6 +28,6 @@ The opacity is the real issue. Yes, cartels are a genuine problem. Yes, drugs fl
 
 President Trump says this is necessary. The military says the targets were chosen carefully. But 186 dead people later, we still don't know what was actually on those boats.
 
-That should worry everyone, regardless of where they stand on [news](https://infeeds.com/tags/?tag=news) about drug enforcement or foreign military operations.
+That should worry everyone, regardless of where they stand on [news](https://infeeds.com/tags/news) about drug enforcement or foreign military operations.
 
 When a government can eliminate people without showing its work, we've crossed into territory where "war on drugs" becomes indistinguishable from power without restraint.

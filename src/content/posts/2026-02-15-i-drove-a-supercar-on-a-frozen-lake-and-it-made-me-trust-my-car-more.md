@@ -30,7 +30,7 @@ After some fresh air and medication that shall remain nameless, I learned an imp
 
 Here's what surprised me most about the whole experience. When you turn all the electronic aids back on in a car with nearly 700 horsepower and then absolutely pin the throttle on ice, the car just... goes where you point it. Slowly, sure, but safely.
 
-The [Technology](https://infeeds.com/tags/?tag=technology) working behind the scenes is frankly remarkable. The Artura's brain measures lateral acceleration, wheel spin, steering angle, and probably a dozen other variables I can't name. It knows when a wheel is losing grip before you do. And it responds by cutting power and applying individual wheel brakes with a speed and precision that makes my driving look like a toddler with a toy steering wheel.
+The [Technology](https://infeeds.com/tags/technology) working behind the scenes is frankly remarkable. The Artura's brain measures lateral acceleration, wheel spin, steering angle, and probably a dozen other variables I can't name. It knows when a wheel is losing grip before you do. And it responds by cutting power and applying individual wheel brakes with a speed and precision that makes my driving look like a toddler with a toy steering wheel.
 
 I tried every mode the car offered. In pure electric mode, the 94 horsepower from the motor was enough to break the rear loose but not enough to sustain a proper slide. You could lazily drift around corners in near silence, which felt wonderfully absurd. Full power with stability control on meant the car measured out torque like a pharmacist dispensing controlled substances, only giving the wheels what they could actually use.
 
@@ -38,9 +38,9 @@ The middle ground, McLaren's Variable Drift Control, lets you set a maximum slip
 
 ## The Artificial Feel of Modern Performance
 
-There's something slightly hollow about VDC once you spend time with the aids completely off. Sure, it's thrilling and makes for great Instagram content, but you can feel the invisible hand guiding you. The [business](https://infeeds.com/tags/?tag=business) case for systems like this is obvious though. Manufacturers can let journalists and customers push cars harder than they probably should, secure in the knowledge that the silicon safety net will catch them before things get expensive.
+There's something slightly hollow about VDC once you spend time with the aids completely off. Sure, it's thrilling and makes for great Instagram content, but you can feel the invisible hand guiding you. The [business](https://infeeds.com/tags/business) case for systems like this is obvious though. Manufacturers can let journalists and customers push cars harder than they probably should, secure in the knowledge that the silicon safety net will catch them before things get expensive.
 
-And honestly? Outside of controlled environments like frozen lakes, I'll keep some level of assistance running. The Artura is remarkably easy to catch when it steps out, with most of its 3,303 pounds sitting between the axles and a well-mapped throttle that gives you plenty of modulation. But the difference between catching a slide and not catching it often comes down to milliseconds and millimeters. The [tech](https://infeeds.com/tags/?tag=tech) can react faster than I can blink.
+And honestly? Outside of controlled environments like frozen lakes, I'll keep some level of assistance running. The Artura is remarkably easy to catch when it steps out, with most of its 3,303 pounds sitting between the axles and a well-mapped throttle that gives you plenty of modulation. But the difference between catching a slide and not catching it often comes down to milliseconds and millimeters. The [tech](https://infeeds.com/tags/tech) can react faster than I can blink.
 
 ## What This Means For Normal Driving
 

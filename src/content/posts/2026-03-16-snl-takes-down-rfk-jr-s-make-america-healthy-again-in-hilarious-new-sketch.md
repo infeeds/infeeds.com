@@ -28,6 +28,6 @@ Cast member James Austin Johnson's portrayal of RFK Jr. wheeling a dead bear on 
 
 The sketch's closing moment, where the health secretary congratulates his team for doing dangerous and irresponsible things anyway, is where the comedy turned into commentary. It wasn't just making fun of the ideas themselves. It was questioning what happens when you encourage people to ignore mainstream science and embrace whatever feels true to them instead.
 
-SNL has always walked this line between pure comedy and [news](https://infeeds.com/tags/?tag=news) commentary. This sketch managed to be genuinely funny while also asking viewers to think about the real consequences of misinformation in healthcare spaces.
+SNL has always walked this line between pure comedy and [news](https://infeeds.com/tags/news) commentary. This sketch managed to be genuinely funny while also asking viewers to think about the real consequences of misinformation in healthcare spaces.
 
 Whether you agree with RFK Jr.'s vision for American health or not, the sketch probably landed harder if you have concerns about where this direction takes us. And that's actually the mark of good satire. It doesn't just make you laugh. It makes you uncomfortable enough to think about what you just watched.

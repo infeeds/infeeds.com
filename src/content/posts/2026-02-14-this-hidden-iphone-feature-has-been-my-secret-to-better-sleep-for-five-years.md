@@ -14,7 +14,7 @@ I've spent years trying to fix my sleep. Every new gadget, every expert recommen
 
 Then I stumbled on something that was literally sitting in my pocket the whole time.
 
-For the past five years, I've relied on a [Technology](https://infeeds.com/tags/?tag=technology) feature built right into my iPhone that most people don't even know exists. No subscription required. No extra device to pack when traveling. Just a simple toggle that's changed how I sleep, especially when I'm not in my own bed.
+For the past five years, I've relied on a [Technology](https://infeeds.com/tags/technology) feature built right into my iPhone that most people don't even know exists. No subscription required. No extra device to pack when traveling. Just a simple toggle that's changed how I sleep, especially when I'm not in my own bed.
 
 ## What Background Sounds Actually Does
 
@@ -48,6 +48,6 @@ I've used this feature at every hotel, Airbnb, and friend's house I've stayed at
 
 The beauty of it is that I don't need to pack anything extra or hope my host has a white noise machine. My phone is already coming with me. It's always charged. It's always there. I imagine it would work great on planes too, though I haven't tested that yet since I usually just pass out from exhaustion at airports.
 
-You're essentially carrying a [lifestyle](https://infeeds.com/tags/?tag=lifestyle) tool that can transport you to a quiet beach or crackling fireplace whenever you need to tune out the world. No app subscription, no separate device cluttering your nightstand, no worrying about whether the hotel WiFi will let you stream your usual sleep sounds.
+You're essentially carrying a [lifestyle](https://infeeds.com/tags/lifestyle) tool that can transport you to a quiet beach or crackling fireplace whenever you need to tune out the world. No app subscription, no separate device cluttering your nightstand, no worrying about whether the hotel WiFi will let you stream your usual sleep sounds.
 
 It's wild how something this useful has been hiding in plain sight on millions of phones, and most people will never know it exists unless someone tells them about it.

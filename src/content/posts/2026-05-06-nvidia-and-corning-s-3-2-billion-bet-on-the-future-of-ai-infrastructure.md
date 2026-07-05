@@ -10,7 +10,7 @@ tags_color: '#4caf50'
 
 When Nvidia and Corning announced their partnership this week, the stock market took notice immediately. Nvidia's shares jumped nearly 6% while Corning climbed 12% on the news of three new advanced manufacturing facilities coming to North Carolina and Texas. But beyond the immediate market euphoria lies something more consequential: a fundamental shift in how the world's most advanced AI systems will actually work.
 
-The $3.2 billion investment gives Nvidia the right to reshape Corning's optical manufacturing capabilities, with the deal creating at least 3,000 jobs and expanding Corning's U.S. optical capacity tenfold. This isn't just another tech deal. It represents a bet that the future of <a href="https://infeeds.com/tags/?tag=technology">artificial intelligence</a> infrastructure depends on replacing copper with glass fiber at the chip level.
+The $3.2 billion investment gives Nvidia the right to reshape Corning's optical manufacturing capabilities, with the deal creating at least 3,000 jobs and expanding Corning's U.S. optical capacity tenfold. This isn't just another tech deal. It represents a bet that the future of <a href="https://infeeds.com/tags/technology">artificial intelligence</a> infrastructure depends on replacing copper with glass fiber at the chip level.
 
 ## Why Photons Beat Electrons
 
@@ -40,7 +40,7 @@ This is no longer speculative technology. It's becoming infrastructure.
 
 ## American Manufacturing Gets a Shot
 
-There's a <a href="https://infeeds.com/tags/?tag=business">business</a> argument here, but there's also a geopolitical one baked into the deal structure. Both Huang and Weeks emphasized American manufacturing in their statements about the partnership. Huang called it a "once-in-a-generation opportunity to reinvigorate American manufacturing and supply chains."
+There's a <a href="https://infeeds.com/tags/business">business</a> argument here, but there's also a geopolitical one baked into the deal structure. Both Huang and Weeks emphasized American manufacturing in their statements about the partnership. Huang called it a "once-in-a-generation opportunity to reinvigorate American manufacturing and supply chains."
 
 That language reflects something real: the strategic importance of keeping advanced semiconductor-adjacent manufacturing domestic at a time when supply chain fragility is a genuine concern. The partnership creates 3,000 jobs while anchoring optical technology production to U.S. soil. Whether that's sufficient to shift the broader manufacturing conversation is debatable, but it's hard to ignore the symbolic weight.
 

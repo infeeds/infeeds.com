@@ -32,7 +32,7 @@ This level of preparation sounds excessive. And it probably is. But when he walk
 
 He pitched five documents, including the check used to purchase Alaska. Think about that for a second. Most people know Alaska was purchased, but they've never actually wondered about the physical piece of paper that made it happen. Who wrote it? How much was it for? Where was it cashed? Those questions matter. They make history feel real and tangible rather than abstract.
 
-Daniel Lubetzky from KIND Snacks saw the potential and went in on a deal. After due diligence, he stayed committed. Having an investor who actually understands <a href="https://infeeds.com/tags/?tag=business">business</a> and can help solve problems is worth more than you'd think.
+Daniel Lubetzky from KIND Snacks saw the potential and went in on a deal. After due diligence, he stayed committed. Having an investor who actually understands <a href="https://infeeds.com/tags/business">business</a> and can help solve problems is worth more than you'd think.
 
 ## When Passion Isn't Enough
 

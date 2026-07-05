@@ -16,7 +16,7 @@ What's remarkable isn't the ceasefire itself. It's how little faith anyone seems
 
 Here's where things get genuinely strange. According to BBC reporting, Israeli Prime Minister Benjamin Netanyahu convened his security cabinet with just five minutes notice before announcing the ceasefire. Leaks from that meeting suggest ministers weren't even given a vote on the decision. For a country that prides itself on democratic debate, that's a pretty stark move.
 
-The speed and secrecy have fueled a narrative that's already circulating through Israeli [news](https://infeeds.com/tags/?tag=news) cycles: Netanyahu didn't decide this because conditions on the ground demanded it. He decided it because the US wanted it.
+The speed and secrecy have fueled a narrative that's already circulating through Israeli [news](https://infeeds.com/tags/news) cycles: Netanyahu didn't decide this because conditions on the ground demanded it. He decided it because the US wanted it.
 
 "A pattern has developed in which ceasefires are imposed upon us," said Gadi Eisenkot, former IDF Chief of Staff and Yashar party chief, according to BBC reporting. "Netanyahu does not know how to convert military achievements into diplomatic gains."
 

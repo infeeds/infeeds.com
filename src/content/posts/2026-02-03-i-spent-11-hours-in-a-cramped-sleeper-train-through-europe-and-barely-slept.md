@@ -38,7 +38,7 @@ The OBB Nightjet can hit speeds of 143 miles per hour as it travels between Aust
 
 Sleep came in fragments. I'd doze off, then wake up when someone entered or exited the cabin. Or when the train hit a particularly rough patch of track. There was no café car, no common area to escape to. Just that one small room for 11 hours.
 
-I bought a Eurail pass for $477, which covers most European trains for a set number of days. Some trains only need the pass, but overnight routes like Nightjet require an additional discounted fare on top. It's part of the [business](https://infeeds.com/tags/?tag=business) model for European rail [travel](https://infeeds.com/tags/?tag=travel), but those extra costs add up quickly.
+I bought a Eurail pass for $477, which covers most European trains for a set number of days. Some trains only need the pass, but overnight routes like Nightjet require an additional discounted fare on top. It's part of the [business](https://infeeds.com/tags/business) model for European rail [travel](https://infeeds.com/tags/travel), but those extra costs add up quickly.
 
 A representative from OBB Nightjet told Business Insider that they're "constantly working on improvements" and taking customer requirements into account. That's corporate speak for "we know it's not great, but we're trying."
 
@@ -46,4 +46,4 @@ A representative from OBB Nightjet told Business Insider that they're "constantl
 
 Actually, yes. But differently. A year later, I booked a private cabin on the same route from Venice back to Vienna. That experience was completely different. Comfortable, quiet, and I actually slept. No strangers, no awkward agreements about lights, no tripping over suitcases in the dark.
 
-The shared cabin experience taught me something valuable about [travel](https://infeeds.com/tags/?tag=travel) planning: sometimes paying extra for privacy isn't a luxury, it's a necessity. The romantic idea of overnight trains is real, but only when you're not sharing 74 square feet with three people you've never met while hurtling through the Alps at 143 miles per hour.
+The shared cabin experience taught me something valuable about [travel](https://infeeds.com/tags/travel) planning: sometimes paying extra for privacy isn't a luxury, it's a necessity. The romantic idea of overnight trains is real, but only when you're not sharing 74 square feet with three people you've never met while hurtling through the Alps at 143 miles per hour.

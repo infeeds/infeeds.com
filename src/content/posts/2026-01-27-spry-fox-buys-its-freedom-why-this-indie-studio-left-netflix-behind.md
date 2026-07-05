@@ -30,7 +30,7 @@ Netflix's gaming strategy has been all over the place. One minute they're buildi
 
 To Edery's credit, he says the team at Spry Fox wasn't really affected by Netflix's constant pivoting. They had a clear vision for Spirit Crossing and stuck to it. But eventually the math stopped working. Cozy games crush it on Nintendo Switch, and Spirit Crossing won't be there if it stays Netflix-exclusive.
 
-So they negotiated a split. Netflix will still get the mobile version as a free exclusive for subscribers, but the game is coming to PC and hopefully other platforms down the line. It's a compromise that serves both sides, which is rare in the [Business](https://infeeds.com/tags/?tag=business) world of acquisitions and breakups.
+So they negotiated a split. Netflix will still get the mobile version as a free exclusive for subscribers, but the game is coming to PC and hopefully other platforms down the line. It's a compromise that serves both sides, which is rare in the [Business](https://infeeds.com/tags/business) world of acquisitions and breakups.
 
 The cost of this freedom is steep though. Both cofounders slashed their salaries to $20,000 a year. That's brutal, but it's the kind of sacrifice indie developers make when they believe in what they're building. Most of Spirit Crossing was finished during the Netflix years, and they're planning to launch this year.
 
@@ -38,7 +38,7 @@ The cost of this freedom is steep though. Both cofounders slashed their salaries
 
 The irony hanging over this whole story is pretty thick. Spry Fox left Netflix partly because they needed to reach more players, but now they have to figure out monetization. Remember, these are the same people who admitted they were never good at making money from games. That's why they got acquired in the first place.
 
-Edery says "we have to figure out how to make money now" with what sounds like genuine dread. It's relatable for anyone who's ever had to pivot from creative work to thinking about revenue models. But it's also the reality of independence in the [Technology](https://infeeds.com/tags/?tag=technology) and gaming space.
+Edery says "we have to figure out how to make money now" with what sounds like genuine dread. It's relatable for anyone who's ever had to pivot from creative work to thinking about revenue models. But it's also the reality of independence in the [Technology](https://infeeds.com/tags/technology) and gaming space.
 
 Spirit Crossing aims to "reduce loneliness in the world," which is an admirable goal even if it sounds a bit grandiose. The game is essentially a multiplayer Cozy Grove experience, and if you've played that series, you know Spry Fox understands how to create warm, welcoming spaces. Whether they can pull it off at MMO scale while also staying financially viable is the real question.
 

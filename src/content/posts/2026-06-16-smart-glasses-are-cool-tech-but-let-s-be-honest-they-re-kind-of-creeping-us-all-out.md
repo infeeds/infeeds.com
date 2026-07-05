@@ -12,7 +12,7 @@ There's a moment that sticks with you. You're on the subway, maybe heading home 
 
 That's the reality we're living in now, and honestly? It's unsettling.
 
-Smart glasses have been popping up everywhere. Meta sold a staggering 7 million pairs of Ray-Bans in 2025 alone, and they're not the only game in town. This week at Augmented World Expo, companies are unveiling new models from [Snap Specs](https://infeeds.com/tags/?tag=technology) to XReal Aura that claim to be just as slim as regular frames. The tech is impressive. The implications are murky.
+Smart glasses have been popping up everywhere. Meta sold a staggering 7 million pairs of Ray-Bans in 2025 alone, and they're not the only game in town. This week at Augmented World Expo, companies are unveiling new models from [Snap Specs](https://infeeds.com/tags/technology) to XReal Aura that claim to be just as slim as regular frames. The tech is impressive. The implications are murky.
 
 Last month, a woman in London learned this the hard way. A man wearing smart glasses recorded their entire interaction without her knowing. He uploaded it to social media. Forty thousand views later, he refused to take it down unless she paid him. That's not an edge case. That's a preview of what's coming.
 

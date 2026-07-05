@@ -12,7 +12,7 @@ tags_color: '#2196f3'
 
 At MWC 2026, among Honor's Robot Phone and Tecno's magnetic modular concepts, one device stood out for all the wrong reasons. The PetPhone. A $90 cellular tracker that lets your cat or dog call you. By jumping. Three times. In less than six seconds.
 
-I get it. We're lonely. Pet ownership has become a lifeline for millions of people seeking unconditional love and connection. When you're stuck at work and your furry best friend is home alone, the urge to bridge that gap makes sense. But the PetPhone feels like <a href="https://infeeds.com/tags/?tag=technology">technology</a> solving a problem that didn't need solving, at least not this way.
+I get it. We're lonely. Pet ownership has become a lifeline for millions of people seeking unconditional love and connection. When you're stuck at work and your furry best friend is home alone, the urge to bridge that gap makes sense. But the PetPhone feels like <a href="https://infeeds.com/tags/technology">technology</a> solving a problem that didn't need solving, at least not this way.
 
 ## The Premise Sounds Better Than It Actually Is
 
@@ -46,7 +46,7 @@ What's interesting isn't the PetPhone itself. It's what it represents. We've cre
 
 Pet ownership has always been good for mental health. But somewhere along the way, we decided that wasn't enough. We needed the ability to work from the office while maintaining constant contact with our animals. We needed them to be able to reach us. We needed to know their exact location at all times.
 
-The <a href="https://infeeds.com/tags/?tag=news">news</a> from GlocalMe's representative that they're reconsidering the PetCam's price due to a RAM shortage is telling. Even the follow-up product, which livestreams video from your pet's perspective, has been delayed by supply chain issues. But the core device? Already on sale. Already available at Amazon and Chewy. People are already buying this thing.
+The <a href="https://infeeds.com/tags/news">news</a> from GlocalMe's representative that they're reconsidering the PetCam's price due to a RAM shortage is telling. Even the follow-up product, which livestreams video from your pet's perspective, has been delayed by supply chain issues. But the core device? Already on sale. Already available at Amazon and Chewy. People are already buying this thing.
 
 CNET hasn't even tested it yet, and it's already shipping. That tells you something about consumer behavior in 2026. We don't need to know if products work anymore. We just need to know they exist.
 

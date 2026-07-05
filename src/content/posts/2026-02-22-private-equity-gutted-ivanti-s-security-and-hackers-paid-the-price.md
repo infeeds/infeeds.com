@@ -28,9 +28,9 @@ What happened at Ivanti isn't unique. Citrix, a rival provider of remote access 
 
 The difference is that Ivanti's problems didn't stop in 2021. In early 2024, the U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered all federal agencies to disconnect their Ivanti VPN appliances within 48 hours because hackers were actively exploiting unknown vulnerabilities. That's the kind of emergency that makes you realize something is seriously broken.
 
-Last year, Ivanti warned customers about another critical flaw in its Connect Secure product. Hackers were using it to compromise corporate networks. At what point does a company's <a href="https://infeeds.com/tags/?tag=technology">technology</a> become a liability instead of a solution?
+Last year, Ivanti warned customers about another critical flaw in its Connect Secure product. Hackers were using it to compromise corporate networks. At what point does a company's <a href="https://infeeds.com/tags/technology">technology</a> become a liability instead of a solution?
 
-## The <a href="https://infeeds.com/tags/?tag=business">business</a> Case for Investing in Security
+## The <a href="https://infeeds.com/tags/business">business</a> Case for Investing in Security
 
 This is where the private equity math falls apart. Sure, you can cut costs and boost short-term profits by trimming the fat. But when you fire security engineers and product experts to hit quarterly targets, you're not really saving money. You're just pushing the cost forward, and it comes back as customer lawsuits, regulatory fines, and destroyed reputation.
 

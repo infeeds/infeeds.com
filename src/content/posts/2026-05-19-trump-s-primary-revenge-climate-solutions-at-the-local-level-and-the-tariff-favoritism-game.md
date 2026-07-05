@@ -22,7 +22,7 @@ Denver isn't inventing this from scratch. Similar networks already exist on camp
 
 ## When Tariffs Become Personal Favors
 
-On the [business](https://infeeds.com/tags/?tag=business) front, there's a story that deserves more scrutiny: Cambria CEO Marty Davis, a Trump donor and kitchen countertop mogul, has been repeatedly asking the U.S. government to impose more tariffs on quartz imports. His $500 million company manufactures quartz countertops, so he knows exactly who this helps.
+On the [business](https://infeeds.com/tags/business) front, there's a story that deserves more scrutiny: Cambria CEO Marty Davis, a Trump donor and kitchen countertop mogul, has been repeatedly asking the U.S. government to impose more tariffs on quartz imports. His $500 million company manufactures quartz countertops, so he knows exactly who this helps.
 
 Those tariffs don't magically disappear. They raise costs for competitors and other businesses that rely on imported materials. Those increased costs get passed directly to homeowners and consumers. Small businesses in the industry say this is textbook political favoritism, and it's hard to argue otherwise when one well-connected CEO gets tax policy tailored to his advantage while everyone else absorbs the bill.
 

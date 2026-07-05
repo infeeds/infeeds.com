@@ -16,7 +16,7 @@ The yellow category zeros in on actual features you'd find on pants: belt loop, 
 
 ## Perspective Is Everything (And It Comes in Four Forms)
 
-The blue grouping shifts gears into abstraction with the theme of perspective. The answers angle, position, stance, and take all describe different ways of looking at something or someone. What makes this category work is how these words exist in that gray zone where they can mean both concrete and abstract things simultaneously. You can take a stance physically or philosophically. You can angle a camera or angle an argument. The [Technology](https://infeeds.com/tags/?tag=technology) behind Connections relies on this kind of layered thinking.
+The blue grouping shifts gears into abstraction with the theme of perspective. The answers angle, position, stance, and take all describe different ways of looking at something or someone. What makes this category work is how these words exist in that gray zone where they can mean both concrete and abstract things simultaneously. You can take a stance physically or philosophically. You can angle a camera or angle an argument. The [Technology](https://infeeds.com/tags/technology) behind Connections relies on this kind of layered thinking.
 
 ## Energy in Motion
 

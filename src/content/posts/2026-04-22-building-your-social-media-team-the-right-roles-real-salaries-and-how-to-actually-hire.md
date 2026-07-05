@@ -38,7 +38,7 @@ This isn't depressing—it's clarifying. You're not building a perfect team. You
 
 Once you know your starting point, get clear on what you want social media to actually do for you. Do you want more brand awareness? More sales? Better customer support? Your goal determines which roles matter most.
 
-A retail company focused on social commerce might prioritize a paid ads specialist to drive revenue. A B2B [business](/tags/?tag=business) brand building community might start with a community manager. Your goals are your guide.
+A retail company focused on social commerce might prioritize a paid ads specialist to drive revenue. A B2B [business](/tags/business) brand building community might start with a community manager. Your goals are your guide.
 
 ## The Hiring Reality Check
 

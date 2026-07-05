@@ -10,7 +10,7 @@ tags_color: '#2b2b2b'
 
 Bethenny Frankel has a deceptively simple piece of advice for entrepreneurs: "You can't ask a dog to be a cat."
 
-It sounds almost ridiculous when you first hear it. But what she's really saying is something that most <a href="https://infeeds.com/tags/?tag=business">business</a> advice ignores completely. Don't force yourself into someone else's mold. Stop pretending to be the careful, methodical strategist if you're actually wired for risk and improvisation. Maximize what you actually are, not what you think you should be.
+It sounds almost ridiculous when you first hear it. But what she's really saying is something that most <a href="https://infeeds.com/tags/business">business</a> advice ignores completely. Don't force yourself into someone else's mold. Stop pretending to be the careful, methodical strategist if you're actually wired for risk and improvisation. Maximize what you actually are, not what you think you should be.
 
 The conventional wisdom says write a business plan. Plot everything out. Think long-term. And sure, that works brilliantly if you're naturally inclined toward strategic thinking and careful deliberation. But what if you're not? What if your actual strength is a high tolerance for chaos and the ability to improvise your way to better outcomes?
 

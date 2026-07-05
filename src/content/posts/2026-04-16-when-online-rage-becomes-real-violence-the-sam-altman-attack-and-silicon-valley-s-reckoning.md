@@ -26,7 +26,7 @@ In reporting published by The Free Press, Mills noted that Moreno-Gama told him 
 
 ## The Blurry Line Between Anger and Action
 
-The broader context here matters. Tech executives, particularly those leading [artificial intelligence](/tags/?tag=technology) companies, have become lightning rods for real frustration. People are genuinely worried about job displacement, algorithmic bias, and corporate power. That anger is legitimate.
+The broader context here matters. Tech executives, particularly those leading [artificial intelligence](/tags/technology) companies, have become lightning rods for real frustration. People are genuinely worried about job displacement, algorithmic bias, and corporate power. That anger is legitimate.
 
 But somewhere along the way, some of that anger found validation in watching Luigi Mangione's actions get mythologized. Whether we like it or not, Mangione's alleged killing of a UnitedHealthcare executive sparked conversations that, for some people, seemed to justify violence against elites. The logic went: this guy did something, people understood why, so maybe violent action isn't unthinkable anymore.
 

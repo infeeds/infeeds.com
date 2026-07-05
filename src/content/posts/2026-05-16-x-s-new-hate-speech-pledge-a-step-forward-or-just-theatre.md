@@ -36,7 +36,7 @@ That's the real question hanging over all of this. X has made promises before. E
 
 Here's what's important to understand: procedural commitments like these can only do so much. A 24-hour review window doesn't prevent content from spreading virally in the first six hours. An 85% compliance rate means 15% of reports still slip through. And even if X perfectly executes this agreement, it addresses only one platform's approach to one category of harm.
 
-The broader issue—that hate speech and extremist recruitment have found fertile ground on social [Technology](https://infeeds.com/tags/?tag=technology) platforms—remains unsolved. Ofcom can regulate response times. It can't regulate culture.
+The broader issue—that hate speech and extremist recruitment have found fertile ground on social [Technology](https://infeeds.com/tags/technology) platforms—remains unsolved. Ofcom can regulate response times. It can't regulate culture.
 
 What's encouraging is that the regulator is actually pushing back. Griffiths explicitly said Ofcom was "challenging the platforms to tackle the issue and take firmer action." That suggests this isn't the end of scrutiny. It's the beginning of a different kind of pressure.
 

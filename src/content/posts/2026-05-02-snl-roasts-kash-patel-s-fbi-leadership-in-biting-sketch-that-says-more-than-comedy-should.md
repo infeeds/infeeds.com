@@ -22,7 +22,7 @@ Patel, played with a deadpan confidence by Ansari, even declared himself "a trai
 
 ## When Comedy Becomes Documentary
 
-Here's where the sketch enters murky territory: it's hard to know where the satire ends and the reporting begins. Saturday Night Live isn't a news program, and sketches are meant to exaggerate for comedic effect. But when the exaggerations are this close to documented complaints, the show essentially becomes a comedic summary of existing <a href="https://infeeds.com/tags/?tag=news">news</a> controversies.
+Here's where the sketch enters murky territory: it's hard to know where the satire ends and the reporting begins. Saturday Night Live isn't a news program, and sketches are meant to exaggerate for comedic effect. But when the exaggerations are this close to documented complaints, the show essentially becomes a comedic summary of existing <a href="https://infeeds.com/tags/news">news</a> controversies.
 
 The reference to an assassination attempt at the White House Correspondents' Association dinner adds another layer, though the sketch doesn't dwell on it. Instead, it uses the incident as a springboard for jokes about investigative competence, suggesting that an agency six weeks away from "pinpointing the exact location of Osama bin Laden" probably shouldn't be leading the investigation into anything.
 

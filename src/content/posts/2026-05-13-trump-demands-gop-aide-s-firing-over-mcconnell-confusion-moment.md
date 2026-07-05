@@ -28,7 +28,7 @@ There's also no evidence that Karem "has tremendous Democrat support" or is "pra
 
 What's worth examining here isn't really the incident itself, which was mundane, but what Trump's reaction reveals about how political pressure operates these days. A staffer does his job, reminds a senator about outstanding questions, and suddenly finds himself targeted by the sitting president on social media. The message being sent is clear, even if the facts being cited are muddled.
 
-McConnell, now 84 and not seeking reelection, has faced legitimate scrutiny about age and fitness for office in recent years. That's fair <a href="https://infeeds.com/tags/?tag=politics">political</a> discussion. But turning a routine Senate aide's reminder into a conspiracy involving "Democrats" and "Never Trumpers" stretches credibility. It's the kind of narrative inflation that makes it harder to distinguish between real concerns and performative outrage.
+McConnell, now 84 and not seeking reelection, has faced legitimate scrutiny about age and fitness for office in recent years. That's fair <a href="https://infeeds.com/tags/politics">political</a> discussion. But turning a routine Senate aide's reminder into a conspiracy involving "Democrats" and "Never Trumpers" stretches credibility. It's the kind of narrative inflation that makes it harder to distinguish between real concerns and performative outrage.
 
 The fact that Trump appointed Karem to a significant defense position just a few years ago makes the current attack feel more personal than principled. People's views can change, sure, but so can political convenience.
 

@@ -23,7 +23,7 @@ Commander Reid Wiseman, pilot Victor Glover, mission specialist Christina Koch, 
 
 The greenish coloration particularly interests NASA scientists. Trevor Graff, a NASA science officer who communicated with the astronauts, suspects it's volcanic terrain. "Certain minerals have greenish hues to them," he explained, referencing green glass collected during Apollo missions that indicated ancient fire fountaining from volcanoes.
 
-This is where <a href="https://infeeds.com/tags/?tag=technology">technology</a> becomes a bridge between human curiosity and genuine discovery. The astronauts transmitted this data back using a laser communications system hitting 260 megabits per second, far faster than previous radio systems. Juliane Gross from NASA's Artemis science team noted this means researchers can now "direct orbiters to those regions that they specifically called out where they saw these colors, and we can go and collect more data."
+This is where <a href="https://infeeds.com/tags/technology">technology</a> becomes a bridge between human curiosity and genuine discovery. The astronauts transmitted this data back using a laser communications system hitting 260 megabits per second, far faster than previous radio systems. Juliane Gross from NASA's Artemis science team noted this means researchers can now "direct orbiters to those regions that they specifically called out where they saw these colors, and we can go and collect more data."
 
 ## A Crater Named Carroll
 

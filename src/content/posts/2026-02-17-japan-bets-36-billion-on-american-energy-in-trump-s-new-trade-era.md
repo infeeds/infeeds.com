@@ -22,7 +22,7 @@ The star of this investment show is a $33 billion natural gas facility in Portsm
 
 That's the kind of project that creates construction jobs, long-term employment, and gives politicians something concrete to point at during campaign season. Ohio's been hungry for major industrial investments like this, especially in regions still recovering from manufacturing losses.
 
-But let's be real about what this is. Japan isn't doing America a favor out of the kindness of its heart. These investments serve Japanese [business](https://infeeds.com/tags/?tag=business) interests while smoothing over trade tensions. Prime Minister Sanae Takaichi made that clear, noting the projects would bring "increased sales and business expansion for Japanese companies."
+But let's be real about what this is. Japan isn't doing America a favor out of the kindness of its heart. These investments serve Japanese [business](https://infeeds.com/tags/business) interests while smoothing over trade tensions. Prime Minister Sanae Takaichi made that clear, noting the projects would bring "increased sales and business expansion for Japanese companies."
 
 ## Texas Gets an Oil Export Hub
 
@@ -38,6 +38,6 @@ The smallest but perhaps most strategically interesting investment is $600 milli
 
 Diamond grit matters more than most people realize. Its hardness and wear resistance make it essential for precision manufacturing, and the Commerce Department flagged it as important for economic and national security. That's code for "we don't want to depend on China for this stuff."
 
-This kind of supply chain diversification has become a massive theme in [business](https://infeeds.com/tags/?tag=business) strategy since COVID exposed how fragile global production networks really are. Getting allies to build critical infrastructure domestically solves multiple problems at once.
+This kind of supply chain diversification has become a massive theme in [business](https://infeeds.com/tags/business) strategy since COVID exposed how fragile global production networks really are. Getting allies to build critical infrastructure domestically solves multiple problems at once.
 
 The question nobody's really asking yet is what happens when the next administration comes in with different ideas about tariffs and trade policy.

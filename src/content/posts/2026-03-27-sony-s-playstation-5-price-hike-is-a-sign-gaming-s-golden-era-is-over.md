@@ -30,11 +30,11 @@ You can't blame people for being angry. Gaming was already feeling expensive. Se
 
 ## The Broader Gaming Industry Meltdown
 
-Here's the thing that makes this timing particularly rough: the gaming industry is already reeling. In recent weeks and months, we've seen a cascade of [business](https://infeeds.com/tags/?tag=business) disruptions that would make anyone's head spin.
+Here's the thing that makes this timing particularly rough: the gaming industry is already reeling. In recent weeks and months, we've seen a cascade of [business](https://infeeds.com/tags/business) disruptions that would make anyone's head spin.
 
 Epic Games, the company behind Fortnite, just announced 1,000 job cuts because the massively popular free-to-play title isn't making as much money as it costs to develop. That's a company that seemed untouchable suddenly admitting it's spending more than it's earning. If that's happening at Epic, imagine what smaller studios are dealing with.
 
-Developer layoffs have become routine. Service price increases are happening everywhere. [Technology](https://infeeds.com/tags/?tag=technology) companies are constantly reshuffling leadership and pivoting strategies. The industry feels volatile, uncertain, and honestly a bit broken right now.
+Developer layoffs have become routine. Service price increases are happening everywhere. [Technology](https://infeeds.com/tags/technology) companies are constantly reshuffling leadership and pivoting strategies. The industry feels volatile, uncertain, and honestly a bit broken right now.
 
 And then Sony decides now is the time to make its hardware more expensive. It's almost tone-deaf to what's happening in the sector.
 

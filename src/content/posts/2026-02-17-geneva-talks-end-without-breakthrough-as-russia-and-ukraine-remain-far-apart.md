@@ -30,9 +30,9 @@ The fear isn't just about losing territory. Many Ukrainians believe that giving 
 
 President Trump, who's been driving these diplomatic efforts, is clearly getting frustrated with how slowly things are moving. He told Ukraine to "come to the table, fast" on Monday, which Zelensky immediately pushed back on. The Ukrainian president said it's "not fair" that his country should be the one pressured to compromise when they're the ones who got invaded.
 
-That tension speaks to a broader issue in these [news](https://infeeds.com/tags/?tag=news) cycles about war and peace. There's always pressure on the defending party to make concessions in the name of ending the conflict, even when they're not the ones who started it. It's a frustrating dynamic that puts Ukraine in an impossible position.
+That tension speaks to a broader issue in these [news](https://infeeds.com/tags/news) cycles about war and peace. There's always pressure on the defending party to make concessions in the name of ending the conflict, even when they're not the ones who started it. It's a frustrating dynamic that puts Ukraine in an impossible position.
 
-Meanwhile, European officials from Britain, France, Germany, and Italy were present in Geneva but relegated to sidebar conversations with the Ukrainians. They've been struggling to get a seat at the main table in these US-led negotiations, which has to sting considering Europe's geographic proximity to the conflict and the massive impact it's had on European [politics](https://infeeds.com/tags/?tag=politics) and economies.
+Meanwhile, European officials from Britain, France, Germany, and Italy were present in Geneva but relegated to sidebar conversations with the Ukrainians. They've been struggling to get a seat at the main table in these US-led negotiations, which has to sting considering Europe's geographic proximity to the conflict and the massive impact it's had on European [politics](https://infeeds.com/tags/politics) and economies.
 
 Zelensky made it clear that European participation isn't optional for any final agreement. He called it "indispensable," which is probably the diplomatic way of saying "we're not signing anything without them in the room."
 

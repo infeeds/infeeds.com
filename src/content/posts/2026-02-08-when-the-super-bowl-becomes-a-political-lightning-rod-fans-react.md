@@ -20,7 +20,7 @@ Something weird happened in the lead-up to this game. Sports betting has always 
 
 These prediction markets operate in a legal gray area that feels very Silicon Valley. One fan we talked to dismissed them entirely, saying he'd rather stick with "official platforms like at MGM or any of the actual casino-run sportsbooks." Another guy, Jim Lockhart from Boston, claimed he had "a mortgage on it" when asked about betting. He'd placed wagers on everything from the coin toss to the Gatorade color.
 
-The [Technology](https://infeeds.com/tags/?tag=technology) enabling this new betting landscape is making gambling more accessible than ever, and it's not clear anyone's thought through what that means long-term.
+The [Technology](https://infeeds.com/tags/technology) enabling this new betting landscape is making gambling more accessible than ever, and it's not clear anyone's thought through what that means long-term.
 
 ## Bad Bunny and the Manufactured Outrage
 
@@ -30,7 +30,7 @@ Turning Point USA organized a competing "All-American Halftime Show" featuring K
 
 The reactions from fans at the tailgate told the whole story. One Patriots fan said flat out: "I think it's disgusting that there's a guy who doesn't speak English who's playing at the Super Bowl." When corrected about Bad Bunny being American, he didn't seem to care. He planned to protest by going to the beer line during halftime.
 
-Meanwhile, other fans were genuinely excited. Tayler Alexis, who works in venture capital funding the [Business](https://infeeds.com/tags/?tag=business) of tech, was thrilled. She'd been hearing Bad Bunny rehearse from her apartment across from the stadium. Another dad, initially indifferent, said he'd actually become interested in Bad Bunny after hearing the controversy and listening to a few songs on SiriusXM.
+Meanwhile, other fans were genuinely excited. Tayler Alexis, who works in venture capital funding the [Business](https://infeeds.com/tags/business) of tech, was thrilled. She'd been hearing Bad Bunny rehearse from her apartment across from the stadium. Another dad, initially indifferent, said he'd actually become interested in Bad Bunny after hearing the controversy and listening to a few songs on SiriusXM.
 
 "Before, I wasn't, to be honest," he admitted. "Because of that whole controversy, they played a couple Bad Bunny songs. I'm like, yeah, dude. I'm all for it now."
 
@@ -50,7 +50,7 @@ Almost as a palate cleanser from the political tensions, fans couldn't stop talk
 
 Scott Weber, who'd flown in from Australia for his birthday, went on a Waymo ride and "sat up the front, videotaped it, sent it to everyone at home." Multiple fans mentioned plans to ride in one before leaving town. The Boston dad summed it up: "It's unnerving that there's a car with nobody in there, but I see them all over the place. I think they might be safer than some of the other drivers. They probably drive better than my wife."
 
-The fascination with autonomous vehicles felt almost quaint compared to the heavier conversations happening around immigration and cultural identity. Here was [technology](https://infeeds.com/tags/?tag=technology) people could marvel at without the weight of politics crushing the moment.
+The fascination with autonomous vehicles felt almost quaint compared to the heavier conversations happening around immigration and cultural identity. Here was [technology](https://infeeds.com/tags/technology) people could marvel at without the weight of politics crushing the moment.
 
 ## What Football Used to Be
 

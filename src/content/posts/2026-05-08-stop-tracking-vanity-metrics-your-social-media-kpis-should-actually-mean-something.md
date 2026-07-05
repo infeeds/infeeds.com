@@ -26,7 +26,7 @@ Once you know your strategic goal, you reverse-engineer the path to get there. T
 
 ## The Six Categories That Actually Matter
 
-For <a href="https://infeeds.com/tags/?tag=business">business</a> teams operating on social media in 2026, KPIs tend to fall into six buckets: engagement, awareness, conversions, ROI, customer care, and content performance. Each serves a different purpose, and most businesses will track across multiple categories.
+For <a href="https://infeeds.com/tags/business">business</a> teams operating on social media in 2026, KPIs tend to fall into six buckets: engagement, awareness, conversions, ROI, customer care, and content performance. Each serves a different purpose, and most businesses will track across multiple categories.
 
 **Engagement** tells you whether your audience cares enough to interact with what you're saying. Comments are particularly telling here because they require more effort than a like. But high comment volume isn't inherently good—you need to track sentiment alongside it. A thousand angry comments is a problem, not a win.
 

@@ -32,6 +32,6 @@ Trump praised the Secret Service and law enforcement for their quick response, a
 
 But here's what lingers: how does a man with a shotgun, a handgun, and multiple knives get close enough to the metal detectors to open fire at an event of this magnitude? How does he get through as a "guest at the hotel"? These are the uncomfortable questions that security reviews will have to answer, not in press conferences but in boardrooms and classified briefings.
 
-The [business](https://infeeds.com/tags/?tag=business) of presidential protection is rarely scrutinized in public, and Saturday's incident won't change that much. But it should remind us that security theater, no matter how sophisticated, has limits. Threats adapt. Bad actors find new angles. And sometimes the only thing standing between catastrophe and containment is the speed and training of the people in the room.
+The [business](https://infeeds.com/tags/business) of presidential protection is rarely scrutinized in public, and Saturday's incident won't change that much. But it should remind us that security theater, no matter how sophisticated, has limits. Threats adapt. Bad actors find new angles. And sometimes the only thing standing between catastrophe and containment is the speed and training of the people in the room.
 
 That's both reassuring and unsettling in equal measure.

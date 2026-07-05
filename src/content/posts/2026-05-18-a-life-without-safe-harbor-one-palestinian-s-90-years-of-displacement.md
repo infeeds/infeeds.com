@@ -20,7 +20,7 @@ The psychological toll of never having safety isn't something you can quantify o
 
 ## A Cycle Without Breaks
 
-What strikes most observers about Gaza's broader [news](https://infeeds.com/tags/?tag=news) landscape is how compressed the crises feel. Wars don't fully resolve before new tensions emerge. Rebuilding happens in fragments. For someone who's been there for nine decades, this isn't new information. It's lived experience.
+What strikes most observers about Gaza's broader [news](https://infeeds.com/tags/news) landscape is how compressed the crises feel. Wars don't fully resolve before new tensions emerge. Rebuilding happens in fragments. For someone who's been there for nine decades, this isn't new information. It's lived experience.
 
 The man's testimony reflects something deeper than just personal hardship. It's evidence of what sustained instability does to a community. When safety becomes a luxury rather than a baseline expectation, entire generations grow up without reference points for normalcy. They inherit trauma as geography.
 

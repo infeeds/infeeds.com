@@ -33,4 +33,4 @@ The real question isn't whether these companies can go public. It's whether they
 You'll want to keep an eye on how SpaceX's offering performs when it finally launches. That will set the tone for everything else that follows.
 
 ---
-*Related tags: [Technology](https://infeeds.com/tags/?tag=technology) | [Business](https://infeeds.com/tags/?tag=business)*
+*Related tags: [Technology](https://infeeds.com/tags/technology) | [Business](https://infeeds.com/tags/business)*

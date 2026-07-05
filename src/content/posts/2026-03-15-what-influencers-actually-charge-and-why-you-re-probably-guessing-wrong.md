@@ -10,7 +10,7 @@ tags_color: '#ff9800'
 
 You've scrolled through Instagram and noticed your favorite creator just posted about some random brand's protein powder. You know they got paid. You just don't know how much.
 
-Here's the thing about influencer pricing: it's one of the most opaque parts of <a href="https://infeeds.com/tags/?tag=business">business</a> today. Creators won't tell you. Brands won't tell you. And honestly? There's no universal rate card that applies across the board.
+Here's the thing about influencer pricing: it's one of the most opaque parts of <a href="https://infeeds.com/tags/business">business</a> today. Creators won't tell you. Brands won't tell you. And honestly? There's no universal rate card that applies across the board.
 
 But we can decode it.
 
@@ -88,6 +88,6 @@ This creates situations where two creators with identical follower counts charge
 
 The best approach? Do your research. Look at what similar creators are charging. Understand what you actually need from them. And be willing to walk away if the price doesn't make sense for your budget and goals.
 
-Because at the end of the day, influencer marketing should be aligned with your actual <a href="https://infeeds.com/tags/?tag=business">business</a> objectives, not just a vanity play on follower counts. If you're paying a mega-influencer $20,000 for awareness when a micro-influencer could drive actual conversions for $500, you're not getting smarter with your budget.
+Because at the end of the day, influencer marketing should be aligned with your actual <a href="https://infeeds.com/tags/business">business</a> objectives, not just a vanity play on follower counts. If you're paying a mega-influencer $20,000 for awareness when a micro-influencer could drive actual conversions for $500, you're not getting smarter with your budget.
 
 The creator economy keeps evolving, and with it, the pricing landscape shifts constantly. What creators charged in 2024 is already outdated. What they charge in 2026 might surprise everyone. The only certainty is that the most transparent partnerships will continue to deliver the best results.

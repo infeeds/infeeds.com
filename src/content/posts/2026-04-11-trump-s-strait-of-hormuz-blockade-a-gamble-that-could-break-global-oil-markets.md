@@ -26,7 +26,7 @@ Here's where this gets genuinely dangerous. Oil markets have already been volati
 
 Trump acknowledged the pain during an appearance on Fox News' "Sunday Morning Futures." He said energy prices might not fall immediately, but promised they would eventually drop once the war ends and Iran abandons its nuclear ambitions. That's optimistic framing for what could be a protracted economic crisis. Global supply chains that already run on razor-thin margins don't have much tolerance for extended disruptions.
 
-The <a href="https://infeeds.com/tags/?tag=business">business</a> world is watching this closely. Markets hate uncertainty, and this blockade creates the kind of uncertainty that makes traders nervous.
+The <a href="https://infeeds.com/tags/business">business</a> world is watching this closely. Markets hate uncertainty, and this blockade creates the kind of uncertainty that makes traders nervous.
 
 ## The Toll Issue and International Waters
 

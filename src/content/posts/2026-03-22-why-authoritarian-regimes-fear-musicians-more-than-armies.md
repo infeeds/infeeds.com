@@ -48,6 +48,6 @@ Music gets passed down. Kids learn it from their parents. Communities sing it to
 
 The irony that haunts every regime is this: the more aggressively they attack musicians, the more enduring their message often becomes. Violence against artists creates martyrs. Martyrs become symbols. Symbols become movements. Movements change societies.
 
-That's the lesson of Jara, of Makeba, of every artist who survived suppression or died trying. Their music outlasted the regimes that tried to kill it. Not because music is magic, but because <a href="https://infeeds.com/tags/?tag=entertainment">entertainment</a> and resistance merged into something governments cannot control: the human need to express, to gather, to resist through collective voice.
+That's the lesson of Jara, of Makeba, of every artist who survived suppression or died trying. Their music outlasted the regimes that tried to kill it. Not because music is magic, but because <a href="https://infeeds.com/tags/entertainment">entertainment</a> and resistance merged into something governments cannot control: the human need to express, to gather, to resist through collective voice.
 
 The law preserves what music animates. Together, they create something regimes genuinely fear: a memory that refuses to disappear, and a voice that refuses to be silenced even in silence.

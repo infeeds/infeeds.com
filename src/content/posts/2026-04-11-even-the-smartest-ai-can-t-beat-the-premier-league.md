@@ -20,7 +20,7 @@ Anthropic's Claude Opus 4.6 performed best among the bunch, but "best" here mean
 
 Google's Gemini 3.1 Pro managed a 34 percent profit once, then went bankrupt on another attempt. xAI's Grok 4.20 went bankrupt immediately and couldn't complete two of its three attempts. The paper's conclusion was unsparing: "Every frontier model we evaluated lost money over the season and many experienced ruin."
 
-This matters because it reveals something uncomfortable about where AI actually stands. When we talk about [Technology](https://infeeds.com/tags/?tag=technology) disruption, the conversation tends to focus on what these systems can do spectacularly well: write software, generate text, summarize documents. But those tasks exist in relatively controlled environments. They don't require constant adaptation to messy, unpredictable real-world conditions that shift over time.
+This matters because it reveals something uncomfortable about where AI actually stands. When we talk about [Technology](https://infeeds.com/tags/technology) disruption, the conversation tends to focus on what these systems can do spectacularly well: write software, generate text, summarize documents. But those tasks exist in relatively controlled environments. They don't require constant adaptation to messy, unpredictable real-world conditions that shift over time.
 
 Betting on soccer, it turns out, does.
 
@@ -36,7 +36,7 @@ The Premier League study is particularly revealing because it stacks the deck in
 
 ## What This Means for the Panic
 
-There's something almost reassuring here for the millions of [Business](https://infeeds.com/tags/?tag=business) professionals and workers losing sleep over AI displacement. The technology is powerful and transformative in specific domains. But it's also brittle in ways that matter. It struggles with long-term adaptation, with managing competing variables that shift over time, with the kind of contextual judgment that experienced analysts bring to uncertain situations.
+There's something almost reassuring here for the millions of [Business](https://infeeds.com/tags/business) professionals and workers losing sleep over AI displacement. The technology is powerful and transformative in specific domains. But it's also brittle in ways that matter. It struggles with long-term adaptation, with managing competing variables that shift over time, with the kind of contextual judgment that experienced analysts bring to uncertain situations.
 
 That doesn't mean AI won't reshape work or eliminate certain job categories. It will. But the notion that we're on the cusp of general-purpose AI systems that can simply replace human decision-makers across the board? The Premier League betting experiment suggests we're not there yet, and maybe we're further away than the current conversation implies.
 

@@ -12,7 +12,7 @@ On Monday night, something sharp tore through Kabul's sky. Those near the Omid A
 
 Abdul Basir Watan showed up looking for his cousin Zamarek, who'd been seeking treatment for drug addiction for four months. The name never came. No survivors list. No casualties list. Just the rumor of bulldozers digging mass graves at a Kabul cemetery for those too damaged to identify. So Watan decided he'd go pray there instead.
 
-This is what [conflict](https://infeeds.com/tags/?tag=conflict) in South Asia looks like in 2024. Not clean. Not predictable. Not contained by borders or official statements.
+This is what [conflict](https://infeeds.com/tags/conflict) in South Asia looks like in 2024. Not clean. Not predictable. Not contained by borders or official statements.
 
 ## The Numbers Game Nobody Wins
 

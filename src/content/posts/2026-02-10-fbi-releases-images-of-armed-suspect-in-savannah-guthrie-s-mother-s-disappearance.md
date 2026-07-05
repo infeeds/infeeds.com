@@ -18,7 +18,7 @@ FBI Director Kash Patel released a statement on X showing what authorities descr
 
 Here's what makes this development even more significant. The FBI has been working around the clock to recover footage from Nancy's home surveillance system that was either lost, corrupted, or simply inaccessible. According to Patel, recording devices were removed from the scene, which explains why it took more than eight days to get these crucial images.
 
-The technical challenges involved in recovering this kind of digital evidence can't be understated. When someone knows what they're doing and wants to cover their tracks, extracting anything usable from a compromised surveillance system becomes an enormous task. This kind of [technology](https://infeeds.com/tags/?tag=technology) recovery work typically involves forensic specialists who can reconstruct data from damaged or deliberately wiped devices.
+The technical challenges involved in recovering this kind of digital evidence can't be understated. When someone knows what they're doing and wants to cover their tracks, extracting anything usable from a compromised surveillance system becomes an enormous task. This kind of [technology](https://infeeds.com/tags/technology) recovery work typically involves forensic specialists who can reconstruct data from damaged or deliberately wiped devices.
 
 ## A Daughter's Desperate Plea
 
@@ -30,7 +30,7 @@ That same Monday, police were still saying they had no suspects and no vehicles 
 
 Nancy Guthrie disappeared in the middle of the night from her Tucson home. Authorities aren't mincing words about what they think happened here. They believe the 84-year-old was taken against her will, and now with images of an armed person at her front door, that theory looks increasingly solid.
 
-The [news](https://infeeds.com/tags/?tag=news) of her disappearance has rippled through communities far beyond Arizona. When the mother of a national news anchor vanishes under suspicious circumstances, it hits differently. There's something particularly unsettling about someone being taken from what should be the safest place, their own home, in the dead of night.
+The [news](https://infeeds.com/tags/news) of her disappearance has rippled through communities far beyond Arizona. When the mother of a national news anchor vanishes under suspicious circumstances, it hits differently. There's something particularly unsettling about someone being taken from what should be the safest place, their own home, in the dead of night.
 
 ## The $50,000 Question
 

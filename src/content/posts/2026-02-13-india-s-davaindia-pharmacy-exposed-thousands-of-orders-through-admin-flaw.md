@@ -20,7 +20,7 @@ The vulnerability wasn't some minor crack in the system. This was full administr
 
 Think about what your medicine cabinet says about you. Maybe it's antidepressants, HIV medication, erectile dysfunction drugs, or treatments for conditions you'd rather keep private. Now imagine all that information sitting exposed because of insecure APIs that shouldn't have been accessible to begin with.
 
-Zveare told TechCrunch the flaw had been live since late 2024. That's months of potential exposure while DavaIndia was aggressively expanding its retail footprint. The company added 276 new stores in January alone and plans to open up to 1,500 more in the next two years. Scaling fast is great for [business](https://infeeds.com/tags/?tag=business), but not when your security infrastructure is held together with digital duct tape.
+Zveare told TechCrunch the flaw had been live since late 2024. That's months of potential exposure while DavaIndia was aggressively expanding its retail footprint. The company added 276 new stores in January alone and plans to open up to 1,500 more in the next two years. Scaling fast is great for [business](https://infeeds.com/tags/business), but not when your security infrastructure is held together with digital duct tape.
 
 ## What Could Have Gone Wrong
 
@@ -28,7 +28,7 @@ The level of access this bug provided was frankly terrifying. An attacker could 
 
 Let that sink in. Someone with malicious intent could have toggled prescription requirements on controlled substances. They could have defaced the website, disrupted operations, or quietly harvested customer data for months without anyone noticing.
 
-The researcher said there's no evidence the flaw was actually exploited before it got patched. But that's cold comfort when you consider how easily it could have been discovered by someone with worse intentions. These kinds of vulnerabilities don't stay secret forever in the [technology](https://infeeds.com/tags/?tag=technology) underground.
+The researcher said there's no evidence the flaw was actually exploited before it got patched. But that's cold comfort when you consider how easily it could have been discovered by someone with worse intentions. These kinds of vulnerabilities don't stay secret forever in the [technology](https://infeeds.com/tags/technology) underground.
 
 ## The Response Timeline Raises Questions
 
@@ -42,7 +42,7 @@ This incident highlights a broader problem with how rapidly expanding companies 
 
 Healthcare data breaches hit different than your typical customer database leak. Someone knowing your email got exposed in a streaming service breach is annoying. Someone knowing what medications you're taking for mental health issues or chronic conditions can be devastating.
 
-The intersection of [healthcare](https://infeeds.com/tags/?tag=healthcare) and e-commerce creates unique privacy challenges that many companies still aren't taking seriously enough. Pharmacies dealing with online orders need to treat their security infrastructure with the same rigor as their physical drug storage protocols.
+The intersection of [healthcare](https://infeeds.com/tags/healthcare) and e-commerce creates unique privacy challenges that many companies still aren't taking seriously enough. Pharmacies dealing with online orders need to treat their security infrastructure with the same rigor as their physical drug storage protocols.
 
 India's digital healthcare sector is booming, but incidents like this expose how security often takes a backseat to rapid expansion. When insecure admin interfaces can hand over the keys to the kingdom to literally anyone who finds them, something is fundamentally broken in the development and review process.
 

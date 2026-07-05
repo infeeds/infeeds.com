@@ -34,7 +34,7 @@ We're talking hundreds of billions of dollars bleeding into a conflict that show
 
 Russia reportedly shared intelligence with Iran about American military positions in the region. That's not exactly breaking news anymore, but when you look at how precisely Iran struck the same targets multiple times, you start to understand what that intelligence sharing actually means in practical terms.
 
-Modern <a href="https://infeeds.com/tags/?tag=technology">technology</a> makes military operations visible in ways previous generations couldn't have imagined. Satellite imagery, radar systems, communication networks. They're all trackable, targetable, and vulnerable. The radomes that protect sensitive equipment showed up clearly in satellite photos with visible damage. The smoke rising from Thaad components at Prince Sultan was plain to see.
+Modern <a href="https://infeeds.com/tags/technology">technology</a> makes military operations visible in ways previous generations couldn't have imagined. Satellite imagery, radar systems, communication networks. They're all trackable, targetable, and vulnerable. The radomes that protect sensitive equipment showed up clearly in satellite photos with visible damage. The smoke rising from Thaad components at Prince Sultan was plain to see.
 
 The degradation of these systems got so bad that the US reportedly had to redeploy Thaad components from South Korea to the Middle East just to maintain capability in the region.
 

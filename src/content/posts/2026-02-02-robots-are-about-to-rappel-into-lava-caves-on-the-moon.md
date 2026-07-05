@@ -26,13 +26,13 @@ They actually tested this in February 2023 in volcanic caves on Lanzarote, one o
 
 ## Why This Actually Matters
 
-The successful field test proves the concept isn't just theoretical. Autonomous robot teams could genuinely become the advance scouts for human missions to the Moon or Mars. That's a big deal for anyone interested in [Technology](https://infeeds.com/tags/?tag=technology) and space exploration.
+The successful field test proves the concept isn't just theoretical. Autonomous robot teams could genuinely become the advance scouts for human missions to the Moon or Mars. That's a big deal for anyone interested in [Technology](https://infeeds.com/tags/technology) and space exploration.
 
 The Space Robotics Laboratory at the University of Malaga has been quietly building expertise in this area for years. They focus on making space robots more independent, so they can make decisions without waiting for instructions from Earth. When you're dealing with communication delays of several minutes or more, that autonomy becomes critical.
 
 They've partnered with the European Space Agency on algorithms that help rovers plan their own routes and operate without constant oversight. The lab also trains engineering students through internships and thesis projects, which means this isn't just about one mission. It's about building a pipeline of people who know how to solve these kinds of problems.
 
-The work happens through collaborations with research institutions and companies, both in Spain and internationally. It's less about flashy announcements and more about the steady grind of making [Science](https://infeeds.com/tags/?tag=science) fiction gradually transform into science fact.
+The work happens through collaborations with research institutions and companies, both in Spain and internationally. It's less about flashy announcements and more about the steady grind of making [Science](https://infeeds.com/tags/science) fiction gradually transform into science fact.
 
 ## The Long Game
 

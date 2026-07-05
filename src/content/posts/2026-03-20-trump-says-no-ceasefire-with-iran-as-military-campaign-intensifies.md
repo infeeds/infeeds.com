@@ -26,7 +26,7 @@ This is classic Trump delegation, and it's not sitting well with everyone. He's 
 
 There's a growing disconnect between what Trump is saying publicly and what's actually happening on the ground. Earlier in the week, he promised no boots on the ground in Iran. Then, almost immediately, news broke about those 2,500 Marines being sent to the Middle East. That's a pretty significant contradiction.
 
-The stock market noticed too. Equities tumbled on Friday as traders absorbed the reality that this conflict isn't ending anytime soon. Oil prices have soared. The economic uncertainty is real, and it goes well beyond the energy sector and into broader [business](https://infeeds.com/tags/?tag=business) concerns.
+The stock market noticed too. Equities tumbled on Friday as traders absorbed the reality that this conflict isn't ending anytime soon. Oil prices have soared. The economic uncertainty is real, and it goes well beyond the energy sector and into broader [business](https://infeeds.com/tags/business) concerns.
 
 Trump's claim that the U.S. has already "won" militarily rings hollow when you consider the ongoing military buildup and the persistence of Iran's blockade. Yes, Iran's conventional military capabilities have been degraded, but controlling a strategic waterway that handles millions of barrels of oil daily requires more than just military superiority. It requires sustained commitment and multinational cooperation that simply isn't materializing.
 
@@ -34,6 +34,6 @@ Trump's claim that the U.S. has already "won" militarily rings hollow when you c
 
 What happens next is unclear. Trump seems convinced victory is at hand, yet he's also suggesting this conflict could drag on considerably longer. He wants other nations to shoulder the burden of keeping global trade flowing through one of the world's most important shipping lanes. Meanwhile, the Pentagon keeps sending more troops, contradicting the "winding down" narrative.
 
-The broader [news](https://infeeds.com/tags/?tag=news) coverage has focused heavily on Trump's defiant rhetoric, but the real story might be the growing gap between his optimism about military success and the stubborn reality that asymmetric regional conflicts rarely resolve themselves through declarations of victory.
+The broader [news](https://infeeds.com/tags/news) coverage has focused heavily on Trump's defiant rhetoric, but the real story might be the growing gap between his optimism about military success and the stubborn reality that asymmetric regional conflicts rarely resolve themselves through declarations of victory.
 
 If declaring something "finished" actually made it so, we probably wouldn't have a decades-long track record of Middle Eastern interventions proving otherwise.

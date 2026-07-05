@@ -44,8 +44,8 @@ Anker's Soundcore Work pin comes with a puck-shaped battery pack that extends re
 
 Almost all of these devices hook you with hardware prices, then get you on subscriptions. The transcription minutes are never quite enough if you're in meetings all day. And the basic transcription without AI summaries is like buying a smartphone that can only make calls, technically functional but missing the entire point.
 
-The [Technology](https://infeeds.com/tags/?tag=technology) here isn't revolutionary. Good mics, decent battery life, and cloud AI processing. What's interesting is watching companies figure out the form factor. Do people want a card in their pocket? A pin on their shirt? Something around their neck?
+The [Technology](https://infeeds.com/tags/technology) here isn't revolutionary. Good mics, decent battery life, and cloud AI processing. What's interesting is watching companies figure out the form factor. Do people want a card in their pocket? A pin on their shirt? Something around their neck?
 
 The real test is whether your coworkers will find these things creepy. Recording conversations without obvious visual cues makes people uncomfortable, regardless of whether you announced it at the start of the meeting. A phone on the table is one thing. A pendant recording everything you say is something else entirely.
 
-These devices exist in a weird space between useful [business](https://infeeds.com/tags/?tag=business) tools and privacy nightmares. They'll probably get smaller, cheaper, and better at what they do. Whether that's a good thing depends entirely on who's wearing them and why.
+These devices exist in a weird space between useful [business](https://infeeds.com/tags/business) tools and privacy nightmares. They'll probably get smaller, cheaper, and better at what they do. Whether that's a good thing depends entirely on who's wearing them and why.

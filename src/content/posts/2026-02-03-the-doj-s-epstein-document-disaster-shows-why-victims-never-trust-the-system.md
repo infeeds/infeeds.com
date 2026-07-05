@@ -36,11 +36,11 @@ Lisa Phillips, another Epstein victim, laid out exactly how the DOJ failed on ev
 
 "We feel like they're playing some games with us but we're not going to stop fighting," Phillips told BBC's Newsday. That's the thing about this whole mess. The law mandating these releases passed both chambers of Congress with bipartisan support. President Trump signed it. Everyone agreed transparency was important. But nobody seemed to think through what that transparency would cost the actual human beings involved.
 
-The balance between public interest and victim protection isn't just some abstract [legal](https://infeeds.com/tags/?tag=news) concept. It's the difference between justice and retraumatization. It's the difference between accountability and cruelty. And the DOJ somehow managed to land firmly on the wrong side of that line.
+The balance between public interest and victim protection isn't just some abstract [legal](https://infeeds.com/tags/news) concept. It's the difference between justice and retraumatization. It's the difference between accountability and cruelty. And the DOJ somehow managed to land firmly on the wrong side of that line.
 
 ## What Message Does This Send?
 
-When powerful people get caught doing horrific things, we tell victims to come forward. We promise them protection. We say the [government](https://infeeds.com/tags/?tag=news) will keep them safe. We assure them their identities will be shielded. And then something like this happens.
+When powerful people get caught doing horrific things, we tell victims to come forward. We promise them protection. We say the [government](https://infeeds.com/tags/news) will keep them safe. We assure them their identities will be shielded. And then something like this happens.
 
 The DOJ is now working "around the clock" to fix the issue, pulling down documents and doing better redactions. But the damage is done. Screenshots exist. Archive sites captured everything. Once information hits the internet, it never really disappears.
 

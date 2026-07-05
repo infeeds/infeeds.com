@@ -8,7 +8,7 @@ tags: [news, tech, business]
 tags_color: '#00ba65'
 ---
 
-Nicolas Sauvage has a theory that most investors don't want to hear: the best bets take four years to look obvious. It's a thesis he's been testing since 2019, when he founded TDK Ventures, the corporate [venture](https://infeeds.com/tags/?tag=business) arm of a Japanese electronics conglomerate most people associate with magnetic tape. Today, the fund manages $500 million across four funds, and its portfolio is studded with the kind of infrastructure bets that suddenly feel inevitable in hindsight.
+Nicolas Sauvage has a theory that most investors don't want to hear: the best bets take four years to look obvious. It's a thesis he's been testing since 2019, when he founded TDK Ventures, the corporate [venture](https://infeeds.com/tags/business) arm of a Japanese electronics conglomerate most people associate with magnetic tape. Today, the fund manages $500 million across four funds, and its portfolio is studded with the kind of infrastructure bets that suddenly feel inevitable in hindsight.
 
 Take Groq, the AI chip startup currently valued at $6.9 billion. In 2020, when Sauvage cut a check into the company, generative AI wasn't yet a household obsession. The infrastructure boom hadn't started. But Groq's founder, Jonathan Ross (who engineered Google's Tensor Processing Units), was focused on a specific problem: inference, the computational work that happens every time an AI model answers a query.
 
@@ -36,7 +36,7 @@ That clarity matters because it reduces the scope of the problem. A robot that m
 
 ## The Compute Stack is Shifting Again
 
-Sauvage tracks an interesting pattern in the [technology](https://infeeds.com/tags/?tag=technology) stack. GPUs dominated training (the massive parallel computation of teaching models). Inference chips like Groq's are now reshaping what happens when models respond. But the next layer is already shifting, he argues: CPUs are due for a renaissance.
+Sauvage tracks an interesting pattern in the [technology](https://infeeds.com/tags/technology) stack. GPUs dominated training (the massive parallel computation of teaching models). Inference chips like Groq's are now reshaping what happens when models respond. But the next layer is already shifting, he argues: CPUs are due for a renaissance.
 
 GPUs are powerful and fast. CPUs aren't the most powerful or fastest. But they're flexible, and flexibility matters when you're orchestrating. When an AI agent delegates tasks, checks progress, and loops back across dozens of decisions, something has to manage the choreography. That something increasingly looks like a CPU handling the branching logic and decision-making that training and inference don't address.
 

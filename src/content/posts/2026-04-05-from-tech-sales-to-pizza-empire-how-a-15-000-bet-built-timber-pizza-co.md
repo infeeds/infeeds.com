@@ -24,7 +24,7 @@ Brady and Dana attended a pizza camp in Colorado for a weekend, bought their fir
 
 ## Recognition and the COVID Pivot
 
-By 2016, they'd opened their first retail location in Petworth, Washington, DC. The original baby-blue truck still exists, but as Brady puts it, it's "definitely the show pony now, not the workhorse." The business was executing well enough that Bon Appétit named them [Pizzeria of the Year](https://infeeds.com/tags/?tag=business) in 2017. A Michelin Bib Gourmand followed in 2019. They were hitting their stride.
+By 2016, they'd opened their first retail location in Petworth, Washington, DC. The original baby-blue truck still exists, but as Brady puts it, it's "definitely the show pony now, not the workhorse." The business was executing well enough that Bon Appétit named them [Pizzeria of the Year](https://infeeds.com/tags/business) in 2017. A Michelin Bib Gourmand followed in 2019. They were hitting their stride.
 
 Then COVID arrived and changed everything about how restaurants operated. In 2021, Brady and Dana brought on new partners and outside capital to stabilize the business. That capital infusion also triggered a strategic pivot: franchising. Seven years of doing business one way had to give way to a new model entirely.
 

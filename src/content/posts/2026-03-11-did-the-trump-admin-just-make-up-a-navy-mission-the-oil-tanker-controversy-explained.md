@@ -34,7 +34,7 @@ Hayes pushed further, asking whether soldiers should "be maimed and killed, and 
 
 ## The Trump Administration's Energy Push
 
-President Trump had urged oil tanker captains earlier in the week to "show some guts" and sail through the strait despite the danger. It fits a pattern of administration rhetoric around energy independence and [keeping global markets flowing](/tags/?tag=business) smoothly.
+President Trump had urged oil tanker captains earlier in the week to "show some guts" and sail through the strait despite the danger. It fits a pattern of administration rhetoric around energy independence and [keeping global markets flowing](/tags/business) smoothly.
 
 But here's where things get weird. Wright's job as Energy Secretary has "very little to do with oil prices," as Hayes pointed out. The guy handles energy policy, not military operations. So why was he announcing a Navy mission? And why did the Navy not actually do what he said they did?
 

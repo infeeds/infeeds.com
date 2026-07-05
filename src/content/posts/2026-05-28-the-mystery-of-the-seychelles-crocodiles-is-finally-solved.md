@@ -40,4 +40,4 @@ What strikes me most is the timeline. Those crocodiles existed on the Seychelles
 
 We really dohave a remarkable talent for making things disappear.
 
-Stay curious, and check out more [science](https://infeeds.com/tags/?tag=science) coverage for stories that challenge what we think we know about the natural world.
+Stay curious, and check out more [science](https://infeeds.com/tags/science) coverage for stories that challenge what we think we know about the natural world.

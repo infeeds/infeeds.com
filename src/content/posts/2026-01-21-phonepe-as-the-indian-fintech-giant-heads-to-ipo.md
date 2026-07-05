@@ -26,7 +26,7 @@ Here's what makes PhonePe interesting beyond the investor exits. They're actuall
 
 But dominance doesn't equal profitability yet. In the six months ending September 2025, PhonePe's revenue jumped 22% to about $427.79 million. Sounds great until you notice their losses widened to $157.70 million from $131.34 million the year before. They're growing fast but burning cash faster.
 
-The company has been smart about diversification though. They started with payments but branched into stockbroking, mutual funds, and even built an Android app store to compete with Google Play. It's a [Technology](https://infeeds.com/tags/?tag=technology) play that makes sense when you've already got hundreds of millions of users on your platform.
+The company has been smart about diversification though. They started with payments but branched into stockbroking, mutual funds, and even built an Android app store to compete with Google Play. It's a [Technology](https://infeeds.com/tags/technology) play that makes sense when you've already got hundreds of millions of users on your platform.
 
 What's telling here is that founders aren't selling any shares. Sameer Nigam, Rahul Chari, and Burzin Engineer are staying put. When the guys who built the thing aren't cashing out but the VCs are running for the door, that says something about different timelines and different definitions of success.
 

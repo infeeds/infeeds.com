@@ -32,12 +32,12 @@ Kelly didn't mince words in his response on X: "This is an outrageous abuse of p
 
 He's right. It's not how things work in America, at least not in the version of America most of us thought we lived in. When you start prosecuting people for reminding military members about their legal rights and responsibilities, you've crossed a line that shouldn't even be visible from where you're standing.
 
-The fact that grand juries keep refusing to go along with these prosecutions suggests there's still some sanity left in the [news](https://infeeds.com/tags/?tag=news) system. These aren't partisan panels rubber-stamping whatever prosecutors want. They're looking at the evidence and concluding there's no there there.
+The fact that grand juries keep refusing to go along with these prosecutions suggests there's still some sanity left in the [news](https://infeeds.com/tags/news) system. These aren't partisan panels rubber-stamping whatever prosecutors want. They're looking at the evidence and concluding there's no there there.
 
 ## A Pattern of Retribution
 
 What makes this particularly troubling is the clear pattern emerging. Trump has been vocal about wanting to prosecute people who cross him, and now we're seeing the Justice Department actually attempting to do it. The prosecutors aren't succeeding, thankfully, but the fact that they're trying at all should alarm anyone who values democratic norms.
 
-This isn't about [politics](https://infeeds.com/tags/?tag=politics) in the traditional sense. It's about whether we live in a country where government officials can use federal law enforcement to settle personal scores. The grand juries saying no suggests we're not quite there yet, but the question shouldn't even be coming up.
+This isn't about [politics](https://infeeds.com/tags/politics) in the traditional sense. It's about whether we live in a country where government officials can use federal law enforcement to settle personal scores. The grand juries saying no suggests we're not quite there yet, but the question shouldn't even be coming up.
 
 The real question now is how many more times prosecutors will try this before someone higher up realizes they're wasting everyone's time and making the Justice Department look like a personal vendetta machine.

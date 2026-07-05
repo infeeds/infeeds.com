@@ -34,9 +34,9 @@ But here's the problem: the Taliban hasn't been able to control these groups eff
 
 Let's call this what it is: a massive security failure. A suicide bomber was "lurking around in the capital," as Basit noted. That shouldn't happen. Islamabad is supposed to be locked down tight, especially after the courthouse bombing in November that killed 12 people.
 
-This was the deadliest attack in the capital in more than a decade. That's not a record any <a href="https://infeeds.com/tags/?tag=news">news</a> outlet should have to report. The fact that it happened suggests either intelligence gaps, resource problems, or both.
+This was the deadliest attack in the capital in more than a decade. That's not a record any <a href="https://infeeds.com/tags/news">news</a> outlet should have to report. The fact that it happened suggests either intelligence gaps, resource problems, or both.
 
-Pakistan's <a href="https://infeeds.com/tags/?tag=security">security</a> apparatus has dealt with militancy for years. They're not amateurs. Which makes this breach even more alarming. If attackers can penetrate Islamabad's defenses this effectively, what does that say about security in less protected areas?
+Pakistan's <a href="https://infeeds.com/tags/security">security</a> apparatus has dealt with militancy for years. They're not amateurs. Which makes this breach even more alarming. If attackers can penetrate Islamabad's defenses this effectively, what does that say about security in less protected areas?
 
 The sectarian angle can't be ignored either. Pakistan has struggled with Sunni-Shia tensions for decades. Every attack on a Shia mosque is a match thrown into a powder keg. It doesn't matter if the Islamic State's goal is to create chaos or assert dominance, the effect is the same: communities become more divided, trust erodes, and the cycle of violence becomes harder to break.
 

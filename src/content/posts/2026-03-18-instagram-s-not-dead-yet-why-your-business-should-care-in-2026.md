@@ -18,7 +18,7 @@ Let's get the numbers out of the way first. Instagram has about 3 billion monthl
 
 What's interesting is that Instagram's growth rate has slowed compared to the wild expansion years of the mid-2010s. Back then, only 25% of U.S. adults used the platform. Today it's 50%. The platform's not exploding anymore, but it's definitely not shrinking either.
 
-The real question is whether those billions of users actually matter to your [business](https://infeeds.com/tags/?tag=business). That depends on who your customers are.
+The real question is whether those billions of users actually matter to your [business](https://infeeds.com/tags/business). That depends on who your customers are.
 
 ## Who's Actually On Instagram Right Now
 
@@ -58,7 +58,7 @@ For marketers without a solid social listening strategy, Instagram's ROI confide
 
 That's a massive difference. Social listening helps you understand what people are saying about your brand, your competitors, and your industry. It turns vague impressions into actionable insights.
 
-This is where [business](https://infeeds.com/tags/?tag=business) strategy intersects with social reality. You can't just post content and hope. You need to listen, learn, and respond.
+This is where [business](https://infeeds.com/tags/business) strategy intersects with social reality. You can't just post content and hope. You need to listen, learn, and respond.
 
 ## Revenue Keeps Growing
 

@@ -42,7 +42,7 @@ There's also the small matter of Israeli opposition lawmakers threatening to boy
 
 ## The Uncomfortable Truth
 
-What's really happening here is that India has decided history is less important than [geopolitics](https://infeeds.com/tags/?tag=geopolitics). The same country that once championed Palestinians is now embracing their occupier because the math just works out that way. It's not cynical exactly, but it's not idealistic either.
+What's really happening here is that India has decided history is less important than [geopolitics](https://infeeds.com/tags/geopolitics). The same country that once championed Palestinians is now embracing their occupier because the math just works out that way. It's not cynical exactly, but it's not idealistic either.
 
 This is what great power politics looks like in the 2020s. No more grand narratives about solidarity with the Global South. No more principled stands that cost you militarily. Just cold calculations about who can help you survive the next decade when your neighbors are armed to the teeth.
 

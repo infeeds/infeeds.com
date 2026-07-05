@@ -20,13 +20,13 @@ Parents can now peek at how much time their kids are burning on Snapchat each da
 
 The other big addition lets parents see how their teen supposedly knows new friends they add. Mutual friends, saved contacts, shared communities. Snap frames this as "trust signals" that make it easier for parents to verify their kid is talking to real people and not random creepers.
 
-Look, I get the [Technology](https://infeeds.com/tags/?tag=technology) angle here. Understanding connection context matters. But here's the uncomfortable truth: this feature exists because Snap knows their platform has been used to facilitate dangerous situations. They're not being proactive. They're covering their ass with features that sound protective in a press release.
+Look, I get the [Technology](https://infeeds.com/tags/technology) angle here. Understanding connection context matters. But here's the uncomfortable truth: this feature exists because Snap knows their platform has been used to facilitate dangerous situations. They're not being proactive. They're covering their ass with features that sound protective in a press release.
 
 Family Center itself launched back in 2022, which tells you everything about how serious these companies take child safety. They only build these tools when regulators start breathing down their necks or lawsuits start piling up. Since then, Snap has tacked on more features like seeing recent interactions, setting time limits, and blocking access to their AI chatbot.
 
 ## The Lawsuit That Changed Everything (Maybe)
 
-The settlement this week involved a 19-year-old identified as K.G.M. who accused Snap and other [social media](https://infeeds.com/tags/?tag=business) giants of designing features specifically to fuel addiction and trash mental health. Meta, YouTube, and TikTok are still facing the music, with jury selection starting soon. Those companies must be watching Snap's playbook very carefully right now.
+The settlement this week involved a 19-year-old identified as K.G.M. who accused Snap and other [social media](https://infeeds.com/tags/business) giants of designing features specifically to fuel addiction and trash mental health. Meta, YouTube, and TikTok are still facing the music, with jury selection starting soon. Those companies must be watching Snap's playbook very carefully right now.
 
 What really stings is that internal documents from ongoing cases show Snap employees flagged concerns about teen mental health nine years ago. Nine years. Snap claims those examples were "cherry-picked" and taken out of context, which is corporate speak for "please don't look too closely at what we knew and when we knew it."
 

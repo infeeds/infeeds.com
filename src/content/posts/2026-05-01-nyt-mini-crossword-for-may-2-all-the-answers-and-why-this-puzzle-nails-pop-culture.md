@@ -37,7 +37,7 @@ Take TETRIS. The game is nearly 45 years old, and it's still the go-to reference
 
 Then there's NAENAE. Remember when that dance was everywhere? 2015 feels like yesterday and a lifetime ago all at once. The puzzle is betting you remember it, which means the Times thinks a mid-2010s dance craze is still worth knowing about. Fair enough.
 
-TVTIME and UPVOTES both point to the same reality: our relationship with [technology](https://infeeds.com/tags/?tag=technology) platforms shapes how we talk about time and social validation. Kids don't just watch TV anymore. They watch it in designated slots called TVTIME. We don't just like things on Reddit. We UPVOTES them. The language has shifted, and the crossword acknowledges it.
+TVTIME and UPVOTES both point to the same reality: our relationship with [technology](https://infeeds.com/tags/technology) platforms shapes how we talk about time and social validation. Kids don't just watch TV anymore. They watch it in designated slots called TVTIME. We don't just like things on Reddit. We UPVOTES them. The language has shifted, and the crossword acknowledges it.
 
 And PURIST? That one's a bit philosophical. Someone who likes things "totally authentic, or not at all" suggests an all-or-nothing worldview. It's the kind of clue that makes you pause. Is the puzzle saying purity is extreme, or is it just describing what a purist is? Probably both, depending on how you read it.
 

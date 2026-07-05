@@ -12,7 +12,7 @@ The irony of modern cybersecurity is thick enough to cut with a knife. The same 
 
 This cat-and-mouse dynamic has created a market opportunity so compelling that investors are throwing serious capital at security startups. Exaforce, a three-year-old startup focused on real-time threat detection, just closed a $125 million Series B, valuing the company at $725 million. That's a staggering 10x jump from its $75 million Series A just a year ago. Combine that with the earlier round, and Exaforce has now raised $200 million total.
 
-The funding round included participation from HarbourVest, Peak XV, Mayfield, Khosla Ventures, and Seligman Ventures. For an enterprise [technology](https://infeeds.com/tags/?tag=technology) company barely three years old, that kind of velocity signals something important: investors believe the problem is real, massive, and only getting worse.
+The funding round included participation from HarbourVest, Peak XV, Mayfield, Khosla Ventures, and Seligman Ventures. For an enterprise [technology](https://infeeds.com/tags/technology) company barely three years old, that kind of velocity signals something important: investors believe the problem is real, massive, and only getting worse.
 
 ## The Needle in the Haystack Problem
 

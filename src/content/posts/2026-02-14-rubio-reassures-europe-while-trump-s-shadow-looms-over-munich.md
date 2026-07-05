@@ -26,7 +26,7 @@ Zelenskyy's appearance added an interesting layer to the whole affair. He thanke
 
 ## Europe's Uncomfortable Awakening
 
-Ursula von der Leyen's response captured the uncomfortable position Europe finds itself in. She talked about becoming more independent across [business](https://infeeds.com/tags/?tag=business), defense, energy, and technology while insisting this wouldn't weaken transatlantic ties. That's the kind of careful diplomatic dance that tries to square a circle.
+Ursula von der Leyen's response captured the uncomfortable position Europe finds itself in. She talked about becoming more independent across [business](https://infeeds.com/tags/business), defense, energy, and technology while insisting this wouldn't weaken transatlantic ties. That's the kind of careful diplomatic dance that tries to square a circle.
 
 The reality is simpler and harsher. Europe is being told to grow up and handle its own security while maintaining close ties with an America that might not be there when it matters most. Von der Leyen calling for independence "in every dimension" is essentially admitting that relying on the US has become too risky.
 
@@ -40,4 +40,4 @@ His vision of trans-Atlantic cooperation on AI, space travel, critical minerals,
 
 Kaja Kallas warning against appeasement of Russia was probably the clearest message of the conference. She's right that giving Putin territory only encourages more aggression. But that lesson only matters if Europe can actually defend itself without constantly looking over its shoulder to see if America is still interested in helping.
 
-The whole conference felt like watching a relationship where one partner keeps saying they're committed while actively looking for the exit, and the other partner is finally realizing they need to learn how to be single again. Neither side wants to admit the [relationship](https://infeeds.com/tags/?tag=news) has fundamentally changed, but everyone in the room could feel it.
+The whole conference felt like watching a relationship where one partner keeps saying they're committed while actively looking for the exit, and the other partner is finally realizing they need to learn how to be single again. Neither side wants to admit the [relationship](https://infeeds.com/tags/news) has fundamentally changed, but everyone in the room could feel it.

@@ -16,7 +16,7 @@ The Senate hearing focused on Netflix's proposed acquisition of WBD's streaming 
 
 ## The Overlap Argument
 
-Sarandos leaned hard on the 80 percent overlap statistic. His pitch basically boiled down to this: these services are "complementary" because their subscriber bases already intersect so much. It's an interesting defense, though it conveniently ignores what happens to the 20 percent who only subscribe to HBO Max or what this means for the [Business](https://infeeds.com/tags/?tag=business) landscape when one player controls that much content.
+Sarandos leaned hard on the 80 percent overlap statistic. His pitch basically boiled down to this: these services are "complementary" because their subscriber bases already intersect so much. It's an interesting defense, though it conveniently ignores what happens to the 20 percent who only subscribe to HBO Max or what this means for the [Business](https://infeeds.com/tags/business) landscape when one player controls that much content.
 
 Senator Amy Klobuchar wasn't buying it. She pressed Sarandos on pricing, especially since Netflix just raised prices in January 2025 despite adding subscribers. The timing couldn't look worse for Netflix's "trust us" messaging.
 
@@ -26,7 +26,7 @@ Sarandos fell back on the classic streaming defense: you can cancel with one cli
 
 The Netflix executive brought receipts to the hearing, claiming Netflix subscribers pay about 35 cents per hour of content watched compared to 90 cents for Paramount+ users. It's a clever way to reframe the pricing debate. Instead of talking about monthly subscription costs, shift the conversation to value per viewing hour.
 
-But this metric only matters if you're actually watching. Quality matters more than quantity to most people, and bundling HBO's prestige content with Netflix's volume play doesn't automatically create better [Technology](https://infeeds.com/tags/?tag=technology) or better entertainment value for subscribers.
+But this metric only matters if you're actually watching. Quality matters more than quantity to most people, and bundling HBO's prestige content with Netflix's volume play doesn't automatically create better [Technology](https://infeeds.com/tags/technology) or better entertainment value for subscribers.
 
 ## YouTube As The Real Threat
 

@@ -24,7 +24,7 @@ The research shows that transitioning from zero resistance training to any regul
 
 ## What Changed in 17 Years
 
-A lot has happened since 2009. The [science](https://infeeds.com/tags/?tag=science) around muscle health, aging, and longevity has exploded. We know now that strength isn't just about looking good or lifting heavy things. It's connected to bone density, metabolic health, independence in old age, and even cognitive function.
+A lot has happened since 2009. The [science](https://infeeds.com/tags/science) around muscle health, aging, and longevity has exploded. We know now that strength isn't just about looking good or lifting heavy things. It's connected to bone density, metabolic health, independence in old age, and even cognitive function.
 
 The updated guidelines reflect this avalanche of new research. And one thing that's conspicuously absent from the new recommendations? Gatekeeping.
 

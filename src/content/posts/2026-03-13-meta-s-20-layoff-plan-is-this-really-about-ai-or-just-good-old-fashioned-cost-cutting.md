@@ -26,7 +26,7 @@ Except Sam Altman from OpenAI called this out. He actually suggested that a lot 
 
 It's a fair point.
 
-## The [Technology](https://infeeds.com/tags/?tag=technology) Industry's Pattern
+## The [Technology](https://infeeds.com/tags/technology) Industry's Pattern
 
 Meta itself has done this before. In November 2022, they cut 11,000 jobs (13% of their workforce). Then in March 2023, they cut another 10,000. Neither of those happened because of AI. They happened because the company over-hired and had to correct course.
 

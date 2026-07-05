@@ -18,7 +18,7 @@ Here's the thing about subscriptions that nobody wants to admit: they're designe
 
 One-time purchases flip that equation on its head. You pay once, own the license forever, and move on with your life. No recurring billing notices. No surprise price increases next year. No wondering if you're still actually using something you're paying for.
 
-For solo founders and small <a href="https://infeeds.com/tags/?tag=business">business</a> owners, this distinction matters more than anyone wants to admit.
+For solo founders and small <a href="https://infeeds.com/tags/business">business</a> owners, this distinction matters more than anyone wants to admit.
 
 ## What's Actually Changed in Office 2024
 

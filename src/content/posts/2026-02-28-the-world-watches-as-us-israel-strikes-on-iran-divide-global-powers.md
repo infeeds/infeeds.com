@@ -50,7 +50,7 @@ If that's accurate, it raises uncomfortable questions. Were there genuine diplom
 
 The global response to these strikes shows something that doesn't make headlines often enough: the world isn't neatly divided into blocs anymore. Countries make decisions based on their own interests, their own security concerns, and their own regional calculations.
 
-European nations worrying about nuclear proliferation and terrorism sit uncomfortably alongside countries that genuinely want to see tensions decrease. American allies support the action for different reasons than American strategic interests. Some countries frame this through the lens of [geopolitics](https://infeeds.com/tags/?tag=geopolitics), others through human rights, still others through direct military threat.
+European nations worrying about nuclear proliferation and terrorism sit uncomfortably alongside countries that genuinely want to see tensions decrease. American allies support the action for different reasons than American strategic interests. Some countries frame this through the lens of [geopolitics](https://infeeds.com/tags/geopolitics), others through human rights, still others through direct military threat.
 
 The UN Security Council called an emergency meeting, which will accomplish approximately nothing, because Russia and China would almost certainly veto anything critical of Iran while the Western permanent members would block anything critical of the US and Israel.
 

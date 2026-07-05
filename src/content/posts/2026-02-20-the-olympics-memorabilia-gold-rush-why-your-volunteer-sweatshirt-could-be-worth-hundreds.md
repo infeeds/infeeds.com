@@ -34,7 +34,7 @@ It raises an interesting question about value and exclusivity. Is something wort
 
 ## The Tech Angle: Phones and Digital Culture
 
-Samsung Galaxy Z Flip 7 smartphones were handed out to athletes, and naturally, at least one has already popped up on eBay with a $1,680 asking price. This is where <a href="https://infeeds.com/tags/?tag=technology">technology</a> and collectibility get intertwined in ways that probably weren't intended by the manufacturers.
+Samsung Galaxy Z Flip 7 smartphones were handed out to athletes, and naturally, at least one has already popped up on eBay with a $1,680 asking price. This is where <a href="https://infeeds.com/tags/technology">technology</a> and collectibility get intertwined in ways that probably weren't intended by the manufacturers.
 
 A phone that retails for a few thousand dollars suddenly becomes exponentially more valuable because an athlete held it once. It's not about the phone itself anymore. It's about the story, the exclusivity, the connection to a global event that only happens every four years.
 

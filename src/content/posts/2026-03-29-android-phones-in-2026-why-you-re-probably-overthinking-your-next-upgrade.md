@@ -40,7 +40,7 @@ The OnePlus 15 has a fun, fresh design too, though the Sand Storm color feels so
 
 Nothing's Phone (3) exists to remind you that not every phone needs to look like every other phone. The back has this grid design with a circular Glyph Matrix that you can interact with for notifications and games. It's objectively not the best value when you compare specs to price, but it's also the most interesting phone you can buy right now.
 
-There's something to be said for owning a phone that doesn't look like it came out of the same factory as a thousand other phones. The Phone (3) delivers that feeling while actually being a competent, well-rounded device. Sometimes you want your <a href="https://infeeds.com/tags/?tag=technology">technology</a> to spark joy instead of just work.
+There's something to be said for owning a phone that doesn't look like it came out of the same factory as a thousand other phones. The Phone (3) delivers that feeling while actually being a competent, well-rounded device. Sometimes you want your <a href="https://infeeds.com/tags/technology">technology</a> to spark joy instead of just work.
 
 If you actually care about repair and longevity, the Fairphone (Gen. 6) is in a different category entirely. It scores a perfect 10 on iFixit's repairability scale, which means you can swap the battery, camera, or display yourself. It comes with the screwdriver. The company sources components ethically, and they promise eight years of software updates.
 

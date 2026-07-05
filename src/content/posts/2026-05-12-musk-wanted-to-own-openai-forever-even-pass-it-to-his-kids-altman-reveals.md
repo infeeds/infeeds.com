@@ -10,7 +10,7 @@ tags_color: '#1f78b4'
 
 Elon Musk's appetite for control runs deep. So deep, apparently, that when Sam Altman asked him what would happen to OpenAI if he died, Musk casually suggested it might pass to his children. That's the kind of detail that sticks with people, and Altman made sure everyone knew it counts as "hair-raising" during his federal jury testimony in Oakland, California this week.
 
-The <a href="https://infeeds.com/tags/?tag=business">business</a> dispute between Musk and the OpenAI co-founder has become a window into how the billionaire operates when he wants something badly. And in the mid-2010s, he wanted OpenAI. Not just a seat at the table. Control. The whole thing.
+The <a href="https://infeeds.com/tags/business">business</a> dispute between Musk and the OpenAI co-founder has become a window into how the billionaire operates when he wants something badly. And in the mid-2010s, he wanted OpenAI. Not just a seat at the table. Control. The whole thing.
 
 ## The Consolidation Strategy
 
@@ -26,12 +26,12 @@ But there was a fundamental problem with Musk's vision, at least from Altman's p
 
 Musk left OpenAI in early 2018 and stopped his quarterly $5 million donations. The parting wasn't graceful. In an email that Altman described as burned into his memory, Musk declared that OpenAI had "a zero percent chance, not a one percent chance, of success" without him. It's the kind of thing someone says when they're convinced they're indispensable and furious to discover they might not be.
 
-When OpenAI eventually formed its for-profit subsidiary in 2019, Altman offered Musk another chance to invest. He declined. His reason, according to Altman: he no longer invested in startups he didn't control. That's a revealing statement about how Musk approaches <a href="https://infeeds.com/tags/?tag=technology">technology</a> ventures. For him, it's not enough to be involved. He needs dominion.
+When OpenAI eventually formed its for-profit subsidiary in 2019, Altman offered Musk another chance to invest. He declined. His reason, according to Altman: he no longer invested in startups he didn't control. That's a revealing statement about how Musk approaches <a href="https://infeeds.com/tags/technology">technology</a> ventures. For him, it's not enough to be involved. He needs dominion.
 
 ## The Lawsuit and What It Reveals
 
 Now Musk is suing Altman, accusing him of having "looted a charity" by steering OpenAI toward for-profit status. The irony is thick. Musk wanted exactly that restructuring, just with himself holding the keys. The lawsuit looks less like principled objection to OpenAI's evolution and more like a grudge wrapped in legal paperwork.
 
-What emerges from Altman's testimony is a portrait of competing visions colliding. Musk saw an opportunity to control a transformative <a href="https://infeeds.com/tags/?tag=tech">tech</a> company. Altman and his cofounders saw a cautionary tale in letting any one person, no matter how accomplished, hold that kind of power. That disagreement shaped what OpenAI became and explains why Musk walked away when he couldn't call the shots.
+What emerges from Altman's testimony is a portrait of competing visions colliding. Musk saw an opportunity to control a transformative <a href="https://infeeds.com/tags/tech">tech</a> company. Altman and his cofounders saw a cautionary tale in letting any one person, no matter how accomplished, hold that kind of power. That disagreement shaped what OpenAI became and explains why Musk walked away when he couldn't call the shots.
 
 The question now isn't really whether Musk was right to leave. It's whether there's anything more dangerous than a brilliant person convinced they're the only one who can save the world.

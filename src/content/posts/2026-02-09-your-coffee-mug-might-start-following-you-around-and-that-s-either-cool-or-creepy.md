@@ -20,7 +20,7 @@ The concept is surprisingly practical when you think about it. We've all had tha
 
 The technology behind this isn't as magical as it looks. The researchers built wheeled platforms for everyday items like coffee mugs, staplers, and pencil trays. Each platform has motors, batteries, and a Bluetooth microcontroller that lets it receive commands.
 
-Here's where it gets interesting. The objects themselves aren't running AI models. Instead, overhead cameras feed images to a central AI system that processes everything happening in the room. The [Technology](https://infeeds.com/tags/?tag=technology) uses large language models to predict what you're about to do next and figure out which objects you'll need.
+Here's where it gets interesting. The objects themselves aren't running AI models. Instead, overhead cameras feed images to a central AI system that processes everything happening in the room. The [Technology](https://infeeds.com/tags/technology) uses large language models to predict what you're about to do next and figure out which objects you'll need.
 
 The system even understands basic human preferences. If your coffee mug is moving toward you, it knows to orient the handle so you can grab it easily. It's the kind of detail that makes the difference between helpful automation and annoying automation.
 
@@ -38,7 +38,7 @@ Making your existing objects mobile and intelligent sidesteps a lot of these iss
 
 Before you get too excited about magic coffee mugs, there's a pretty significant catch. For this system to work, you need cameras watching your every move. Those cameras feed data to AI models that analyze what you're doing and predict what you'll do next.
 
-Ion admits she wouldn't be comfortable with overhead cameras in her own home, and she's one of the people building this [technology](https://infeeds.com/tags/?tag=technology). That should tell you something.
+Ion admits she wouldn't be comfortable with overhead cameras in her own home, and she's one of the people building this [technology](https://infeeds.com/tags/technology). That should tell you something.
 
 The researchers suggest a few potential solutions. Better privacy regulations could give people confidence that their data won't be misused. Running AI models entirely on local hardware, with no internet connection, would help too. But these are band-aids on a bigger problem.
 

@@ -20,7 +20,7 @@ Adulthood makes open-world games feel like obligations. Massive maps filled with
 
 It's not quite Elden Ring's deliberate obscurity, but there's kinship there. That sense of constant discovery rather than waypoint completion.
 
-The traversal alone justifies exploration. Yes, you have the best horse in [gaming](https://infeeds.com/tags/?tag=gaming) - a beast that can Tokyo-drift around corners, power-slide on its belly, and leap off cliffs with comedic durability. But there are better ways to move through this world. Nature magic lets you quadruple-jump up mountains. Gliding becomes your default. Just horsin' around is fun, but you'll rarely use your mount because the alternatives are too good. The game dangles secrets and refuses to spoil them, and that restraint is refreshing.
+The traversal alone justifies exploration. Yes, you have the best horse in [gaming](https://infeeds.com/tags/gaming) - a beast that can Tokyo-drift around corners, power-slide on its belly, and leap off cliffs with comedic durability. But there are better ways to move through this world. Nature magic lets you quadruple-jump up mountains. Gliding becomes your default. Just horsin' around is fun, but you'll rarely use your mount because the alternatives are too good. The game dangles secrets and refuses to spoil them, and that restraint is refreshing.
 
 ## Silliness Meets Grandeur
 

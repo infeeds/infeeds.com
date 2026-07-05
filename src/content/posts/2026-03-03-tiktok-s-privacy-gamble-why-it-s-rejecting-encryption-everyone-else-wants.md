@@ -18,7 +18,7 @@ It's a bold stance that deserves unpacking, because on the surface it sounds cou
 
 Here's where TikTok's position gets interesting. The company told the BBC that preventing end-to-end encryption allows their safety teams and law enforcement to actually read direct messages when needed. They're framing this as a deliberate choice to protect users from harm rather than a compromise on privacy.
 
-That's a fundamentally different pitch than what we usually hear from <a href="https://infeeds.com/tags/?tag=technology">technology</a> companies. Most platforms talk endlessly about protecting your data and maximizing privacy. TikTok is saying, "We're going to be able to see your messages, and that's the point."
+That's a fundamentally different pitch than what we usually hear from <a href="https://infeeds.com/tags/technology">technology</a> companies. Most platforms talk endlessly about protecting your data and maximizing privacy. TikTok is saying, "We're going to be able to see your messages, and that's the point."
 
 Matt Navarra, a social media industry analyst, called it a "savvy" decision but one with "pretty combustible optics." He's right. TikTok is basically arguing that proactive safety beats privacy absolutism, which is admittedly a powerful soundbite. But it also puts them out of step with what people increasingly expect from social platforms.
 

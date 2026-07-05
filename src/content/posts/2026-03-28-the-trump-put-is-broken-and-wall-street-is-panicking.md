@@ -44,7 +44,7 @@ Peter Mallouk, CEO of Creative Planning, took a similar long-term view. "What ma
 
 There's wisdom in that, sure. But it's also easy to talk about the long game when your portfolio is getting pummeled in the short term. Marko Kolanovic, JPMorgan's former chief market strategist, was blunt about the administration's handling of it all: "All the verbal gymnastic from the administration to keep oil prices low was in the end counterproductive. Masking the magnitude of the problem and delaying actions to reopen Hormuz."
 
-You can check out more perspectives on ongoing <a href="https://infeeds.com/tags/?tag=business">business</a> developments to get a fuller picture of market sentiment.
+You can check out more perspectives on ongoing <a href="https://infeeds.com/tags/business">business</a> developments to get a fuller picture of market sentiment.
 
 ## Where Does This End?
 

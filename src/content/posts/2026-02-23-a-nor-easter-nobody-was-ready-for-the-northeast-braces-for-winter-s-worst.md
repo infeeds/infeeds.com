@@ -42,6 +42,6 @@ For business owners like John Berlingieri, who runs Berrington Snow Management o
 
 "I'm anticipating at least one week of work around the clock," Berlingieri said. "We're going to work 24 to 36 hours straight, sleep for a few hours and then go back."
 
-Meanwhile, city outreach workers have been mobilizing to get homeless residents off the street and into warming centers and shelters. The <a href="https://infeeds.com/tags/?tag=news">news</a> cycle will shift entirely to storm coverage, emergency response, and recovery efforts in the coming days.
+Meanwhile, city outreach workers have been mobilizing to get homeless residents off the street and into warming centers and shelters. The <a href="https://infeeds.com/tags/news">news</a> cycle will shift entirely to storm coverage, emergency response, and recovery efforts in the coming days.
 
 This is the kind of event that reminds you why weather forecasting matters, why emergency preparedness isn't just bureaucratic box-checking, and why sometimes the smartest thing you can do is stay home and let the professionals handle the roads. The question isn't whether this storm will be bad. It's how prepared the region actually is when it hits.

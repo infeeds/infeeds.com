@@ -18,7 +18,7 @@ As Israel sorted through the collection, something shifted. The memories didn't 
 
 Israel is a seller of vintage items, so she did what felt natural: she started posting videos on social media about what she'd found. The response was staggering. Comments poured in. Messages flooded her inbox. People weren't just interested in the McDonald's collectibles—they were desperate for them.
 
-"I think people just want to lean into nostalgia, into a period in history when things didn't feel quite so difficult," Israel reflects. It's a sharp observation about where we are culturally right now. The <a href="https://infeeds.com/tags/?tag=business">business</a> landscape has shifted, the economy feels fragile, the future uncertain. A Happy Meal toy from 1985 suddenly represents something more than plastic and nostalgia. It represents a time when life felt simpler, when the biggest concern was which toy you'd get with your order.
+"I think people just want to lean into nostalgia, into a period in history when things didn't feel quite so difficult," Israel reflects. It's a sharp observation about where we are culturally right now. The <a href="https://infeeds.com/tags/business">business</a> landscape has shifted, the economy feels fragile, the future uncertain. A Happy Meal toy from 1985 suddenly represents something more than plastic and nostalgia. It represents a time when life felt simpler, when the biggest concern was which toy you'd get with your order.
 
 Millennials, in particular, seem to be the engine driving this obsession. They're old enough now to feel the weight of adulthood, young enough to remember when collecting felt like magic. A vintage McDonald's pin isn't just a pin—it's a portal.
 

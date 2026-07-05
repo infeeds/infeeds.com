@@ -17,11 +17,11 @@ Overall demand grew only 1.5 percent year-over-year in Q1 2026. That's not nothi
 
 ## Solar Is Doing The Heavy Lifting
 
-The real story here is <a href="https://infeeds.com/tags/?tag=technology">technology</a> in action. Solar output jumped 24 percent year-over-year in the first quarter. That single technology accounted for enough growth to cover 80 percent of the rising demand all by itself. When you bundle wind, solar, and hydro together, renewables grew by 11 percent, which is nearly twice as fast as demand grew.
+The real story here is <a href="https://infeeds.com/tags/technology">technology</a> in action. Solar output jumped 24 percent year-over-year in the first quarter. That single technology accounted for enough growth to cover 80 percent of the rising demand all by itself. When you bundle wind, solar, and hydro together, renewables grew by 11 percent, which is nearly twice as fast as demand grew.
 
 That math is what kills fossil fuels. When renewables are growing nearly twice as fast as overall demand, there's nowhere for coal and gas to hide. Fossil fuels dropped 3 percent overall, but the real casualty was coal, which plummeted 10 percent. Natural gas actually edged up slightly, which just means coal got hammered even harder than the numbers suggest. The Persian Gulf conflict is supposedly going to push gas prices higher, but that hasn't filtered through to the grid yet.
 
-The big <a href="https://infeeds.com/tags/?tag=business">business</a> shift isn't really about any individual month or quarter anymore. It's about the direction being completely locked in. We're building solar installations at a pace that dwarfs everything else. Wind is about to get a boost from the first large offshore wind farms that came online in 2025 and 2026. Coal is basically just waiting to die.
+The big <a href="https://infeeds.com/tags/business">business</a> shift isn't really about any individual month or quarter anymore. It's about the direction being completely locked in. We're building solar installations at a pace that dwarfs everything else. Wind is about to get a boost from the first large offshore wind farms that came online in 2025 and 2026. Coal is basically just waiting to die.
 
 ## The Hydroelectric Surprise Nobody Expected
 

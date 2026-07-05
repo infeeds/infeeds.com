@@ -40,7 +40,7 @@ Then there's Seat61, which has the aesthetic of a website from 2003 but contains
 
 ## The Bigger Picture
 
-Here's the thing about choosing ground transportation over flying: it's not just about avoiding airport chaos this week. [Technology](https://infeeds.com/tags/?tag=technology) has made it easier than ever to compare these options, yet most people still default to planes out of habit. A bus takes longer, sure. A train is slower, definitely. But you arrive less stressed, you're not contributing as much to climate change, and you're probably saving money.
+Here's the thing about choosing ground transportation over flying: it's not just about avoiding airport chaos this week. [Technology](https://infeeds.com/tags/technology) has made it easier than ever to compare these options, yet most people still default to planes out of habit. A bus takes longer, sure. A train is slower, definitely. But you arrive less stressed, you're not contributing as much to climate change, and you're probably saving money.
 
 The TSA shutdown will eventually end. Security lines will shrink back to normal levels. But the underlying problem remains: flying is treated as inevitable when it often isn't. These apps exist to remind you that other options are out there, waiting to be explored.
 

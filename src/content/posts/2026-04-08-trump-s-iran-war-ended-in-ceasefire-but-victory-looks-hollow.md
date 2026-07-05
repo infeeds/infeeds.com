@@ -66,7 +66,7 @@ That's a remarkable admission. If a major regional power's retaliatory options c
 
 The fallout has been substantial. Gas prices spiked globally. Europe, Japan, and South Korea all felt the pain. Fertilizer and food prices rose in Africa and South Asia. The reputational damage has been worse. U.S. allies are questioning whether America is the stable, rules-based partner they thought it was, while China increasingly looks like the status quo power playing by international rules.
 
-Michael McFaul, who served as U.S. ambassador to Russia under Obama, told NPR the war makes America "look like we're the cowboys, like the Russians, like we don't care about the rules-based international order." That's a significant shift in how longtime U.S. allies now see American [geopolitics](https://infeeds.com/tags/?tag=geopolitics).
+Michael McFaul, who served as U.S. ambassador to Russia under Obama, told NPR the war makes America "look like we're the cowboys, like the Russians, like we don't care about the rules-based international order." That's a significant shift in how longtime U.S. allies now see American [geopolitics](https://infeeds.com/tags/geopolitics).
 
 ## The Hangover Is Just Beginning
 

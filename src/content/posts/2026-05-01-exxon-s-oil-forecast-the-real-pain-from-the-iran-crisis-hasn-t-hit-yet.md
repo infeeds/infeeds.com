@@ -42,7 +42,7 @@ The market's disconnect from the oil price surge is worth watching. It suggests 
 
 Woods is essentially saying: enjoy the relative calm while it lasts, because it's temporary. Supply disruptions usually feel abstract until they become concrete. Tankers run empty. Refineries have fewer barrels to process. Prices move in ways that catch everyone off guard.
 
-The <a href="https://infeeds.com/tags/?tag=business">business</a> world loves to forecast recovery timelines that feel tidy and orderly. Woods is pushing back on that instinct, suggesting the real test hasn't arrived yet.
+The <a href="https://infeeds.com/tags/business">business</a> world loves to forecast recovery timelines that feel tidy and orderly. Woods is pushing back on that instinct, suggesting the real test hasn't arrived yet.
 
 If he's right, the market's relative price stability over recent weeks represents a false floor. If he's wrong, and the situation resolves faster than he anticipates, then today's oil prices might look prescient. The difference between those two scenarios could be tens of dollars per barrel and billions in corporate earnings.
 

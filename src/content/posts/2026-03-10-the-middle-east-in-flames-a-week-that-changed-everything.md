@@ -10,7 +10,7 @@ tags: [news, geopolitics]
 tags_color: '#ff5722'
 ---
 
-The first week of March delivered something the region hasn't experienced in years: a full-scale military escalation that involved multiple nations, dozens of casualties, and countless displaced families. What started with U.S. and Israeli strikes on February 28 snowballed into something far more chaotic by the time we reached the second week of <a href="https://infeeds.com/tags/?tag=news">news coverage</a> on this conflict.
+The first week of March delivered something the region hasn't experienced in years: a full-scale military escalation that involved multiple nations, dozens of casualties, and countless displaced families. What started with U.S. and Israeli strikes on February 28 snowballed into something far more chaotic by the time we reached the second week of <a href="https://infeeds.com/tags/news">news coverage</a> on this conflict.
 
 The images tell a story words sometimes can't capture. Smoke billowing from Tehran's oil storage facilities. Children sleeping on floors in Lebanese schools converted to shelters. American soldiers' flag-draped caskets at Dover Air Force Base. These aren't abstract headlines anymore. They're real places, real people, real loss.
 

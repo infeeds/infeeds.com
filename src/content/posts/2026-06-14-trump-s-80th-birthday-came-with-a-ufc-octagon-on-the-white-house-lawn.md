@@ -16,7 +16,7 @@ The event had all the trappings of a major production. It was delayed due to wea
 
 The contrast between this crowd and his recent appearance at the NBA Finals was hard to miss. At Madison Square Garden last week, Trump was met with boos. At his birthday celebration, the audience was hand-picked and the cheers were loud. It's a reminder that the reception largely depends on who's in the room.
 
-The evening also brought some news from the Trump family's crypto company. During the broadcast, it was announced that fighters would be paid in cryptocurrency from the Trump family's crypto enterprise, which ties into the broader intersection of [Business](https://infeeds.com/tags/?tag=business) and sports entertainment.
+The evening also brought some news from the Trump family's crypto company. During the broadcast, it was announced that fighters would be paid in cryptocurrency from the Trump family's crypto enterprise, which ties into the broader intersection of [Business](https://infeeds.com/tags/business) and sports entertainment.
 
 In lighter moments, lightweight fighter Mauricio Ruffy celebrated his victory over Michael Chandler by proposing to his girlfriend Nadine, with an interpreter helping bridge the language gap. It was a genuinely sweet moment that probably wasn't what most people expected from a White House birthday party.
 

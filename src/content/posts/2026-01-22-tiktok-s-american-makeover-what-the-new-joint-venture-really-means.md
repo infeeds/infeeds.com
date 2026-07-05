@@ -20,7 +20,7 @@ The number 19.9 percent is doing a lot of heavy lifting here. It's just below th
 
 Let's talk about who actually owns TikTok now. Silver Lake, Oracle, and MGX each grabbed 15 percent stakes as "managing investors," whatever that means in practice. Then you've got Michael Dell's family office, some investment arms you've probably never heard of, and even Yuri Milner's foundation money flowing into this thing.
 
-What strikes me most is how this consortium reads like a who's who of [Technology](https://infeeds.com/tags/?tag=technology) and finance, but not necessarily social media expertise. Oracle makes sense given they're handling the cloud infrastructure, but the rest? They're betting on TikTok's continued dominance without necessarily understanding what makes the platform tick.
+What strikes me most is how this consortium reads like a who's who of [Technology](https://infeeds.com/tags/technology) and finance, but not necessarily social media expertise. Oracle makes sense given they're handling the cloud infrastructure, but the rest? They're betting on TikTok's continued dominance without necessarily understanding what makes the platform tick.
 
 The press release was predictably vague on the actual dollar amounts these investors ponied up. When companies avoid talking about money, it usually means the numbers would raise eyebrows.
 
@@ -32,7 +32,7 @@ You can't just transplant an algorithm into new soil and expect it to grow the s
 
 The trust and safety angle is interesting though. Adam Presser, formerly TikTok's head of operations and trust and safety, is now CEO of the whole joint venture. That's either a vote of confidence in his ability to navigate US regulatory concerns, or a convenient shield for when things inevitably go wrong.
 
-## The [Business](https://infeeds.com/tags/?tag=business) Model Question
+## The [Business](https://infeeds.com/tags/business) Model Question
 
 TikTok isn't just the main app anymore. This deal covers CapCut, Lemon8, and what they're calling "a portfolio" of other apps and services. CapCut especially has become essential for video creators everywhere, not just on TikTok. The joint venture now controls a significant chunk of the content creation pipeline.
 
@@ -46,13 +46,13 @@ The joint venture is making a big show of their security measures. They're throw
 
 But let's be real for a second. How many data breaches have we seen from companies that had all the right certifications and claimed to follow all the right protocols? Security isn't about checking boxes, it's about culture and constant vigilance.
 
-Oracle positioning itself as the "Trusted Security Partner" is particularly rich given their own [business](https://infeeds.com/tags/?tag=business) practices over the years. Not saying they can't do the job, but let's not pretend any tech company is a white knight here.
+Oracle positioning itself as the "Trusted Security Partner" is particularly rich given their own [business](https://infeeds.com/tags/business) practices over the years. Not saying they can't do the job, but let's not pretend any tech company is a white knight here.
 
 ## The Geopolitical Mess
 
 What fascinates me most about this deal is what it says about US-China relations in 2026. We've essentially forced a Chinese company to sell off most of its crown jewel to American and Middle Eastern investors. That's not going to be forgotten.
 
-MGX's 15 percent stake is particularly noteworthy. Abu Dhabi getting a major piece of America's favorite app shows how [technology](https://infeeds.com/tags/?tag=technology) deals have become as much about international relations as they are about business fundamentals.
+MGX's 15 percent stake is particularly noteworthy. Abu Dhabi getting a major piece of America's favorite app shows how [technology](https://infeeds.com/tags/technology) deals have become as much about international relations as they are about business fundamentals.
 
 China approved this deal on the same timeline as the US, which suggests both governments wanted this done and over with. But the precedent it sets is concerning. What stops other countries from demanding similar arrangements with American tech companies operating within their borders?
 

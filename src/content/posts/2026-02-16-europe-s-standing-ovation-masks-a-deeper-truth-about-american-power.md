@@ -20,7 +20,7 @@ What's fascinating isn't what Rubio said. It's what happened around his speech t
 
 Rubio spent significant time waxing poetic about how European settlers built America. The Scots-Irish gave us Davy Crockett. German farmers transformed the Midwest. Italians, French, Spanish, all contributing to this grand project called the United States.
 
-It was a curious choice for a [news](https://infeeds.com/tags/?tag=news) conference about global security. More curious was what he left out. No mention of Native Americans who were decimated. Nothing about enslaved Africans or Chinese railroad workers. Just a sanitized version of American history designed to make Europeans feel good about their ancestral contributions.
+It was a curious choice for a [news](https://infeeds.com/tags/news) conference about global security. More curious was what he left out. No mention of Native Americans who were decimated. Nothing about enslaved Africans or Chinese railroad workers. Just a sanitized version of American history designed to make Europeans feel good about their ancestral contributions.
 
 The subtext was clear: we're family, we share culture, we're bound together by blood and history. It's the kind of rhetoric designed to reassure nervous allies that Trump's America still values the old alliances.
 
@@ -32,7 +32,7 @@ EU foreign policy chief Kaja Kallas wasn't buying it. While most of the room jum
 
 "Contrary to what some may say, woke, decadent Europe is not facing civilizational erasure," she said. It was a direct rebuke to the Trump administration's narrative about Western decline and the migration crisis.
 
-Kallas represents a growing faction of European leaders who are done with American lecturing. They've watched Trump slap tariffs on allies, question NATO commitments, and treat European [business](https://infeeds.com/tags/?tag=business) interests as bargaining chips. The patience is running thin.
+Kallas represents a growing faction of European leaders who are done with American lecturing. They've watched Trump slap tariffs on allies, question NATO commitments, and treat European [business](https://infeeds.com/tags/business) interests as bargaining chips. The patience is running thin.
 
 But the real story wasn't Rubio or even Kallas. It was the German Chancellor who nobody usually pays attention to for inspiring speeches.
 

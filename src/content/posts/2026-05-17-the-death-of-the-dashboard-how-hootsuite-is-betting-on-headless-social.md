@@ -21,7 +21,7 @@ That's changing. And it matters more than you might think.
 
 ## The Great Unbundling of Software
 
-[Business](https://infeeds.com/tags/?tag=business) software is going headless. Salesforce made this explicit at TDX 2026 by reframing their entire platform as Headless 360: every function exposed as an API, an MCP tool, or a CLI command so that an agent (Claude, ChatGPT, whatever copilot your company is running) can operate the system without ever opening a browser.
+[Business](https://infeeds.com/tags/business) software is going headless. Salesforce made this explicit at TDX 2026 by reframing their entire platform as Headless 360: every function exposed as an API, an MCP tool, or a CLI command so that an agent (Claude, ChatGPT, whatever copilot your company is running) can operate the system without ever opening a browser.
 
 It wasn't radical. It was just honest.
 
@@ -69,7 +69,7 @@ This isn't about abandoning what made Hootsuite valuable. It's about freeing it.
 
 ## The Deeper Question
 
-What's happening at Hootsuite right now is what's happening across [Technology](https://infeeds.com/tags/?tag=technology): the realization that the interface layer and the capability layer don't need to be married anymore. The question now is whether companies can reorganize fast enough to let that separation actually change how they operate.
+What's happening at Hootsuite right now is what's happening across [Technology](https://infeeds.com/tags/technology): the realization that the interface layer and the capability layer don't need to be married anymore. The question now is whether companies can reorganize fast enough to let that separation actually change how they operate.
 
 For Hootsuite, it means freeing 20 years of product development from the tyranny of the dashboard. For everyone else watching, it's a window into how a company that invented a category learns to reinvent itself before the category leaves it behind.
 

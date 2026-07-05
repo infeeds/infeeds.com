@@ -22,7 +22,7 @@ Carlos Claros, the deputy mayor, thanked his community publicly. That gesture sa
 
 Here's where things get interesting. The plane was donated to Colombia by the United States back in 2020. Fast forward three years, and it underwent what's called an overhaul, where engines get inspected and critical components get replaced. By all accounts, it should have been in decent working order.
 
-But something went catastrophically wrong within minutes of takeoff. Both engines failed almost simultaneously on a four-propeller aircraft. That's not typical wear and tear. Erich Saumeth, a [military](https://infeeds.com/tags/?tag=military) aviation analyst, doesn't think the problem was cheap parts or poor maintenance. So what was it? That's the million-dollar question investigators will be chasing for months.
+But something went catastrophically wrong within minutes of takeoff. Both engines failed almost simultaneously on a four-propeller aircraft. That's not typical wear and tear. Erich Saumeth, a [military](https://infeeds.com/tags/military) aviation analyst, doesn't think the problem was cheap parts or poor maintenance. So what was it? That's the million-dollar question investigators will be chasing for months.
 
 ## The Political Angle
 

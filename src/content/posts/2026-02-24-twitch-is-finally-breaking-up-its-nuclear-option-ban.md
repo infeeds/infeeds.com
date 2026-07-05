@@ -42,7 +42,7 @@ The company is also working on additional suspension types that haven't launched
 
 What's interesting here is that Twitch is basically admitting its previous approach was lazy. The company even said so in its announcement, noting that the all-or-nothing system "was easier to implement." Easier for them, that is. Not easier for the thousands of creators who lost access to their livelihoods over a chat message gone wrong.
 
-This move toward more granular [enforcement](/tags/?tag=technology) suggests Twitch is thinking about proportionality. A streamer who makes one edgy joke in their chat shouldn't lose the ability to stream. A creator who violates guidelines during a broadcast shouldn't lose the ability to watch content or hang out in other channels.
+This move toward more granular [enforcement](/tags/technology) suggests Twitch is thinking about proportionality. A streamer who makes one edgy joke in their chat shouldn't lose the ability to stream. A creator who violates guidelines during a broadcast shouldn't lose the ability to watch content or hang out in other channels.
 
 Whether Twitch actually follows through with fairness across the board remains to be seen, of course. Platform moderation is messy, inconsistent, and often depends on whether something gains public attention. But at least now the system has the infrastructure to be more thoughtful about penalties.
 

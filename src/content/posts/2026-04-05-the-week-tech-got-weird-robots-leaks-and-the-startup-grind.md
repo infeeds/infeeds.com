@@ -8,7 +8,7 @@ tags: [news, tech]
 tags_color: '#00ba65'
 ---
 
-Some weeks in [Technology](https://infeeds.com/tags/?tag=technology) feel designed to test your assumptions. This one did exactly that.
+Some weeks in [Technology](https://infeeds.com/tags/technology) feel designed to test your assumptions. This one did exactly that.
 
 We got a story about robots filling jobs in Japan that nobody wants. We watched Anthropic accidentally (allegedly) nuke thousands of GitHub repositories. We saw Allbirds sell for $39 million after raising $312 million in its IPO. And somewhere in the noise, Google quietly let Americans change their Gmail addresses, a feature that probably should have existed a decade ago.
 
@@ -28,7 +28,7 @@ Then Anthropic went and removed thousands of GitHub repositories in what the com
 
 Let that sit for a second. You don't accidentally delete thousands of repositories. What probably happened was a legitimate security incident, a panicked response, and a result that looked like scorched earth. The "accident" framing feels generous, but the company's intent wasn't malicious. Still, the collateral damage is real, and GitHub creators caught in the crossfire got no warning.
 
-This is what happens when [Business](https://infeeds.com/tags/?tag=business) security incidents meet blunt-force solutions. Good intentions with terrible execution, and a reminder that even well-funded AI companies can handle crises poorly.
+This is what happens when [Business](https://infeeds.com/tags/business) security incidents meet blunt-force solutions. Good intentions with terrible execution, and a reminder that even well-funded AI companies can handle crises poorly.
 
 ## The Startup Grind Never Stops
 

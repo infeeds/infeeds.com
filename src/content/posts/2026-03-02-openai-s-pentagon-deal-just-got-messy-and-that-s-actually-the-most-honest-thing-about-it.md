@@ -24,7 +24,7 @@ Altman's Monday post tried to fix this. The company promised to add language exp
 
 ## When Anthropic Said No
 
-The whole situation emerged from <a href="https://infeeds.com/tags/?tag=technology">Technology</a> drama between Anthropic and the Defense Department. Anthropic, OpenAI's rival, had drawn what it called a "red-line" principle: no autonomous weapons. Full stop. The Trump administration didn't appreciate that stance and reportedly blacklisted Claude from certain military uses.
+The whole situation emerged from <a href="https://infeeds.com/tags/technology">Technology</a> drama between Anthropic and the Defense Department. Anthropic, OpenAI's rival, had drawn what it called a "red-line" principle: no autonomous weapons. Full stop. The Trump administration didn't appreciate that stance and reportedly blacklisted Claude from certain military uses.
 
 Except, and this is where it gets weird, Claude ended up being used in the US-Israel war with Iran anyway. Almost immediately after the ban. So much for red lines.
 

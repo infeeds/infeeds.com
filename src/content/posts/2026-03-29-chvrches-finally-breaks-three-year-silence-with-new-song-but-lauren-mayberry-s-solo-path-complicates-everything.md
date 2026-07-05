@@ -30,7 +30,7 @@ The other members of Chvrches, Iain Cook and Martin Doherty, have been relativel
 
 The thing about one-off performances at charity concerts is that they can feel like closures. A chance to remind people you exist before you disappear again for another eighteen months. Friday's show could be that, or it could be the beginning of something more substantial.
 
-The music industry isn't what it was even five years ago. <a href="https://infeeds.com/tags/?tag=entertainment">Artists don't need to prioritize traditional album cycles anymore</a>. Mayberry could release solo material, contribute to Chvrches projects whenever the inspiration strikes, maybe collaborate with other acts. It's all possible now.
+The music industry isn't what it was even five years ago. <a href="https://infeeds.com/tags/entertainment">Artists don't need to prioritize traditional album cycles anymore</a>. Mayberry could release solo material, contribute to Chvrches projects whenever the inspiration strikes, maybe collaborate with other acts. It's all possible now.
 
 But fans have been patient enough. They've waited through the silence, through the solo detours, through the uncertainty. "Conman" suggests there's still something left in the tank creatively. The question is whether Chvrches as a unit will ever feel like a priority again, or if we're watching the slow dissolution of a band into something more like a loose collective.
 

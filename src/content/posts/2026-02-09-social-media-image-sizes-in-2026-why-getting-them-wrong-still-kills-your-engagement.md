@@ -12,7 +12,7 @@ tags_color: '#ff9800'
 
 Social media image sizes are like that friend who changes their plans constantly. Just when you think you've got it figured out, Instagram decides to crop your perfectly designed post into oblivion or X randomly displays your image like a stretched-out pancake.
 
-Using the wrong dimensions isn't just annoying. It actively hurts your reach, kills engagement, and makes your brand look amateurish. And honestly, most [business](https://infeeds.com/tags/?tag=business) accounts are still getting this wrong in 2026.
+Using the wrong dimensions isn't just annoying. It actively hurts your reach, kills engagement, and makes your brand look amateurish. And honestly, most [business](https://infeeds.com/tags/business) accounts are still getting this wrong in 2026.
 
 ## Instagram's Grid Problem Nobody Talks About
 
@@ -34,7 +34,7 @@ But images still help posts stand out in that endless scroll of text. The proble
 
 Facebook users hop between desktop and mobile constantly. That means your images need to work on both, and Facebook doesn't make this easy. The dimensions differ depending on where someone's viewing, which is frustrating when you're trying to maintain any kind of visual consistency.
 
-This is especially annoying for [business](https://infeeds.com/tags/?tag=business) pages running ads. You design something that looks perfect in the ads manager on desktop, then it goes live and mobile users see something completely different. The cropping is unpredictable and there's not much you can do except test everything twice.
+This is especially annoying for [business](https://infeeds.com/tags/business) pages running ads. You design something that looks perfect in the ads manager on desktop, then it goes live and mobile users see something completely different. The cropping is unpredictable and there's not much you can do except test everything twice.
 
 ## LinkedIn's Personal Versus Company Page Split
 

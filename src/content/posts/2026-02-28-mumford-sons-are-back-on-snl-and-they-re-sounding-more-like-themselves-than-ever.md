@@ -20,7 +20,7 @@ Marcus Mumford spent months before Prizefighter's release talking about how this
 
 "This is the straightest talking record I think we have," Mumford told People Magazine. The way he described it was refreshing. Not the biggest album. Not the most technically impressive. Just the most honest. He talked about shedding the "edifice" that creeps into most artistic projects, that desire to build something grandiose when sometimes you just want to be yourself on a record.
 
-That philosophy is exactly what makes Prizefighter resonate. In an [entertainment](https://infeeds.com/tags/?tag=entertainment) landscape cluttered with overthinking and over-production, there's something genuinely powerful about a band saying, "This is us and our mates."
+That philosophy is exactly what makes Prizefighter resonate. In an [entertainment](https://infeeds.com/tags/entertainment) landscape cluttered with overthinking and over-production, there's something genuinely powerful about a band saying, "This is us and our mates."
 
 ## Aaron Dessner's Been the Secret Weapon
 

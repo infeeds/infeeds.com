@@ -20,7 +20,7 @@ The process is straightforward. You'll provide your school-issued email address 
 
 The verification exists precisely because retailers want to make sure they're honoring teacher discounts to actual teachers, not just anyone with a coupon code. Fair enough.
 
-In-person shopping works differently. If you're heading to a physical store during Teacher Appreciation Week, bring your school ID or employment verification letter. Most retailers will accept that and move on. It's faster than the online verification dance, though not all stores offer in-person <a href="https://infeeds.com/tags/?tag=business">business</a> discounts in addition to their online deals.
+In-person shopping works differently. If you're heading to a physical store during Teacher Appreciation Week, bring your school ID or employment verification letter. Most retailers will accept that and move on. It's faster than the online verification dance, though not all stores offer in-person <a href="https://infeeds.com/tags/business">business</a> discounts in addition to their online deals.
 
 ## Is It Safe to Hand Over Your Information?
 
@@ -40,7 +40,7 @@ That matters if you're thinking you need to rush out and buy everything you want
 
 If you're not a teacher, the discount landscape looks different. Some retailers run student discounts year-round or offer general savings codes that aren't profession-specific. Others have seasonal promotions that have nothing to do with your job title.
 
-Teachers legitimately deserve recognition for what they do. That doesn't make non-teachers ineligible for deals across the board, just these specific ones. The <a href="https://infeeds.com/tags/?tag=business">business</a> logic here is simple: retailers use targeted discounts as a way to acknowledge specific professional groups while also building customer loyalty within those demographics.
+Teachers legitimately deserve recognition for what they do. That doesn't make non-teachers ineligible for deals across the board, just these specific ones. The <a href="https://infeeds.com/tags/business">business</a> logic here is simple: retailers use targeted discounts as a way to acknowledge specific professional groups while also building customer loyalty within those demographics.
 
 The verification systems exist because honoring teacher discounts to people who aren't teachers would cost retailers money and eventually kill the programs that make these deals possible in the first place.
 

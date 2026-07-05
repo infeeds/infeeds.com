@@ -28,7 +28,7 @@ The women at Roj camp aren't talking. One of them, Zeinab Ahmad, told reporters 
 
 A security official at the camp named Chavrê Rojava said the families are Australian citizens of Lebanese origin. Their relatives had actually traveled to Syria to help arrange the return and brought temporary passports for everyone. But then a Syrian government official contacted them and told them to turn back.
 
-The camp authorities say they're not even in contact with the Australian government about this. They've basically left it to the families to sort out themselves, which seems like passing the buck when you're dealing with [international](https://infeeds.com/tags/?tag=news) security issues and humanitarian concerns at the same time.
+The camp authorities say they're not even in contact with the Australian government about this. They've basically left it to the families to sort out themselves, which seems like passing the buck when you're dealing with [international](https://infeeds.com/tags/news) security issues and humanitarian concerns at the same time.
 
 Rojava made an interesting point about not wanting a repeat of what happened at al-Hol camp. That much larger detention facility saw guards abandon their posts last month during fighting between Syrian government forces and Kurdish-led groups. Residents scattered, raising fears about ISIS regrouping.
 
@@ -40,7 +40,7 @@ It's a tough stance that probably plays well politically. Nobody wants to be see
 
 Australia has done this before though. The government has repatriated women and children from Syrian camps twice already. Some Australians have even made it back without government help. So there's precedent for bringing people home.
 
-The [politics](https://infeeds.com/tags/?tag=news) here are messy. You've got competing concerns about national security, humanitarian obligations, and what to do about children caught in circumstances they didn't create. Burke and Albanese keep emphasizing that parents made these choices, not the kids.
+The [politics](https://infeeds.com/tags/news) here are messy. You've got competing concerns about national security, humanitarian obligations, and what to do about children caught in circumstances they didn't create. Burke and Albanese keep emphasizing that parents made these choices, not the kids.
 
 But here's the thing. These camps have been around since ISIS lost its territory in 2019. That's seven years of people living in limbo. Former fighters, their wives, their children, all crammed together in facilities that were never meant to be permanent. ISIS still has sleeper cells carrying out attacks in Syria and Iraq, so the security concerns aren't theoretical.
 

@@ -18,7 +18,7 @@ Luna Standard comes free with your Prime membership. No extra charges, no hidden
 
 February brings some interesting additions to the service. The Order of Giants DLC for Indiana Jones just dropped on Luna, which is notable timing for anyone who's been playing through the main game. Alan Wake 2 is probably the headliner here, a genuine AAA title that's been getting solid reviews since launch.
 
-The rest of the February additions feel like filler content. Disney Universe, Worms Crazy Golf, and Disney Planes aren't exactly going to set the [Technology](https://infeeds.com/tags/?tag=technology) world on fire. Time on Frog Island and Yooka-Laylee have their charm if you're into indie platformers, but let's be real about what we're dealing with here.
+The rest of the February additions feel like filler content. Disney Universe, Worms Crazy Golf, and Disney Planes aren't exactly going to set the [Technology](https://infeeds.com/tags/technology) world on fire. Time on Frog Island and Yooka-Laylee have their charm if you're into indie platformers, but let's be real about what we're dealing with here.
 
 Just Shapes & Beats joins the GameNight collection, which is Luna's clever answer to party games. You can use your phone as a controller for these multiplayer titles, which actually works better than you'd expect.
 
@@ -28,7 +28,7 @@ Cloud gaming still has its quirks. Input lag is real, especially if your interne
 
 Luna Premium costs an extra $10 monthly if you want a bigger library. Whether that's worth it depends entirely on how much you actually use the service. The free Standard tier already gives you enough content to justify its existence as a Prime perk.
 
-What's interesting about Luna isn't necessarily the games themselves but what it represents for [gaming](https://infeeds.com/tags/?tag=gaming) distribution. Amazon is betting that convenience trumps ownership for a growing segment of players. You're not building a library you own, you're renting access as long as you maintain that Prime subscription.
+What's interesting about Luna isn't necessarily the games themselves but what it represents for [gaming](https://infeeds.com/tags/gaming) distribution. Amazon is betting that convenience trumps ownership for a growing segment of players. You're not building a library you own, you're renting access as long as you maintain that Prime subscription.
 
 The service works on Fire TV, PCs, Macs, iPhones, iPads, and select Android phones. Controllers are optional but recommended since playing anything action-heavy with touch controls is an exercise in frustration.
 

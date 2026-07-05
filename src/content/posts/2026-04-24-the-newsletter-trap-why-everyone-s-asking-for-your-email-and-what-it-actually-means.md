@@ -20,7 +20,7 @@ Let's be direct. Email is valuable precisely because it's personal. When a publi
 
 In a world where social media algorithms control visibility and search engines keep shifting the rules, owning your audience's email list is owning something that actually works. Publications know this. Platforms know this. That's why the prompts are everywhere.
 
-The <a href="https://infeeds.com/tags/?tag=business">business</a> model here is fairly straightforward. Bigger email lists mean bigger numbers to show advertisers. Bigger lists also mean more opportunities to cross-sell premium subscriptions, sponsored content, or other monetized offerings down the line. The free alert isn't really free, it's a front door.
+The <a href="https://infeeds.com/tags/business">business</a> model here is fairly straightforward. Bigger email lists mean bigger numbers to show advertisers. Bigger lists also mean more opportunities to cross-sell premium subscriptions, sponsored content, or other monetized offerings down the line. The free alert isn't really free, it's a front door.
 
 ## What You're Actually Agreeing To
 

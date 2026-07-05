@@ -44,7 +44,7 @@ What happens when you push people to the margins? They stay marginalized. Then p
 
 It's obvious once you see it. Milan chose to break the cycle instead of feeding it.
 
-The International Rescue Committee patrols Milano Centrale at night with hot tea and warm gloves, not just handouts but human dignity. They help people find shelter, access <a href="https://infeeds.com/tags/?tag=news">healthcare</a>, navigate a system designed to confuse them. It costs money. It requires staff. It demands that people see migrants as people first.
+The International Rescue Committee patrols Milano Centrale at night with hot tea and warm gloves, not just handouts but human dignity. They help people find shelter, access <a href="https://infeeds.com/tags/news">healthcare</a>, navigate a system designed to confuse them. It costs money. It requires staff. It demands that people see migrants as people first.
 
 ## The Cost of Not Choosing
 
@@ -60,6 +60,6 @@ After everything, after the years of trying, the Mediterranean crossing while pr
 
 "I wasn't given an option in heaven to choose the country to be born into," she said. "Everyone has a vision to have a better life. And I am still trying to have that better life."
 
-That's the sentence that breaks the whole hardline <a href="https://infeeds.com/tags/?tag=news">policy argument</a> in half. She didn't choose poverty. She didn't choose conflict. She didn't choose to be born somewhere that would try to kill her. She's just trying to live.
+That's the sentence that breaks the whole hardline <a href="https://infeeds.com/tags/news">policy argument</a> in half. She didn't choose poverty. She didn't choose conflict. She didn't choose to be born somewhere that would try to kill her. She's just trying to live.
 
 Milan gets that. The rest of Europe is still learning, or maybe it just doesn't want to.

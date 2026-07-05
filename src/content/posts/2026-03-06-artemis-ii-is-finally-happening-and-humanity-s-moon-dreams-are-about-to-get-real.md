@@ -38,7 +38,7 @@ Once they splash down in the Pacific Ocean, the Navy picks them up roughly two h
 
 ## Why This Matters Beyond the Spectacle
 
-Artemis II isn't the landing mission. That's Artemis IV, planned for early 2028. This mission is about gathering data, testing systems, and proving that NASA can actually pull off a crewed lunar mission with modern <a href="https://infeeds.com/tags/?tag=technology">technology</a>. Everything learned here directly feeds into Artemis III, happening in 2027, which will conduct docking tests and orbital operations that set up the eventual landing.
+Artemis II isn't the landing mission. That's Artemis IV, planned for early 2028. This mission is about gathering data, testing systems, and proving that NASA can actually pull off a crewed lunar mission with modern <a href="https://infeeds.com/tags/technology">technology</a>. Everything learned here directly feeds into Artemis III, happening in 2027, which will conduct docking tests and orbital operations that set up the eventual landing.
 
 SpaceX is building the lunar lander, and Axiom Space is developing the spacesuits. Multiple companies, multiple missions, and a clear roadmap back to the moon's surface. This isn't a one-off achievement. This is infrastructure for a sustained return to lunar exploration.
 

@@ -22,7 +22,7 @@ You know what else offers thousands of workouts? YouTube. For free.
 
 The value proposition here isn't the content itself. It's the structure, the tracking, the personalized recommendations that supposedly keep you consistent. Because consistency is actually the hardest part, not finding a 20-minute HIIT video online.
 
-Running a [business](https://infeeds.com/tags/?tag=business) means your calendar controls you, not the other way around. That 7am workout slot gets cannibalized by an emergency client call. The lunch gym session disappears into back-to-back meetings. By evening, decision fatigue has already won.
+Running a [business](https://infeeds.com/tags/business) means your calendar controls you, not the other way around. That 7am workout slot gets cannibalized by an emergency client call. The lunch gym session disappears into back-to-back meetings. By evening, decision fatigue has already won.
 
 ## The On-Demand Fantasy
 
@@ -32,7 +32,7 @@ Some people actually do this. Most don't.
 
 The flexibility argument cuts both ways. When everything is available all the time, nothing feels urgent. There's no class to catch, no trainer waiting, no accountability beyond a progress bar that only you can see. That's freedom, sure, but it's also really easy to ignore.
 
-FitFusion's lifetime access model is smart from a [business](https://infeeds.com/tags/?tag=business) perspective. One payment, no recurring subscription guilt. You're not getting charged $30 every month as a reminder that you haven't logged in since January. But does removing that friction actually help or hurt your commitment?
+FitFusion's lifetime access model is smart from a [business](https://infeeds.com/tags/business) perspective. One payment, no recurring subscription guilt. You're not getting charged $30 every month as a reminder that you haven't logged in since January. But does removing that friction actually help or hurt your commitment?
 
 ## What Actually Matters
 

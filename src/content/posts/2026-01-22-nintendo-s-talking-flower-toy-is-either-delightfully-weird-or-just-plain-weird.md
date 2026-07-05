@@ -20,7 +20,7 @@ The Talking Flower will spontaneously speak a couple times every hour with exist
 
 Here's where things get oddly specific. The toy has a built-in sensor that lets it comment on the room temperature. I'm trying to imagine waking up to a flower telling me it's cold in here, and I can't decide if that's helpful or deeply unsettling. It can also greet you in the morning or say goodnight, because apparently Nintendo looked at Alarmo and thought "what if we made something even more talkative?"
 
-Instead of using LEDs or a display, the Talking Flower just tells you verbally when its batteries are dying. This feels very on-brand for Nintendo's approach to [Technology](https://infeeds.com/tags/?tag=technology), which often involves doing things in the most Nintendo way possible regardless of industry standards.
+Instead of using LEDs or a display, the Talking Flower just tells you verbally when its batteries are dying. This feels very on-brand for Nintendo's approach to [Technology](https://infeeds.com/tags/technology), which often involves doing things in the most Nintendo way possible regardless of industry standards.
 
 ## Multilingual Chatter and Launch Details
 
@@ -30,7 +30,7 @@ Preorders open today through the My Nintendo Store and other retailers, with an 
 
 ## More Flower Content Coming
 
-Nintendo apparently decided one flower announcement wasn't enough for today. They also dropped an overview trailer for the Switch 2 update to Mario Wonder, which includes a new power-up called the "bellabel flower." That update hits on March 26th, giving fans even more botanical content to look forward to in the [gaming](https://infeeds.com/tags/?tag=gaming) world.
+Nintendo apparently decided one flower announcement wasn't enough for today. They also dropped an overview trailer for the Switch 2 update to Mario Wonder, which includes a new power-up called the "bellabel flower." That update hits on March 26th, giving fans even more botanical content to look forward to in the [gaming](https://infeeds.com/tags/gaming) world.
 
 The Talking Flower sits in a weird space between collectible figure and actual functional device. It shares some DNA with Alarmo but seems more focused on being an ambient companion that occasionally makes you question your life choices. Whether that's worth whatever Nintendo charges for it probably depends on how much you enjoyed those chatty flowers in Super Mario Bros. Wonder.
 

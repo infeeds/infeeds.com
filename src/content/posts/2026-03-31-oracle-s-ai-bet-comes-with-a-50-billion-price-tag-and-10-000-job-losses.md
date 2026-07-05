@@ -12,13 +12,13 @@ According to BBC reporting, Oracle made "significant" job cuts this week as the 
 
 What's notable is that Oracle's leadership has been explicit about why fewer people can handle more work: AI tools. Mike Silicia, Oracle's co-chief executive, said earlier this month that "the use of AI coding tools inside Oracle is enabling smaller engineering teams to deliver more complete solutions to our customers more quickly." The company even used AI to build its new website and has generated new sales leads through the technology.
 
-This is the rationalization we're hearing across [Technology](https://infeeds.com/tags/?tag=technology). Mark Zuckerberg at Meta and Jack Dorsey at Block have made nearly identical arguments while cutting their own workforces. The narrative is consistent: AI makes people redundant.
+This is the rationalization we're hearing across [Technology](https://infeeds.com/tags/technology). Mark Zuckerberg at Meta and Jack Dorsey at Block have made nearly identical arguments while cutting their own workforces. The narrative is consistent: AI makes people redundant.
 
 ## The Money Behind the Cuts
 
 But Oracle isn't just cutting costs to look lean. The company is spending aggressively on AI infrastructure, planning to invest at least $50 billion this year alone. It's also raised $50 billion in debt to fund even more capacity. Clayton Magouyrk, Oracle's co-chief executive, acknowledged the tension when he said: "Investing in AI infrastructure is capital-intensive, but our operating model is optimized to ensure profitability. It's unprecedented to scale a capital-intensive business so quickly."
 
-This is where the real story lives. Oracle needs fewer engineers to build software because AI can help do that work. But Oracle also needs massive data centers to power those AI tools for paying customers. So the [business](https://infeeds.com/tags/?tag=business) model shifts: invest heavily in infrastructure, slash the headcount that builds internal products, and sell access to the infrastructure itself.
+This is where the real story lives. Oracle needs fewer engineers to build software because AI can help do that work. But Oracle also needs massive data centers to power those AI tools for paying customers. So the [business](https://infeeds.com/tags/business) model shifts: invest heavily in infrastructure, slash the headcount that builds internal products, and sell access to the infrastructure itself.
 
 Oracle is part of Stargate, a $500 billion partnership with OpenAI, SoftBank, and MGX (an investment fund backed by Donald Trump) to build out US data center capacity. The project frames this infrastructure buildout as necessary for future AI processing demands.
 

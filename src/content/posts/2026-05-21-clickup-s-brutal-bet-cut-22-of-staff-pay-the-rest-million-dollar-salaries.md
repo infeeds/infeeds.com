@@ -26,9 +26,9 @@ The company is carving its future workforce into three buckets. "Builders" and "
 
 ClickUp isn't alone in this calculation. Meta laid off over 8,000 employees while simultaneously waging a multibillion-dollar war to poach AI talent from competitors like OpenAI. Amazon, Cloudflare, and Atlassian have all tied their recent layoffs directly to AI adoption. It's a pattern now, not an anomaly.
 
-The <a href="https://infeeds.com/tags/?tag=technology">technology</a> industry is sorting itself into tiers at lightning speed. A small cluster of elite AI practitioners and builders commands unprecedented compensation. Everyone else is either automated away or left scrambling for scraps.
+The <a href="https://infeeds.com/tags/technology">technology</a> industry is sorting itself into tiers at lightning speed. A small cluster of elite AI practitioners and builders commands unprecedented compensation. Everyone else is either automated away or left scrambling for scraps.
 
-This isn't just <a href="https://infeeds.com/tags/?tag=business">business</a> strategy. It's a statement about how companies see their future. Not as places where most people contribute incrementally, but as operations where a small group of elite talent and AI systems do the heavy lifting while a lean support staff manages the human relationships that still require warmth.
+This isn't just <a href="https://infeeds.com/tags/business">business</a> strategy. It's a statement about how companies see their future. Not as places where most people contribute incrementally, but as operations where a small group of elite talent and AI systems do the heavy lifting while a lean support staff manages the human relationships that still require warmth.
 
 For ClickUp employees who survived, a million-dollar salary band probably feels like vindication. For the 22% who didn't, it probably feels like a different kind of message: you weren't extreme enough to justify keeping around.
 

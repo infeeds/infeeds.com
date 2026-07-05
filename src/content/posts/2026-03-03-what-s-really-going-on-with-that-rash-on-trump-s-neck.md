@@ -38,8 +38,8 @@ Both dermatologists emphasized that without a direct examination or official con
 
 ## Why This Matters
 
-The bigger picture here isn't about one rash. It's about [health](https://infeeds.com/tags/?tag=health) transparency in leadership. Americans deserve to know whether their president is dealing with something serious or something routine. The evasion creates a vacuum that gets filled with speculation, conspiracy theories, and noise.
+The bigger picture here isn't about one rash. It's about [health](https://infeeds.com/tags/health) transparency in leadership. Americans deserve to know whether their president is dealing with something serious or something routine. The evasion creates a vacuum that gets filled with speculation, conspiracy theories, and noise.
 
 We've seen this movie before. A minor health issue gets buried, rumors spread, credibility erodes. It's preventable, but only if there's a commitment to straight talk.
 
-What does it say about our [news](https://infeeds.com/tags/?tag=news) ecosystem when a dermatological condition becomes national drama, and the government's response is to say as little as possible while hoping everyone moves on?
+What does it say about our [news](https://infeeds.com/tags/news) ecosystem when a dermatological condition becomes national drama, and the government's response is to say as little as possible while hoping everyone moves on?

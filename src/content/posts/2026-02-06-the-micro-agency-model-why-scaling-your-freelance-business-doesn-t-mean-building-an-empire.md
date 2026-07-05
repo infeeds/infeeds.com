@@ -20,7 +20,7 @@ Think of a micro-agency as your freelance business with a small safety net. You'
 
 The beauty of this model is that you stay in control. You remain the face of the client relationship. You handle strategy, communication, and quality control. Your subcontractors work behind the scenes, helping you deliver without the client ever needing to know there's a team involved.
 
-It's not about becoming a manager who never touches the actual work anymore. It's about extending your capacity without fundamentally changing what your [business](https://infeeds.com/tags/?tag=business) actually does or how it operates.
+It's not about becoming a manager who never touches the actual work anymore. It's about extending your capacity without fundamentally changing what your [business](https://infeeds.com/tags/business) actually does or how it operates.
 
 ## The Myths About Scaling That Keep Freelancers Stuck
 
@@ -36,7 +36,7 @@ There are real, valid reasons to consider bringing in help. The clearest one is 
 
 Another legitimate trigger is when clients start asking for services outside your wheelhouse. Maybe you're a copywriter who keeps getting requests for SEO audits or email automation. Instead of referring those clients elsewhere, you could bring in specialists and keep the entire project under your umbrella.
 
-But not every signal to scale is genuine. Feeling bored with your current projects isn't fixed by hiring someone. Comparing yourself to peers who seem to be "further ahead" isn't a business strategy. And thinking your income has plateaued probably means you need to refine your [marketing](https://infeeds.com/tags/?tag=business) or raise your rates, not add overhead.
+But not every signal to scale is genuine. Feeling bored with your current projects isn't fixed by hiring someone. Comparing yourself to peers who seem to be "further ahead" isn't a business strategy. And thinking your income has plateaued probably means you need to refine your [marketing](https://infeeds.com/tags/business) or raise your rates, not add overhead.
 
 Hiring won't solve weak positioning or an inconsistent pipeline. Fix those problems first, or you'll just be managing people while still struggling with the same underlying issues.
 

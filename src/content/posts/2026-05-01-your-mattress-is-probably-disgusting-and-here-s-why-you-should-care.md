@@ -18,7 +18,7 @@ If that makes you want to throw your bed out the window, hold that thought. Ther
 
 Dust mites are basically tiny vampires for your skin. They feed on dead skin cells, sweat, and food crumbs that accumulate in your bedding over time. You shed thousands of skin cells daily, and your mattress is basically an all-you-can-eat buffet for these microscopic creatures.
 
-The problem gets worse when you factor in moisture and warmth. Mattresses hold both, which creates the perfect environment for mold and fungi to flourish right underneath you while you sleep. According to Mohammed's expertise, this isn't just a comfort issue. It's a [health](https://infeeds.com/tags/?tag=health) one.
+The problem gets worse when you factor in moisture and warmth. Mattresses hold both, which creates the perfect environment for mold and fungi to flourish right underneath you while you sleep. According to Mohammed's expertise, this isn't just a comfort issue. It's a [health](https://infeeds.com/tags/health) one.
 
 For people with allergies or sensitivities, this matters. One reviewer reported waking up with "mild sinus headaches" every morning until they invested in a mattress-specific cleaning tool. After the first use, the headaches stopped. Nearly a month later, they still haven't returned.
 

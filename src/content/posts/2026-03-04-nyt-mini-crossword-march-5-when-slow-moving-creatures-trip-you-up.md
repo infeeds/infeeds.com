@@ -28,7 +28,7 @@ Once you get past that initial stumbling block, the rest of the answers fall int
 
 **5-Across** was clever in a different way. "Word whose letters are appropriately found from left to right in... CHARISMA" led to CHARM. This is the kind of wordplay that makes you groan a little when you figure it out. The letters of CHARM appear consecutively in CHARISMA, from left to right. It's satisfying once it clicks.
 
-For the down clues, **3-Down** asked which company created the first floppy disk. IBM is the answer, a piece of [technology](https://infeeds.com/tags/?tag=technology) history that feels almost ancient now. Floppy disks went from revolutionary storage solutions to complete relics in what feels like the blink of an eye.
+For the down clues, **3-Down** asked which company created the first floppy disk. IBM is the answer, a piece of [technology](https://infeeds.com/tags/technology) history that feels almost ancient now. Floppy disks went from revolutionary storage solutions to complete relics in what feels like the blink of an eye.
 
 **5-Down** brought in some hip-hop history. "World Class Wreckin' ___, music group in which Dr. Dre got his start" was CRU. The World Class Wreckin' Cru was an important stepping stone in Dr. Dre's early career, and it's cool that the Times throws in these cultural references for puzzle variety.
 

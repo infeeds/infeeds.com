@@ -10,7 +10,7 @@ tags: [news, tech]
 tags_color: '#2196f3'
 ---
 
-Remember when smartwatches were just fancy fitness trackers? Yeah, those days are over. Qualcomm just announced something at Mobile World Congress that signals a pretty significant shift in wearable <a href="https://infeeds.com/tags/?tag=technology">technology</a>. The company's new Snapdragon Wear Elite chip is designed to power camera-equipped watches, pendants, glasses, and honestly, whatever form factor manufacturers dream up next. Samsung, Google, and Motorola are already building devices with it, and they're hitting the market this summer.
+Remember when smartwatches were just fancy fitness trackers? Yeah, those days are over. Qualcomm just announced something at Mobile World Congress that signals a pretty significant shift in wearable <a href="https://infeeds.com/tags/technology">technology</a>. The company's new Snapdragon Wear Elite chip is designed to power camera-equipped watches, pendants, glasses, and honestly, whatever form factor manufacturers dream up next. Samsung, Google, and Motorola are already building devices with it, and they're hitting the market this summer.
 
 This isn't just another incremental chip upgrade. This is the foundation for a wave of AI-infused wearables that are about to become way more intrusive (or useful, depending on your perspective) than anything we've seen before.
 
@@ -60,7 +60,7 @@ Or maybe you'll end up wearing five different devices across different body part
 
 The most interesting absence in all this is inter-device communication. Nobody's really focused on how your pendant talks to your glasses, or how your watch coordinates with your AI pin. Qualcomm's building all these devices with tons of wireless protocols, but the ecosystem for managing a personal mesh network of wearables barely exists yet.
 
-There's a <a href="https://infeeds.com/tags/?tag=technology">tech</a> startup called Ixana that showed off a personal mesh network at CES that could theoretically handle this, but it's nowhere near mainstream adoption. This feels like the next frontier, though. Once these devices proliferate, the challenge won't be making them powerful or long-lasting. It'll be getting them all to work together without requiring a PhD in network administration.
+There's a <a href="https://infeeds.com/tags/technology">tech</a> startup called Ixana that showed off a personal mesh network at CES that could theoretically handle this, but it's nowhere near mainstream adoption. This feels like the next frontier, though. Once these devices proliferate, the challenge won't be making them powerful or long-lasting. It'll be getting them all to work together without requiring a PhD in network administration.
 
 For now, these wearables are still trying to be better extensions of your phone first, and maybe standalone devices second. The moment that flips is the moment this whole ecosystem gets either genuinely useful or genuinely invasive, depending on how you look at it.
 

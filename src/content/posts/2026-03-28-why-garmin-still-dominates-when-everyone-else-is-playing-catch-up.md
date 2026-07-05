@@ -48,7 +48,7 @@ Let's talk about why Garmin watches work for everyone from casual hikers to prof
 
 Body Battery is the most iconic feature. It measures how much energy you have throughout the day by looking at sleep, stress, and activity recovery. It sounds simple, but seeing a number that actually correlates to how tired you feel is weirdly powerful.
 
-Training Readiness predicts whether today is a good day to push hard or if you need to ease back. Acute Load measures your total weekly exertion and tells you if you're training too much or too little. Training Status shows if your workouts are actually getting you closer to your goals. These aren't gimmicks. They're the kind of <a href="https://infeeds.com/tags/?tag=technology">technology</a> that actually changes how you train.
+Training Readiness predicts whether today is a good day to push hard or if you need to ease back. Acute Load measures your total weekly exertion and tells you if you're training too much or too little. Training Status shows if your workouts are actually getting you closer to your goals. These aren't gimmicks. They're the kind of <a href="https://infeeds.com/tags/technology">technology</a> that actually changes how you train.
 
 And unlike Fitbit Premium or some other subscription services, most of this was free for years. Garmin just launched Connect+ at $70 a year for AI-enabled features like meal tracking, but the core software that makes these watches work is still available without paying anything.
 

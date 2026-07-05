@@ -26,9 +26,9 @@ Nintendo isn't satisfied yet though. They're keeping the original Switch in prod
 
 Meanwhile, the Switch 2 is putting up numbers that would make most console launches look embarrassing. It's sold 17.37 million units since launching in June 2025, which means it beat the Wii U's entire lifetime sales of 13.7 million units in less than a year. Ouch.
 
-The <a href="https://infeeds.com/tags/?tag=business">Business</a> side of things is looking pretty healthy too. Nintendo's net profit jumped 51 percent in the first nine months of their fiscal year, hitting ¥358.86 billion (around $2.31 billion). Net sales nearly doubled to ¥1.906 trillion, which is about $12.2 billion compared to last year's $6.1 billion.
+The <a href="https://infeeds.com/tags/business">Business</a> side of things is looking pretty healthy too. Nintendo's net profit jumped 51 percent in the first nine months of their fiscal year, hitting ¥358.86 billion (around $2.31 billion). Net sales nearly doubled to ¥1.906 trillion, which is about $12.2 billion compared to last year's $6.1 billion.
 
-Nintendo is forecasting 19 million Switch 2 units sold by the end of this financial year. If they hit that target, it'll cement the Switch family as one of the most successful <a href="https://infeeds.com/tags/?tag=technology">Technology</a> platforms in gaming history.
+Nintendo is forecasting 19 million Switch 2 units sold by the end of this financial year. If they hit that target, it'll cement the Switch family as one of the most successful <a href="https://infeeds.com/tags/technology">Technology</a> platforms in gaming history.
 
 ## What This Actually Means
 

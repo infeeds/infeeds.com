@@ -28,7 +28,7 @@ But here's the thing about calling this a "budget-friendly" model. Six hundred d
 
 If Apple keeps the price at $600 or nudges it higher, they need to add more than just MagSafe and a new screen cutout. More base storage would be a good start. Nobody wants to be nickel and dimed with cloud storage subscriptions because their phone came with 64GB in 2026.
 
-The [Technology](https://infeeds.com/tags/?tag=technology) industry has this habit of removing features and then celebrating their return as upgrades. It's exhausting. MagSafe should have been there from the beginning. The Dynamic Island is nice but it's not revolutionary at this point.
+The [Technology](https://infeeds.com/tags/technology) industry has this habit of removing features and then celebrating their return as upgrades. It's exhausting. MagSafe should have been there from the beginning. The Dynamic Island is nice but it's not revolutionary at this point.
 
 ## Meanwhile, Apple's Invite App Sits Lonely
 
@@ -36,6 +36,6 @@ Speaking of things that feel oddly disconnected from reality, the Apple Invites 
 
 Apple turns 50 on April 1st this year. Tim Cook promised employees "some celebration" according to Bloomberg. Maybe they could use that Invites app to actually throw a party that gets people excited about using it. Just a thought.
 
-The whole situation with the iPhone 17E feels like Apple testing how much they can get away with. They want credit for adding features that competitors include as standard. They want us to celebrate a $600 price tag as affordable. And they're trying to figure out if a press release launch or a proper event makes more [business](https://infeeds.com/tags/?tag=business) sense for a mid-tier product.
+The whole situation with the iPhone 17E feels like Apple testing how much they can get away with. They want credit for adding features that competitors include as standard. They want us to celebrate a $600 price tag as affordable. And they're trying to figure out if a press release launch or a proper event makes more [business](https://infeeds.com/tags/business) sense for a mid-tier product.
 
-What's really interesting is whether consumers will buy into this strategy or finally push back on what "budget-friendly" actually means in the [tech](https://infeeds.com/tags/?tag=tech) world.
+What's really interesting is whether consumers will buy into this strategy or finally push back on what "budget-friendly" actually means in the [tech](https://infeeds.com/tags/tech) world.

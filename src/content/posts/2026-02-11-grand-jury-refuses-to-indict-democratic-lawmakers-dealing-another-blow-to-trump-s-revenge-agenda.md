@@ -26,11 +26,11 @@ But that didn't stop Secretary of Defense Pete Hegseth from opening an investiga
 
 ## The Pattern Is Clear
 
-This isn't an isolated incident. It's part of a broader pattern of the Trump administration trying to use the [justice system](https://infeeds.com/tags/?tag=news) as a weapon against anyone who criticizes or opposes the president. Back in December, another grand jury refused to indict New York Attorney General Letitia James after a judge had already thrown out a previous case against her.
+This isn't an isolated incident. It's part of a broader pattern of the Trump administration trying to use the [justice system](https://infeeds.com/tags/news) as a weapon against anyone who criticizes or opposes the president. Back in December, another grand jury refused to indict New York Attorney General Letitia James after a judge had already thrown out a previous case against her.
 
 Grand juries are rejecting these cases because they're garbage. Federal prosecutors argued that the Democrats violated a statute against interfering with the loyalty, morale, or discipline of the armed forces. But reminding soldiers they can refuse illegal orders isn't interference. It's civic education.
 
-Kelly hit back hard on Tuesday, calling the prosecution attempt "an outrageous abuse of power by Donald Trump and his lackies." He's right. This is textbook [political](https://infeeds.com/tags/?tag=news) retaliation dressed up in legal language.
+Kelly hit back hard on Tuesday, calling the prosecution attempt "an outrageous abuse of power by Donald Trump and his lackies." He's right. This is textbook [political](https://infeeds.com/tags/news) retaliation dressed up in legal language.
 
 The video these lawmakers made wasn't radical or inflammatory. It was a straightforward reminder of something every service member should know: illegal orders don't have to be followed. That's not just some liberal talking point. It's established military law going back decades.
 
@@ -40,6 +40,6 @@ The grand jury's refusal to indict sends a clear message. Even in an environment
 
 But don't expect the Trump administration to stop trying. They've made it clear that perceived disloyalty will be punished, whether through the courts, through administrative action, or through public attacks. Hegseth's investigation into Kelly continues. The threats keep coming.
 
-What we're seeing is a stress test of American [institutions](https://infeeds.com/tags/?tag=news). Can grand juries resist pressure from prosecutors? Can judges stand up to politically motivated cases? Can the military maintain its independence from political interference?
+What we're seeing is a stress test of American [institutions](https://infeeds.com/tags/news). Can grand juries resist pressure from prosecutors? Can judges stand up to politically motivated cases? Can the military maintain its independence from political interference?
 
 So far, the answer has been yes, at least in these cases. But how long that holds is anyone's guess when the people in power view basic constitutional principles as obstacles to be overcome rather than rules to be followed.

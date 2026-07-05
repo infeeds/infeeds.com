@@ -18,7 +18,7 @@ Sounds exciting, right? Well, not everyone's convinced.
 
 Here's where things get sticky. Larian Studios, the developer that poured their hearts into making Baldur's Gate 3 one of the most critically acclaimed games in recent memory, won't be directly involved in this adaptation. And fans are understandably nervous about that.
 
-The [technology](https://infeeds.com/tags/?tag=technology) behind game adaptations has come a long way, but there's something different about having the original creators in the room. When Mazin worked on The Last of Us, he had Neil Druckmann right there with him. That collaboration showed. Now, he's flying solo on this one, and the fanbase is questioning whether that's the right call.
+The [technology](https://infeeds.com/tags/technology) behind game adaptations has come a long way, but there's something different about having the original creators in the room. When Mazin worked on The Last of Us, he had Neil Druckmann right there with him. That collaboration showed. Now, he's flying solo on this one, and the fanbase is questioning whether that's the right call.
 
 Larian founder Swen Vincke posted what can only be described as a diplomatically worded message on X, saying the team hopes the show "will enjoy the same level of passion" they put into the game. Translation? We'll see what happens, fingers crossed.
 
@@ -32,9 +32,9 @@ Mazin claims he's put nearly 1,000 hours into the game and calls himself a devot
 
 ## The Business Side Changes Everything
 
-Here's the part that matters from a [business](https://infeeds.com/tags/?tag=business) perspective: Larian doesn't own Baldur's Gate. Wizards of the Coast does, and they're a subsidiary of Hasbro. Larian licensed the IP to make Baldur's Gate 3, which means the TV show can legally happen without them lifting a finger.
+Here's the part that matters from a [business](https://infeeds.com/tags/business) perspective: Larian doesn't own Baldur's Gate. Wizards of the Coast does, and they're a subsidiary of Hasbro. Larian licensed the IP to make Baldur's Gate 3, which means the TV show can legally happen without them lifting a finger.
 
-This is how the [entertainment](https://infeeds.com/tags/?tag=entertainment) industry works, sure, but it doesn't make fans feel any better about it. The people who made the thing you love don't get a say in how it's adapted because they don't own the rights. Corporate structure strikes again.
+This is how the [entertainment](https://infeeds.com/tags/entertainment) industry works, sure, but it doesn't make fans feel any better about it. The people who made the thing you love don't get a say in how it's adapted because they don't own the rights. Corporate structure strikes again.
 
 The show will pick up right after the events of the last game, which is both exciting and terrifying considering Baldur's Gate 3 reportedly has nearly 17,000 different ending variations. How do you choose which version of events becomes canon? That's a minefield waiting to explode.
 

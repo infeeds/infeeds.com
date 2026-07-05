@@ -20,7 +20,7 @@ The original dispute centered on something actually pretty principled on Anthrop
 
 That move was aggressive enough that Anthropic is now challenging it in court. But here's where the story gets interesting: an administration source told Axios that "every agency" except the Department of Defense wants to use Anthropic's technology. Not some agencies. Not most agencies. Every other one.
 
-This is either a sign that the Pentagon is being unnecessarily restrictive, or there's a deeper strategic disagreement about how the administration should approach [AI](https://infeeds.com/tags/?tag=technology) companies. Probably both things are true simultaneously.
+This is either a sign that the Pentagon is being unnecessarily restrictive, or there's a deeper strategic disagreement about how the administration should approach [AI](https://infeeds.com/tags/technology) companies. Probably both things are true simultaneously.
 
 ## The Quiet Thawing
 

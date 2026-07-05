@@ -34,7 +34,7 @@ But here's where it gets really interesting. The researchers took gut bacteria f
 
 Because babies inherit their microbiome from their mothers, a poor diet during pregnancy and breastfeeding can mess up an infant's gut bacteria from day one. It's like passing down a broken instruction manual for how their bodies should process food and build healthy tissues.
 
-The study found that indole activates something called the acyl hydrocarbon receptor pathway in the gut, which seems to flip on protective mechanisms. Harmful fats called long-chain ceramides didn't increase, while beneficial very long-chain ceramides actually went up. The [science](https://infeeds.com/tags/?tag=science) here is still being worked out, but the pattern is clear enough to be exciting.
+The study found that indole activates something called the acyl hydrocarbon receptor pathway in the gut, which seems to flip on protective mechanisms. Harmful fats called long-chain ceramides didn't increase, while beneficial very long-chain ceramides actually went up. The [science](https://infeeds.com/tags/science) here is still being worked out, but the pattern is clear enough to be exciting.
 
 Dr. Karen Jonscher, who co-led the research, put it bluntly: "Anything we can do to improve the mother's microbiome may help prevent the development of MASLD in the offspring. That would be far better than trying to reverse the disease once it has already progressed."
 
@@ -42,7 +42,7 @@ Dr. Karen Jonscher, who co-led the research, put it bluntly: "Anything we can do
 
 Of course, this was done in mice, not people. We can't just start prescribing indole supplements to pregnant women based on animal studies. The biology might work differently in humans, the dosing could be completely off, and there might be side effects we haven't thought about yet.
 
-But the research does open up a compelling new avenue for tackling a disease that's becoming more common as childhood obesity rates climb. The idea that we could prevent fatty liver disease by targeting gut [health](https://infeeds.com/tags/?tag=health) during pregnancy is a lot more appealing than waiting until kids are already sick and then trying to force major weight loss on them.
+But the research does open up a compelling new avenue for tackling a disease that's becoming more common as childhood obesity rates climb. The idea that we could prevent fatty liver disease by targeting gut [health](https://infeeds.com/tags/health) during pregnancy is a lot more appealing than waiting until kids are already sick and then trying to force major weight loss on them.
 
 The prevalence of MASLD is climbing fast enough that researchers are scrambling for any kind of intervention that actually works. This gut bacteria angle might be one of the more promising leads to emerge in recent years, even if it'll take a while to translate into actual clinical practice.
 

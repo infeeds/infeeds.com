@@ -47,7 +47,7 @@ This refers to Alexandria Ocasio-Cortez's initials, which became shorthand for t
 **5D: ___ Altman, C.E.O. of 7-Across**
 Answer: SAM
 
-Sam Altman leads OpenAI, which connects to the [Technology](/tags/?tag=technology) sector. This is a more current reference that might trip up anyone not following recent corporate leadership.
+Sam Altman leads OpenAI, which connects to the [Technology](/tags/technology) sector. This is a more current reference that might trip up anyone not following recent corporate leadership.
 
 **6D: Item of attire that might have a Windsor knot**
 Answer: TIE

@@ -50,7 +50,7 @@ This flexibility matters because quantum systems need different configurations f
 
 Here's the important caveat: this is still a design on paper. The Chalmers team is planning to move from theory toward actually constructing these systems. That transition from blackboard to lab bench is where many promising quantum concepts have stumbled.
 
-But there's something more compelling about this approach than some earlier quantum designs. Giant superatoms could potentially be integrated with other quantum [technology](https://infeeds.com/tags/?tag=technology) platforms, serving as building blocks for hybrid quantum systems. And hybrid approaches are exactly where the field is heading, since different quantum technologies have different strengths.
+But there's something more compelling about this approach than some earlier quantum designs. Giant superatoms could potentially be integrated with other quantum [technology](https://infeeds.com/tags/technology) platforms, serving as building blocks for hybrid quantum systems. And hybrid approaches are exactly where the field is heading, since different quantum technologies have different strengths.
 
 "There is currently strong interest in hybrid approaches, in which different quantum systems work together," notes Kockum. "Our research shows that smart design can reduce the need for increasingly complex hardware and giant superatoms are bringing us one step closer to practically applicable quantum technology."
 

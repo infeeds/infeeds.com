@@ -40,11 +40,11 @@ Marc Toberoff, Musk's lawyer, declared outside the courthouse: "This war is not 
 
 But here's the reality check. Raffi Melkonian, an appellate lawyer who's argued before the US Supreme Court, wrote online that "appeals of jury verdicts are very hard to win." Tobias echoed this, explaining that an appeals court would be "very unlikely to overturn such a fact-specific decision from a jury and a judge who agreed with it." Translation: Musk faces an uphill battle, and legal experts don't expect him to prevail.
 
-The <a href="https://infeeds.com/tags/?tag=business">Business</a> side of this is worth noting too. This represents another legal loss for Musk in recent months, adding to what the BBC described as "a string of recent losses and settlements." That's the kind of record that tends to matter, even to billionaires.
+The <a href="https://infeeds.com/tags/business">Business</a> side of this is worth noting too. This represents another legal loss for Musk in recent months, adding to what the BBC described as "a string of recent losses and settlements." That's the kind of record that tends to matter, even to billionaires.
 
 ## What This Actually Reveals
 
-The OpenAI lawsuit collapse tells us something uncomfortable about how <a href="https://infeeds.com/tags/?tag=technology">Technology</a> feuds actually work. Two people build something together. One leaves bitter. Years pass. Then one of them sues, convinced he's been wronged. The law doesn't necessarily care about who was right all along.
+The OpenAI lawsuit collapse tells us something uncomfortable about how <a href="https://infeeds.com/tags/technology">Technology</a> feuds actually work. Two people build something together. One leaves bitter. Years pass. Then one of them sues, convinced he's been wronged. The law doesn't necessarily care about who was right all along.
 
 OpenAI's lawyer, William Savitt, said the jury decided that Musk "was lying during his testimony about the company's origins." That's a stronger statement than the statute of limitations verdict alone would suggest. It hints that even if Musk had filed on time, the jury might not have bought his story.
 

@@ -38,7 +38,7 @@ Clinton's previous relationship with Ghislaine Maxwell, Epstein's associate who'
 
 "I do not," Clinton said when asked if she had knowledge of Maxwell's crimes. Simple. Definitive. Almost too convenient.
 
-The <a href="https://infeeds.com/tags/?tag=business">business</a> world has seen plenty of convenient denials before, but rarely with this kind of theatrical flair. Clinton wasn't just answering questions. She was performing, redirecting, and making sure everyone understood she sees herself as the victim of a witch hunt rather than someone with legitimate questions to answer.
+The <a href="https://infeeds.com/tags/business">business</a> world has seen plenty of convenient denials before, but rarely with this kind of theatrical flair. Clinton wasn't just answering questions. She was performing, redirecting, and making sure everyone understood she sees herself as the victim of a witch hunt rather than someone with legitimate questions to answer.
 
 ## The Bigger Picture
 

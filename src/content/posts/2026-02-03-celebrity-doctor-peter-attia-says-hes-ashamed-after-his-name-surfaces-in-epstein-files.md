@@ -18,13 +18,13 @@ The New York Times broke the story just hours ago. Attia released a statement sa
 
 Times of India reports that Attia has stepped down from David Protein, and CBS is expected to show him the door as well. That's how fast things move when your name gets dragged into an Epstein scandal. It doesn't matter how many books you've sold or how many followers you have. This kind of association sticks.
 
-The Independent provided more context about what these emails actually contained. Without repeating the crude details, they show a side of Attia that his public persona carefully avoided. It's also another headache for Bari Weiss, who's connected to Attia through various [media](https://infeeds.com/tags/?tag=media) ventures and has had her own share of controversies.
+The Independent provided more context about what these emails actually contained. Without repeating the crude details, they show a side of Attia that his public persona carefully avoided. It's also another headache for Bari Weiss, who's connected to Attia through various [media](https://infeeds.com/tags/media) ventures and has had her own share of controversies.
 
 Variety covered Attia's apology, which hit all the expected notes. He's sorry. He's embarrassed. He wasn't thinking clearly. The emails don't represent who he is today. We've heard this script before from public figures caught in scandals. Whether people buy it is another question entirely.
 
 ## Why This Matters Beyond One Doctor
 
-Attia isn't accused of any crimes. That's important to state clearly. But his appearance in these files raises questions about judgment and character. Epstein had a way of collecting relationships with prominent people across multiple fields. Scientists, [business](https://infeeds.com/tags/?tag=business) leaders, entertainers, academics. He cultivated these connections deliberately.
+Attia isn't accused of any crimes. That's important to state clearly. But his appearance in these files raises questions about judgment and character. Epstein had a way of collecting relationships with prominent people across multiple fields. Scientists, [business](https://infeeds.com/tags/business) leaders, entertainers, academics. He cultivated these connections deliberately.
 
 The health and wellness space already has a trust problem. Between questionable supplement claims, pseudoscience masquerading as cutting-edge research, and influencers with more charisma than credentials, people are right to be skeptical. When someone positioned as a serious medical professional gets revealed to have had this kind of connection to Epstein, it erodes trust even further.
 
@@ -36,7 +36,7 @@ What's fascinating and disturbing about the Epstein files isn't any single name.
 
 Did Peter Attia know about Epstein's crimes when he was exchanging these emails? That's not clear from what's been reported. But it's hard to believe that by a certain point, anyone in Epstein's orbit was completely in the dark. The rumors and whispers existed long before his arrest.
 
-The fact that Attia is publicly ashamed suggests he knows how this looks. CBS cutting ties suggests they want distance immediately. David Protein stepping away suggests brands don't want to be associated with this story. These are all predictable responses to a [scandal](https://infeeds.com/tags/?tag=scandal) that's still unfolding.
+The fact that Attia is publicly ashamed suggests he knows how this looks. CBS cutting ties suggests they want distance immediately. David Protein stepping away suggests brands don't want to be associated with this story. These are all predictable responses to a [scandal](https://infeeds.com/tags/scandal) that's still unfolding.
 
 ## Questions That Need Answers
 

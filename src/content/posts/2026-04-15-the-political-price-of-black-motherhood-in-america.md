@@ -18,7 +18,7 @@ The numbers she's studied for years suddenly feel very close. Black women face m
 
 Here's what makes this crisis particularly brutal: it doesn't discriminate by degree.
 
-Maternal deaths among Black women occur "regardless of income or education," according to Louden's analysis. A Ph.D. won't save you. Stability won't save you. The causes run far deeper than individual circumstances. They're baked into <a href="https://infeeds.com/tags/?tag=health">health</a> systems through structural and systemic racism, provider bias, inadequate culturally appropriate care, and the cumulative toll of chronic stress and weathering.
+Maternal deaths among Black women occur "regardless of income or education," according to Louden's analysis. A Ph.D. won't save you. Stability won't save you. The causes run far deeper than individual circumstances. They're baked into <a href="https://infeeds.com/tags/health">health</a> systems through structural and systemic racism, provider bias, inadequate culturally appropriate care, and the cumulative toll of chronic stress and weathering.
 
 Weathering is what researchers call the accelerated aging of the body under chronic stress. For Black Americans, it's not metaphorical. It's physiological.
 

@@ -26,7 +26,7 @@ Redfern was pretty adamant about this. When asked what she'd recommend if someon
 
 ## Protection Isn't Sexy, But It Works
 
-One thing Redfern actually wants us doing more of is wearing eye protection. And not just at the eye doctor or during extreme sports. She's talking about <a href="https://infeeds.com/tags/?tag=health">health</a> protection during basic home projects.
+One thing Redfern actually wants us doing more of is wearing eye protection. And not just at the eye doctor or during extreme sports. She's talking about <a href="https://infeeds.com/tags/health">health</a> protection during basic home projects.
 
 "I always wear eye protection if I'm doing a house project where I'm hammering, sawing, anything where something can fly at my eye," she said. She wasn't exaggerating about why either. Redfern spends half her time doing hospital consultations, seeing the kind of eye trauma that happens when someone thinks they don't need protection. It's apparently not pretty.
 
@@ -40,4 +40,4 @@ Floaters, those little spots that drift across your vision, are pretty normal to
 
 Your eyes handle about 80 percent of all learning that happens in your brain. The organ is second only to your brain in terms of complexity, with over 2 million working parts constantly doing their job. That's a lot of machinery to take care of, and most of it comes down to not being careless.
 
-It's weird how we're so casual about <a href="https://infeeds.com/tags/?tag=health">health</a> decisions that could permanently affect something we rely on every single day. One night of sleep in your contacts might feel harmless. Swimming in the pool with them on seems fine. But it only takes one time for everything to change, and unlike your phone or your laptop, you can't exactly upgrade your eyeballs if something goes wrong.
+It's weird how we're so casual about <a href="https://infeeds.com/tags/health">health</a> decisions that could permanently affect something we rely on every single day. One night of sleep in your contacts might feel harmless. Swimming in the pool with them on seems fine. But it only takes one time for everything to change, and unlike your phone or your laptop, you can't exactly upgrade your eyeballs if something goes wrong.

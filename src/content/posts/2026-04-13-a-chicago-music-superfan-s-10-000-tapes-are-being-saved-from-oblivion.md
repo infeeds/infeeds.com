@@ -26,7 +26,7 @@ This is the kind of work that doesn't make headlines. It's tedious. It requires 
 
 Think about what would have happened without this effort. Jacobs' tapes would eventually degrade into silence. Those Nirvana recordings, those glimpses into what influential bands sounded like before they became legends, would be lost. Not to corporate malfeasance or some grand tragedy, but simply because plastic and magnetic tape don't last forever.
 
-The Internet Archive is doing something most <a href="https://infeeds.com/tags/?tag=technology">technology</a> companies explicitly avoid: preserving things that don't generate revenue. There's no monetization angle here. No venture capital waiting in the wings. Just volunteers showing up, month after month, to save pieces of cultural history from degradation.
+The Internet Archive is doing something most <a href="https://infeeds.com/tags/technology">technology</a> companies explicitly avoid: preserving things that don't generate revenue. There's no monetization angle here. No venture capital waiting in the wings. Just volunteers showing up, month after month, to save pieces of cultural history from degradation.
 
 The Tracy Chapman recording from 1988 that's posted on the archive is technically just one song, captured by one fan with mediocre equipment decades ago. But it's also evidence that this music mattered enough to someone to record it. It was worth preserving. And now it is.
 

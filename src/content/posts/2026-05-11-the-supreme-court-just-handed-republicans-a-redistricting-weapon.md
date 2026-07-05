@@ -28,7 +28,7 @@ That's not nothing. It's a narrow path, but it's a path. Whether it leads anywhe
 
 ## A Nationwide Redistricting Arms Race
 
-Alabama isn't alone. According to AP reporting, this is part of a wider [news](https://infeeds.com/tags/?tag=news) phenomenon where multiple states are rewriting district boundaries before the November elections. Normally, redistricting happens once a decade after the census, but we're in a new era now. President Trump urged Texas Republicans to redraw districts in their favor, and Democrats in California responded with their own aggressive maps. Then other Republican-led states followed suit.
+Alabama isn't alone. According to AP reporting, this is part of a wider [news](https://infeeds.com/tags/news) phenomenon where multiple states are rewriting district boundaries before the November elections. Normally, redistricting happens once a decade after the census, but we're in a new era now. President Trump urged Texas Republicans to redraw districts in their favor, and Democrats in California responded with their own aggressive maps. Then other Republican-led states followed suit.
 
 The political calculus is stark. Republicans believe they could gain as many as 14 additional House seats through new districts in Texas, Missouri, North Carolina, Ohio, Florida, and Tennessee. Democrats counter that they could pick up six seats from new districts in California and Utah, but they took a major hit when Virginia's Supreme Court overturned a voter-approved redistricting amendment that could have netted them four more seats.
 

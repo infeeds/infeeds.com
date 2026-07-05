@@ -44,4 +44,4 @@ But here's what I've learned from all those rejections, all that radio silence, 
 
 So yes, the market is brutal. Yes, the odds are against us. But we adapt, we persist, and we figure it out. That's what we're supposed to do, right?
 
-For related insights on the state of the [business](https://infeeds.com/tags/?tag=business) landscape for young professionals, explore more on Infeeds.
+For related insights on the state of the [business](https://infeeds.com/tags/business) landscape for young professionals, explore more on Infeeds.

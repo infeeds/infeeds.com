@@ -20,7 +20,7 @@ This matters because the conversation around cultural code-switching and authent
 
 ## Beyond the Stage
 
-The speech took another turn when Becky G brought up feminist activist Dolores Huerta. The shout-out felt deliberate, like she was expanding the frame of what "impact" actually means. "Someone who, for many decades, has dedicated their life to activism, fighting against injustices faced by women and immigrants here in the United States. That kind of impact goes far beyond any stage," she said. It's a reminder that the [entertainment](https://infeeds.com/tags/?tag=entertainment) world doesn't exist in a vacuum, and that some work is bigger than any award.
+The speech took another turn when Becky G brought up feminist activist Dolores Huerta. The shout-out felt deliberate, like she was expanding the frame of what "impact" actually means. "Someone who, for many decades, has dedicated their life to activism, fighting against injustices faced by women and immigrants here in the United States. That kind of impact goes far beyond any stage," she said. It's a reminder that the [entertainment](https://infeeds.com/tags/entertainment) world doesn't exist in a vacuum, and that some work is bigger than any award.
 
 The closing message to women and girls carried weight: "Your voices matter, you do not have to make yourselves small. Just be you. We deserve to dream without limits." It's the kind of sentiment that can feel generic at award shows, but Becky G seemed to mean it. Whether that lands depends on what you bring to it as a listener.
 

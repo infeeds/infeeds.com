@@ -28,7 +28,7 @@ These weren't mistakes. They were calculated moves.
 
 Payments to individual victims are expected to range from about $8,000 to $16,000. For people whose loved ones died, whose families fractured, whose lives derailed, that figure sits somewhere between symbolic and insulting. Some victims won't even qualify for payments because they can't produce decades-old prescriptions.
 
-The broader settlement, spread across states, local governments, and [tribal nations](https://infeeds.com/tags/?tag=business), is being described as one of the largest in the history of pharmaceutical litigation. Yet most of that money is earmarked for government entities to use fighting the opioid crisis, not for the people who actually suffered it.
+The broader settlement, spread across states, local governments, and [tribal nations](https://infeeds.com/tags/business), is being described as one of the largest in the history of pharmaceutical litigation. Yet most of that money is earmarked for government entities to use fighting the opioid crisis, not for the people who actually suffered it.
 
 ## The Sackler Shield
 
@@ -46,7 +46,7 @@ And the overall settlement landscape is genuinely massive. Across all pharmaceut
 
 ## The Reckoning We Didn't Get
 
-What's striking about this settlement is what it reveals about how American [business](https://infeeds.com/tags/?tag=business) and law actually work. A company engineered one of the deadliest epidemics in modern history, and in response, the company ceases to exist while its architects remain free. No individual executives faced criminal charges. No one is going to prison. The settlement is being called historic, but only because we've normalized the idea that corporate crimes can be addressed primarily through financial transfers rather than personal accountability.
+What's striking about this settlement is what it reveals about how American [business](https://infeeds.com/tags/business) and law actually work. A company engineered one of the deadliest epidemics in modern history, and in response, the company ceases to exist while its architects remain free. No individual executives faced criminal charges. No one is going to prison. The settlement is being called historic, but only because we've normalized the idea that corporate crimes can be addressed primarily through financial transfers rather than personal accountability.
 
 Over 900,000 Americans have died from opioids since 1999, according to federal data cited in the AP reporting. Judge Arleo's words hung in the courtroom like an unresolved chord: "It is not lost on me that those who started the epidemic will not serve a sentence."
 

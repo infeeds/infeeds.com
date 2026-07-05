@@ -18,7 +18,7 @@ Stockholm isn't a random choice. A16z made serious money backing Skype, which wa
 
 ## The SSE Labs Pipeline
 
-Vasquez told TechCrunch that a16z has been "closely tracking ecosystems like SSE Labs" at the Stockholm School of Economics. That's where Dentio came from, along with Klarna, legal AI startup Legora, and e-scooter company Voi. It's basically become a factory for [Business](https://infeeds.com/tags/?tag=business) ideas that actually scale.
+Vasquez told TechCrunch that a16z has been "closely tracking ecosystems like SSE Labs" at the Stockholm School of Economics. That's where Dentio came from, along with Klarna, legal AI startup Legora, and e-scooter company Voi. It's basically become a factory for [Business](https://infeeds.com/tags/business) ideas that actually scale.
 
 Dentio's three founders, Elias Afrasiabi, Anton Li, and Lukas Sjögren, were high school classmates who reconnected at university. The idea came from Li's mom, who's a dentist and apparently spent more time doing admin than actual dentistry. Classic founder origin story, except this time they actually talked to other dentists instead of just building in a vacuum.
 
@@ -28,7 +28,7 @@ Their competition includes Tandem Health, another Swedish startup that raised $5
 
 ## Made in Sweden, Backed in America
 
-Dentio slaps "Made in Sweden" branding all over their site and makes a big deal about processing data in Sweden and Finland under EU law. It's smart positioning for privacy-worried Europeans who still remember Cambridge Analytica. But it's also signaling to VCs that this is the next wave of Swedish [Technology](https://infeeds.com/tags/?tag=technology) magic.
+Dentio slaps "Made in Sweden" branding all over their site and makes a big deal about processing data in Sweden and Finland under EU law. It's smart positioning for privacy-worried Europeans who still remember Cambridge Analytica. But it's also signaling to VCs that this is the next wave of Swedish [Technology](https://infeeds.com/tags/technology) magic.
 
 Here's the wild part: Afrasiabi claims they went to zero meetups and reached out to zero investors. The money just found them through referrals and word of mouth that somehow traveled across the Atlantic. Sounds too good to be true until you realize a16z has built an entire scouting network specifically to make this happen.
 

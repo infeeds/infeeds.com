@@ -50,7 +50,7 @@ The data also shows that exit rates are ticking up. People are becoming more sel
 
 Here's something that separates smart teams from the rest: social listening. For marketers without it in place, Instagram's ROI confidence sits at around 60%. But for those actually monitoring what people are saying about their brand? That number jumps to 76%, matching LinkedIn's performance.
 
-This means you need to pay attention to what influencers and creators are saying about your brand. A solid <a href="https://infeeds.com/tags/?tag=business">business</a> strategy on Instagram should include identifying potential brand ambassadors who can share genuine experiences with your products.
+This means you need to pay attention to what influencers and creators are saying about your brand. A solid <a href="https://infeeds.com/tags/business">business</a> strategy on Instagram should include identifying potential brand ambassadors who can share genuine experiences with your products.
 
 ## The Consistency Play
 

@@ -16,7 +16,7 @@ CEO Marvin Ellison was refreshingly honest about it in his CNBC interview. The c
 
 ## The Lock-In Effect Is Real
 
-Here's the thing about the housing market right now. We've got people sitting tight in their homes because they're locked into mortgage rates around 2.5% or 3%. They're not selling. They're not buying. They're definitely not doing those expensive kitchen renovations or deck additions that used to drive <a href="https://infeeds.com/tags/?tag=business">business</a> for retailers like Lowe's and Home Depot.
+Here's the thing about the housing market right now. We've got people sitting tight in their homes because they're locked into mortgage rates around 2.5% or 3%. They're not selling. They're not buying. They're definitely not doing those expensive kitchen renovations or deck additions that used to drive <a href="https://infeeds.com/tags/business">business</a> for retailers like Lowe's and Home Depot.
 
 "The greatest fuel for the home improvement industry is when you decide to put your house on the market," Ellison explained. Once that for sale sign goes up, people immediately start fixing their yard, repainting walls, and doing all those quick beautification projects. But with higher inflation, economic uncertainty, and those sky-high mortgage rates, that market activity has basically stalled.
 

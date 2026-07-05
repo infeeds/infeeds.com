@@ -32,7 +32,7 @@ That statement cuts to something real. Juries aren't always swayed by character 
 
 ## The Bigger Picture for Rideshare Accountability
 
-What makes these cases significant isn't the individual verdicts. It's what they suggest about [business](https://infeeds.com/tags/?tag=business) accountability in the gig economy. Rideshare companies have long argued they're mere platforms, not employers responsible for driver behavior. But courts are increasingly telling a different story.
+What makes these cases significant isn't the individual verdicts. It's what they suggest about [business](https://infeeds.com/tags/business) accountability in the gig economy. Rideshare companies have long argued they're mere platforms, not employers responsible for driver behavior. But courts are increasingly telling a different story.
 
 Uber has already signaled it plans to appeal the North Carolina verdict, arguing the jury was "incorrectly instructed on the question of liability." The company also noted in a statement that "the jury's award here should further bring these cases back to reality, as it represents a tiny fraction of previous demands."
 

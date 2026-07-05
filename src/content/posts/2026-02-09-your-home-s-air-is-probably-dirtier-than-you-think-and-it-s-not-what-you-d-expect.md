@@ -20,7 +20,7 @@ You can buy air purifiers and dehumidifiers, sure. But if you don't know where t
 
 Gas stoves get all the attention when it comes to indoor air pollution, and for good reason. But here's the kicker: it doesn't matter if you have gas or electric. Glory Dolphin Hammes, CEO of IQAir North America and a certified indoor environmentalist, says cooking is the number one contributor to indoor air pollution, period.
 
-High-heat cooking, especially over open flames or burners, releases p.m. 2.5. That's particulate matter small enough to get deep into your lungs. We worry about smells, but the real danger is invisible. Even if you're baking something in the oven or reheating leftovers in the microwave, you're still introducing pollutants into your [Technology](https://infeeds.com/tags/?tag=technology) equipped home.
+High-heat cooking, especially over open flames or burners, releases p.m. 2.5. That's particulate matter small enough to get deep into your lungs. We worry about smells, but the real danger is invisible. Even if you're baking something in the oven or reheating leftovers in the microwave, you're still introducing pollutants into your [Technology](https://infeeds.com/tags/technology) equipped home.
 
 Switching to induction cooking helps a lot, according to Dolphin Hammes. So does installing a real exhaust fan, and she emphasizes "real" because 99% of exhaust fans just recirculate dirty air back into your kitchen instead of venting it outside. If you can't upgrade your ventilation system, at least crack a window when you cook.
 
@@ -38,7 +38,7 @@ Keeping a clean house should help with air quality, right? Not if you're using c
 
 VOCs cause nausea and can have serious health effects if you're exposed to high levels over time. Langer recommends looking for low-fragrance or fragrance-free cleaning products. Better yet, make your own with simple ingredients you probably already have.
 
-A damp cloth works fine for wiping up dust on surfaces. You don't need a chemical arsenal to keep your [home](https://infeeds.com/tags/?tag=lifestyle) clean. The marketing around cleaning products has convinced us that we need specialized formulas for every surface, but most of that is just adding unnecessary pollutants to our air.
+A damp cloth works fine for wiping up dust on surfaces. You don't need a chemical arsenal to keep your [home](https://infeeds.com/tags/lifestyle) clean. The marketing around cleaning products has convinced us that we need specialized formulas for every surface, but most of that is just adding unnecessary pollutants to our air.
 
 ## Your Ice Machine And Water Dispenser Are Growing Mold
 
@@ -60,6 +60,6 @@ If you have pets, this is even more concerning. There's almost no data on how sa
 
 If you're worried about what you're breathing, a monitor gives you real-time data so you can figure out what's causing problems. The SwitchBot Meter Pro costs about $60 and tracks carbon dioxide, temperature, and humidity. The Airthings View Plus runs around $300 and monitors VOCs, radon, particulate matter, carbon dioxide, temperature, and humidity.
 
-Both devices send alerts when levels get dangerous. They're not magic solutions, but they help you understand what's happening in your [home](https://infeeds.com/tags/?tag=tech) so you can actually fix the problem instead of guessing.
+Both devices send alerts when levels get dangerous. They're not magic solutions, but they help you understand what's happening in your [home](https://infeeds.com/tags/tech) so you can actually fix the problem instead of guessing.
 
 The irony is that we seal ourselves inside during winter to stay warm and comfortable, and in doing so, we're breathing air that's potentially five times more polluted than what's outside our front door.

@@ -30,10 +30,10 @@ This is where X's enforcement gets tricky. The platform is targeting behavior, n
 
 ## The Bigger Picture
 
-Bier's crackdown comes amid a broader debate about X's health as a <a href="https://infeeds.com/tags/?tag=technology">technology</a> platform. Data analyst Nate Silver recently complained that driving traffic from X to other websites has become harder, and that right-wing accounts dominate the ecosystem. "I suppose I had some intuition for how bad it was, but jeez, this is what you get when the ecosystem is broken," Silver posted.
+Bier's crackdown comes amid a broader debate about X's health as a <a href="https://infeeds.com/tags/technology">technology</a> platform. Data analyst Nate Silver recently complained that driving traffic from X to other websites has become harder, and that right-wing accounts dominate the ecosystem. "I suppose I had some intuition for how bad it was, but jeez, this is what you get when the ecosystem is broken," Silver posted.
 
 Bier dismissed Silver's data as inaccurate. Elon Musk went further, calling his posts "bullshit." But other analyses have backed up Silver's claims about the platform's changing dynamics.
 
-The tension reveals something fundamental about how <a href="https://infeeds.com/tags/?tag=business">business</a> incentives and editorial judgment collide on creator-funded platforms. X wants to reward genuine creators and punish spam. That's sensible. But determining who counts as what, at scale, without transparency, leaves room for genuine creators to feel they're being punished for the sins of others.
+The tension reveals something fundamental about how <a href="https://infeeds.com/tags/business">business</a> incentives and editorial judgment collide on creator-funded platforms. X wants to reward genuine creators and punish spam. That's sensible. But determining who counts as what, at scale, without transparency, leaves room for genuine creators to feel they're being punished for the sins of others.
 
 Whether X's latest move actually fixes the underlying problems or just shuffles around which accounts get paid remains an open question.

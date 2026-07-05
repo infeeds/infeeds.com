@@ -22,12 +22,12 @@ The RUNAWAY clue is pretty clever actually. The image of someone stuffing clothe
 
 ## The INTWOS Revelation
 
-Here's where Saturday puzzles get sneaky. The Noah's Ark reference throws you into biblical territory, which isn't everyone's strong suit. But once you remember the whole "two by two" thing, INTWOS clicks into place. These are the moments where crosswords feel less like [Technology](https://infeeds.com/tags/?tag=technology) puzzles and more like memory archaeology.
+Here's where Saturday puzzles get sneaky. The Noah's Ark reference throws you into biblical territory, which isn't everyone's strong suit. But once you remember the whole "two by two" thing, INTWOS clicks into place. These are the moments where crosswords feel less like [Technology](https://infeeds.com/tags/technology) puzzles and more like memory archaeology.
 
 CUMIN as the answer for Yotam Ottolenghi's favorite spice is genuinely educational. If you're not deep into the cooking world, this name might not ring bells. But Ottolenghi is a pretty big deal in food circles, and his obsession with cumin makes sense once you realize how versatile that spice really is. It shows up in everything from Mexican food to Middle Eastern dishes.
 
 The Saturday Mini Crossword always feels like it's testing whether you've been paying attention to culture beyond just your immediate bubble. Literature, anatomy, cooking, biblical references. It's a weird mix that somehow works when you're trying to fill in a grid before your second cup of coffee kicks in.
 
-What's interesting is how these puzzles have become part of daily routines for millions of people, turning what used to be a newspaper novelty into a [news](https://infeeds.com/tags/?tag=news) ritual that people genuinely look forward to. The Mini is short enough that you can't use "no time" as an excuse, but challenging enough on Saturdays that finishing it feels like an actual accomplishment.
+What's interesting is how these puzzles have become part of daily routines for millions of people, turning what used to be a newspaper novelty into a [news](https://infeeds.com/tags/news) ritual that people genuinely look forward to. The Mini is short enough that you can't use "no time" as an excuse, but challenging enough on Saturdays that finishing it feels like an actual accomplishment.
 
 The beauty of crosswords is that they're simultaneously completely useless and weirdly essential, teaching you random facts about Italian poets and celebrity chefs that you'll probably never need but somehow make you feel just a bit more connected to the world around you.

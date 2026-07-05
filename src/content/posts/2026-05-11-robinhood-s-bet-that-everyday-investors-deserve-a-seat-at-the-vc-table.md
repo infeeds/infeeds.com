@@ -10,7 +10,7 @@ tags_color: '#00ba65'
 
 Two months after listing its first venture fund, Robinhood is already gearing up for round two. The company has filed a confidential registration for RVII, signaling that what started as an experiment is becoming a strategy.
 
-On the surface, this is just another fund launch. But the ambition underneath is something else entirely: Robinhood wants to crack open a system that's kept ordinary people out of some of the most lucrative investment opportunities in modern [**Business**](https://infeeds.com/tags/?tag=business).
+On the surface, this is just another fund launch. But the ambition underneath is something else entirely: Robinhood wants to crack open a system that's kept ordinary people out of some of the most lucrative investment opportunities in modern [**Business**](https://infeeds.com/tags/business).
 
 ## The Gap Between the Rich and Everyone Else
 

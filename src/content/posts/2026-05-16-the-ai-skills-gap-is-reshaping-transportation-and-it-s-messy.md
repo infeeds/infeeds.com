@@ -28,7 +28,7 @@ While automakers downsize, the venture capital spigot shows no signs of closing.
 
 What's interesting isn't just the amount, but why it keeps flowing. Insiders and investors repeatedly mention Scaringe's ability to give undivided attention in conversations, making people feel genuinely heard. It's a reminder that fundraising, at its core, is still deeply personal. The multitasking culture that dominates tech may actually be working against founders and executives who want to move capital. Single-minded focus apparently still counts for something.
 
-Meanwhile, smaller players are raising their own rounds. Arkeus, an Australian startup developing perception software for autonomous drones, raised $18 million in Series A funding. Aseon Labs, which has built a "depot in a box" for autonomous fleet charging and maintenance, emerged from stealth with Y Combinator backing. Rapido, the Indian ride-hailing company, raised $240 million at a $3 billion valuation. The [business](https://infeeds.com/tags/?tag=business) of transportation is being reimagined at every scale.
+Meanwhile, smaller players are raising their own rounds. Arkeus, an Australian startup developing perception software for autonomous drones, raised $18 million in Series A funding. Aseon Labs, which has built a "depot in a box" for autonomous fleet charging and maintenance, emerged from stealth with Y Combinator backing. Rapido, the Indian ride-hailing company, raised $240 million at a $3 billion valuation. The [business](https://infeeds.com/tags/business) of transportation is being reimagined at every scale.
 
 ## The Crashes Keep Happening
 
@@ -40,7 +40,7 @@ These aren't minor edge cases anymore. As autonomous vehicle fleets scale up, th
 
 ## What Comes Next
 
-Redwood Materials, the battery recycling company founded by Tesla's former CTO, has hired Deepak Ahuja as CFO. Ahuja was Tesla's former finance chief and most recently led finance at Zipline, the drone company. His hiring suggests serious IPO preparation. The [technology](https://infeeds.com/tags/?tag=technology) sector loves a good returning figure, especially one with operational pedigree.
+Redwood Materials, the battery recycling company founded by Tesla's former CTO, has hired Deepak Ahuja as CFO. Ahuja was Tesla's former finance chief and most recently led finance at Zipline, the drone company. His hiring suggests serious IPO preparation. The [technology](https://infeeds.com/tags/technology) sector loves a good returning figure, especially one with operational pedigree.
 
 Quantum Systems, a Germany-based drone startup backed by Peter Thiel, is reportedly in talks to raise around 600 million euros with Airbus and Blackstone as potential investors, according to Bloomberg reporting. That's the kind of capital commitment that suggests drone technology is finally moving from venture-scale experiments to industrial infrastructure plays.
 

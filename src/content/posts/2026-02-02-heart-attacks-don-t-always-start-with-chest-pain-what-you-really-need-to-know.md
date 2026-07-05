@@ -36,7 +36,7 @@ This might sound obvious, but apparently it needs to be said: do not drive yours
 
 Dr. Joel Beachey from Mayo Clinic Health System explains why: you could lose consciousness behind the wheel and hurt yourself or others. Even having a loved one drive you isn't much better. If your symptoms worsen during the drive, they can't help you and operate a vehicle at the same time. Paramedics, on the other hand, can assess and treat you en route. They're literally trained for this exact scenario.
 
-If you're with someone showing heart attack symptoms and they become unconscious, call 911 first, then start CPR. Free training is available through the American Heart Association and various other organizations. Learning CPR is one of those [technology](https://infeeds.com/tags/?tag=technology) and health skills that could genuinely save someone's life.
+If you're with someone showing heart attack symptoms and they become unconscious, call 911 first, then start CPR. Free training is available through the American Heart Association and various other organizations. Learning CPR is one of those [technology](https://infeeds.com/tags/technology) and health skills that could genuinely save someone's life.
 
 One more thing: if you're experiencing symptoms and have aspirin nearby, take a full 325 mg dose after calling the ambulance. Chew it instead of swallowing for faster absorption. When a heart attack happens, a plaque ruptures inside your arteries and forms a blood clot. Aspirin helps break down that clot. It's not a cure, but it buys you time.
 
@@ -44,7 +44,7 @@ One more thing: if you're experiencing symptoms and have aspirin nearby, take a 
 
 Let's talk about something uncomfortable. Healthcare providers should take all patient concerns seriously, but the data tells a different story. Women and people of color consistently receive worse treatment for heart attacks and heart disease.
 
-A 2019 study found that older Black women were 50% less likely to receive treatment when they showed up at hospitals with heart attack symptoms compared to white women. This held true even after accounting for education, income, insurance, and other [health](https://infeeds.com/tags/?tag=health) complications. That's not a healthcare system working as intended.
+A 2019 study found that older Black women were 50% less likely to receive treatment when they showed up at hospitals with heart attack symptoms compared to white women. This held true even after accounting for education, income, insurance, and other [health](https://infeeds.com/tags/health) complications. That's not a healthcare system working as intended.
 
 Breathett doesn't mince words about it: "It's been very clear over most of our history in the U.S. that women and people of color are not heard. Their symptoms get dismissed, and they have worse outcomes."
 
@@ -56,7 +56,7 @@ Bringing a family member or friend to appointments helps too. Write down questio
 
 Yeah, yeah, you've heard it all before. Healthy diet, regular exercise, don't smoke, control your cholesterol and blood pressure. The advice sounds boring because it's repeated constantly, but repetition doesn't make it less true.
 
-Heart attacks don't discriminate by age, race, or gender. Anyone can have one. Regular physical exams with your primary care provider help assess your risk and catch problems early. Some people benefit from taking a daily baby aspirin as a preventative measure, but that's a conversation to have with your doctor, not a [business](https://infeeds.com/tags/?tag=business) decision to make based on internet advice.
+Heart attacks don't discriminate by age, race, or gender. Anyone can have one. Regular physical exams with your primary care provider help assess your risk and catch problems early. Some people benefit from taking a daily baby aspirin as a preventative measure, but that's a conversation to have with your doctor, not a [business](https://infeeds.com/tags/business) decision to make based on internet advice.
 
 Even if you have a history of heart trouble, exercise remains important. Beachey stresses this point because too many people with cardiac issues think they should avoid physical activity entirely. That's not how it works.
 

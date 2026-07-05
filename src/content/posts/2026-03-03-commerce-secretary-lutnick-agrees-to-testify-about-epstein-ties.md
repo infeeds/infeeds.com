@@ -22,7 +22,7 @@ The White House moved quickly to shore up support for their Commerce Secretary. 
 
 ## Business as Usual, But Not Really
 
-What makes this interesting from a <a href="https://infeeds.com/tags/?tag=business">business</a> perspective is how these situations play out in real time. Lutnick's value to the administration appears genuine. The White House clearly wants to keep him in place, which means they're betting that whatever this testimony reveals won't be disqualifying.
+What makes this interesting from a <a href="https://infeeds.com/tags/business">business</a> perspective is how these situations play out in real time. Lutnick's value to the administration appears genuine. The White House clearly wants to keep him in place, which means they're betting that whatever this testimony reveals won't be disqualifying.
 
 The Democratic minority on the Oversight Committee hasn't publicly responded yet. That silence is worth noting. It suggests either they're strategizing carefully or they don't have immediate ammunition beyond what's already public. Either way, the landscape here is still shifting.
 

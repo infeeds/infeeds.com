@@ -28,7 +28,7 @@ Xiaomi's partnership with Leica on the new Leitzphone feels like a watershed mom
 
 The circular dial around the camera that functions like an actual lens focus ring is genius. It's tactile. It gives photographers real control. And it completely sidesteps the overprocessing that's plagued flagship phones lately. When you're spending two grand on a phone that's primarily a camera, you want to actually feel like you're taking photos, not just triggering an AI algorithm.
 
-This is refreshing partly because it's different, but also because it's a reminder that [Technology](https://infeeds.com/tags/?tag=technology) doesn't always move forward through miniaturization and software tricks. Sometimes the answer is just making hardware that people want to touch and use.
+This is refreshing partly because it's different, but also because it's a reminder that [Technology](https://infeeds.com/tags/technology) doesn't always move forward through miniaturization and software tricks. Sometimes the answer is just making hardware that people want to touch and use.
 
 ## The Rugged Phone Renaissance Nobody Asked For But Everyone Needs
 

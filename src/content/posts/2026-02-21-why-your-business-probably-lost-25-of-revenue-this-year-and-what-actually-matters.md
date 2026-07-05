@@ -22,7 +22,7 @@ Things got worse when everyone went remote. Or hybrid. Or some chaotic mix where
 
 Suddenly you're not just dealing with file chaos. You're dealing with file chaos spread across Phoenix, London, and Singapore. Upload a 500MB video file on a sketchy coffee shop WiFi and watch your productivity grind to a halt. The connection drops at 87% and you have to start over. Your team gets frustrated. Clients get frustrated. Projects slip.
 
-This is where thinking about <a href="https://infeeds.com/tags/?tag=technology" target="_blank">Technology</a> infrastructure actually matters for your bottom line. It's not about buying the fanciest tools. It's about solving a real problem that's eating into your margins.
+This is where thinking about <a href="https://infeeds.com/tags/technology" target="_blank">Technology</a> infrastructure actually matters for your bottom line. It's not about buying the fanciest tools. It's about solving a real problem that's eating into your margins.
 
 ## Permission Controls Actually Solve Something
 
@@ -34,7 +34,7 @@ This isn't bureaucracy for its own sake. It's actually about reducing liability 
 
 ## When Infrastructure Stops Being an Afterthought
 
-Most <a href="https://infeeds.com/tags/?tag=business" target="_blank">Business</a> owners think infrastructure is something IT handles. You pay for it, it works or it doesn't, and you move on.
+Most <a href="https://infeeds.com/tags/business" target="_blank">Business</a> owners think infrastructure is something IT handles. You pay for it, it works or it doesn't, and you move on.
 
 But infrastructure is what determines whether your team waits 30 seconds or 3 minutes for a file to load. It's what keeps your data accessible when the power goes out in your office. It's what stops sensitive client information from becoming a breach headline.
 
@@ -44,6 +44,6 @@ Server redundancy across multiple regions means your team in Asia Pacific gets r
 
 Let's be honest. You could keep limping along with your current setup. Lots of companies do. They use a mix of tools that don't quite talk to each other. They accept that finding files takes longer than it should. They cross their fingers that nothing breaks.
 
-But every day that goes by is another day your team isn't operating at peak efficiency. Every file that gets misfiled is potential revenue walking out the door. Every security incident you narrowly avoided is a reminder that your current system is held together with hope and <a href="https://infeeds.com/tags/?tag=technology" target="_blank">Technology</a> prayers.
+But every day that goes by is another day your team isn't operating at peak efficiency. Every file that gets misfiled is potential revenue walking out the door. Every security incident you narrowly avoided is a reminder that your current system is held together with hope and <a href="https://infeeds.com/tags/technology" target="_blank">Technology</a> prayers.
 
 At what point does the chaos cost more than the solution?

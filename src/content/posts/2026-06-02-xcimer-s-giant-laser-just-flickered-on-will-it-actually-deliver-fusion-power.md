@@ -34,7 +34,7 @@ And let's be honest — in fusion, there are always major technical roadblocks.
 
 What makes Xcimer worth watching isn't just the laser size. It's the bet on excimer technology. These lasers are used all the time in chip manufacturing, so there's an existing industrial base and supply chain. If you can leverage that infrastructure rather than building bespoke NIF-style facilities, the cost curve might actually bend in a meaningful direction.
 
-The broader [Technology](https://infeeds.com/tags/?tag=technology) landscape around fusion has been heating up. Private investment has poured into dozens of startups, each with slightly different approaches to the same impossible-seeming problem. Some are chasing magnetic confinement, others inertial confinement like Xcimer. The field is genuinely competitive in a way it hasn't been before.
+The broader [Technology](https://infeeds.com/tags/technology) landscape around fusion has been heating up. Private investment has poured into dozens of startups, each with slightly different approaches to the same impossible-seeming problem. Some are chasing magnetic confinement, others inertial confinement like Xcimer. The field is genuinely competitive in a way it hasn't been before.
 
 But here's the thing about fusion. We've been "ten years away" from commercial fusion for about seventy years now. The physics works in labs. The engineering is the hard part — and the economics might be even harder.
 

@@ -46,6 +46,6 @@ That's not the kind of sentiment you hear from someone who hated their job. She'
 
 The human cost of this shutdown extends beyond the 17,000 workers. Spirit was the budget airline. The option for people who couldn't afford $700 tickets. Thomas has already heard from travelers panicking about airfare now that Spirit's gone. One person messaged her: "What am I going to do? Now I have to buy a $700 ticket."
 
-That's the ripple effect nobody talks about when a <a href="https://infeeds.com/tags/?tag=business">business</a> collapses overnight. The customers who relied on that service. The employees who lost their paychecks. The industry dynamics that just shifted without warning.
+That's the ripple effect nobody talks about when a <a href="https://infeeds.com/tags/business">business</a> collapses overnight. The customers who relied on that service. The employees who lost their paychecks. The industry dynamics that just shifted without warning.
 
 Spirit's collapse wasn't inevitable. It was a series of choices, market forces, and bad timing that converged at 3 a.m. on a Saturday. And the people who found out through an email learned something hard: sometimes loyalty to a company is a one-way street, and sometimes the internet knows about your job loss before your employer tells you.

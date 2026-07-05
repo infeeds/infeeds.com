@@ -16,7 +16,7 @@ The Apple CEO has been making headlines lately for his White House visits, and f
 
 Cook's answer is clean and safe. He focuses on policy, not politics. The administration is accessible. They talk about issues that matter. It's the kind of distinction that sounds smart in a corporate setting but falls apart pretty quickly in real life.
 
-Here's the thing about [business](https://infeeds.com/tags/?tag=business) leaders claiming neutrality: the moment you walk into the Oval Office, you've already made a political choice. You can call it policy all you want, but showing up is a statement. Choosing when to show up is a statement. Choosing who else to pose with at events is definitely a statement.
+Here's the thing about [business](https://infeeds.com/tags/business) leaders claiming neutrality: the moment you walk into the Oval Office, you've already made a political choice. You can call it policy all you want, but showing up is a statement. Choosing when to show up is a statement. Choosing who else to pose with at events is definitely a statement.
 
 Cook's internal memo to Apple employees the day after the Melania screening gets at this contradiction. He wrote about being "heartbroken" by the fatal shooting in Minneapolis that happened the same day. He talked about deescalation and treating everyone with dignity. Days later, he's praising Trump's "openness" on immigration issues. The cognitive dissonance is real.
 
@@ -24,7 +24,7 @@ Cook's internal memo to Apple employees the day after the Melania screening gets
 
 The $600 billion investment in U.S. manufacturing that Cook highlighted during the interview is interesting though. Whether it's genuine commitment to American production or strategic positioning doesn't really matter anymore. What matters is that Apple is investing in domestic infrastructure, which plays well with the current administration.
 
-This is where things get murky. Is Cook genuinely focused on policy outcomes that benefit Apple? Or is he playing the long game of staying in good favor? Probably both. That's the modern reality for [technology](https://infeeds.com/tags/?tag=technology) executives operating at this scale.
+This is where things get murky. Is Cook genuinely focused on policy outcomes that benefit Apple? Or is he playing the long game of staying in good favor? Probably both. That's the modern reality for [technology](https://infeeds.com/tags/technology) executives operating at this scale.
 
 The Kentucky glass manufacturing detail he mentioned is the kind of specific, concrete announcement that gets traction. Front covers and back covers made in America by the end of the year. That's the language of someone who knows exactly how to frame things in a way that appeals to his current audience.
 

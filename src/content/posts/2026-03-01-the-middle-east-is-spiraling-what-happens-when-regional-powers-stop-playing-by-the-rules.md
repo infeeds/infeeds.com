@@ -40,11 +40,11 @@ In Lebanon, residents have been streaming into shelters set up in schools. Famil
 
 Then he said something that cuts through all the geopolitical analysis: "The Israeli enemy is an enemy in the end. But enough. We also want to live."
 
-That sentiment probably captures the feeling across the entire region right now. People are exhausted. They want stability. They want their families safe. But when <a href="https://infeeds.com/tags/?tag=geopolitics">geopolitical</a> powers decide to settle scores, regular people don't get a say.
+That sentiment probably captures the feeling across the entire region right now. People are exhausted. They want stability. They want their families safe. But when <a href="https://infeeds.com/tags/geopolitics">geopolitical</a> powers decide to settle scores, regular people don't get a say.
 
 ## The Oil Factor Nobody Can Ignore
 
-Let's talk about what this means for global <a href="https://infeeds.com/tags/?tag=business">business</a> and energy markets. Iran's Revolutionary Guard Corps hit three U.S. and U.K. oil tankers in the Gulf. On Saturday, Iran closed the Strait of Hormuz, a waterway vital to the global oil trade. Oil prices are expected to spike. That's not just an abstract economic number. That's grocery bills going up, heating costs rising, transportation becoming more expensive. Global supply chains that depend on cheap energy will face pressure.
+Let's talk about what this means for global <a href="https://infeeds.com/tags/business">business</a> and energy markets. Iran's Revolutionary Guard Corps hit three U.S. and U.K. oil tankers in the Gulf. On Saturday, Iran closed the Strait of Hormuz, a waterway vital to the global oil trade. Oil prices are expected to spike. That's not just an abstract economic number. That's grocery bills going up, heating costs rising, transportation becoming more expensive. Global supply chains that depend on cheap energy will face pressure.
 
 Trump told the New York Times that the U.S. military intends to sustain its assault on Iran for "four to five weeks" if necessary. He claimed the U.S. sank nine Iranian warships and largely destroyed Iran's naval headquarters. The U.S. Central Command couldn't confirm those claims, which is its own kind of statement. Combat operations continue at full force, Trump said, and they will continue until all objectives are achieved.
 

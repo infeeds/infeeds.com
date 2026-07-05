@@ -12,7 +12,7 @@ tags_color: '#2b2b2b'
 
 Let's be honest. Most businesses already have too many software subscriptions. The average marketing team juggles between five to ten different platforms just to get content out the door. Adding another tool to that mix feels about as appealing as scheduling another Zoom meeting.
 
-But here's the thing about visual content. It's not getting less important. Every platform now prioritizes images and video, every customer expects polished product photos, and every competitor is investing more in [business](https://infeeds.com/tags/?tag=business) visuals. The gap between "good enough" photos and professional-looking content is widening, not shrinking.
+But here's the thing about visual content. It's not getting less important. Every platform now prioritizes images and video, every customer expects polished product photos, and every competitor is investing more in [business](https://infeeds.com/tags/business) visuals. The gap between "good enough" photos and professional-looking content is widening, not shrinking.
 
 ## The Real Problem With Most Photo Editing Tools
 
@@ -40,7 +40,7 @@ The catch with lifetime licenses is updates and support. Companies that sell the
 
 ## Who This Actually Makes Sense For
 
-Small [business](https://infeeds.com/tags/?tag=business) owners handling their own marketing. E-commerce shops that need to process product photos quickly. Content creators who can't justify Adobe's pricing. Marketing teams at mid-sized companies that need one or two people doing image work but don't need enterprise creative software.
+Small [business](https://infeeds.com/tags/business) owners handling their own marketing. E-commerce shops that need to process product photos quickly. Content creators who can't justify Adobe's pricing. Marketing teams at mid-sized companies that need one or two people doing image work but don't need enterprise creative software.
 
 If you're a professional photographer or running a design agency, this probably isn't for you. You already have more powerful tools and the skills to use them. If you're a Fortune 500 company, you're not sweating software costs anyway.
 
@@ -48,7 +48,7 @@ The sweet spot is businesses that understand visual quality matters but don't ha
 
 ## The Broader Question About AI in Creative Work
 
-Every new creative tool now slaps "AI" on the box. Sometimes it's genuinely useful [technology](https://infeeds.com/tags/?tag=technology). Often it's just marketing speak for automated adjustments that Photoshop has had for years under different names.
+Every new creative tool now slaps "AI" on the box. Sometimes it's genuinely useful [technology](https://infeeds.com/tags/technology). Often it's just marketing speak for automated adjustments that Photoshop has had for years under different names.
 
 Luminar Neo's AI features fall somewhere in the middle. The sky replacement tool works well enough for quick fixes. The portrait retouching saves time on basic cleanup. The upscaling helps salvage lower-resolution images when you don't have better options.
 

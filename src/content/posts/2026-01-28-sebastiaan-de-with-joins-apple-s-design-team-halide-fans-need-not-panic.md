@@ -20,9 +20,9 @@ For anyone who's followed de With's work, this isn't entirely surprising. The gu
 
 Here's where things get interesting. Ben Sandofsky, the other co-founder of Lux, jumped on Reddit to reassure users that Halide isn't being left to rot. He's bullish about the app's future, pointing to the just-launched public preview of Halide Mark III and partnerships with The Iconfactory and colorist Cullen Kelly.
 
-Sandofsky's been running the show at Halide as his full-time gig since 2019. He coded almost everything except, hilariously, the paywall because he hates working on payment screens. That's the kind of honesty you don't usually get in [Technology](https://infeeds.com/tags/?tag=technology) announcements, and it's refreshing.
+Sandofsky's been running the show at Halide as his full-time gig since 2019. He coded almost everything except, hilariously, the paywall because he hates working on payment screens. That's the kind of honesty you don't usually get in [Technology](https://infeeds.com/tags/technology) announcements, and it's refreshing.
 
-The timing of de With's departure alongside a major Halide update seems deliberate. It's not a sinking ship situation. It's more like one founder moving on to a dream job while the other doubles down on their shared creation. These things happen in the [Business](https://infeeds.com/tags/?tag=business) world all the time, though usually with less transparency.
+The timing of de With's departure alongside a major Halide update seems deliberate. It's not a sinking ship situation. It's more like one founder moving on to a dream job while the other doubles down on their shared creation. These things happen in the [Business](https://infeeds.com/tags/business) world all the time, though usually with less transparency.
 
 ## A Return to Apple
 
@@ -30,4 +30,4 @@ This isn't de With's first rodeo with Apple. His website mentions previous desig
 
 What's he going to work on? That's anyone's guess. Given his camera expertise and the fact that he called them his "favorite products," it's reasonable to assume he'll be somewhere in the iPhone or camera team orbit. Apple's camera technology has become one of its key differentiators, and bringing in someone who's spent years pushing the boundaries of what third-party camera apps can do seems like a smart move.
 
-The real question is whether Apple will let him keep the kind of opinionated, experimental spirit that made Lux's apps special. Features like Process Zero in Halide, which gives you raw, unprocessed iPhone images, exist because indie developers can take risks that massive corporations often won't. Will de With be able to bring that mindset to Apple, or will he get smoothed out by the design-by-committee approach that big [tech](https://infeeds.com/tags/?tag=tech) companies sometimes fall into?
+The real question is whether Apple will let him keep the kind of opinionated, experimental spirit that made Lux's apps special. Features like Process Zero in Halide, which gives you raw, unprocessed iPhone images, exist because indie developers can take risks that massive corporations often won't. Will de With be able to bring that mindset to Apple, or will he get smoothed out by the design-by-committee approach that big [tech](https://infeeds.com/tags/tech) companies sometimes fall into?

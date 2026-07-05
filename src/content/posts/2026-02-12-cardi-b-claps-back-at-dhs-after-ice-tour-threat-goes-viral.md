@@ -12,7 +12,7 @@ tags_color: '#9c27b0'
 
 Cardi B doesn't do subtle, and her Little Miss Drama Tour is living up to its name in ways nobody expected. During the tour's opening night in Palm Desert, California, the Grammy winner stopped mid-show to address what's on everyone's mind these days: immigration raids. "If ICE come in here, we're gonna jump they asses," she told the crowd, adding that she had bear mace ready backstage. The moment went viral instantly, because of course it did.
 
-What happened next turned into a full-blown social media war that perfectly captures how weird American [politics](https://infeeds.com/tags/?tag=politics) has gotten in 2026.
+What happened next turned into a full-blown social media war that perfectly captures how weird American [politics](https://infeeds.com/tags/politics) has gotten in 2026.
 
 ## When the Government Slides Into Your Mentions
 
@@ -24,7 +24,7 @@ Cardi wasn't having it. She fired back by pivoting straight to Jeffrey Epstein, 
 
 ## The Bigger Picture Nobody Wants to Address
 
-The [entertainment](https://infeeds.com/tags/?tag=entertainment) value of this beef is obvious, but it's covering up something much darker. The Trump administration's immigration raids have turned deadly in Minnesota. Two U.S. citizens, Renee Good and Alex Pretti, were killed by federal authorities during the enforcement surge. Good was a 37-year-old poet and mother of three coming back from school drop-off. Pretti was a nurse working in a VA hospital ICU.
+The [entertainment](https://infeeds.com/tags/entertainment) value of this beef is obvious, but it's covering up something much darker. The Trump administration's immigration raids have turned deadly in Minnesota. Two U.S. citizens, Renee Good and Alex Pretti, were killed by federal authorities during the enforcement surge. Good was a 37-year-old poet and mother of three coming back from school drop-off. Pretti was a nurse working in a VA hospital ICU.
 
 White House border czar Tom Homan announced Thursday that they're ending the Minnesota surge after weeks of protests and chaos. Governor Tim Walz didn't mince words when he spoke to reporters. He talked about "untrained, aggressive federal agents" leaving behind "deep damage, generational trauma" and "economic ruin." Families are asking where their children are. There are no answers about investigations into the deaths of Good and Pretti.
 
@@ -36,4 +36,4 @@ The DHS deciding to engage with Cardi on X is a strategy we've seen before, but 
 
 Cardi bringing up Epstein was calculated. She knows Trump's history with the late financier has been documented in those newly released Justice Department files. She knows the public is "shocked and disturbed" by what they're reading. And she knows that telling people to move on from a sex trafficking scandal while your DHS is mocking rappers on social media isn't exactly a good look.
 
-The whole exchange would be funny if it weren't so grim. A major [news](https://infeeds.com/tags/?tag=news) story about federal overreach and two dead citizens just got reduced to Twitter drama between a rapper and a government agency, which is probably exactly what someone in power wants when the alternative is accountability.
+The whole exchange would be funny if it weren't so grim. A major [news](https://infeeds.com/tags/news) story about federal overreach and two dead citizens just got reduced to Twitter drama between a rapper and a government agency, which is probably exactly what someone in power wants when the alternative is accountability.

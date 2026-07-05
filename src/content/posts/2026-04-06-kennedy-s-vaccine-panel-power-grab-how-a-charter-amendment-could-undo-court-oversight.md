@@ -40,9 +40,9 @@ When asked about the changes, an HHS spokesperson told Ars Technica the renewal 
 
 ## Why This Matters Beyond the Bureaucracy
 
-On the surface, this is a [technology](https://infeeds.com/tags/?tag=technology)-and-policy story about committee qualifications. But it's really about whether courts can actually constrain executive power or whether there's always a workaround if you're willing to change the rules.
+On the surface, this is a [technology](https://infeeds.com/tags/technology)-and-policy story about committee qualifications. But it's really about whether courts can actually constrain executive power or whether there's always a workaround if you're willing to change the rules.
 
-Judge Murphy made a straightforward legal finding: committees advising on [public health](https://infeeds.com/tags/?tag=health) policy need people who actually know the subject matter and a range of legitimate scientific perspectives. That wasn't a partisan ruling. It was basic competence doctrine.
+Judge Murphy made a straightforward legal finding: committees advising on [public health](https://infeeds.com/tags/health) policy need people who actually know the subject matter and a range of legitimate scientific perspectives. That wasn't a partisan ruling. It was basic competence doctrine.
 
 What Kennedy appears to be doing is redefining what competence means so broadly that it stops meaning anything. If you can include basically any medical specialty and any "perspective" someone deems relevant, you've gutted the judge's reasoning without overturning the order. You've just changed what the panel is allowed to be.
 

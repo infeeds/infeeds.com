@@ -38,7 +38,7 @@ Here's the thing about going through something this public and this painful: you
 
 "People run when those types of things happen," he said. "They don't care what actually occurred."
 
-But his people didn't run. That revelation, strange as it sounds, was a blessing wrapped inside a curse. He got to see exactly how people felt about him, especially those closest to him. In [entertainment](https://infeeds.com/tags/?tag=entertainment) and business alike, loyalty is rare. When you find it, you hold onto it.
+But his people didn't run. That revelation, strange as it sounds, was a blessing wrapped inside a curse. He got to see exactly how people felt about him, especially those closest to him. In [entertainment](https://infeeds.com/tags/entertainment) and business alike, loyalty is rare. When you find it, you hold onto it.
 
 The whole ordeal forced Jay-Z to confront something deeper too. He wasn't naive about the power of accusations. He understood the weight they carry in this cultural moment. But he also understood his own truth. "The truth, at the end of the day, still reigns supreme," he said.
 

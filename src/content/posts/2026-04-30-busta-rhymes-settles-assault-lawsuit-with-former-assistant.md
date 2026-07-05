@@ -26,7 +26,7 @@ But by this week, lawyers for both parties informed the court they'd reached a d
 
 ## What Gets Buried, What Stays Public
 
-Here's where things get interesting from a <a href="https://infeeds.com/tags/?tag=business">business</a> perspective. The criminal case has been sealed entirely, according to the Brooklyn District Attorney's office. That means the public record is essentially closed on what actually happened in that lobby. We don't know if Smith threw a punch, didn't throw a punch, or something in between. The settlement terms are private too. So legally, both sides get to walk away without admitting fault or explaining what they agreed to pay.
+Here's where things get interesting from a <a href="https://infeeds.com/tags/business">business</a> perspective. The criminal case has been sealed entirely, according to the Brooklyn District Attorney's office. That means the public record is essentially closed on what actually happened in that lobby. We don't know if Smith threw a punch, didn't throw a punch, or something in between. The settlement terms are private too. So legally, both sides get to walk away without admitting fault or explaining what they agreed to pay.
 
 That's standard in settlement agreements, sure. But it also means two competing narratives get to coexist indefinitely. Smith's defenders can say he was vindicated. Gables' supporters can say he got justice. The truth, whatever it was, remains locked away.
 

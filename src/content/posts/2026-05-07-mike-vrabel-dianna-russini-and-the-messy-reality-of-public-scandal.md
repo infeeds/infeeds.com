@@ -18,7 +18,7 @@ What started as Page Six publishing photos of Vrabel and Russini at a Sedona res
 
 Russini quit her job at The Athletic once the scandal began gaining traction. Vrabel, for his part, acknowledged having "difficult conversations" with his family and said he'd seek counseling. It's the kind of statement you make when the damage is already done and you're trying to contain it.
 
-The Patriots, meanwhile, are navigating questions about whether Vrabel can effectively lead the team going forward. This is a coach who guided the franchise to a Super Bowl in his first season. Now there's genuine speculation about his future with the organization, which speaks to how seriously the [news](https://infeeds.com/tags/?tag=news) cycle treats personal conduct issues in professional sports.
+The Patriots, meanwhile, are navigating questions about whether Vrabel can effectively lead the team going forward. This is a coach who guided the franchise to a Super Bowl in his first season. Now there's genuine speculation about his future with the organization, which speaks to how seriously the [news](https://infeeds.com/tags/news) cycle treats personal conduct issues in professional sports.
 
 ## When the League Stays Silent
 
@@ -32,6 +32,6 @@ The fact that neither Vrabel nor Russini has directly responded to HuffPost's re
 
 What gets lost in the celebrity gossip framing is that real people have been hurt by this. Families have been disrupted. Russini's career took a hit from the fallout. Vrabel's legacy as a coach is now permanently tagged with this scandal. The casual way we consume these stories often obscures the actual human toll.
 
-There's also something worth noting about how easily personal scandals can derail professional reputations in [entertainment](https://infeeds.com/tags/?tag=entertainment) and sports. One set of photos, a few reports, and suddenly someone's entire trajectory changes. Whether that's proportional justice or just the mob dynamics of modern media remains an open question.
+There's also something worth noting about how easily personal scandals can derail professional reputations in [entertainment](https://infeeds.com/tags/entertainment) and sports. One set of photos, a few reports, and suddenly someone's entire trajectory changes. Whether that's proportional justice or just the mob dynamics of modern media remains an open question.
 
 The Patriots organization is presumably hoping this dies down and Vrabel can refocus on football. Russini is presumably trying to rebuild elsewhere. The rest of us are left with the awkward reality that sometimes the people we watch on TV turn out to be considerably more complicated than their public personas suggest, and not always in ways that make for neat resolution.

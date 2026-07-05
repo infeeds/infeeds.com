@@ -30,7 +30,7 @@ Here's the thing: sleeping like a flamingo isn't automatically a red flag. Jade 
 
 In fact, if you're doing a side-sleeping variation with one leg up, you might actually be doing yourself a favor. Wu notes this position may lower your risk of sleep apnea and other breathing problems. So much for those stress-filled TikTok theories.
 
-Nolan takes a more curious approach rather than jumping to conclusions about "stuck stress" or body trauma. She's more interested in understanding what feels good about this position for you specifically. Not everything needs to be a [health](https://infeeds.com/tags/?tag=health) crisis.
+Nolan takes a more curious approach rather than jumping to conclusions about "stuck stress" or body trauma. She's more interested in understanding what feels good about this position for you specifically. Not everything needs to be a [health](https://infeeds.com/tags/health) crisis.
 
 ## The Downside Nobody Mentions
 
@@ -38,7 +38,7 @@ That said, there is a potential catch. If the flamingo position creates instabil
 
 Unless your orthopedic doctor has specifically told you to knock it off, there's no real reason to force yourself to sleep differently. Wu is pretty clear on this point. Don't try to train yourself out of a comfortable sleep position just because someone on the internet said you should.
 
-The bigger issue? Sleep perfectionism. Nolan warns that obsessing over how you sleep can actually make your sleep quality worse, especially if you already struggle with [lifestyle](https://infeeds.com/tags/?tag=lifestyle) and rest issues. The irony is almost painful.
+The bigger issue? Sleep perfectionism. Nolan warns that obsessing over how you sleep can actually make your sleep quality worse, especially if you already struggle with [lifestyle](https://infeeds.com/tags/lifestyle) and rest issues. The irony is almost painful.
 
 ## Making Your Flamingo Position Work Better
 

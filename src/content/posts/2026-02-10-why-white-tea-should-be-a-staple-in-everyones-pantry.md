@@ -24,7 +24,7 @@ Because of this gentle approach, white tea keeps more of its natural compounds i
 
 **Why the World is Waking up to White Tea**
 
-Many people call it the “most delicate” tea—but [nutritionally](https://infeeds.com/tags/?tag=health), it packs a punch.
+Many people call it the “most delicate” tea—but [nutritionally](https://infeeds.com/tags/health), it packs a punch.
 
 **1\. Rich in Antioxidants**
 

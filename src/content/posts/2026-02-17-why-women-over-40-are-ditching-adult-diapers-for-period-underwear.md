@@ -18,7 +18,7 @@ The thing is, bladder control issues aren't just an "old person problem" despite
 
 ## The Adult Diaper Problem Nobody Talks About
 
-Here's what gets me. The [health](https://infeeds.com/tags/?tag=health) industry has been pushing the same solution for decades. Thick, crinkly pads that bunch up in your underwear. Or worse, actual adult diapers that make you feel like you've given up on life entirely.
+Here's what gets me. The [health](https://infeeds.com/tags/health) industry has been pushing the same solution for decades. Thick, crinkly pads that bunch up in your underwear. Or worse, actual adult diapers that make you feel like you've given up on life entirely.
 
 One 78-year-old reviewer put it perfectly: "I refuse to wear adult diapers for a small problem." And she's absolutely right. Why should minor bladder leaks require such an extreme and uncomfortable solution?
 
@@ -50,7 +50,7 @@ The reluctance to talk about bladder control issues creates a weird cycle. Women
 
 But when one in three women experiences this, it's not some rare condition. It's a widespread reality that deserves better solutions than what we've been offered.
 
-The [lifestyle](https://infeeds.com/tags/?tag=lifestyle) impact is real too. Women avoid exercise because jumping causes leaks. They skip social events where they might laugh too hard. They structure their entire day around bathroom access.
+The [lifestyle](https://infeeds.com/tags/lifestyle) impact is real too. Women avoid exercise because jumping causes leaks. They skip social events where they might laugh too hard. They structure their entire day around bathroom access.
 
 Better products mean less restriction. Less anxiety. More freedom to actually live without constantly worrying about potential accidents.
 
@@ -74,7 +74,7 @@ The normalization of bladder issues sometimes prevents people from seeking help.
 
 ## The Bigger Picture
 
-This whole situation highlights a gap in how we approach [women's health](https://infeeds.com/tags/?tag=health) products generally. For decades, the options have been limited, uncomfortable, and frankly insulting to the people who need them.
+This whole situation highlights a gap in how we approach [women's health](https://infeeds.com/tags/health) products generally. For decades, the options have been limited, uncomfortable, and frankly insulting to the people who need them.
 
 Innovation happens when someone finally asks "why does it have to be this way?" Period underwear wasn't a revolutionary technology. It was just someone applying existing moisture-wicking fabric tech to a different problem.
 

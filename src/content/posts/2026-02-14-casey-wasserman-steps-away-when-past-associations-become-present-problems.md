@@ -20,13 +20,13 @@ Wasserman's memo to employees on Friday laid it all out. He admitted he'd become
 
 Here's where it gets complicated. The emails were from 2003. This was years before anyone in law enforcement started looking at Epstein seriously, and over a decade before Maxwell's arrest. Wasserman says it was one humanitarian trip to Africa and some emails he regrets. But in the court of public opinion, timing doesn't always matter.
 
-The [business](https://infeeds.com/tags/?tag=business) world moves fast when reputation is on the line. Singer Chappell Roan announced she was leaving the agency. Olympic soccer star Abby Wambach said the same. Other clients started making noise about jumping ship too.
+The [business](https://infeeds.com/tags/business) world moves fast when reputation is on the line. Singer Chappell Roan announced she was leaving the agency. Olympic soccer star Abby Wambach said the same. Other clients started making noise about jumping ship too.
 
 ## When Association Becomes Condemnation
 
 Being in the Epstein files doesn't automatically mean someone participated in or knew about his crimes. The documents contain thousands of names, many of whom had perfectly legitimate interactions with someone who was, at the time, a well-connected financier and philanthropist. Bill Gates is in there. Howard Lutnick, the current US Commerce Secretary, shows up too.
 
-But we live in an era where association carries weight. Fair or not, having your name anywhere near Epstein's creates a stain that's nearly impossible to wash out. The [news](https://infeeds.com/tags/?tag=business) cycle doesn't stop to consider context or chronology.
+But we live in an era where association carries weight. Fair or not, having your name anywhere near Epstein's creates a stain that's nearly impossible to wash out. The [news](https://infeeds.com/tags/business) cycle doesn't stop to consider context or chronology.
 
 Wasserman issued an apology, but apologies rarely stem the tide once it's started. His clients saw their representation suddenly become a liability. In entertainment and sports marketing, image is everything. When your agent's name is generating negative headlines, you find a new agent.
 

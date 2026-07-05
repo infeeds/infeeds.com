@@ -14,7 +14,7 @@ The setup was straightforward enough. One character, played by a tall actor in a
 
 Then he kicked the AI dog.
 
-The video has racked up 2.4 million views, hundreds of shares, and thousands of likes. In the [**Business**](https://infeeds.com/tags/?tag=business) of venture capital, this is what passes for viral entertainment.
+The video has racked up 2.4 million views, hundreds of shares, and thousands of likes. In the [**Business**](https://infeeds.com/tags/business) of venture capital, this is what passes for viral entertainment.
 
 ## The Subtext Isn't That Subtle
 
@@ -28,7 +28,7 @@ Which it almost certainly is. GC wanted to show an a16z-type character kicking a
 
 You know you've hit the right nerve when the target can't resist responding. Andreessen, who seems to spend a significant portion of his time on X, took the bait completely. He said it made GC look "smarmy" and promised "our upcoming ad campaign: 'We're the VC who doesn't sneer at your idea.'" He kept going, riffing on the caricature's appearance ("The thing they got right is the relative heights") and generally refusing to let it slide.
 
-His partners and staffers jumped in too, creating what amounted to a mini pile-on. The whole thing had the energy of insider [**Technology**](https://infeeds.com/tags/?tag=technology) world beef, which is exactly what made it work. As VC Jay Kapoor put it: "GC vs. A16Z beef is like Kendrick vs. Drake for people who know what a 409A valuation is."
+His partners and staffers jumped in too, creating what amounted to a mini pile-on. The whole thing had the energy of insider [**Technology**](https://infeeds.com/tags/technology) world beef, which is exactly what made it work. As VC Jay Kapoor put it: "GC vs. A16Z beef is like Kendrick vs. Drake for people who know what a 409A valuation is."
 
 He wasn't wrong. This is how venture capital argues.
 

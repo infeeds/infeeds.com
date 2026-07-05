@@ -24,19 +24,19 @@ The prosecutors argued the lawmakers violated some statute about interfering wit
 
 ## When Politics Becomes Prosecution
 
-This isn't just about one failed indictment. It's about a pattern of trying to use the [justice](https://infeeds.com/tags/?tag=news) system as a cudgel against anyone who questions or criticizes the administration. Secretary of Defense Pete Hegseth even opened an investigation into Kelly and threatened to demote his military rank. Let that sink in for a second.
+This isn't just about one failed indictment. It's about a pattern of trying to use the [justice](https://infeeds.com/tags/news) system as a cudgel against anyone who questions or criticizes the administration. Secretary of Defense Pete Hegseth even opened an investigation into Kelly and threatened to demote his military rank. Let that sink in for a second.
 
 Kelly's response on Tuesday was pointed and justified. "This is an outrageous abuse of power by Donald Trump and his lackies," he wrote, noting they weren't satisfied with just censuring him. They wanted criminal charges too, all because he said something they didn't like.
 
 The fact that grand juries keep refusing to play along is actually kind of remarkable. These aren't exactly high bars to clear. Grand juries notoriously indict at incredibly high rates because they only hear one side of the story. The old saying goes that a decent prosecutor could get a grand jury to indict a ham sandwich.
 
-But even with that built-in advantage, Trump's [Justice Department](https://infeeds.com/tags/?tag=politics) keeps face-planting. That tells you something about how weak these cases really are. When you can't even convince a grand jury that's only hearing from your own prosecutors, you've got nothing.
+But even with that built-in advantage, Trump's [Justice Department](https://infeeds.com/tags/politics) keeps face-planting. That tells you something about how weak these cases really are. When you can't even convince a grand jury that's only hearing from your own prosecutors, you've got nothing.
 
 ## The Chilling Effect That Failed
 
 The strategy seems pretty obvious in hindsight. Go after high-profile critics, make their lives hell with investigations and threats, and hope everyone else gets scared enough to stay quiet. It's textbook authoritarian playbook stuff.
 
-What they didn't count on was actual resistance from the institutions they're trying to weaponize. Grand juries are supposed to be rubber stamps in these situations, but they're refusing to play their assigned role. That's actually a pretty big deal for anyone worried about [democratic](https://infeeds.com/tags/?tag=news) backsliding.
+What they didn't count on was actual resistance from the institutions they're trying to weaponize. Grand juries are supposed to be rubber stamps in these situations, but they're refusing to play their assigned role. That's actually a pretty big deal for anyone worried about [democratic](https://infeeds.com/tags/news) backsliding.
 
 These lawmakers did nothing wrong by reminding military members of their legal obligations. In fact, you could argue they did something necessary and patriotic. The military takes an oath to the Constitution, not to any individual president, and members absolutely have the right and duty to refuse illegal orders.
 

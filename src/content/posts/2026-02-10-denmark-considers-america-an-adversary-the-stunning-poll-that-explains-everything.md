@@ -14,7 +14,7 @@ Something remarkable just happened in Copenhagen, and most Americans probably mi
 
 Let that sink in for a second. Denmark. One of America's most reliable NATO allies. A country that lost more soldiers per capita than the U.S. did in Afghanistan. Now their veterans are marching in anger because President Trump claimed they "stayed a little back" during combat operations while simultaneously threatening to seize Greenland.
 
-Anders Fogh Rasmussen knows this pain personally. The former Danish Prime Minister and NATO Secretary General grew up admiring America as the natural leader of the free world. In a recent NPR interview, he revealed a statistic that should alarm anyone paying attention to [global affairs](https://infeeds.com/tags/?tag=news): 60% of Danes now consider the United States an adversary.
+Anders Fogh Rasmussen knows this pain personally. The former Danish Prime Minister and NATO Secretary General grew up admiring America as the natural leader of the free world. In a recent NPR interview, he revealed a statistic that should alarm anyone paying attention to [global affairs](https://infeeds.com/tags/news): 60% of Danes now consider the United States an adversary.
 
 Six. Zero. Percent.
 
@@ -32,7 +32,7 @@ The Greenland situation exposes something deeper than just one controversial lan
 
 Instead, we got threats and public humiliation. And now Europe is asking itself a question it hasn't seriously considered since 1945: what does security look like without America?
 
-Rasmussen has an answer. He calls it the D7, a coalition of democracies built around the EU, UK, Canada, Australia, New Zealand, Japan, and South Korea. It's his alternative to an America that seems to want to retire from its role as "global policeman." The concept reflects a broader shift in [international relations](https://infeeds.com/tags/?tag=politics) that's been accelerating since Trump's return to office.
+Rasmussen has an answer. He calls it the D7, a coalition of democracies built around the EU, UK, Canada, Australia, New Zealand, Japan, and South Korea. It's his alternative to an America that seems to want to retire from its role as "global policeman." The concept reflects a broader shift in [international relations](https://infeeds.com/tags/politics) that's been accelerating since Trump's return to office.
 
 But here's where it gets really interesting. NATO's current chief, Mark Rutte, says Europe is "dreaming" if it thinks it can defend itself without the U.S., particularly when it comes to nuclear deterrence. Rasmussen doesn't disagree entirely. He still sees NATO as the cornerstone of European security. But he's pushing hard for what he calls a "European pillar" within NATO, a coalition of the willing that can actually act instead of just waiting around.
 

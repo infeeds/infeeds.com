@@ -32,7 +32,7 @@ That silence is its own statement, really. When your software is being actively 
 
 ## Why Patching Takes Forever
 
-The stubborn reality of [Technology](https://infeeds.com/tags/?tag=technology) infrastructure is that many website owners either don't know their systems are vulnerable, can't easily apply patches without downtime, or simply procrastinate. A 550,000-server vulnerable footprint isn't unusual for a widely deployed tool, but it reveals a structural problem in how we secure the web. When patching becomes a risk in itself because your business can't afford the downtime, you get situations like this.
+The stubborn reality of [Technology](https://infeeds.com/tags/technology) infrastructure is that many website owners either don't know their systems are vulnerable, can't easily apply patches without downtime, or simply procrastinate. A 550,000-server vulnerable footprint isn't unusual for a widely deployed tool, but it reveals a structural problem in how we secure the web. When patching becomes a risk in itself because your business can't afford the downtime, you get situations like this.
 
 The fact that attackers have been working since at least late February before public disclosure suggests they knew this would be the bottleneck. Compromise now, ransom later, hope the victim never notices or can't do anything about it quickly enough.
 

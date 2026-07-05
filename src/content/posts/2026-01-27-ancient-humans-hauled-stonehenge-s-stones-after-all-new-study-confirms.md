@@ -18,7 +18,7 @@ Scientists examined over 500 microscopic zircon crystals from river sediments ne
 
 ## What Tiny Crystals Tell Us About Big Rocks
 
-Dr. Anthony Clarke and his team used mineral fingerprinting techniques that sound like something out of [science](https://infeeds.com/tags/?tag=science) fiction, but they're very real. Zircon crystals are basically indestructible geological time capsules. When glaciers grind rocks into dust, these tough little minerals survive and get deposited in river sediments. They carry unique signatures that reveal where they came from and when they formed.
+Dr. Anthony Clarke and his team used mineral fingerprinting techniques that sound like something out of [science](https://infeeds.com/tags/science) fiction, but they're very real. Zircon crystals are basically indestructible geological time capsules. When glaciers grind rocks into dust, these tough little minerals survive and get deposited in river sediments. They carry unique signatures that reveal where they came from and when they formed.
 
 The researchers analyzed river sands around Salisbury Plain using instruments at Curtin's John de Laeter Centre. If massive ice sheets had bulldozed Scottish or Welsh rocks all the way to Stonehenge, those minerals would have eroded over time and left clear traces. But the mineral record is clean. Too clean to support the glacier hypothesis.
 
@@ -30,7 +30,7 @@ Here's where things get wild. The central Altar Stone weighs six tonnes. That's 
 
 We don't know exactly how Neolithic people moved these stones. Maybe they floated them on rafts along coastal waters. Maybe they used rolling logs and an army of workers pulling with ropes. Maybe they had techniques we haven't even imagined yet. Dr. Clarke admits we might never know the specifics.
 
-But ruling out glaciers means accepting that humans deliberately chose these specific stones, organized the logistics to transport them across vast distances, and somehow executed one of the most impressive engineering feats in [history](https://infeeds.com/tags/?tag=history). Without written records. Without metal tools. Without wheels.
+But ruling out glaciers means accepting that humans deliberately chose these specific stones, organized the logistics to transport them across vast distances, and somehow executed one of the most impressive engineering feats in [history](https://infeeds.com/tags/history). Without written records. Without metal tools. Without wheels.
 
 ## Why This Matters Beyond Stonehenge
 

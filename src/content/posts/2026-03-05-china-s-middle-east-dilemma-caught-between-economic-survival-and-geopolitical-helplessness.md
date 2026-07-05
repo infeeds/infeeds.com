@@ -16,7 +16,7 @@ The timing couldn't be worse. Just this week, China lowered its annual economic 
 
 ## The Oil Problem Nobody Wanted to Talk About
 
-Let's be clear about something: China needs the Middle East far more than the Middle East needs China. Around 12% of China's crude oil imports come from Iran alone, and that's just the official numbers. If you factor in the barrels that get mysteriously relabelled as Malaysian oil or the 46 million barrels sitting in floating storage across Asia, the picture gets even more complicated. The [business](https://infeeds.com/tags/?tag=business) of energy imports isn't just about raw numbers; it's about the fragility of supply chains that keep an entire economy humming.
+Let's be clear about something: China needs the Middle East far more than the Middle East needs China. Around 12% of China's crude oil imports come from Iran alone, and that's just the official numbers. If you factor in the barrels that get mysteriously relabelled as Malaysian oil or the 46 million barrels sitting in floating storage across Asia, the picture gets even more complicated. The [business](https://infeeds.com/tags/business) of energy imports isn't just about raw numbers; it's about the fragility of supply chains that keep an entire economy humming.
 
 The Strait of Hormuz is essentially a chokepoint. If shipping traffic through there remains disrupted, prices will spike and China's manufacturing sector will start feeling real pain. It's not just about today. A prolonged conflict in the Middle East destabilizes everything downstream: African economies that depend on Gulf investment, Asian markets, even the global financial system that Beijing relies on for its export ambitions.
 
@@ -34,7 +34,7 @@ That's a shaky foundation. And when the US decided to strike, China suddenly rea
 
 ## The Superpower That Isn't Quite Super
 
-This is the uncomfortable truth Beijing is grappling with right now. China has the world's second-largest economy. It's a [technology](https://infeeds.com/tags/?tag=technology) powerhouse. Its Belt and Road Initiative stretches across continents. But when push comes to shove, when missiles fly and bombs drop, China can't protect its friends. It can't even protect its interests.
+This is the uncomfortable truth Beijing is grappling with right now. China has the world's second-largest economy. It's a [technology](https://infeeds.com/tags/technology) powerhouse. Its Belt and Road Initiative stretches across continents. But when push comes to shove, when missiles fly and bombs drop, China can't protect its friends. It can't even protect its interests.
 
 Xi Jinping has positioned himself as a stable, predictable alternative to the chaos of Western policy. There's something appealing about that pitch, especially to countries in the Global South that are already bearing the heaviest costs of this conflict. Some are facing food shortages in the coming months. Air travel is disrupted. Energy prices are volatile. For these countries, the West's Middle East crisis isn't abstract; it's food on the table.
 

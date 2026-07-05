@@ -40,6 +40,6 @@ The White House bee incident is a minor story that exposes how quickly narrative
 
 It's a small-scale example of how context gets lost in the noise. Nobody was hurt. The bees were doing exactly what honeybees do. But the story that stuck wasn't "bees exhibit natural swarming behavior" but rather something closer to "chaos at the White House."
 
-That gap between what actually happened and what people believe happened? That's worth paying attention to, especially when it comes to <a href="https://infeeds.com/tags/?tag=news">news</a> coverage and how quickly interpretations can override facts.
+That gap between what actually happened and what people believe happened? That's worth paying attention to, especially when it comes to <a href="https://infeeds.com/tags/news">news</a> coverage and how quickly interpretations can override facts.
 
 The bees eventually moved on, the driveway cleared, and life at 1600 Pennsylvania Avenue returned to normal. But the moment lingers as a reminder that sometimes the most revealing stories aren't about what occurred, but about how we choose to tell it.

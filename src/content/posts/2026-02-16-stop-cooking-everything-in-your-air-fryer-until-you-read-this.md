@@ -24,7 +24,7 @@ If you have one of those drawer-style air fryers without a window, you're cookin
 
 ## Size Matters More Than You Think
 
-The biggest mistake people make is trying to cram too much food into their air fryer basket. Hansen is clear about this: "you want the heated air to get on every surface, so you need to avoid overcrowding." That [technology](https://infeeds.com/tags/?tag=technology) might be impressive, but it can't work miracles if air can't circulate properly.
+The biggest mistake people make is trying to cram too much food into their air fryer basket. Hansen is clear about this: "you want the heated air to get on every surface, so you need to avoid overcrowding." That [technology](https://infeeds.com/tags/technology) might be impressive, but it can't work miracles if air can't circulate properly.
 
 Your sheet pan full of meatballs? That's probably three batches in an air fryer. Those roasted vegetables need space between them, not piled on top of each other. Some recipes tell you to shake the basket halfway through, which works fine for sturdy items like Brussels sprouts but might destroy something more delicate.
 
@@ -44,12 +44,12 @@ Deep-fried fish with that classic wet batter coating? Forget about getting the s
 
 Breaded items work infinitely better. Anything that gets the flour-egg-breadcrumb treatment or a coating that's already adhered before cooking will give you those crispy results you're after. High-fat proteins like chicken thighs release their own fat during cooking, helping the breading brown without needing to swim in oil.
 
-Just make sure whatever you're coating starts completely dry. Moisture is the enemy of adhesion whether you're [cooking](https://infeeds.com/tags/?tag=news) in a deep fryer or an air fryer. And skip the non-stick spray in favor of a light spritz of actual oil on your breading for better texture and flavor.
+Just make sure whatever you're coating starts completely dry. Moisture is the enemy of adhesion whether you're [cooking](https://infeeds.com/tags/news) in a deep fryer or an air fryer. And skip the non-stick spray in favor of a light spritz of actual oil on your breading for better texture and flavor.
 
 ## When to Just Use Your Oven Instead
 
 Not every recipe deserves the air fryer treatment. Sometimes the conventional method is simply better suited to what you're making. Large casseroles, delicate baked goods that need gentle heat, anything requiring a water bath, these aren't air fryer candidates no matter how much you adjust the temperature and time.
 
-The air fryer excels at reheating already-fried foods, crisping up proteins, and cooking smaller portions of vegetables quickly. It's a [tool](https://infeeds.com/tags/?tag=tech) with specific strengths, not a replacement for every other appliance in your kitchen. Understanding those limitations will save you from disappointing results and wasted ingredients.
+The air fryer excels at reheating already-fried foods, crisping up proteins, and cooking smaller portions of vegetables quickly. It's a [tool](https://infeeds.com/tags/tech) with specific strengths, not a replacement for every other appliance in your kitchen. Understanding those limitations will save you from disappointing results and wasted ingredients.
 
 The real question isn't whether you can convert a recipe to the air fryer, but whether you should, and whether the end result will actually be better than the original method.

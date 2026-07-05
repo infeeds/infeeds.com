@@ -12,7 +12,7 @@ tags:
 tags_color: '#d32f2f'
 ---
 
-A Waymo Zeekr van made headlines for all the wrong reasons after crashing into several parked cars in Echo Park. Video footage shows the vehicle driving up onto an embankment before plowing into the parked vehicles. But before everyone starts pointing fingers at autonomous [Technology](https://infeeds.com/tags/?tag=technology) gone wrong, there's an important detail to consider.
+A Waymo Zeekr van made headlines for all the wrong reasons after crashing into several parked cars in Echo Park. Video footage shows the vehicle driving up onto an embankment before plowing into the parked vehicles. But before everyone starts pointing fingers at autonomous [Technology](https://infeeds.com/tags/technology) gone wrong, there's an important detail to consider.
 
 The van wasn't in autonomous mode.
 
@@ -28,4 +28,4 @@ Waymo hasn't deployed these new Zeekr vans for commercial robotaxi operations ye
 
 The company says it's investigating the incident, which is standard procedure. But the fact remains that one of their vehicles ended up on an embankment and crashed into multiple parked cars in a residential area. Whether the autonomous system was active or not, that's not a great look for a company trying to convince the public that their vehicles are safe additions to city streets.
 
-The Echo Park crash serves as a reminder that no matter how advanced our [autonomous vehicles](https://infeeds.com/tags/?tag=tech) become, they're still only as reliable as the humans developing, testing, and sometimes driving them. Maybe the real question isn't when these vehicles will be ready for us, but when we'll be ready for them.
+The Echo Park crash serves as a reminder that no matter how advanced our [autonomous vehicles](https://infeeds.com/tags/tech) become, they're still only as reliable as the humans developing, testing, and sometimes driving them. Maybe the real question isn't when these vehicles will be ready for us, but when we'll be ready for them.

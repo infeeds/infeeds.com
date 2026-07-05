@@ -30,7 +30,7 @@ Here's where timing meets opportunity. For years, DJI absolutely dominated the g
 
 Suddenly there's a massive vacuum. Suddenly there's demand for what Resnick calls "the DJI of the West."
 
-This isn't just <a href="https://infeeds.com/tags/?tag=technology">technology</a> for technology's sake. This is about geopolitics, supply chain security, and the realization that critical infrastructure probably shouldn't depend on equipment from countries with competing interests. Whether you think that's justified or not, the market impact is real.
+This isn't just <a href="https://infeeds.com/tags/technology">technology</a> for technology's sake. This is about geopolitics, supply chain security, and the realization that critical infrastructure probably shouldn't depend on equipment from countries with competing interests. Whether you think that's justified or not, the market impact is real.
 
 ## The Uncomfortable Questions
 
@@ -38,7 +38,7 @@ But here's where we need to pump the brakes a little. Guardian is undeniably pow
 
 Resnick founded Brinc in 2017, caught the attention of Sam Altman at OpenAI (who became an early investor), and the company eventually hit a valuation near half a billion dollars. He's a Thiel Fellow, meaning he skipped college to pursue this. The guy is clearly sharp and well-connected. But powerful surveillance tools in law enforcement hands always deserve scrutiny, regardless of who's selling them.
 
-The company might have good intentions about public safety. The equipment might genuinely help first responders. But thermal imaging cameras, license plate readers, and always-on connectivity create capabilities that can outlive their original purpose. It happens with <a href="https://infeeds.com/tags/?tag=business">business</a> tools all the time.
+The company might have good intentions about public safety. The equipment might genuinely help first responders. But thermal imaging cameras, license plate readers, and always-on connectivity create capabilities that can outlive their original purpose. It happens with <a href="https://infeeds.com/tags/business">business</a> tools all the time.
 
 ## The Real Question
 

@@ -66,7 +66,7 @@ The vocal fry saga is a useful mirror for how systemic bias actually operates. I
 
 Ira Glass uses vocal fry constantly. No one complains. Female public radio hosts use it and get hate mail. The acoustic difference? Negligible. The social difference? Everything.
 
-This dynamic plays out across [technology](https://infeeds.com/tags/?tag=technology), [business](https://infeeds.com/tags/?tag=business), and countless professional fields. Women's behavior gets pathologized. Men's behavior goes unnoticed. The solution offered is always for women to change, not for listeners to examine their own reactions.
+This dynamic plays out across [technology](https://infeeds.com/tags/technology), [business](https://infeeds.com/tags/business), and countless professional fields. Women's behavior gets pathologized. Men's behavior goes unnoticed. The solution offered is always for women to change, not for listeners to examine their own reactions.
 
 What makes Brown's work significant is that she didn't just document the bias. She traced it back to its actual source: our expectations, not reality. That distinction matters because it shifts responsibility. We can't fix women's voices because they're not broken. But we can examine why we hear them the way we do.
 

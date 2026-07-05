@@ -38,7 +38,7 @@ Not every airport has been equally affected. Las Vegas apparently cruised throug
 
 ## The Broader Picture
 
-What's happening at airports this week is becoming a symbol of broader <a href="https://infeeds.com/tags/?tag=business">business</a> dysfunction. Airlines can't operate smoothly when their security partners are understaffed and demoralized. Travelers can't plan trips with confidence. The entire system grinds slower when the people holding it together aren't being paid.
+What's happening at airports this week is becoming a symbol of broader <a href="https://infeeds.com/tags/business">business</a> dysfunction. Airlines can't operate smoothly when their security partners are understaffed and demoralized. Travelers can't plan trips with confidence. The entire system grinds slower when the people holding it together aren't being paid.
 
 The shutdown has already dragged on for a month. Congress keeps getting stuck on the same fundamental disagreement. Meanwhile, spring break waits for no one, and neither do flight schedules.
 

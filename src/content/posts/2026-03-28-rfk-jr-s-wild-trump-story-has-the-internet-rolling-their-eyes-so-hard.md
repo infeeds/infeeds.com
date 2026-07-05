@@ -18,7 +18,7 @@ The thing is, Kennedy used to hate Trump. Like, really hate him. Back when he wa
 
 Twitter users didn't waste a second before lighting this story up. One person called it "asinine BS." Another pointed out that drawing a map of the Middle East is literally geopolitics 101, not exactly a sign of encyclopedic knowledge. Someone else made a joke about Trump shooting an 18-hole round of golf and getting a hole-in-one on every single hole. The sarcasm was thick and relentless.
 
-The broader point people were making? If RFK Jr. has to invent stories to make Trump sound competent, what does that say about the situation? When did loyalty to a [political leader](https://infeeds.com/tags/?tag=politics) become more important than basic credibility?
+The broader point people were making? If RFK Jr. has to invent stories to make Trump sound competent, what does that say about the situation? When did loyalty to a [political leader](https://infeeds.com/tags/politics) become more important than basic credibility?
 
 ## The Credibility Gap Nobody's Ignoring
 
@@ -32,7 +32,7 @@ The story about drawing on a placemat is almost comically convenient. It's the k
 
 What's really going on here is a glimpse into how power works when people are invested in their positions. Kennedy's got a job that matters to him. Trump's the one who gave it to him. So Kennedy shows up at a major political event and constructs a narrative that makes his boss look good. It's not complicated.
 
-The social media mockery is deserved, but it also highlights something deeper about [political news](https://infeeds.com/tags/?tag=news) and how easily narratives get constructed. When someone with Kennedy's platform starts spinning tales like this, people rightfully question what else might be getting exaggerated or invented to fit a preferred story.
+The social media mockery is deserved, but it also highlights something deeper about [political news](https://infeeds.com/tags/news) and how easily narratives get constructed. When someone with Kennedy's platform starts spinning tales like this, people rightfully question what else might be getting exaggerated or invented to fit a preferred story.
 
 The real question isn't whether Trump can draw maps. It's why we're supposed to believe that drawing a map on a placemat is evidence of presidential capability. It's why a Health Secretary feels the need to make up flattering stories in the first place. And it's why so many people are watching this play out feeling like they're living in some kind of alternate reality where loyalty has completely replaced honesty.
 

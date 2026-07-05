@@ -10,7 +10,7 @@ tags_color: '#00ba65'
 
 Anthropic just wrapped up what it called Project Deal, an experiment where AI agents actually negotiated and completed real transactions for real goods using real money. On the surface, it sounds like a win. The numbers look good: 186 deals across four separate marketplaces, over $4,000 in total value. The company said it was "struck by how well Project Deal worked."
 
-But dig a little deeper, and the story gets weird in ways that should concern anyone paying attention to how [technology](https://infeeds.com/tags/?tag=technology) is reshaping commerce and human interaction.
+But dig a little deeper, and the story gets weird in ways that should concern anyone paying attention to how [technology](https://infeeds.com/tags/technology) is reshaping commerce and human interaction.
 
 ## When Better AI Becomes Your Disadvantage
 
@@ -28,7 +28,7 @@ There's another finding worth unpacking. Anthropic gave its AI agents different 
 
 That's notable because it suggests that once you unleash an AI agent into a marketplace, its underlying capabilities matter way more than whatever guardrails or nudges you tried to build into its prompt. The model's sophistication, not its values, determined the outcome.
 
-This matters for [business](https://infeeds.com/tags/?tag=business) and policy alike. If you're designing systems where AI agents negotiate on behalf of consumers or workers, telling those agents to "be fair" might feel reassuring. But the research here hints that capability matters more than instruction.
+This matters for [business](https://infeeds.com/tags/business) and policy alike. If you're designing systems where AI agents negotiate on behalf of consumers or workers, telling those agents to "be fair" might feel reassuring. But the research here hints that capability matters more than instruction.
 
 ## A Pilot With Caveats
 

@@ -32,7 +32,7 @@ Here's where today's puzzle gets clever. Those circles you've been tracking? The
 
 This kind of construction requires real skill from the puzzle makers. They can't just throw any old clues and answers together. Everything has to work twice over: once as a legitimate crossword solution, and once as part of a larger pattern. It's like a magician showing you their trick while you're still trying to figure out how they did it.
 
-If you're looking for daily puzzle solutions beyond the Mini Crossword, the New York Times offers [technology](https://infeeds.com/tags/?tag=technology)-powered platforms that compile answers for Wordle, Strands, Connections, and Connections: Sports Edition all in one place. It saves time when you're juggling multiple puzzles before your morning coffee.
+If you're looking for daily puzzle solutions beyond the Mini Crossword, the New York Times offers [technology](https://infeeds.com/tags/technology)-powered platforms that compile answers for Wordle, Strands, Connections, and Connections: Sports Edition all in one place. It saves time when you're juggling multiple puzzles before your morning coffee.
 
 ## Why Mini Crosswords Work
 

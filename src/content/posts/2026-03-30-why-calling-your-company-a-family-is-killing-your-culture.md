@@ -12,7 +12,7 @@ Founders say it all the time. "We're like a family here." It rolls off the tongu
 
 Then someone misses a number. A deadline slips. And suddenly that family rhetoric collapses under the weight of reality.
 
-The problem isn't that founders don't care about their people. It's that the family metaphor actively obscures what <a href="https://infeeds.com/tags/?tag=business">business</a> actually requires: results.
+The problem isn't that founders don't care about their people. It's that the family metaphor actively obscures what <a href="https://infeeds.com/tags/business">business</a> actually requires: results.
 
 ## Families Absorb. Businesses Can't.
 

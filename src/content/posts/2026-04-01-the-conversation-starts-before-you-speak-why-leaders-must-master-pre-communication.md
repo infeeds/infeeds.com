@@ -8,7 +8,7 @@ tags: [news, business]
 tags_color: '#2b2b2b'
 ---
 
-There's a widespread belief in <a href="https://infeeds.com/tags/?tag=business">business</a> that conversation is about what you say. It's not. The real conversation happens in those tiny, invisible moments before you ever open your mouth, when you're deciding how to reach someone, what channel to use, what words will appear in their inbox, and whether they'll actually care enough to show up mentally.
+There's a widespread belief in <a href="https://infeeds.com/tags/business">business</a> that conversation is about what you say. It's not. The real conversation happens in those tiny, invisible moments before you ever open your mouth, when you're deciding how to reach someone, what channel to use, what words will appear in their inbox, and whether they'll actually care enough to show up mentally.
 
 Most professionals spend all their energy preparing content. They craft the perfect message, anticipate objections, rehearse their talking points. Then they hit send or walk into a meeting room wondering why people aren't fully engaged. The answer is simple: They forgot to make people want to listen.
 
@@ -54,7 +54,7 @@ Neither of these leaders got lucky. They understood that the conversation doesn'
 
 ## The Real Work Happens Before You Open Your Mouth
 
-Effective <a href="https://infeeds.com/tags/?tag=business">business</a> leadership understands that communication is not just content. It's timing, platform choice, clarity of purpose, and something you might call attention engineering.
+Effective <a href="https://infeeds.com/tags/business">business</a> leadership understands that communication is not just content. It's timing, platform choice, clarity of purpose, and something you might call attention engineering.
 
 If you want someone to be fully present, you have to give them a reason to be present. Preparing someone ahead of time isn't weak. It's respectful. It signals that you value their mind, their time, and their input.
 

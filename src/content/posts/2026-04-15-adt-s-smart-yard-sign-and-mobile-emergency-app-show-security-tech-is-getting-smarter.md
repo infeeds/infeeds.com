@@ -33,7 +33,7 @@ The functionality isn't entirely new. Your smartphone already has emergency feat
 
 ## The Bigger Picture
 
-[Technology](https://infeeds.com/tags/?tag=technology) companies keep chasing the idea that connected devices improve safety through convenience and automation. Sometimes they do. Sometimes they just add complexity to something that already works fine. Live Light at least feels like a genuine attempt to modernize a stale product category. My Safety, meanwhile, feels more like feature bloat unless you're already deep in the ADT ecosystem.
+[Technology](https://infeeds.com/tags/technology) companies keep chasing the idea that connected devices improve safety through convenience and automation. Sometimes they do. Sometimes they just add complexity to something that already works fine. Live Light at least feels like a genuine attempt to modernize a stale product category. My Safety, meanwhile, feels more like feature bloat unless you're already deep in the ADT ecosystem.
 
 The real test will be whether these offerings convince people to switch to or stay with ADT when plenty of other security firms are making similar moves toward connected systems and mobile-first monitoring. Incremental improvements are nice, but they're rarely reasons to change providers.
 

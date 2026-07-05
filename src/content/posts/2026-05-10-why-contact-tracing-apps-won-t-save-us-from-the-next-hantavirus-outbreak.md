@@ -14,7 +14,7 @@ Wrong.
 
 According to reporting on this outbreak, Emily Gurley, an epidemiologist at Johns Hopkins University, made the point bluntly: "There is no use of apps for this hantavirus outbreak. The number of cases are small, and it's important to trace all contacts exactly to stop transmission."
 
-This reveals something uncomfortable about [technology](https://infeeds.com/tags/?tag=technology) and public health. Not every problem benefits from being digitized. Sometimes the old way, the grinding person-by-person method, is actually the only way that works.
+This reveals something uncomfortable about [technology](https://infeeds.com/tags/technology) and public health. Not every problem benefits from being digitized. Sometimes the old way, the grinding person-by-person method, is actually the only way that works.
 
 ## Why Pandemic Tools Don't Fit Smaller Crises
 

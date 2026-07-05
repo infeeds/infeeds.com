@@ -35,4 +35,4 @@ We can't yet predict how this latest feud with the White House will impact Anthr
 The question now is whether that government controversy becomes a liability when it comes time to actually list on the stock exchange, or whether the "too dangerous to use" label actually keeps driving adoption among companies that want the most powerful tools out there. Either way, Anthropic has certainly found itself at the center of the AI world's attention, whether it wanted to be there or not.
 
 ---
-**Related:** [Technology](https://infeeds.com/tags/?tag=technology) | [Business](https://infeeds.com/tags/?tag=business)
+**Related:** [Technology](https://infeeds.com/tags/technology) | [Business](https://infeeds.com/tags/business)

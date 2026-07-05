@@ -18,7 +18,7 @@ I've watched it happen hundreds of times. A company gets hot. They grow fast. Pe
 
 ## The Trap of Success
 
-Here's what most people get wrong about [business](https://infeeds.com/tags/?tag=business): they think success flips a switch where everything becomes easy. That's the complete opposite of reality.
+Here's what most people get wrong about [business](https://infeeds.com/tags/business): they think success flips a switch where everything becomes easy. That's the complete opposite of reality.
 
 Growth doesn't simplify things. It complicates them. You face bigger decisions. Higher stakes. New challenges you've never encountered before. Momentum becomes even more critical at this stage, not less.
 
@@ -60,7 +60,7 @@ One thing I've noticed about high performers is that they rarely wait for motiva
 
 ## Curiosity Keeps You Ahead
 
-Staying in motion keeps you curious. The world moves fast. Industries change. [Technology](https://infeeds.com/tags/?tag=technology) evolves. Markets shift directions when you're not looking. People who stay in motion meet people outside their normal circles. They explore ideas that seem unrelated. They pay attention to trends before they become obvious.
+Staying in motion keeps you curious. The world moves fast. Industries change. [Technology](https://infeeds.com/tags/technology) evolves. Markets shift directions when you're not looking. People who stay in motion meet people outside their normal circles. They explore ideas that seem unrelated. They pay attention to trends before they become obvious.
 
 That curiosity often leads to the next opportunity. One business becomes two. One investment becomes a portfolio. One connection becomes a network. Momentum unlocks possibilities you genuinely can't predict.
 

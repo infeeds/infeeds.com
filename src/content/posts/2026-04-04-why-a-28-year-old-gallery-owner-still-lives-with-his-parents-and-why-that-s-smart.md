@@ -18,7 +18,7 @@ The math is brutal and simple: without this apartment, three people born and rai
 
 ## The Rent Control Safety Net
 
-Here's where this gets interesting, at least from a <a href="https://infeeds.com/tags/?tag=business">business</a> perspective. Four years ago, my parents and I pooled our savings with a childhood friend and opened an art gallery on the Lower East Side. We signed a 10-year commercial lease. That gallery only exists because of the financial cushion my family's housing situation provides.
+Here's where this gets interesting, at least from a <a href="https://infeeds.com/tags/business">business</a> perspective. Four years ago, my parents and I pooled our savings with a childhood friend and opened an art gallery on the Lower East Side. We signed a 10-year commercial lease. That gallery only exists because of the financial cushion my family's housing situation provides.
 
 I don't have a trust fund. My parents never handed me money to "invest" in anything. But they were smart with their money decades ago, and their discipline created space for me to take risks that would have been impossible otherwise.
 

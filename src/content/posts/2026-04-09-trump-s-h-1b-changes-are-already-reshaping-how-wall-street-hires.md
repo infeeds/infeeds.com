@@ -26,7 +26,7 @@ The competitors, meanwhile, may have seen an opening. If giants are sitting out,
 
 These first-quarter numbers only scratch the surface. The real impact will show up when the H-1B lottery results come in, typically when the bulk of applications get filed. Right now we're looking at Labor Department certifications, which is just one step in the process. Multiple filings can correspond to a single worker. The actual visa approvals and lottery selections, which happen later, will tell us whether this is a temporary pullback or a genuine shift in hiring strategy.
 
-There's another factor lurking beneath all this: fear about generative AI and its threat to white-collar and technical workers. These are exactly the people <a href="https://infeeds.com/tags/?tag=technology">technology</a> and finance firms typically sponsor through H-1B. If companies are already worried about AI replacing engineers and data scientists, would they really invest $100,000 per visa petition to bring in foreign talent? The economics get murkier by the day.
+There's another factor lurking beneath all this: fear about generative AI and its threat to white-collar and technical workers. These are exactly the people <a href="https://infeeds.com/tags/technology">technology</a> and finance firms typically sponsor through H-1B. If companies are already worried about AI replacing engineers and data scientists, would they really invest $100,000 per visa petition to bring in foreign talent? The economics get murkier by the day.
 
 ## Who's Hiring for What
 

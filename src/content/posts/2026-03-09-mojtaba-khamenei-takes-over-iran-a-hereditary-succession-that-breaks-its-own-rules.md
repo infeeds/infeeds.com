@@ -36,7 +36,7 @@ There's also the matter of personal tragedy. Mojtaba has lost his father, mother
 
 The conventional wisdom suggests Mojtaba will continue his father's hardline approach to foreign policy and domestic control. Some analysts believe his personal losses will make him even more resistant to Western pressure. But that's not the only possibility worth considering.
 
-Mojtaba faces an genuinely difficult situation. He needs to stabilize a country experiencing significant [political](https://infeeds.com/tags/?tag=politics) and economic devastation. He needs to convince a skeptical public that he deserves the role. And he needs to do all of this while his own government is changing the rules that were supposed to govern such transitions, which hardly builds confidence in the system's legitimacy.
+Mojtaba faces an genuinely difficult situation. He needs to stabilize a country experiencing significant [political](https://infeeds.com/tags/politics) and economic devastation. He needs to convince a skeptical public that he deserves the role. And he needs to do all of this while his own government is changing the rules that were supposed to govern such transitions, which hardly builds confidence in the system's legitimacy.
 
 His leadership record remains almost entirely untested. Nobody really knows how he'll actually govern or what priorities he'll pursue. The shadowy influence he may or may not have wielded behind the scenes is a completely different proposition from making decisions with your name attached to them.
 

@@ -12,7 +12,7 @@ tags_color: '#ff5722'
 
 Death and taxes. That old saying exists for a reason, and we're rapidly approaching that dreaded April 15 deadline. If you're like most people, you've been putting off thinking about your taxes for as long as humanly possible. I get it. Nobody wakes up excited to dig through receipts and calculate deductions.
 
-H&R Block has been in the tax game for seven decades now, which is longer than most of us have been alive. They've built their reputation on making this annual nightmare slightly more bearable, whether that's through their traditional office visits or their online [Technology](https://infeeds.com/tags/?tag=technology) platforms that let you file from your couch.
+H&R Block has been in the tax game for seven decades now, which is longer than most of us have been alive. They've built their reputation on making this annual nightmare slightly more bearable, whether that's through their traditional office visits or their online [Technology](https://infeeds.com/tags/technology) platforms that let you file from your couch.
 
 Right now they're offering $50 off if you go the in-person route with one of their tax professionals. The catch? You need to book an appointment and use their coupon system before February 23. Each coupon has a single-use code, so you'll need to grab a fresh one from their site. They're also running a 25% discount on their DIY online service through the same date.
 
@@ -20,7 +20,7 @@ Right now they're offering $50 off if you go the in-person route with one of the
 
 Here's something most people don't realize: more than half of tax filers actually qualify for H&R Block's completely free online edition. If your taxes are straightforward (just a basic 1040 without complicated schedules), you can file both federal and state returns without paying a cent.
 
-The free tier works if you're claiming standard stuff like the Earned Income Tax Credit, Child Tax Credit, student loan interest, or retirement distributions. It's not going to handle your [Business](https://infeeds.com/tags/?tag=business) expenses or investment portfolios, but for simple returns it does the job.
+The free tier works if you're claiming standard stuff like the Earned Income Tax Credit, Child Tax Credit, student loan interest, or retirement distributions. It's not going to handle your [Business](https://infeeds.com/tags/business) expenses or investment portfolios, but for simple returns it does the job.
 
 ## When You Need Actual Human Help
 
@@ -36,7 +36,7 @@ I'm not usually one to recommend advance loans of any kind, but at least this on
 
 ## Pricing Tiers That Actually Make Sense
 
-The tiered pricing structure is pretty straightforward. Free is free. Deluxe runs $28 federal plus $37 per state if you need itemized deductions. Premium is $56 federal (same state fee) for investment income. Self-employed folks are looking at $68 federal because their [finances](https://infeeds.com/tags/?tag=business) are inevitably more complicated with all those 1099 forms.
+The tiered pricing structure is pretty straightforward. Free is free. Deluxe runs $28 federal plus $37 per state if you need itemized deductions. Premium is $56 federal (same state fee) for investment income. Self-employed folks are looking at $68 federal because their [finances](https://infeeds.com/tags/business) are inevitably more complicated with all those 1099 forms.
 
 All the paid tiers include a free review from a tax professional, which is useful if you want someone to double-check your work before hitting submit. They're currently offering 20% off their software products through April 15, and you don't need a promo code for that one.
 

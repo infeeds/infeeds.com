@@ -22,9 +22,9 @@ What we don't know is far more unsettling. It's unclear whether cyber-criminals 
 
 This hack doesn't exist in a vacuum. According to BBC reporting, around Easter 2025, several major UK retailers including M&S, Co-op, and Harrods fell victim to cyber-attacks. Later that year, Jaguar Land Rover was hit in what became the costliest cyber event in UK history. The fashion world wasn't spared either, with the house behind Gucci and Balenciaga targeted in September.
 
-The pattern is clear: no sector is safe, no brand is too big, and no amount of legacy stability protects you from determined attackers. This is when <a href="https://infeeds.com/tags/?tag=technology">Technology</a> sophistication meets organisational complacency, and the results are predictably messy.
+The pattern is clear: no sector is safe, no brand is too big, and no amount of legacy stability protects you from determined attackers. This is when <a href="https://infeeds.com/tags/technology">Technology</a> sophistication meets organisational complacency, and the results are predictably messy.
 
-## What This Means for <a href="https://infeeds.com/tags/?tag=business">Business</a>
+## What This Means for <a href="https://infeeds.com/tags/business">Business</a>
 
 For Hasbro specifically, the short-term concern is operational continuity and customer trust. Shipping delays during peak retail seasons can tank sales projections and frustrate parents scrambling to find toys. Longer term, if customer data was indeed compromised, the legal and reputational fallout could be substantial.
 

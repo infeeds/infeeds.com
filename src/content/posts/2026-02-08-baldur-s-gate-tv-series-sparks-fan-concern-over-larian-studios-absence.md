@@ -18,7 +18,7 @@ Baldur's Gate 3 wasn't just a game. It was a cultural moment that swept through 
 
 Here's where things get interesting. Larian Studios, the Belgian developer that poured years of passion into creating Baldur's Gate 3, won't be directly involved in the show. And that's making fans nervous, understandably so.
 
-The [Technology](https://infeeds.com/tags/?tag=technology) behind bringing such a complex game to life required an insane attention to detail. We're talking about a game with nearly 17,000 different ending variations. That's not just technical achievement, that's pure artistic dedication.
+The [Technology](https://infeeds.com/tags/technology) behind bringing such a complex game to life required an insane attention to detail. We're talking about a game with nearly 17,000 different ending variations. That's not just technical achievement, that's pure artistic dedication.
 
 Larian founder Swen Vincke took to X with what can only be described as a diplomatically worded "we'll see." He mentioned Mazin reached out for a chat, which is nice, but it's not quite the same as having the creative minds who built this world sitting in the writers' room every day.
 
@@ -28,11 +28,11 @@ The comparison to The Last of Us is inevitable, but it cuts both ways. Sure, Maz
 
 "Not sure if I trust anyone other than Larian with those characters," one fan posted, and honestly, that sentiment resonates. There's something deeply personal about Baldur's Gate 3's characters. They feel lived-in, real, flawed in ways that actually matter.
 
-Mazin claims he's put nearly 1,000 hours into the game, which is admirable. As a self-proclaimed devoted D&D fan, he's clearly passionate about the material. But passion alone doesn't guarantee a successful adaptation. The [gaming](https://infeeds.com/tags/?tag=gaming) community has been burned before by well-meaning creators who didn't quite get it.
+Mazin claims he's put nearly 1,000 hours into the game, which is admirable. As a self-proclaimed devoted D&D fan, he's clearly passionate about the material. But passion alone doesn't guarantee a successful adaptation. The [gaming](https://infeeds.com/tags/gaming) community has been burned before by well-meaning creators who didn't quite get it.
 
 ## The Business of Adaptation
 
-Here's the thing that makes this whole situation particularly tricky: Baldur's Gate is owned by Wizards of the Coast, which is a Hasbro subsidiary. Larian only licensed the IP to make the game. From a [business](https://infeeds.com/tags/?tag=business) standpoint, Hasbro can do whatever they want with the property without asking Larian's permission.
+Here's the thing that makes this whole situation particularly tricky: Baldur's Gate is owned by Wizards of the Coast, which is a Hasbro subsidiary. Larian only licensed the IP to make the game. From a [business](https://infeeds.com/tags/business) standpoint, Hasbro can do whatever they want with the property without asking Larian's permission.
 
 That's just how intellectual property licensing works in the entertainment industry. But it doesn't mean fans have to like it.
 

@@ -20,7 +20,7 @@ Kirby's outlook is telling. He's banking on oil hitting $175 per barrel at its p
 
 ## The Bigger Picture for Business and Travel
 
-This isn't happening in a vacuum. Last year, when the government shutdown hit, the [FAA ordered a 10% flight reduction](https://infeeds.com/tags/?tag=business) at major airports due to controller shortages. United responded by cutting flights on specific days. This feels familiar, except this time it's driven by market forces rather than federal mandate.
+This isn't happening in a vacuum. Last year, when the government shutdown hit, the [FAA ordered a 10% flight reduction](https://infeeds.com/tags/business) at major airports due to controller shortages. United responded by cutting flights on specific days. This feels familiar, except this time it's driven by market forces rather than federal mandate.
 
 What's interesting is that Kirby emphasized United isn't laying anyone off. The company is still taking delivery of 120 new aircraft this year and expanding infrastructure at Newark Liberty International. They're not retreating. They're restructuring while staying aggressive on growth investments.
 

@@ -18,7 +18,7 @@ The problem is almost nobody cleans it.
 
 ## Why Your Dishwasher Experts Keep Calling It Out
 
-When we spoke with experts about selecting and testing <a href="https://infeeds.com/tags/?tag=technology">technology</a> products like modern dishwashers, one issue came up repeatedly: failed filter maintenance is one of the most common reasons for repair calls and warranty claims. Not mechanical failure. Not design flaws. Just a clogged filter that nobody bothered to empty.
+When we spoke with experts about selecting and testing <a href="https://infeeds.com/tags/technology">technology</a> products like modern dishwashers, one issue came up repeatedly: failed filter maintenance is one of the most common reasons for repair calls and warranty claims. Not mechanical failure. Not design flaws. Just a clogged filter that nobody bothered to empty.
 
 This shouldn't be shocking. A filter full of rotting food debris doesn't just underperform. It creates the conditions for your dishwasher to work harder, wear faster, and potentially develop problems that could have been entirely preventable. And yet, manufacturers can't even seem to agree on how often you should actually clean the thing.
 

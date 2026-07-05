@@ -20,7 +20,7 @@ Here's what's interesting about the T1's software: it runs a clean version of An
 
 The real concern isn't the software as it ships. It's what comes after.
 
-Samsung and Google both commit to seven years of OS and security updates. That's a meaningful promise in a world where <a href="https://infeeds.com/tags/?tag=technology">Technology</a> companies often abandon devices within two or three years. Trump Mobile hasn't made any such commitment. There's no timeline, no clarity, no public promise about how long T1 owners will receive updates.
+Samsung and Google both commit to seven years of OS and security updates. That's a meaningful promise in a world where <a href="https://infeeds.com/tags/technology">Technology</a> companies often abandon devices within two or three years. Trump Mobile hasn't made any such commitment. There's no timeline, no clarity, no public promise about how long T1 owners will receive updates.
 
 And there's a complicating factor: reporting suggests the T1 may be based on the HTC U24 Pro 5G, a phone that launched in 2024. If that's the case, the hardware could become outdated faster than the software promises to support it.
 
@@ -34,6 +34,6 @@ This isn't a minor detail. It's the kind of thing that should have been caught i
 
 ## What This Means
 
-The Trump phone exists now. You can hold it. CNET has tested it over Memorial Day weekend. But it represents a product strategy that seems more rooted in branding than <a href="https://infeeds.com/tags/?tag=business">Business</a> fundamentals. A $47.45 monthly plan and golden hardware don't overcome the basic problem: this is aging foreign hardware running Android with no clear update path and a flagpole missing two stripes.
+The Trump phone exists now. You can hold it. CNET has tested it over Memorial Day weekend. But it represents a product strategy that seems more rooted in branding than <a href="https://infeeds.com/tags/business">Business</a> fundamentals. A $47.45 monthly plan and golden hardware don't overcome the basic problem: this is aging foreign hardware running Android with no clear update path and a flagpole missing two stripes.
 
 When a company takes nine months to launch and still ships with an incorrect national symbol on the device itself, you have to wonder if the delays were really about quality assurance, or just the difficulty of bringing any consumer hardware to market at all.

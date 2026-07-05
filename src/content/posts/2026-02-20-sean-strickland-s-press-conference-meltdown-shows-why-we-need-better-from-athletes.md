@@ -32,7 +32,7 @@ This is the standard playbook now. Say something offensive, get called out, clai
 
 What's frustrating about this whole situation is that it reveals something deeper about how certain corners of sports culture still operate. We're supposed to believe that in 2026, a fighter can't promote a match without resorting to sexism as his content strategy. There are plenty of ways to generate headlines without recycling Stone Age attitudes about women.
 
-The <a href="https://infeeds.com/tags/?tag=entertainment">entertainment</a> industry loves a character. It loves edge. But there's a difference between being edgy and being a jerk. Strickland walked right past that line and kept going.
+The <a href="https://infeeds.com/tags/entertainment">entertainment</a> industry loves a character. It loves edge. But there's a difference between being edgy and being a jerk. Strickland walked right past that line and kept going.
 
 His opponent Anthony Hernandez wasn't impressed, telling a podcast that he plans to "fucking torture" Strickland in the cage this weekend. At least that's fighting talk that stays in the ring.
 

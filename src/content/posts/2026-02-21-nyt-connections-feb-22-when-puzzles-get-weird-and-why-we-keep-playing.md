@@ -54,7 +54,7 @@ But the puzzle is asking you to find the connection that ties them all together.
 
 The New York Times has built something genuinely addictive with Connections. Unlike Wordle, which is purely vocabulary-based, Connections requires you to think laterally. You need to understand wordplay, cultural references, and sometimes just obscure connections that make you go "Oh, I get it now."
 
-The [Technology](https://infeeds.com/tags/?tag=technology) behind these daily puzzles isn't complicated, but the design is brilliant. Each category has an intended difficulty level, and the purple group is specifically designed to frustrate you just enough that solving it feels like a genuine accomplishment.
+The [Technology](https://infeeds.com/tags/technology) behind these daily puzzles isn't complicated, but the design is brilliant. Each category has an intended difficulty level, and the purple group is specifically designed to frustrate you just enough that solving it feels like a genuine accomplishment.
 
 The Times even added a Connections Bot so players can track their performance over time. They're not just making puzzles anymore. They're building a platform where people can obsess over their stats and compare win streaks. It's gamification, but it works because the core puzzle is legitimately good.
 

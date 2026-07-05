@@ -14,7 +14,7 @@ The Justice Department just dropped 3 million pages of Jeffrey Epstein documents
 
 What makes this different from previous document releases is the sheer scale and the timing. These aren't just old associates scrambling to distance themselves. These are people who were still exchanging messages with Epstein well after his 2008 conviction for sex offenses. The audacity of maintaining those relationships, often with crude and compromising communications, has finally caught up with them.
 
-Let me be clear: none of these people have been accused of participating in Epstein's sex-trafficking operation. But that doesn't mean their associations and communications don't deserve scrutiny. The [business](https://infeeds.com/tags/?tag=business) world has always had a problem with accountability at the top, and these documents are forcing a reckoning that's long overdue.
+Let me be clear: none of these people have been accused of participating in Epstein's sex-trafficking operation. But that doesn't mean their associations and communications don't deserve scrutiny. The [business](https://infeeds.com/tags/business) world has always had a problem with accountability at the top, and these documents are forcing a reckoning that's long overdue.
 
 ## The Goldman Sachs Exit That Says Everything
 
@@ -74,4 +74,4 @@ The emails reveal a culture where power insulates you from consequences, where a
 
 What's striking is how many of these people thought those communications would never see daylight. They wrote emails as if there would never be accountability, as if their positions were secure enough that nothing could touch them. The Justice Department's document release has proven that assumption catastrophically wrong.
 
-The question isn't really why these people are resigning now. It's why they thought their associations with Epstein were acceptable in the first place, and what that reveals about the moral bankruptcy at the highest levels of [business](https://infeeds.com/tags/?tag=business), politics, and entertainment. When "Uncle Jeffrey" turns out to be a liability you can't spin away, maybe the problem was never just about one predator, but about an entire system that enabled and protected him.
+The question isn't really why these people are resigning now. It's why they thought their associations with Epstein were acceptable in the first place, and what that reveals about the moral bankruptcy at the highest levels of [business](https://infeeds.com/tags/business), politics, and entertainment. When "Uncle Jeffrey" turns out to be a liability you can't spin away, maybe the problem was never just about one predator, but about an entire system that enabled and protected him.

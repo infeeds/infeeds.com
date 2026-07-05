@@ -10,7 +10,7 @@ tags_color: '#1f78b4'
 
 Anthropic has a problem on its hands, and it's not the kind you can patch overnight. According to reports shared on Reddit, users of Claude Code, the company's AI-powered coding assistant, are burning through their token allowances at an alarming rate. Some are hitting limits they expected to last weeks in what feels like minutes.
 
-The issue is getting enough attention that Anthropic has made fixing it a "top priority" for the team. But the real question here is whether this is a bug, a feature, or just the messy reality of how [Technology](https://infeeds.com/tags/?tag=technology) companies price their services.
+The issue is getting enough attention that Anthropic has made fixing it a "top priority" for the team. But the real question here is whether this is a bug, a feature, or just the messy reality of how [Technology](https://infeeds.com/tags/technology) companies price their services.
 
 ## The Token Drain Nobody Saw Coming
 
@@ -30,7 +30,7 @@ This isn't entirely Anthropic's fault, necessarily. Language models are genuinel
 
 Last week, Anthropic introduced peak-hour throttling across Claude, meaning tokens get consumed more quickly when demand is highest. The logic is sound from an infrastructure perspective. When the system is busy, charge more. But for users already complaining about unexpected costs, this announcement landed like a punch.
 
-Claude Pro costs $20 a month. Higher tiers can run $100 or $200 monthly. For [Business](https://infeeds.com/tags/?tag=business) customers, custom pricing applies. These aren't small amounts, and they're predicated on predictability. If users can't predict their costs, they're essentially paying for a service they can't fully rely on.
+Claude Pro costs $20 a month. Higher tiers can run $100 or $200 monthly. For [Business](https://infeeds.com/tags/business) customers, custom pricing applies. These aren't small amounts, and they're predicated on predictability. If users can't predict their costs, they're essentially paying for a service they can't fully rely on.
 
 ## The Bigger Picture
 

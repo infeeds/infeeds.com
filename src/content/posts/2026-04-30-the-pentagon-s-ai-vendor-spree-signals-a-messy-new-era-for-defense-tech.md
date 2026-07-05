@@ -30,13 +30,13 @@ Here's what's real: over 1.3 million DOD personnel are already using GenAI.mil, 
 
 The tools are designed to help with research, document drafting, data analysis, and decision support. Nobody's arguing that better information shouldn't make its way to people responsible for national security. The question is what you're trading for it.
 
-These new deals represent a fundamental shift in how the Pentagon approaches [technology](https://infeeds.com/tags/?tag=technology). It's not just buying off-the-shelf products anymore. It's embedding commercial AI directly into classified military operations. That's a different ballgame. It means trusting Nvidia's hardware, Microsoft's infrastructure, and Amazon's cloud systems to remain secure and reliable under conditions where failure could have consequences well beyond a data breach.
+These new deals represent a fundamental shift in how the Pentagon approaches [technology](https://infeeds.com/tags/technology). It's not just buying off-the-shelf products anymore. It's embedding commercial AI directly into classified military operations. That's a different ballgame. It means trusting Nvidia's hardware, Microsoft's infrastructure, and Amazon's cloud systems to remain secure and reliable under conditions where failure could have consequences well beyond a data breach.
 
 It also means the Pentagon is making bets on which commercial AI platforms will still exist and thrive years from now. History suggests that's hard to predict.
 
 ## The Real Tension Beneath All This
 
-What makes the Anthropic dispute interesting isn't that the Pentagon lost a vendor. It's what the dispute reveals about the gap between how [business](https://infeeds.com/tags/?tag=business) wants to deploy AI and how some parts of the AI community think it should be deployed.
+What makes the Anthropic dispute interesting isn't that the Pentagon lost a vendor. It's what the dispute reveals about the gap between how [business](https://infeeds.com/tags/business) wants to deploy AI and how some parts of the AI community think it should be deployed.
 
 Anthropic drew a line: no domestic surveillance, no autonomous weapons. The Pentagon saw that as an obstacle. Most of Big Tech, apparently, saw it as a negotiable position. That tells you something about where the leverage sits and what the incentives look like.
 

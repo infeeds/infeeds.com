@@ -16,7 +16,7 @@ If you had 30 minutes a day to grow a one-person business, opening any of these 
 
 According to SBE Council's March 2026 small business survey, the median small business now juggles five AI tools and plans to add more. The result? Most owners feel busier, not freer. They've mistaken tool collection for progress.
 
-Here's the thing about <a href="https://infeeds.com/tags/?tag=technology">technology</a> adoption: there's a difference between using AI and building an AI business model that actually runs while you work on something else.
+Here's the thing about <a href="https://infeeds.com/tags/technology">technology</a> adoption: there's a difference between using AI and building an AI business model that actually runs while you work on something else.
 
 Most AI tools work the same way. You type. It responds. You move the output somewhere else manually. That's not automation. That's you becoming the integration layer between a dozen different systems, which defeats the entire purpose of having AI in the first place.
 
@@ -42,6 +42,6 @@ If your operation is stuck, it's usually not because you need a smarter AI model
 
 An AI agent can't connect dots it can't access. Consolidation solves this. When all your work flows through one system, the AI behind it can actually see the full picture and work autonomously.
 
-The gap between collecting tools and building an <a href="https://infeeds.com/tags/?tag=business">business</a> model that the AI can actually run for you is where most solo entrepreneurs lose momentum. They keep adding solutions. They never remove friction.
+The gap between collecting tools and building an <a href="https://infeeds.com/tags/business">business</a> model that the AI can actually run for you is where most solo entrepreneurs lose momentum. They keep adding solutions. They never remove friction.
 
 The real question isn't whether you need smarter AI. It's whether your system is structured in a way that makes AI work possible in the first place.

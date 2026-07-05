@@ -26,7 +26,7 @@ Here's where things get awkward. These new ratings only apply to games released 
 
 Think about that for a second. The system's updating but only for future releases. Meanwhile, millions of young players are already deep into games with heavy loot box systems. They're not getting any additional protection.
 
-The UK government actually had a chance to regulate this stuff through the Gambling Act back in 2022. They decided not to, arguing there wasn't enough evidence of a "causative link" to harms. That decision's looking pretty questionable now, especially with research from Bournemouth University earlier this year highlighting how [gaming](https://infeeds.com/tags/?tag=technology) mechanics like loot boxes function as risk factors for problem gambling in young people.
+The UK government actually had a chance to regulate this stuff through the Gambling Act back in 2022. They decided not to, arguing there wasn't enough evidence of a "causative link" to harms. That decision's looking pretty questionable now, especially with research from Bournemouth University earlier this year highlighting how [gaming](https://infeeds.com/tags/technology) mechanics like loot boxes function as risk factors for problem gambling in young people.
 
 ## Who Actually Enforces This?
 
@@ -42,6 +42,6 @@ Dirk Bosmans, PEGI's director, said they're "confident" these updates will provi
 
 The problem is that the gaming industry has spent years optimizing these systems to be as engaging (and profitable) as possible. A higher age rating might make some parents pause, but it won't stop teenagers from playing. It definitely won't stop the games from existing or the monetisation from working exactly the way it's designed to work.
 
-PEGI's new system is better than nothing. It's acknowledging a real problem in modern [gaming](https://infeeds.com/tags/?tag=technology) that's been deliberately ignored for way too long. But unless there's actual legislation—the kind with teeth—and unless parents start taking these ratings seriously, we're basically just rearranging deck chairs on the Titanic.
+PEGI's new system is better than nothing. It's acknowledging a real problem in modern [gaming](https://infeeds.com/tags/technology) that's been deliberately ignored for way too long. But unless there's actual legislation—the kind with teeth—and unless parents start taking these ratings seriously, we're basically just rearranging deck chairs on the Titanic.
 
 The question isn't really whether PEGI's doing the right thing. They are. The question is whether any of this actually changes behaviour, or whether it just makes everyone feel a little better about a system that's fundamentally designed to extract money from the youngest players.

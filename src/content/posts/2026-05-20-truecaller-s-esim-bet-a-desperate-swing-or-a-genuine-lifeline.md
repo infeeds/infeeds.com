@@ -30,7 +30,7 @@ Here's the uncomfortable truth: eSIM services have thin margins. Success require
 
 Yes, the company is working with established partners. It's partnering with Telna for cellular connectivity and Telness Tech for telecom software. That's sensible outsourcing. But outsourcing doesn't eliminate the execution risk. The company still needs to market the product, handle customer issues, manage churn, and compete on pricing.
 
-More importantly, [eSIM services](https://infeeds.com/tags/?tag=technology) are a discretionary purchase for most users. Truecaller's core product, spam call blocking, solves an immediate pain. eSIM plans solve a need only when someone travels internationally. The funnel is narrower. Conversion rates will likely be lower than the company hopes.
+More importantly, [eSIM services](https://infeeds.com/tags/technology) are a discretionary purchase for most users. Truecaller's core product, spam call blocking, solves an immediate pain. eSIM plans solve a need only when someone travels internationally. The funnel is narrower. Conversion rates will likely be lower than the company hopes.
 
 ## The Broader Strategy
 

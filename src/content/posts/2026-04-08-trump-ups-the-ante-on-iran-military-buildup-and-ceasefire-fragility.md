@@ -26,7 +26,7 @@ Within hours of the ceasefire announcement, Israel began unleashing what sources
 
 Tehran responded with a threat suggesting it would be "unreasonable" to proceed with talks for a permanent peace deal, essentially putting the negotiations scheduled for Friday in Islamabad on thin ice. This is what fragile looks like in real time. A ceasefire that holds in one theater but fractures in another isn't really a ceasefire at all.
 
-## The <a href="https://infeeds.com/tags/?tag=business">Business</a> of Escalation
+## The <a href="https://infeeds.com/tags/business">Business</a> of Escalation
 
 Oil markets felt the tremor. After a brief relief rally on ceasefire hopes, crude prices climbed again on Thursday as continued hostilities dimmed expectations for a swift resolution. Brent crude futures for June delivery rose 2.46% to $97.08, while West Texas Intermediate crude futures for May jumped 3.4% to $97.55. Energy traders know the script by now: regional uncertainty plus military posturing equals upside pressure on oil.
 

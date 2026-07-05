@@ -8,7 +8,7 @@ tags: [news, tech]
 tags_color: '#3f51b5'
 ---
 
-Pope Leo XIV dropped a 40,000-word encyclical on artificial intelligence last week, and for anyone paying attention to the intersection of [Technology](https://infeeds.com/tags/?tag=technology) and theology, there's one detail that stands out like a white lighthouse in a storm.
+Pope Leo XIV dropped a 40,000-word encyclical on artificial intelligence last week, and for anyone paying attention to the intersection of [Technology](https://infeeds.com/tags/technology) and theology, there's one detail that stands out like a white lighthouse in a storm.
 
 In a document that covers the entirety of humanity's relationship with machines, there's exactly one literary quotation from a fictional character. It comes from Gandalf, the wizard from J.R.R. Tolkien's *The Return of the King*. And the reason that matters is because Peter Thiel, the billionaire tech investor and notorious Antichrist alarmist, has built what can only be described as a Tolkien-themed empire.
 
@@ -26,7 +26,7 @@ But here's where it gets interesting.
 
 ## Peter Thiel's Tolkien Problem
 
-Thiel is perhaps the most prominent tech billionaire who has literally named his companies after Middle-earth locations. Palantir, the data mining [Technology](https://infeeds.com/tags/?tag=technology) giant that works with the defense industry, takes its name from the seeing-stones in Tolkien's work. Mithril Capital Management references the fictional metal. Valar Ventures uses the name of the divine beings in Tolkien's legendarium. Then there's Rivendell One, Lembas LLC, and perhaps mostfamously, the Erebor digital bank project backed by Thiel and launched by Palmer Luckey of Anduril defense fame.
+Thiel is perhaps the most prominent tech billionaire who has literally named his companies after Middle-earth locations. Palantir, the data mining [Technology](https://infeeds.com/tags/technology) giant that works with the defense industry, takes its name from the seeing-stones in Tolkien's work. Mithril Capital Management references the fictional metal. Valar Ventures uses the name of the divine beings in Tolkien's legendarium. Then there's Rivendell One, Lembas LLC, and perhaps mostfamously, the Erebor digital bank project backed by Thiel and launched by Palmer Luckey of Anduril defense fame.
 
 This isn't a minor quirk. Thiel has explicitly cited Tolkien as a major influence on his worldview. J.D. Vance, his protégé and current US Vice President, has called Tolkien his favorite author and founded a venture capital firm called Narya, after one of the Three Rings of power given to the Elves.
 
@@ -42,7 +42,7 @@ The speculation isn't baseless. Catholic publication The Herald directly asked w
 
 But here's what I find more interesting than whether this was intentional shade: the deeper theological divide it reveals.
 
-Thiel sees [Technology](https://infeeds.com/tags/?tag=technology) as humanity's salvation from stagnation. He has said repeatedly that AI could break the cultural and economic malaise he believes has gripped the West, and that those who want guardrails are effectively serving the Antichrist by impeding progress. In his worldview, the FDA and nuclear regulators are part of a globalist apparatus that needs to be overcome.
+Thiel sees [Technology](https://infeeds.com/tags/technology) as humanity's salvation from stagnation. He has said repeatedly that AI could break the cultural and economic malaise he believes has gripped the West, and that those who want guardrails are effectively serving the Antichrist by impeding progress. In his worldview, the FDA and nuclear regulators are part of a globalist apparatus that needs to be overcome.
 
 Leo, by contrast, is sketching something almost opposite: a vision where technology sheds its messianic pretensions and instead serves humble, local, communal goods. The Gandalf quote isn't about conquering the darkness with ultimate weapons or world-ruling power. It's about tending your own field. It's about the small and steadfast.
 
@@ -56,6 +56,6 @@ Look, I'm not one to claim that Popes spend their time crafting encyclicals as p
 
 But the fact that this particular quote landed where it did, in this particular moment, tells us something about how the Catholic Church is positioning itself in the age of AI. Leo isn't anti-technology. But he is deeply skeptical of the techno-optimism that treats artificial intelligence as humanity's final salvation, and he is explicitly calling for a different way of building.
 
-The real question isn't whether Thiel will notice the Gandalf quote. It's whether the broader tech [Business](https://infeeds.com/tags/?tag=business) world will hear the invitation underneath it or simply double down on their own messianic narratives.
+The real question isn't whether Thiel will notice the Gandalf quote. It's whether the broader tech [Business](https://infeeds.com/tags/business) world will hear the invitation underneath it or simply double down on their own messianic narratives.
 
 The wizard gave his speech. The Pope quoted it. Whether anyone in Silicon Valley is listening is another story entirely.

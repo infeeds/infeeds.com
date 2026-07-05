@@ -56,7 +56,7 @@ Small improvements compound over time. A 1% bump might not seem exciting on its 
 
 Don't fall in love with a single number. Engagement rate is most valuable when you track it over time, compare it to appropriate benchmarks, and use the insights to inform your content strategy. Different questions call for different formulas. Pick the one that answers what you're actually trying to learn.
 
-At the end of the day, engagement is simply a proxy for connection. If people are interacting with your content, you're doing something right. Keep listening to what the data tells you, but remember it's just one piece of a much larger puzzle in building meaningful [Business](https://infeeds.com/tags/?tag=business) relationships online.
+At the end of the day, engagement is simply a proxy for connection. If people are interacting with your content, you're doing something right. Keep listening to what the data tells you, but remember it's just one piece of a much larger puzzle in building meaningful [Business](https://infeeds.com/tags/business) relationships online.
 
 ---
 

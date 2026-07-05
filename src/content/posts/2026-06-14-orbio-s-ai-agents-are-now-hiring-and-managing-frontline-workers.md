@@ -12,7 +12,7 @@ The way companies hire and manage frontline workers has always been a bit of a m
 
 Sergi Bastardas saw this up close during his decade at Amazon and later at floriculture startup Colvin. No matter where he went, the same frustration kept surfacing: there simply wasn't enough efficient human infrastructure to manage the workers behind the scenes. The people keeping healthcare, retail, logistics, and hospitality running were being handled with tools that felt like they belonged in a different era.
 
-So in 2025, Bastardas teamed up with co-founders Nacho Travesí and Antonio Melé to do something about it. They launched Orbio, an enterprise [Technology](https://infeeds.com/tags/?tag=technology) startup that's building AI agents to handle the entire lifecycle of frontline workers. And on Monday, the company announced a $21 million Series A led by Dawn Capital.
+So in 2025, Bastardas teamed up with co-founders Nacho Travesí and Antonio Melé to do something about it. They launched Orbio, an enterprise [Technology](https://infeeds.com/tags/technology) startup that's building AI agents to handle the entire lifecycle of frontline workers. And on Monday, the company announced a $21 million Series A led by Dawn Capital.
 
 The idea is pretty straightforward: let AI agents do the heavy lifting that usually falls on HR teams, recruiters, and managers. Orbio's agents named Maria, Daniel, and Claire can interview candidates, assess fit, monitor employee output, and conduct daily check-ins throughout an employee's tenure. The goal isn't to replace humans entirely, but to handle the repetitive, time-consuming tasks that often fall through the cracks.
 

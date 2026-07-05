@@ -38,7 +38,7 @@ Google is trying to solve part of this problem differently. The company just int
 
 ## The Domino Effect
 
-Here's where it gets interesting for <a href="https://infeeds.com/tags/?tag=business">business</a> watchers. SK hynix's planned U.S. listing isn't happening in isolation. Samsung Electronics is already facing investor pressure to consider a similar move. Artisan Partners, a major Samsung shareholder, argued publicly that a U.S. listing could boost Samsung's valuation while giving American retail investors easier access to its stock.
+Here's where it gets interesting for <a href="https://infeeds.com/tags/business">business</a> watchers. SK hynix's planned U.S. listing isn't happening in isolation. Samsung Electronics is already facing investor pressure to consider a similar move. Artisan Partners, a major Samsung shareholder, argued publicly that a U.S. listing could boost Samsung's valuation while giving American retail investors easier access to its stock.
 
 This could start a trend. If SK hynix successfully closes its valuation gap through a U.S. listing, other Korean chip makers won't have an excuse to stay home. The competitive pressure becomes real.
 

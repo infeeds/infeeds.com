@@ -20,13 +20,13 @@ Trump called it Thursday from the Oval Office "a disastrous Obama era policy" an
 
 Here's where things get sketchy. The Department of Energy assembled a panel last year to challenge the accepted science on greenhouse gases and warming. That report became the justification for reversing the endangerment finding. The problem? A federal judge recently ruled the department broke the law in how they picked that team. Climate experts have blasted the report as unrepresentative and filled with skeptics who cherry-picked data.
 
-But the Trump administration doesn't seem particularly bothered by that detail. They're banking on this ending up at the Supreme Court before his term wraps up. If they win there, the endangerment finding stays dead even after Trump leaves office. No future president could resurrect it without new legislation from Congress, and we all know how well Congress handles [climate-related policy](https://infeeds.com/tags/?tag=news).
+But the Trump administration doesn't seem particularly bothered by that detail. They're banking on this ending up at the Supreme Court before his term wraps up. If they win there, the endangerment finding stays dead even after Trump leaves office. No future president could resurrect it without new legislation from Congress, and we all know how well Congress handles [climate-related policy](https://infeeds.com/tags/news).
 
 Environmental groups are already gearing up for a legal war. Peter Zalzal from the Environmental Defense Fund points out that Americans will actually spend about $1.4 trillion more on fuel costs from less efficient vehicles. His group also estimates 58,000 additional premature deaths and 37 million more asthma attacks. Those numbers paint a very different picture than the White House's rosy economic projections.
 
 ## The Car Industry Might Not Even Want This
 
-You'd think automakers would be thrilled about relaxed emissions standards, but it's more complicated than that. Making gas-guzzling cars might save money in the short term, but it could kill their [business](https://infeeds.com/tags/?tag=business) overseas. Europe and China aren't rolling back their climate standards. They're tightening them.
+You'd think automakers would be thrilled about relaxed emissions standards, but it's more complicated than that. Making gas-guzzling cars might save money in the short term, but it could kill their [business](https://infeeds.com/tags/business) overseas. Europe and China aren't rolling back their climate standards. They're tightening them.
 
 Michael Gerrard, a climate law expert from Columbia University, put it bluntly: "Nobody else is going to want to buy American cars." That's a real problem when the global auto market is moving toward electric vehicles and stricter efficiency standards. American manufacturers could end up isolated, producing vehicles the rest of the world considers outdated dinosaurs.
 
@@ -38,6 +38,6 @@ Meghan Greenfield, a former EPA and Justice Department attorney, points out some
 
 That protection just evaporated. Get ready for a flood of climate litigation in state courts as environmental groups, local governments, and individuals try to figure out what happens in this legal vacuum. Greenfield expects "states and non-profit groups to bring suits, probably primarily in our state courts, to try to figure out where the contours of this new law are."
 
-The irony is almost perfect. Trump wanted to deregulate his way to cheaper cars and energy independence, but he might have accidentally opened the floodgates to exactly the kind of patchwork state-level [regulation](https://infeeds.com/tags/?tag=news) and legal chaos that businesses usually hate even more than federal rules.
+The irony is almost perfect. Trump wanted to deregulate his way to cheaper cars and energy independence, but he might have accidentally opened the floodgates to exactly the kind of patchwork state-level [regulation](https://infeeds.com/tags/news) and legal chaos that businesses usually hate even more than federal rules.
 
 This isn't just another regulatory rollback that'll get reversed when the next Democrat takes office. If the Supreme Court upholds this reversal, the legal architecture for addressing climate change in America fundamentally changes, and there's no easy way to rebuild it without Congress actually passing real legislation, which seems about as likely as bipartisan agreement on anything these days.

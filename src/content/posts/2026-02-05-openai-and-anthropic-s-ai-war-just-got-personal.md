@@ -20,7 +20,7 @@ Not to be outdone, OpenAI fired back with GPT-5.3-Codex, their own coding-focuse
 
 Here's where it gets interesting. Both Sam Altman and Sholto Douglas, one of Anthropic's top researchers, showed up on the "TBPN" podcast in consecutive time slots. Talk about awkward scheduling.
 
-Altman painted a picture of the future where people basically become managers of AI agent teams, with these agents operating at increasingly abstract levels. It's the kind of vision that either excites you or keeps you up at night, depending on your stance on [Technology](https://infeeds.com/tags/?tag=technology) replacing human workers.
+Altman painted a picture of the future where people basically become managers of AI agent teams, with these agents operating at increasingly abstract levels. It's the kind of vision that either excites you or keeps you up at night, depending on your stance on [Technology](https://infeeds.com/tags/technology) replacing human workers.
 
 Douglas, speaking right after, acknowledged what users have been noticing all along. OpenAI's models apparently try harder on tough problems, while Anthropic's were winning on speed. With Opus 4.6, they're saying they've flipped the script and focused on tackling those really gnarly problems.
 
@@ -28,7 +28,7 @@ Douglas, speaking right after, acknowledged what users have been noticing all al
 
 But the real drama? Anthropic decided to get creative with their marketing. They released a series of ads, including one slated for the Super Bowl, showing humanized AIs awkwardly inserting advertisements into their responses. The message was crystal clear: Claude stays ad-free.
 
-This was a direct shot at OpenAI's January announcement that ads would be coming to the free version of ChatGPT. And honestly, it was a pretty effective one from a [Business](https://infeeds.com/tags/?tag=business) strategy standpoint.
+This was a direct shot at OpenAI's January announcement that ads would be coming to the free version of ChatGPT. And honestly, it was a pretty effective one from a [Business](https://infeeds.com/tags/business) strategy standpoint.
 
 Altman didn't take it lying down. He called Anthropic's approach "dishonest" and defended the ad model as a way to bring AI to billions of people who can't afford subscriptions. He was pretty adamant on the podcast that OpenAI wouldn't be stupid enough to inject ads directly into the chatbot's responses, calling that scenario "crazy dystopic, like a bad sci-fi movie."
 

@@ -28,7 +28,7 @@ The tricky part is that every brand gets to define what "safe" means for them. S
 
 Before you build any strategy around this, you need to figure out how close to the edge you're willing to walk. Some brands play it safe. Others push boundaries intentionally. Neither approach is wrong, but you have to know which one you are.
 
-There's something called the "brand safety floor" that the Global Alliance for Responsible Media came up with. These are the absolute no-go zones: terrorism, pornography, misinformation. Pretty much every advertiser agrees these are bad news for [business](https://infeeds.com/tags/?tag=business).
+There's something called the "brand safety floor" that the Global Alliance for Responsible Media came up with. These are the absolute no-go zones: terrorism, pornography, misinformation. Pretty much every advertiser agrees these are bad news for [business](https://infeeds.com/tags/business).
 
 The ad tech world has its own version called the "dirty dozen" list. Thirteen categories, actually, because the Interactive Advertising Bureau couldn't help themselves. It covers things like illegal drugs, hate speech, arms, and violence. The usual suspects.
 
@@ -66,7 +66,7 @@ The smartest move is building a shortlist of creators your team can engage with 
 
 Hashtags seem harmless until you discover the one you're using is tied to something completely different than you thought. Meanings shift fast online. What looks innocent today might be connected to controversial communities tomorrow.
 
-The same goes for memes. That funny image might have baggage you don't see without digging. A quick search before you post can save you from becoming a cautionary tale in someone else's [business](https://infeeds.com/tags/?tag=business) school lecture.
+The same goes for memes. That funny image might have baggage you don't see without digging. A quick search before you post can save you from becoming a cautionary tale in someone else's [business](https://infeeds.com/tags/business) school lecture.
 
 ## The AI Wild Card
 

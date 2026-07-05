@@ -28,4 +28,4 @@ There's something telling about where SoftBank chose to place its biggest Europe
 
 The question now is whether other players will follow SoftBank's lead or if this remains a singular bet. Either way, the $87 billion question is simple: can Europe actually deliver on this kind of scale, or will regulatory friction and local opposition derail the grand plans?
 
-The next five years will answer that. And given what's at stake for [Technology](https://infeeds.com/tags/?tag=technology) leadership globally, everyone should be watching closely.
+The next five years will answer that. And given what's at stake for [Technology](https://infeeds.com/tags/technology) leadership globally, everyone should be watching closely.

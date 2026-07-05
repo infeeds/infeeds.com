@@ -8,7 +8,7 @@ tags: [news, tech]
 tags_color: '#00ba65'
 ---
 
-ClickUp just made a bold play that's got the entire [Technology](https://infeeds.com/tags/?tag=technology) world talking. The collaboration software startup, once valued at $4 billion, announced it was laying off 22% of its workforce. But here's the twist: CEO Zeb Evans isn't calling it cost-cutting. He's framing it as a radical embrace of AI that will push the company to become what he calls a "100x org."
+ClickUp just made a bold play that's got the entire [Technology](https://infeeds.com/tags/technology) world talking. The collaboration software startup, once valued at $4 billion, announced it was laying off 22% of its workforce. But here's the twist: CEO Zeb Evans isn't calling it cost-cutting. He's framing it as a radical embrace of AI that will push the company to become what he calls a "100x org."
 
 The messaging is striking. In a post on X, Evans said most savings from the layoff will flow directly back into the people who stay. He's promising million-dollar salary bands for employees who create "outsized impact using AI." That's quite the pitch when you're simultaneously cutting hundreds of jobs.
 
@@ -36,7 +36,7 @@ The company is reportedly gearing up to include these productivity metrics in a 
 
 ## The Bigger Picture
 
-Here's what makes this whole situation worth paying attention to beyond the [Business](https://infeeds.com/tags/?tag=business) headlines. ClickUp's announcement isn't happening in isolation. It's part of a broader wave of AI-driven restructuring that's sweeping through startups and established companies alike. Intuit recently announced plans to lay off over 3,000 employees to refocus on AI. The pattern is becoming familiar.
+Here's what makes this whole situation worth paying attention to beyond the [Business](https://infeeds.com/tags/business) headlines. ClickUp's announcement isn't happening in isolation. It's part of a broader wave of AI-driven restructuring that's sweeping through startups and established companies alike. Intuit recently announced plans to lay off over 3,000 employees to refocus on AI. The pattern is becoming familiar.
 
 The question isn't whether companies will use AI to do more with fewer people. That's already happening. The question is whether the productivity gains will actually materialize for companies that pursue this aggressively, or whether they're just using unproven AI as a convenient excuse to cut costs and boost margins.
 

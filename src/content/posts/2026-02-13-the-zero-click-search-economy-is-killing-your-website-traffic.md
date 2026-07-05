@@ -52,7 +52,7 @@ I've watched dozens of companies try to navigate this shift, and I keep seeing t
 
 First, founders double down on traditional SEO. More content, more backlinks, better keyword targeting. They're fighting harder in a game where the rules already changed. The AI doesn't care about your keyword density or meta descriptions. It cares whether you're genuinely authoritative and trustworthy enough to cite.
 
-Second, they delegate this to marketing as a channel optimization problem. But this isn't about tweaking your [business](https://infeeds.com/tags/?tag=business) strategy or improving your content calendar. This is a fundamental business model problem. If customer acquisition depends on organic discovery, and organic discovery is now mediated by AI, you need to rethink how customers find and choose you from the ground up.
+Second, they delegate this to marketing as a channel optimization problem. But this isn't about tweaking your [business](https://infeeds.com/tags/business) strategy or improving your content calendar. This is a fundamental business model problem. If customer acquisition depends on organic discovery, and organic discovery is now mediated by AI, you need to rethink how customers find and choose you from the ground up.
 
 Third, they wait for clarity. "We're monitoring the situation." "Let's see how this plays out." By the time there's perfect information, the positions of strength will be taken. The founders who win during platform shifts act on directional correctness while competitors wait for certainty.
 

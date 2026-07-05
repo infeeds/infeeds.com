@@ -22,13 +22,13 @@ The answer probably comes down to profitability and scale. Same-day and instant 
 
 What's interesting is how seriously Amazon is taking this globally. In India, they launched Amazon Now last year as a 10-minute grocery delivery service and have been expanding it aggressively. In the UAE, they promised 15-minute deliveries. Meanwhile, companies like Swiggy and Zepto are absolutely dominating quick commerce in India and Southeast Asia.
 
-This feels like Amazon finally waking up to the fact that <a href="https://infeeds.com/tags/?tag=technology">technology</a> companies that nail instant gratification tend to win in their categories. It's not rocket science, but it requires obsessive attention to logistics, customer experience, and unit economics. Amazon clearly has the first two down. The third one remains to be seen.
+This feels like Amazon finally waking up to the fact that <a href="https://infeeds.com/tags/technology">technology</a> companies that nail instant gratification tend to win in their categories. It's not rocket science, but it requires obsessive attention to logistics, customer experience, and unit economics. Amazon clearly has the first two down. The third one remains to be seen.
 
 ## The Real Question Nobody's Asking
 
 Here's what bothers me though. We've collectively decided that faster is always better, and Amazon is betting everything on that assumption. But is one-hour delivery actually solving a real problem, or is it just scratching an itch we didn't know we had? Most people don't need groceries or household items in an hour. They just want them when they remember they need them, without having to think about it.
 
-The companies winning at <a href="https://infeeds.com/tags/?tag=business">business</a> right now aren't necessarily the ones offering the absolute fastest service. They're the ones who make the service so frictionless that speed becomes almost irrelevant. Amazon understands this, which is why they're not just launching fast delivery. They're also building dedicated storefronts, adding filters in the app, and labeling eligible items with delivery time windows. They're trying to make the entire experience feel inevitable.
+The companies winning at <a href="https://infeeds.com/tags/business">business</a> right now aren't necessarily the ones offering the absolute fastest service. They're the ones who make the service so frictionless that speed becomes almost irrelevant. Amazon understands this, which is why they're not just launching fast delivery. They're also building dedicated storefronts, adding filters in the app, and labeling eligible items with delivery time windows. They're trying to make the entire experience feel inevitable.
 
 The real test will be whether people actually use these services enough to justify the operational complexity. Udit Madan, Amazon's SVP of Worldwide Operations, says they're using existing same-day fulfillment sites, which is smart. It keeps costs down and leverages what they already have.
 

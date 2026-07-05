@@ -22,7 +22,7 @@ Cuba's entire power grid collapsed yesterday too. Eleven million people without 
 
 Here's where things get interesting on the domestic front. The Supreme Court just threw a wrench into Trump's deportation plans for Syrians and Haitians who legally received Temporary Protected Status. The court didn't just pause it either. They expedited the case and we're looking at a final decision by the end of June.
 
-[Politics](https://infeeds.com/tags/?tag=politics) moves in predictable rhythms usually, but courts don't always follow the script. A federal judge in Boston also blocked the administration's plan to gut childhood vaccine recommendations. Judge Brian Murphy basically said the health department threw out established scientific processes and that's not how government works, even when a president really wants something done.
+[Politics](https://infeeds.com/tags/politics) moves in predictable rhythms usually, but courts don't always follow the script. A federal judge in Boston also blocked the administration's plan to gut childhood vaccine recommendations. Judge Brian Murphy basically said the health department threw out established scientific processes and that's not how government works, even when a president really wants something done.
 
 The American Academy of Pediatrics is celebrating. Health experts who filed the lawsuit are celebrating. And the administration says they'll appeal. This is going to be a fight that echoes through every courtroom in the country for years.
 

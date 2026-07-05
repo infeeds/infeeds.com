@@ -52,7 +52,7 @@ While social media managers should understand basic analytics, a dedicated socia
 
 This role frees your team from spending half their day in spreadsheets. Instead of your social media manager building reports, they're focused on execution. The analyst is focused on turning data into strategy and direction.
 
-In <a href="https://infeeds.com/tags/?tag=business">business</a>, especially at scale, this role becomes increasingly important. You can't optimize what you're not measuring. And you can't measure well without someone whose entire job is getting the data right.
+In <a href="https://infeeds.com/tags/business">business</a>, especially at scale, this role becomes increasingly important. You can't optimize what you're not measuring. And you can't measure well without someone whose entire job is getting the data right.
 
 ## Graphic Designers: Beyond Canva
 
@@ -72,7 +72,7 @@ It's a cross-functional role that requires strong collaboration skills. You're w
 
 Before you hire anyone, get honest about where you are. Do you have people on social already? Are they doing it as a side project or is it their main job? What's your actual budget, not your wish-list budget?
 
-Next, define your goals. This sounds obvious, but most <a href="https://infeeds.com/tags/?tag=business">businesses</a> skip this step. If your goal is building community, hire a community manager first. If your goal is driving sales, hire a paid specialist. If your goal is brand awareness, you need strong content creation and strategy.
+Next, define your goals. This sounds obvious, but most <a href="https://infeeds.com/tags/business">businesses</a> skip this step. If your goal is building community, hire a community manager first. If your goal is driving sales, hire a paid specialist. If your goal is brand awareness, you need strong content creation and strategy.
 
 Kwok's advice here is sharp: "Set your expectations and get really clear on what you are looking for. Avoid looking for a one-size-fits-all unicorn. Instead, get clear on the goals you want to achieve and work backwards."
 

@@ -10,7 +10,7 @@ tags_color: '#2196f3'
 
 Apple just locked in the dates for WWDC 2026, and honestly, it feels like the company's biggest moment for developers is almost here. The conference kicks off on June 8 and runs through June 12 at Apple Park, with the main keynote happening on Monday morning. If you can't make it to Cupertino, no worries because Apple's streaming the whole thing online for free.
 
-For anyone who's followed Apple's playbook over the last few years, WWDC has become less about flashy hardware announcements and more about the [technology](https://infeeds.com/tags/?tag=technology) that actually powers your devices. Sure, we got the Vision Pro back in 2023, but these days the conference is really about software, developer tools, and whatever Apple's cooking up next in terms of AI capabilities.
+For anyone who's followed Apple's playbook over the last few years, WWDC has become less about flashy hardware announcements and more about the [technology](https://infeeds.com/tags/technology) that actually powers your devices. Sure, we got the Vision Pro back in 2023, but these days the conference is really about software, developer tools, and whatever Apple's cooking up next in terms of AI capabilities.
 
 ## What's Actually Coming This Year
 

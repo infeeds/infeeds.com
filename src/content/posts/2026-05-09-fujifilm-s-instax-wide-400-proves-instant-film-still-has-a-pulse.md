@@ -42,7 +42,7 @@ Film costs between $25 and $28 per box of 20 sheets, so each photo runs roughly 
 
 ## Who Is This For, Really?
 
-This camera works best for specific use cases: group photos, [tech](/tags/?tag=tech) enthusiasts who want a break from digital workflows, people documenting events or travel where you want physical prints to hand out or keep, and genuinely, kids and teens starting to care about photography. The simplicity is a feature, not a bug, if your goal is to photograph moments without overthinking them.
+This camera works best for specific use cases: group photos, [tech](/tags/tech) enthusiasts who want a break from digital workflows, people documenting events or travel where you want physical prints to hand out or keep, and genuinely, kids and teens starting to care about photography. The simplicity is a feature, not a bug, if your goal is to photograph moments without overthinking them.
 
 It's less suitable if you're trying to make creative choices with exposure or composition, or if you're shooting in challenging lighting situations regularly. The lack of manual controls isn't a sacrifice the camera makes because it respects your autonomy. It's a limitation baked into the product because the camera can't do those things.
 

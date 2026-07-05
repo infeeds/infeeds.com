@@ -30,7 +30,7 @@ Apple still hasn't publicly named this foldable. Speculation has ranged from "Ul
 
 What's interesting here is the restraint in color options for the foldable. If true, it suggests Apple views foldables as a more premium, conservative product category compared to the mainstream Pro lineup. That's a strategic choice worth noting.
 
-## The Bigger Picture on [Technology](https://infeeds.com/tags/?tag=technology)
+## The Bigger Picture on [Technology](https://infeeds.com/tags/technology)
 
 Apple's annual color refresh has become almost as predictable as the September launch event. The company dangles a new shade to keep the flagship feeling fresh without requiring major hardware overhauls. Dark cherry, if it's real, would be a smart move for a brand that's already mastered the art of making incremental upgrades feel essential.
 

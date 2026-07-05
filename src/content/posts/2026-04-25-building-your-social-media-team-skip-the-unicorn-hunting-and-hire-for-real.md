@@ -12,7 +12,7 @@ Every company wants a social media presence. Not every company knows how to buil
 
 The problem isn't vision or budget alone. It's that most organizations try to do it wrong. They hire one person, load them with expectations for content creation, community management, paid ads, analytics, and influencer partnerships, then act shocked when that person burns out after six months.
 
-That's not a social media strategy. That's outsourcing your <a href="https://infeeds.com/tags/?tag=business">business</a> growth to someone working three jobs at once.
+That's not a social media strategy. That's outsourcing your <a href="https://infeeds.com/tags/business">business</a> growth to someone working three jobs at once.
 
 The truth is simpler: you need the right mix of roles and skills. Not everyone, necessarily. Just the right people doing the right things.
 

@@ -46,7 +46,7 @@ But here's the honest part: this is going to be hard. Frank Long put it perfectl
 
 ## What About Right Now?
 
-Companies aren't waiting around for 6G to show up in 2030 and beyond. Qualcomm is working with robotics firms like Neura Robotics, pushing the boundaries of what current [Technology](https://infeeds.com/tags/?tag=technology) can do. The robots being deployed now are learning, improving, and getting better with dexterity and problem-solving. They're priming themselves to take full advantage of better connectivity when it arrives.
+Companies aren't waiting around for 6G to show up in 2030 and beyond. Qualcomm is working with robotics firms like Neura Robotics, pushing the boundaries of what current [Technology](https://infeeds.com/tags/technology) can do. The robots being deployed now are learning, improving, and getting better with dexterity and problem-solving. They're priming themselves to take full advantage of better connectivity when it arrives.
 
 The convergence of robotics and 6G feels inevitable now. But there's also something worth noting in all this: the gap between what's possible in a controlled demo and what's actually safe and useful in a home is still enormous. The robots coming to warehouses and hotels in the next few years will be genuinely useful. The humanoids heading to homes? That story might be best written in the 2030s, if not later.
 

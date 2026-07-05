@@ -20,7 +20,7 @@ The frustrating part is how Verizon keeps shifting the goalposts. Last week, the
 
 Then PCMag came back with a follow-up claiming Verizon will drop the 35-day delay for online payments "in several weeks" by adding extra authentication for credit card payments. So which is it? Soon? Several weeks? Maybe never?
 
-This kind of confusion around [Technology](https://infeeds.com/tags/?tag=technology) policies isn't new, but it's particularly annoying when it involves something you already own. You paid for the phone. You paid off the financing. Why should the carrier control when you can use it elsewhere?
+This kind of confusion around [Technology](https://infeeds.com/tags/technology) policies isn't new, but it's particularly annoying when it involves something you already own. You paid for the phone. You paid off the financing. Why should the carrier control when you can use it elsewhere?
 
 ## The Loopholes That Shouldn't Exist
 
@@ -32,7 +32,7 @@ Verizon used to be the good guy here. Thanks to FCC regulations on their 700 MHz
 
 ## What About the Competition?
 
-To be fair, other carriers aren't much better. AT&T requires 60 days of ownership plus full payment. T-Mobile wants 40 days of network activity plus full payment. Both have similar restrictions for prepaid customers. The whole [Business](https://infeeds.com/tags/?tag=business) model of carrier locking feels outdated in 2026, but here we are.
+To be fair, other carriers aren't much better. AT&T requires 60 days of ownership plus full payment. T-Mobile wants 40 days of network activity plus full payment. Both have similar restrictions for prepaid customers. The whole [Business](https://infeeds.com/tags/business) model of carrier locking feels outdated in 2026, but here we are.
 
 The real problem isn't just the waiting periods. It's the lack of transparency. Verizon's iPhone 17 order page still shows the old policy language that only mentions gift card restrictions. A customer reading that would have no idea they're signing up for a 35-day wait if they pay online. That's not fraud prevention, that's just poor communication at best and deliberately misleading at worst.
 

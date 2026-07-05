@@ -26,7 +26,7 @@ The site reportedly holds around 1 million tons of tungsten worth roughly $450 m
 
 Tungsten is denser than lead and harder than steel. It handles extreme temperatures without breaking down, which is exactly what you need when you're firing artillery or building components that experience massive stress. There's no real substitute for high-stakes military applications.
 
-The raw tungsten market sits around $3 billion annually, but that figure barely scratches the surface. When you consider downstream [business](https://infeeds.com/tags/?tag=business) applications across defense hardware, aerospace, and advanced electronics, you're talking about industries worth hundreds of billions.
+The raw tungsten market sits around $3 billion annually, but that figure barely scratches the surface. When you consider downstream [business](https://infeeds.com/tags/business) applications across defense hardware, aerospace, and advanced electronics, you're talking about industries worth hundreds of billions.
 
 President Trump's proposed $1.5 trillion military budget for 2027 signals where priorities are headed. Every uptick in defense spending means more demand for tungsten. The White House has explicitly called for reshoring critical mineral supply chains, which aligns perfectly with what United States Tungsten is attempting to do.
 
@@ -38,7 +38,7 @@ Most businesses live and die by market conditions. Defense contractors play a di
 
 United States Tungsten claims it's already in discussions with the federal government. That's the kind of validation that matters in this space. Long-term government contracts represent some of the most stable revenue streams available. Unlike commercial buyers who might switch suppliers to save a few percentage points, the government prioritizes reliability and domestic sourcing.
 
-The company still needs to actually start digging, which is no small feat. Mining operations face regulatory hurdles, capital requirements, and execution risks that can derail even the most promising projects. But the broader [Technology](https://infeeds.com/tags/?tag=technology) and industrial landscape seems to be tilting in favor of domestic mineral producers.
+The company still needs to actually start digging, which is no small feat. Mining operations face regulatory hurdles, capital requirements, and execution risks that can derail even the most promising projects. But the broader [Technology](https://infeeds.com/tags/technology) and industrial landscape seems to be tilting in favor of domestic mineral producers.
 
 ## The Regulation CF Angle
 

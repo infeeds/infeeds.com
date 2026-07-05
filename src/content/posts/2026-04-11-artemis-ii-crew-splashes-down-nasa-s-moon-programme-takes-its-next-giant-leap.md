@@ -34,6 +34,6 @@ What strikes you when you look at the full picture is how much work remains. Spl
 
 President Trump welcomed the crew home and called the trip "spectacular," which is fair enough. The astronauts themselves, including Canadian Jeremy Hansen, performed at an exceptionally high level. NASA's Lori Glaze praised their teamwork and camaraderie specifically, which matters more than individual heroics in programmes this complex.
 
-The Artemis programme represents something worth paying attention to in [Technology](https://infeeds.com/tags/?tag=technology) and [Space Exploration](https://infeeds.com/tags/?tag=news). It's a multigenerational commitment to human spaceflight that goes beyond flags and footprints. The goal is actual presence on another world, eventually leading to Mars missions.
+The Artemis programme represents something worth paying attention to in [Technology](https://infeeds.com/tags/technology) and [Space Exploration](https://infeeds.com/tags/news). It's a multigenerational commitment to human spaceflight that goes beyond flags and footprints. The goal is actual presence on another world, eventually leading to Mars missions.
 
 Today confirmed that the foundation is solid. What we're about to learn is whether NASA and its partners can actually build on it.

@@ -18,7 +18,7 @@ The whole thing unravels when you look at what King was actually doing. He was r
 
 The audacity is almost stunning. He drove a replica undercover police vehicle, complete with stolen license plates he'd taken from cars outside a military recruiting office. This wasn't some amateur operation. This was calculated deception on a scale that required planning and resources.
 
-The bigger question nobody's asking loudly enough: how did this happen? How does someone just slip into a security detail for a sitting U.S. Representative without proper vetting? Whether [we're talking about politics](https://infeeds.com/tags/?tag=politics) or public safety, this feels like a massive oversight somewhere in the chain.
+The bigger question nobody's asking loudly enough: how did this happen? How does someone just slip into a security detail for a sitting U.S. Representative without proper vetting? Whether [we're talking about politics](https://infeeds.com/tags/politics) or public safety, this feels like a massive oversight somewhere in the chain.
 
 ## The Vetting Problem Nobody Wants to Talk About
 
@@ -34,6 +34,6 @@ Here's the nagging detail that won't go away: authorities haven't revealed King'
 
 Identity matters. We live in an age where background checks are supposed to be thorough. We're supposed to know who's protecting our elected officials. The fact that this person operated under aliases while running a security business suggests either a spectacular failure of vetting procedures or something more complicated was going on.
 
-This incident highlights why transparency in [news reporting](https://infeeds.com/tags/?tag=news) and security matters so much. Without clear information, people fill in the blanks with speculation. And speculation, especially when national security and political figures are involved, can spiral in unhelpful directions.
+This incident highlights why transparency in [news reporting](https://infeeds.com/tags/news) and security matters so much. Without clear information, people fill in the blanks with speculation. And speculation, especially when national security and political figures are involved, can spiral in unhelpful directions.
 
 What happens the next time someone with a fake badge gets too close to someone who actually matters?

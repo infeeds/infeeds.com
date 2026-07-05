@@ -26,7 +26,7 @@ The data's probably sitting in your CRM or Google Analytics right now. Your soci
 
 ## Stop Trying to Be Everywhere
 
-Here's an uncomfortable truth: your audience doesn't want to see you on every single platform. They use different [business](https://infeeds.com/tags/?tag=business) channels for different reasons, and brand fatigue is real.
+Here's an uncomfortable truth: your audience doesn't want to see you on every single platform. They use different [business](https://infeeds.com/tags/business) channels for different reasons, and brand fatigue is real.
 
 Being on TikTok just because everyone else is there? That's not strategy. That's FOMO dressed up as marketing. You'll get better results focusing on two platforms and actually doing them well than spreading yourself thin across six.
 
@@ -58,7 +58,7 @@ Understanding how algorithms work on each platform isn't optional anymore. The r
 
 ## Plan Ahead or Scramble Forever
 
-Winging your [content](https://infeeds.com/tags/?tag=business) strategy might feel creative, but it's actually just chaotic. Planning ahead gives you time to create something decent instead of panic-posting whatever's handy.
+Winging your [content](https://infeeds.com/tags/business) strategy might feel creative, but it's actually just chaotic. Planning ahead gives you time to create something decent instead of panic-posting whatever's handy.
 
 Several platforms have native scheduling now, but a unified tool that shows you everything at once makes way more sense. Seeing your organic posts, paid campaigns, and scheduled content in one place means you can actually spot gaps before they happen.
 

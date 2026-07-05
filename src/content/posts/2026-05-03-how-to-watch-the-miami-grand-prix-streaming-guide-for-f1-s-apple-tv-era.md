@@ -24,7 +24,7 @@ The Miami GP airs Sunday at 4 p.m. ET, so you've got plenty of time to decide if
 
 ## The UK's Sky Sports Stronghold
 
-Over in the UK, Sky Sports remains the established [technology](https://infeeds.com/tags/?tag=technology) provider for F1, offering practice rounds, qualifying, and the race itself. If Sky Sports is already bundled with your TV package, you can stream through the Sky Sports app with your existing login.
+Over in the UK, Sky Sports remains the established [technology](https://infeeds.com/tags/technology) provider for F1, offering practice rounds, qualifying, and the race itself. If Sky Sports is already bundled with your TV package, you can stream through the Sky Sports app with your existing login.
 
 For cord-cutters, Now TV (Sky's streaming subsidiary) offers day passes for £15 or monthly memberships starting at £35. It's a reasonable middle ground for viewers who don't want annual commitments but still crave the full F1 weekend coverage.
 
@@ -44,6 +44,6 @@ The Miami GP kicks off Monday morning at 6 a.m. AEST, so Australian viewers migh
 
 ## Why This Matters
 
-The fragmentation across Apple TV, regional broadcasters, and streaming platforms reflects a broader [business](https://infeeds.com/tags/?tag=business) reality: F1's global audience now requires different subscriptions depending on geography. That's less convenient than the sport pretends, but it's also where most premium sports have landed.
+The fragmentation across Apple TV, regional broadcasters, and streaming platforms reflects a broader [business](https://infeeds.com/tags/business) reality: F1's global audience now requires different subscriptions depending on geography. That's less convenient than the sport pretends, but it's also where most premium sports have landed.
 
 The real question isn't which service works best in your region. It's whether the constant proliferation of exclusive deals across competing platforms has finally reached a breaking point where casual fans simply tune out rather than subscribe to another service.

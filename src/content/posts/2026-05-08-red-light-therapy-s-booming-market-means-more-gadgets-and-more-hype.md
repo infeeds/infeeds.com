@@ -11,7 +11,7 @@ tags_color: '#ff5722'
 
 The red-light therapy boom is real. According to Fortune Business Insights, the industry is projected to balloon from $1.21 billion in 2026 to $1.76 billion by 2034. That kind of growth attracts everyone from established wellness brands to startups hungry for a piece of the action. The latest player making noise is Hong Kong-based Megelin, which just launched what it's calling its largest Mother's Day sale, stacking discounts on LED devices and electrical muscle stimulation tools.
 
-So what's driving all this interest? Red light therapy has lingered in wellness circles for years, but it's recently crossed into mainstream consumer <a href="https://infeeds.com/tags/?tag=technology">technology</a>. The appeal is straightforward: slap on a mask, run some LEDs on your face, and supposedly watch wrinkles fade and inflammation melt away. The barrier to entry keeps getting lower as manufacturers find ways to make these devices cheaper and sleeker.
+So what's driving all this interest? Red light therapy has lingered in wellness circles for years, but it's recently crossed into mainstream consumer <a href="https://infeeds.com/tags/technology">technology</a>. The appeal is straightforward: slap on a mask, run some LEDs on your face, and supposedly watch wrinkles fade and inflammation melt away. The barrier to entry keeps getting lower as manufacturers find ways to make these devices cheaper and sleeker.
 
 ## The Megelin Mask: Impressive Hardware, Questionable Results
 
@@ -29,7 +29,7 @@ Here's where the math gets tricky. At full price, this mask is steep compared to
 
 Whether it's actually worth it depends on what you're hoping to get out of it. If you're a devoted red-light therapy believer with disposable income, the sale timing could work in your favor. If you're skeptical and just dipping your toe in, waiting for clearer long-term results might be the smarter call.
 
-I'll be continuing my full six-week trial before rendering a final verdict. But here's the thing that keeps nagging at me: even in a market projected to grow nearly 50 percent over the next eight years, we're still largely taking manufacturers' claims on faith. The science exists, sure. But the gap between clinical research and what these consumer-grade devices actually deliver for individual users remains frustratingly wide. That's not necessarily a knock on Megelin specifically. It's a knock on the entire <a href="https://infeeds.com/tags/?tag=business">business</a> of selling hope in the form of LED masks.
+I'll be continuing my full six-week trial before rendering a final verdict. But here's the thing that keeps nagging at me: even in a market projected to grow nearly 50 percent over the next eight years, we're still largely taking manufacturers' claims on faith. The science exists, sure. But the gap between clinical research and what these consumer-grade devices actually deliver for individual users remains frustratingly wide. That's not necessarily a knock on Megelin specifically. It's a knock on the entire <a href="https://infeeds.com/tags/business">business</a> of selling hope in the form of LED masks.
 
 The real question isn't whether red-light therapy can work. It's whether you're willing to be the experiment while the market figures out which devices actually justify their price tags.
 ```

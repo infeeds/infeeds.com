@@ -16,7 +16,7 @@ For years, TikTok has been that platform everyone knew they needed to monitor bu
 
 The backfill feature is particularly smart. Instead of starting from zero when you set up a new listening stream, Hootsuite pulls in up to 1,000 of the top-performing posts from the previous 90 days. That means you're not flying blind while you wait for new content to roll in.
 
-This is a big deal for brands trying to understand the TikTok conversation around them, especially given that the platform has become a search engine in its own right for younger audiences. [Technology](https://infeeds.com/tags/?tag=technology) continues to reshape how people discover content, and TikTok is at the center of that shift.
+This is a big deal for brands trying to understand the TikTok conversation around them, especially given that the platform has become a search engine in its own right for younger audiences. [Technology](https://infeeds.com/tags/technology) continues to reshape how people discover content, and TikTok is at the center of that shift.
 
 ## OwlyGPT Starts Acting Like a Conversation, Not a Search Bar
 

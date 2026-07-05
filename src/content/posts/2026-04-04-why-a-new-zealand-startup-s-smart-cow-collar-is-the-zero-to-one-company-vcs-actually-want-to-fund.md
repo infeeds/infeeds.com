@@ -26,7 +26,7 @@ What makes this interesting isn't just the herding capability. The collar collec
 
 Here's where the venture math gets interesting. By giving ranchers precise control over grazing patterns, Halter can lift land productivity by as much as 20 percent. In some cases, customers are literally doubling output off the same acreage. That's not a labor savings story. That's land efficiency that compounds every single year.
 
-This is the kind of unit economics that makes venture investors sit up and pay attention. Unlike most [agriculture](https://infeeds.com/tags/?tag=agriculture) technology startups that have struggled in recent years to convince farmers to adopt new products while bleeding cash, Halter's pitch is absurdly simple: invest in our collar, make significantly more money. The company has grown to over a million collars deployed across more than 2,000 farms in New Zealand, Australia, and 22 U.S. states.
+This is the kind of unit economics that makes venture investors sit up and pay attention. Unlike most [agriculture](https://infeeds.com/tags/agriculture) technology startups that have struggled in recent years to convince farmers to adopt new products while bleeding cash, Halter's pitch is absurdly simple: invest in our collar, make significantly more money. The company has grown to over a million collars deployed across more than 2,000 farms in New Zealand, Australia, and 22 U.S. states.
 
 Piggott grew up on a dairy farm before studying engineering and spending time at Rocket Lab, where he glimpsed what a technology startup could actually be. He started Halter at 21. "Probably a bit naive in hindsight," he acknowledged, "but that was fine." Nine years later, that naivete has turned into the kind of engineering moat that actually matters.
 
@@ -40,7 +40,7 @@ When asked about drone competition, Piggott was characteristically blunt: "I don
 
 ## The Global Bet
 
-Unlike most [technology](https://infeeds.com/tags/?tag=technology) companies obsessed with U.S. dominance, Halter is thinking globally. "The U.S. market is important for us, but it's not the world's biggest market," Piggott said. "Agriculture is spread around the world, and we need to get there too."
+Unlike most [technology](https://infeeds.com/tags/technology) companies obsessed with U.S. dominance, Halter is thinking globally. "The U.S. market is important for us, but it's not the world's biggest market," Piggott said. "Agriculture is spread around the world, and we need to get there too."
 
 The company has raised roughly $400 million to date and is now prioritizing expansion across the U.S., South America, and Europe. The remaining opportunity is staggering: Halter's collar is on one million cattle. There are one billion more in the world. Even in its home market of New Zealand, penetration hasn't hit 10 percent.
 

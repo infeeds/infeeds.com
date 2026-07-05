@@ -12,7 +12,7 @@ There's something refreshingly paranoid about Jensen Huang. The man runs a compa
 
 On a recent episode of the "20VC" podcast, Srinivas recounted what he learned from spending time with the Nvidia CEO, and it's the kind of advice that sounds ridiculous until you really think about it. Huang reportedly tells everyone around him that the company could be out of business in a month. Not because there's some imminent crisis, but because that's the mentality that keeps you sharp when you have $5 trillion riding on your ability to stay ahead.
 
-"That's what it takes to be Jensen Huang," Srinivas said. And you know what? He's probably right. The [Technology](https://infeeds.com/tags/?tag=technology) space doesn't reward complacency. It punishes it viciously and without warning.
+"That's what it takes to be Jensen Huang," Srinivas said. And you know what? He's probably right. The [Technology](https://infeeds.com/tags/technology) space doesn't reward complacency. It punishes it viciously and without warning.
 
 Now here's where it gets interesting. From Elon Musk, Srinivas picked up something completely different but equally contrarian. It's not about the money. Musk's compensation at SpaceX, Srinivas noted, is structured around creating a colony on Mars with a million inhabitants. That's the goal. Not becoming richer than God, not hitting some astronomical net worth number. The pay package literally aligns incentives around an almost absurdly ambitious outcome.
 

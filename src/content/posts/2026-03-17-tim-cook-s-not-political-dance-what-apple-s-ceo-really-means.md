@@ -20,7 +20,7 @@ Cook's argument hinges on a convenient distinction: he deals with policy, not po
 
 Except policy is politics. They're not separate things masquerading as different concepts. When you sit down with a president to discuss immigration crackdowns or manufacturing investments, you're engaging in the political sphere. You're choosing which administration to work with, which issues to prioritize, and which leaders to legitimize by your presence.
 
-The [business](https://infeeds.com/tags/?tag=business) world has gotten increasingly comfortable with this language. Executives love describing their White House visits as "policy discussions" rather than what they sometimes look like from the outside: access-seeking and relationship-building with people in power.
+The [business](https://infeeds.com/tags/business) world has gotten increasingly comfortable with this language. Executives love describing their White House visits as "policy discussions" rather than what they sometimes look like from the outside: access-seeking and relationship-building with people in power.
 
 ## The Optics Problem Nobody's Solved
 
@@ -42,7 +42,7 @@ But let's not pretend it's apolitical. It's not. It's a strategic relationship w
 
 Cook mentioned Apple's $600 billion investment in U.S. manufacturing, highlighted by Kentucky glass production coming to iPhones soon. It's a significant investment that looks good for domestic manufacturing and American jobs.
 
-It also happens to be something the Trump administration heavily encourages. Tax incentives, deregulation, a pro-business stance. Cook's not wrong to work within that environment if it helps Apple's [technology](https://infeeds.com/tags/?tag=technology) manufacturing goals. But it's worth noting that this policy discussion he's having with Trump is one that works in Apple's favor during this particular administration.
+It also happens to be something the Trump administration heavily encourages. Tax incentives, deregulation, a pro-business stance. Cook's not wrong to work within that environment if it helps Apple's [technology](https://infeeds.com/tags/technology) manufacturing goals. But it's worth noting that this policy discussion he's having with Trump is one that works in Apple's favor during this particular administration.
 
 The question nobody's asking out loud is what happens if Cook needs to take a different position than Trump wants on something that actually matters. Will the accessibility remain? Will the policy discussions continue? Or does it only go one direction?
 

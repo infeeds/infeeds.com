@@ -42,7 +42,7 @@ This matters because it signals that America's traditional allies are drawing li
 
 Trump's frustration with NATO had been building for months. Earlier in the year, he'd demanded that the U.S. take control of Greenland, an autonomous territory under Denmark. When that didn't happen, he signaled his displeasure. "It all began with Greenland," he said at a Monday news conference. "We want Greenland. They don't want to give it to us. And I said, 'Bye, bye.'"
 
-The tension between the U.S. and its allies on [business](https://infeeds.com/tags/?tag=business) matters involving military intervention is nothing new. But the explicit refusal to participate in operations targeting civilian infrastructure suggests something harder to dismiss: skepticism about the moral and strategic foundation of what's happening.
+The tension between the U.S. and its allies on [business](https://infeeds.com/tags/business) matters involving military intervention is nothing new. But the explicit refusal to participate in operations targeting civilian infrastructure suggests something harder to dismiss: skepticism about the moral and strategic foundation of what's happening.
 
 ## The Domestic Blowback
 

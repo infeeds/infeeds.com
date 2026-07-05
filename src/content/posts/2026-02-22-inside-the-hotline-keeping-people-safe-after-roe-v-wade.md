@@ -54,6 +54,6 @@ The people working this hotline aren't prescribing the pills themselves, but the
 
 "When people feel like they don't have any options, they are more likely to do something dangerous or get in legal trouble," Lockley said. "In order to help protect people and help keep people safe, we want to give them accurate information so that they can decide for themselves if this is something that they want to do and what their options are."
 
-This isn't just about [health](https://infeeds.com/tags/?tag=health) anymore. It's about how we handle the criminalization of pregnancy and medicine in a fractured country. It's about real people facing real fears while trying to make deeply personal decisions. And it's about a network of volunteers answering phones in their apartments, their cars, their breaks at work, because the alternative is leaving people with no one to turn to at all.
+This isn't just about [health](https://infeeds.com/tags/health) anymore. It's about how we handle the criminalization of pregnancy and medicine in a fractured country. It's about real people facing real fears while trying to make deeply personal decisions. And it's about a network of volunteers answering phones in their apartments, their cars, their breaks at work, because the alternative is leaving people with no one to turn to at all.
 
 The question hanging over all of this isn't really about whether the hotline will keep operating. It's about what happens when providing accurate medical information becomes an act of resistance.

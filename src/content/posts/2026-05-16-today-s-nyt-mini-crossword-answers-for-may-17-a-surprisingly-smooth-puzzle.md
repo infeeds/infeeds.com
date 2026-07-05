@@ -24,6 +24,6 @@ Let's start with the down-and-dirty. **1A asks for wedding entertainers, for sho
 
 **2D pulls from pop culture: Rory's love interest on Gilmore Girls is JESS**. If you watched the show during its original run or caught the Netflix revival, you know this one triggers genuine debate among fans. Team Jess versus Team Dean versus Team Logan was (and apparently still is) a genuine thing.
 
-The puzzle hits that sweet spot where it's accessible but not patronizing. You're not sitting there wondering what the constructor was thinking. Everything lands naturally, which is exactly what you want from a Friday Mini before you move on to [harder puzzles](https://infeeds.com/tags/?tag=tech) or just get on with your day.
+The puzzle hits that sweet spot where it's accessible but not patronizing. You're not sitting there wondering what the constructor was thinking. Everything lands naturally, which is exactly what you want from a Friday Mini before you move on to [harder puzzles](https://infeeds.com/tags/tech) or just get on with your day.
 
 That's the beauty of these smaller crosswords: they respect your time while still giving you that little satisfaction hit of completing something. No overthinking required.

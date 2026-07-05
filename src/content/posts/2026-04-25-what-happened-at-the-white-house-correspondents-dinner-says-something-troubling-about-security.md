@@ -38,7 +38,7 @@ He's right. It will be debated, probably for months. Security experts will parse
 
 Yet the harder question lurks beneath the tactical critique. What does it say about the state of public events in this country when security for the president himself can be this compromised? Not because of sophisticated threat actors who outsmarted the system, but because of what amounts to shrugs and shortcuts?
 
-This ties into larger conversations about [Business](https://infeeds.com/tags/?tag=business) risk, institutional preparedness, and what we're willing to accept as normal. It's not just about protocols and metal detectors. It's about whether we've collectively normalized a baseline level of chaos as simply part of operating in America.
+This ties into larger conversations about [Business](https://infeeds.com/tags/business) risk, institutional preparedness, and what we're willing to accept as normal. It's not just about protocols and metal detectors. It's about whether we've collectively normalized a baseline level of chaos as simply part of operating in America.
 
 Röhn's final observation is quietly damning: on his way out, he reflected on the security precautions, or lack thereof. A journalist who had been in the country less than a year could see what systems either couldn't or wouldn't address.
 

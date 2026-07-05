@@ -12,7 +12,7 @@ tags_color: '#1788b1'
 
 Scientists at University College London just figured out something pretty unsettling about Alzheimer's disease. The brain doesn't stop trying to save your memories. It just forgets how to do it properly.
 
-The breakthrough comes from watching what happens inside the brains of mice as they develop the telltale plaques associated with Alzheimer's. Using specialized electrodes, researchers tracked about 100 individual neurons at once while the animals navigated a maze and then rested. What they found changes how we think about memory loss in [science](https://infeeds.com/tags/?tag=science).
+The breakthrough comes from watching what happens inside the brains of mice as they develop the telltale plaques associated with Alzheimer's. Using specialized electrodes, researchers tracked about 100 individual neurons at once while the animals navigated a maze and then rested. What they found changes how we think about memory loss in [science](https://infeeds.com/tags/science).
 
 ## When Your Brain's Replay Button Gets Jammed
 
@@ -28,7 +28,7 @@ The behavioral results were heartbreaking in their simplicity. Mice with disrupt
 
 Professor Caswell Barry put it perfectly when he said the brain hasn't stopped trying to consolidate memories. The process itself has gone wrong. That distinction matters because it suggests the machinery is still there, just broken. And broken things can potentially be fixed.
 
-What makes this particularly interesting is how stable the place cells remained over time. In healthy mice, a specific neuron might always represent the same corner of the maze. But in mice with plaques, these cells started to drift, especially after rest periods when replay should have been strengthening those connections. The [research](https://infeeds.com/tags/?tag=research) points to a fundamental breakdown in how memories transition from temporary to permanent storage.
+What makes this particularly interesting is how stable the place cells remained over time. In healthy mice, a specific neuron might always represent the same corner of the maze. But in mice with plaques, these cells started to drift, especially after rest periods when replay should have been strengthening those connections. The [research](https://infeeds.com/tags/research) points to a fundamental breakdown in how memories transition from temporary to permanent storage.
 
 ## Looking for Answers in Acetylcholine
 

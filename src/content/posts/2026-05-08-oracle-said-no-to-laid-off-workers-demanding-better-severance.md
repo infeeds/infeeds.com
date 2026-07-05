@@ -34,7 +34,7 @@ But here's the kicker: even employees who were covered by WARN Act protections d
 
 ## What Other Companies Actually Offered
 
-Compare this to what other [tech](https://infeeds.com/tags/?tag=technology) giants did during similar reductions.
+Compare this to what other [tech](https://infeeds.com/tags/technology) giants did during similar reductions.
 
 Meta offered 16 weeks of base pay as a starting point, plus two weeks for every year of employment, with COBRA coverage extended for 18 months, according to reporting from Business Insider.
 
@@ -56,7 +56,7 @@ Oracle declined to comment on its severance terms, its classification of remote 
 
 The story here isn't that Oracle treated its employees poorly during a layoff. Mass layoffs are messy, and companies rarely go above and beyond. The story is what happens when the power dynamic shifts.
 
-Tech workers have spent years enjoying a reputation for lucrative compensation and perks. Stock options, healthcare benefits, on-campus amenities. But that narrative assumes an employee's [business](https://infeeds.com/tags/?tag=business) is booming and talent is scarce. The moment demand softens, the protections evaporate. The stock that represented future security becomes something the company can simply take away. The negotiation becomes a formality with only one actual option.
+Tech workers have spent years enjoying a reputation for lucrative compensation and perks. Stock options, healthcare benefits, on-campus amenities. But that narrative assumes an employee's [business](https://infeeds.com/tags/business) is booming and talent is scarce. The moment demand softens, the protections evaporate. The stock that represented future security becomes something the company can simply take away. The negotiation becomes a formality with only one actual option.
 
 Workers at Oracle weren't demanding unreasonable things. They were asking for what peer companies had already offered. They were asking for equity that was supposed to be theirs. They were asking to be treated with basic fairness.
 

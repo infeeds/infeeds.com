@@ -41,7 +41,7 @@ Is it companionship? That depends on what you think companionship actually is. I
 
 The expansion of the AI pet market speaks to something real. Pet ownership brings joy, but it also brings genuine logistical stress, expense, and emotional weight. Some people genuinely can't have pets because of allergies or living situations. Others have the space and resources but not the patience for the harder parts.
 
-Kata Friends is SwitchBot's answer to that gap, and it's not a frivolous one. These devices represent a [Technology](https://infeeds.com/tags/?tag=technology) company taking seriously the question of what artificial companions might need to do to feel meaningful rather than hollow.
+Kata Friends is SwitchBot's answer to that gap, and it's not a frivolous one. These devices represent a [Technology](https://infeeds.com/tags/technology) company taking seriously the question of what artificial companions might need to do to feel meaningful rather than hollow.
 
 The subscription model and ongoing costs are worth your skepticism, though. SwitchBot is betting you'll develop enough attachment to Noa or Niko that you'll justify the expense. The company's already planning clothing lines and accessories. They're thinking long-term about this, which suggests they believe the market is real.
 

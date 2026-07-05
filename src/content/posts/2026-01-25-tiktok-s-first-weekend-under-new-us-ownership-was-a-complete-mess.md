@@ -18,7 +18,7 @@ The problems started spiking early Sunday morning according to DownDetector, and
 
 ## When Technical Problems Meet Political Protests
 
-Larry Ellison's Oracle-led consortium just took over TikTok's US operations last week, and suddenly the app is falling apart. Videos won't upload. The For You Page algorithm seems to have completely reset itself. Comments won't load. One Verge writer had a video sitting "under review" for over six hours, which is basically an eternity in [Technology](https://infeeds.com/tags/?tag=technology) time.
+Larry Ellison's Oracle-led consortium just took over TikTok's US operations last week, and suddenly the app is falling apart. Videos won't upload. The For You Page algorithm seems to have completely reset itself. Comments won't load. One Verge writer had a video sitting "under review" for over six hours, which is basically an eternity in [Technology](https://infeeds.com/tags/technology) time.
 
 But here's where it gets interesting. This all happened during major anti-ICE protests in Minneapolis following the death of Alex Pretti, a second local resident killed by federal agents. Politically active accounts started freaking out when their videos wouldn't publish, especially since their previously political For You Pages suddenly looked like they'd been replaced with generic dancing videos and recipe content.
 
@@ -30,7 +30,7 @@ Some Redditors outside the US reported similar issues, which throws a wrench int
 
 This could actually support a different theory though. Backend changes during the ownership migration could have caused ripple effects that hit different regions randomly. The new owners have to retrain the entire algorithm using only US data, which is a massive undertaking that could definitely break things in unexpected ways.
 
-The new [business](https://infeeds.com/tags/?tag=business) arrangement also comes with updated terms of service that collect more precise location data and details about users' AI interactions. Moving all that infrastructure around while keeping a billion-user platform running smoothly? Good luck with that.
+The new [business](https://infeeds.com/tags/business) arrangement also comes with updated terms of service that collect more precise location data and details about users' AI interactions. Moving all that infrastructure around while keeping a billion-user platform running smoothly? Good luck with that.
 
 ## The Silence Says Everything
 
@@ -40,4 +40,4 @@ Maybe they're scrambling to fix technical issues and don't want to promise timel
 
 The problem is that silence breeds speculation, and speculation in this political climate breeds conspiracy theories. Whether these are legitimate technical growing pains from a massive corporate transition or something more deliberate, TikTok needed to get ahead of this story yesterday.
 
-Users are stuck in limbo, not knowing if their content is being censored or if they're just caught in the crossfire of a botched [tech](https://infeeds.com/tags/?tag=technology) migration. And the longer TikTok stays quiet, the more people are going to assume the worst about what their new American owners are actually doing with the platform.
+Users are stuck in limbo, not knowing if their content is being censored or if they're just caught in the crossfire of a botched [tech](https://infeeds.com/tags/technology) migration. And the longer TikTok stays quiet, the more people are going to assume the worst about what their new American owners are actually doing with the platform.

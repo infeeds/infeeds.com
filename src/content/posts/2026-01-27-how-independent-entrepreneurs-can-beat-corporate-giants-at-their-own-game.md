@@ -16,7 +16,7 @@ If you're running an independent business in an industry crawling with private e
 
 Wrong.
 
-The problem isn't that independent entrepreneurs can't compete. It's that they're trying to play by rules written by [businesses](https://infeeds.com/tags/?tag=business) designed to crush them. After two decades of building companies, executing exits, and racking up over $700 million in transactions without selling out to investors, I've learned something critical: you don't beat the big guys by becoming them.
+The problem isn't that independent entrepreneurs can't compete. It's that they're trying to play by rules written by [businesses](https://infeeds.com/tags/business) designed to crush them. After two decades of building companies, executing exits, and racking up over $700 million in transactions without selling out to investors, I've learned something critical: you don't beat the big guys by becoming them.
 
 ## Throw Out the Rulebook
 
@@ -30,7 +30,7 @@ The big players rely on committee decisions and approval chains. You can make a 
 
 Here's where most entrepreneurs screw up. They chase growth before fixing their foundation. More locations, more products, more chaos. Growth without systems isn't growth, it's just expensive confusion.
 
-Before expanding anywhere, I built digital [technology](https://infeeds.com/tags/?tag=technology) frameworks from scratch. These weren't off-the-shelf solutions that sort of fit. They were custom tools connecting marketing to operations to customer service, creating visibility that most multi-location businesses dream about.
+Before expanding anywhere, I built digital [technology](https://infeeds.com/tags/technology) frameworks from scratch. These weren't off-the-shelf solutions that sort of fit. They were custom tools connecting marketing to operations to customer service, creating visibility that most multi-location businesses dream about.
 
 Digital clarity creates financial clarity. When you can see everything happening in real-time across your entire operation, you stop guessing and start knowing. Those proprietary tools we built years ago still power decision-making today because they were designed for our specific needs, not a generic business model.
 
@@ -66,7 +66,7 @@ Every tech startup I exited received unsolicited acquisition offers because they
 
 ## Stay Rigid and Flexible Simultaneously
 
-Markets shift. Consumer behavior changes overnight. [Technology](https://infeeds.com/tags/?tag=technology) evolves faster than business plans. The entrepreneurs who win are the ones who can pivot without losing their discipline.
+Markets shift. Consumer behavior changes overnight. [Technology](https://infeeds.com/tags/technology) evolves faster than business plans. The entrepreneurs who win are the ones who can pivot without losing their discipline.
 
 We maintain strict operating rhythms and standards while staying ready to change direction when conditions demand it. Structure and flexibility aren't opposites. They're partners. Precision without adaptability gets you disrupted. Flexibility without standards gets you chaos.
 

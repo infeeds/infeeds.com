@@ -20,7 +20,7 @@ Salmonella poisoning usually shows up within 12 to 72 hours after consumption. W
 
 ## What This Means for the Industry
 
-This recall should be a wake-up call for anyone paying attention to [Food safety regulations](https://infeeds.com/tags/?tag=health). It also raises questions about supply chain oversight and how companies vet their ingredients, particularly dairy products which can be tricky to source safely. When you're a [business](https://infeeds.com/tags/?tag=business) handling food products, your quality control chain is only as strong as its weakest link.
+This recall should be a wake-up call for anyone paying attention to [Food safety regulations](https://infeeds.com/tags/health). It also raises questions about supply chain oversight and how companies vet their ingredients, particularly dairy products which can be tricky to source safely. When you're a [business](https://infeeds.com/tags/business) handling food products, your quality control chain is only as strong as its weakest link.
 
 The voluntary nature of this recall is worth noting. The company initiated it themselves, which suggests they either found something in their own testing or were alerted by their supplier. Either way, it makes you wonder how many other potential issues slip through the cracks before anyone notices.
 

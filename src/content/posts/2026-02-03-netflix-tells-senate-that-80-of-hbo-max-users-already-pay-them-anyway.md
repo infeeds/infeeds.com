@@ -26,7 +26,7 @@ Senator Amy Klobuchar from Minnesota wasn't buying it either. She pressed Sarand
 
 Sarandos pulled out the "you can cancel anytime" card. He told senators that Netflix is a "one-click cancel" service, so if people think it's too expensive, they can just leave. Which is technically true but also kind of misses the point about market concentration and competitive pricing.
 
-He also tried to justify past price hikes by claiming they came with "a lot more value" for subscribers. The [Technology](https://infeeds.com/tags/?tag=technology) executive calculated that Netflix subscribers spend about 35 cents per hour of content watched compared to 90 cents for Paramount+. MoffettNathanson backed up similar numbers from January 2025, finding Netflix generated 34 cents per hour versus Paramount+'s 76 cents.
+He also tried to justify past price hikes by claiming they came with "a lot more value" for subscribers. The [Technology](https://infeeds.com/tags/technology) executive calculated that Netflix subscribers spend about 35 cents per hour of content watched compared to 90 cents for Paramount+. MoffettNathanson backed up similar numbers from January 2025, finding Netflix generated 34 cents per hour versus Paramount+'s 76 cents.
 
 That's a clever way to frame it. Instead of talking about the monthly price tag, he's talking about cost per hour of eyeballs on screens. It makes Netflix sound like a bargain even as they keep bumping up subscription fees.
 
@@ -34,7 +34,7 @@ That's a clever way to frame it. Instead of talking about the monthly price tag,
 
 When the monopoly concerns kept coming, Sarandos pointed fingers at the real giants: Google, Apple, and Amazon. He called them "deep-pocketed tech companies trying to run away with the TV business." He specifically highlighted YouTube's dominance, noting that Nielsen's December data showed YouTube capturing 12.7 percent of TV viewership compared to Netflix's 9 percent.
 
-His math suggested that even if Netflix merged with HBO Max, they'd only have 21 percent of the SVOD market. Which sounds reasonable until you remember that YouTube isn't really a direct competitor to subscription streaming services. It's a different [business](https://infeeds.com/tags/?tag=business) model entirely, mostly ad-supported with a premium tier on the side.
+His math suggested that even if Netflix merged with HBO Max, they'd only have 21 percent of the SVOD market. Which sounds reasonable until you remember that YouTube isn't really a direct competitor to subscription streaming services. It's a different [business](https://infeeds.com/tags/business) model entirely, mostly ad-supported with a premium tier on the side.
 
 ## The Bidding War Nobody Asked For
 
@@ -42,7 +42,7 @@ This hearing is just the beginning of what promises to be a long and messy fight
 
 Paramount has already sued WBD over its Netflix deal, which tells you how seriously they're taking this threat. The streaming wars were already brutal when companies were just competing for viewers. Now they're competing to buy each other's arsenals.
 
-Sarandos told senators that Netflix is working with the Department of Justice on potential guardrails against future price hikes. That's supposed to be reassuring, but guardrails only work if someone actually enforces them. And [news](https://infeeds.com/tags/?tag=news) flash: companies rarely volunteer to limit their own pricing power without serious regulatory teeth.
+Sarandos told senators that Netflix is working with the Department of Justice on potential guardrails against future price hikes. That's supposed to be reassuring, but guardrails only work if someone actually enforces them. And [news](https://infeeds.com/tags/news) flash: companies rarely volunteer to limit their own pricing power without serious regulatory teeth.
 
 The most telling part of Sarandos's testimony might be when he described WBD as "both a competitor and a supplier." That's corporate speak for "we've had a complicated relationship and now we just want to own them." Netflix's whole pitch is that they want to keep adding more content and choice, but consolidation typically leads to less choice, not more, even if the content library gets bigger under one roof.
 

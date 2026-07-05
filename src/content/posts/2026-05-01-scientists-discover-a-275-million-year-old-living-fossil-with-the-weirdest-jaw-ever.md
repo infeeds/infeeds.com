@@ -32,7 +32,7 @@ This grinding mechanism screams herbivore. Most stem tetrapods are thought to ha
 
 ## A Window Into an Ancient World
 
-The discovery matters beyond just adding another weird creature to the [science](https://infeeds.com/tags/?tag=science) record. Around 275 million years ago, Brazil was part of Gondwana, a vast supercontinent that included South America, Africa, Australia, and Antarctica. Fossils from this era and place are rare compared to finds from the Global North, making every discovery valuable.
+The discovery matters beyond just adding another weird creature to the [science](https://infeeds.com/tags/science) record. Around 275 million years ago, Brazil was part of Gondwana, a vast supercontinent that included South America, Africa, Australia, and Antarctica. Fossils from this era and place are rare compared to finds from the Global North, making every discovery valuable.
 
 "The Pedra de Fogo Formation in Brazil is one of the only windows we have into Gondwana's animals during the early Permian Period of Earth history, and *Tanyka* is telling us about how this community actually worked, how it was structured, and who was eating what," Angielczyk says.
 

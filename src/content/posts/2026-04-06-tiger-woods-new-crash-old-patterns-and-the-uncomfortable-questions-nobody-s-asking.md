@@ -38,7 +38,7 @@ Here's what nobody wants to say out loud: this looks like addiction or substance
 
 None of this proves anything definitively. We're not in a courtroom. But it's enough to make a reasonable person concerned, not just about Woods, but about how we respond when famous, wealthy people display these behaviors.
 
-For average Americans struggling with [business](https://infeeds.com/tags/?tag=business) instability and rising costs, the safety nets are thin. An arrest for DUI means consequences. Job loss, insurance problems, custody battles. But for a billionaire athlete? There's rehabilitation, public sympathy, and the understanding that pain excuses everything.
+For average Americans struggling with [business](https://infeeds.com/tags/business) instability and rising costs, the safety nets are thin. An arrest for DUI means consequences. Job loss, insurance problems, custody battles. But for a billionaire athlete? There's rehabilitation, public sympathy, and the understanding that pain excuses everything.
 
 Trump's comment about pain being the real issue is doing something specific: it's redirecting our attention away from behavior and toward circumstances we can all relate to. Who doesn't have pain? Who doesn't take medication? By universalizing the problem, it becomes easier to dismiss the specifics of this case.
 

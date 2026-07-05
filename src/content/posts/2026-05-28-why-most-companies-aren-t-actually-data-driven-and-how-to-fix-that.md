@@ -80,7 +80,7 @@ Instead of asking people to check dashboards constantly, data shows up where dec
 
 Plenty of organizations collect massive amounts of information. That alone doesn't make them successful.
 
-Technology has made analytics far more accessible than it was a decade ago. Cloud platforms and modern data tools have lowered barriers significantly across [Technology](https://infeeds.com/tags/?tag=technology).
+Technology has made analytics far more accessible than it was a decade ago. Cloud platforms and modern data tools have lowered barriers significantly across [Technology](https://infeeds.com/tags/technology).
 
 What remains rare is leadership discipline—the willingness to follow evidence even when it challenges assumptions. The companies that consistently outperform others tend to act on signals quickly, maintain a single source of truth, and embed insights into how people actually work.
 

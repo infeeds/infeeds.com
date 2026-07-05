@@ -18,7 +18,7 @@ It wasn't an isolated incident. Former Google CEO Eric Schmidt faced similar res
 
 To be clear, not every commencement speaker got roasted. Nvidia CEO Jensen Huang recently spoke at Carnegie Mellon without apparent pushback when he said AI has "reinvented computing." But the trend is notable enough to suggest something real is happening in the collective mood of graduating students.
 
-A recent Gallup poll tells part of the story. Only 43% of Americans aged 15 to 34 said it's a good time to find a job locally. That's a steep drop from 75% in 2022. The pessimism isn't entirely about [technology](https://infeeds.com/tags/?tag=technology), but journalist and tech critic Brian Merchant framed it in a way that resonates: for many students, AI has become "the cruel new face of hyper-scaling capitalism."
+A recent Gallup poll tells part of the story. Only 43% of Americans aged 15 to 34 said it's a good time to find a job locally. That's a steep drop from 75% in 2022. The pessimism isn't entirely about [technology](https://infeeds.com/tags/technology), but journalist and tech critic Brian Merchant framed it in a way that resonates: for many students, AI has become "the cruel new face of hyper-scaling capitalism."
 
 "I too would loudly boo at the prospect of this next industrial revolution if I was in my early twenties, unemployed, and had aspirations for my future greater than entering prompts into an LLM," Merchant wrote.
 
@@ -28,7 +28,7 @@ Schmidt himself seemed aware of this undercurrent. He acknowledged a genuine anx
 
 The booing at UCF wasn't purely about artificial intelligence, though. One student noted that Caulfield had already begun losing the room with generic praise of corporate executives like Jeff Bezos before she even got to AI. Alexander Rose Tyson, a graduate who was there, told The New York Times that "it wasn't one person that really started the booing. It was just sort of like a collective, 'This sucks.'"
 
-That collective dismissal is worth taking seriously. Speakers at commencement events aren't usually met with sustained hostility unless something deeper is off. In this case, it's a mismatch between what tech leaders are selling (excitement about the future, opportunity through transformation) and what graduating students are experiencing (job scarcity, economic anxiety, uncertainty about what [technology](https://infeeds.com/tags/?tag=technology) means for their career prospects).
+That collective dismissal is worth taking seriously. Speakers at commencement events aren't usually met with sustained hostility unless something deeper is off. In this case, it's a mismatch between what tech leaders are selling (excitement about the future, opportunity through transformation) and what graduating students are experiencing (job scarcity, economic anxiety, uncertainty about what [technology](https://infeeds.com/tags/technology) means for their career prospects).
 
 Even when graduation speakers steered clear of AI entirely this year, "resilience" became a recurring theme. That word choice alone suggests organizers understood the mood. You don't tell a room full of optimistic graduates about the importance of resilience. You say it when you're bracing them for difficulty ahead.
 
@@ -38,4 +38,4 @@ What makes this moment different from previous tech booms is that the skepticism
 
 The anxiety around AI specifically tracks with real concerns within the tech industry itself. Workers at major tech companies have openly worried about their own job security as AI capabilities expand. When even the people building these systems are nervous, it's not surprising that fresh graduates would be skeptical of speeches framing AI as an unambiguous opportunity.
 
-None of this means AI won't reshape [business](https://infeeds.com/tags/?tag=business) and society. It probably will. But the booing at commencement events is a reminder that technological change and human flourishing aren't automatic companions. One requires intentional choices about the other, and those choices haven't been particularly reassuring to watch so far.
+None of this means AI won't reshape [business](https://infeeds.com/tags/business) and society. It probably will. But the booing at commencement events is a reminder that technological change and human flourishing aren't automatic companions. One requires intentional choices about the other, and those choices haven't been particularly reassuring to watch so far.

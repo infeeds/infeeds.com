@@ -26,7 +26,7 @@ Figuring this out wasn't easy. The researchers combined palaeomagnetic data from
 
 Even with a supercomputer, running these simulations across 265 million years required massive computational power. But the results were worth it. The models showed that beneath these hot rock structures, the liquid iron might actually stagnate rather than flow vigorously like it does under cooler regions.
 
-Professor Andy Biggin, who studies geomagnetism at Liverpool, explained that some components of Earth's magnetic field have stayed relatively stable for hundreds of millions of years while other aspects changed dramatically. The [science](https://infeeds.com/tags/?tag=science) behind understanding these patterns opens up entirely new ways of thinking about our planet's interior.
+Professor Andy Biggin, who studies geomagnetism at Liverpool, explained that some components of Earth's magnetic field have stayed relatively stable for hundreds of millions of years while other aspects changed dramatically. The [science](https://infeeds.com/tags/science) behind understanding these patterns opens up entirely new ways of thinking about our planet's interior.
 
 ## Everything We Thought About Earth's Magnetic Field Might Be Wrong
 

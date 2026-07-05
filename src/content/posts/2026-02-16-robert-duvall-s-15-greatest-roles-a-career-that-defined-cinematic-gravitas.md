@@ -30,7 +30,7 @@ The irony is that Burns thinks he's the moral center of the unit, but Duvall pla
 
 Tom Hagen might be the most underrated character in The Godfather saga. While everyone remembers Brando's raspy wisdom, Pacino's transformation, and Caan's explosive rage, Duvall provided the steady hand that kept the Corleone family from spinning into complete chaos. He's the voice of tradition, of doing things the old way, of loyalty above all else.
 
-"Why do you hurt me, Michael? I've always been loyal to you." That line hits harder than any gunshot in those films because Duvall delivers it with genuine pain. Tom Hagen isn't just the family lawyer. He's the last link to Vito's way of thinking, and when Michael betrays him, it's like watching the old world die in real time. The [entertainment](https://infeeds.com/tags/?tag=entertainment) industry has never quite seen another performance like it in a mob film.
+"Why do you hurt me, Michael? I've always been loyal to you." That line hits harder than any gunshot in those films because Duvall delivers it with genuine pain. Tom Hagen isn't just the family lawyer. He's the last link to Vito's way of thinking, and when Michael betrays him, it's like watching the old world die in real time. The [entertainment](https://infeeds.com/tags/entertainment) industry has never quite seen another performance like it in a mob film.
 
 ## The Forgotten Masterpiece
 
@@ -54,7 +54,7 @@ Duvall's own father was a rear admiral in the Navy, though Duvall claimed he was
 
 When Robert Duvall took home Best Actor for Tender Mercies, he told the crowd he was especially honored that country music legends like Johnny Cash, Willie Nelson, and Waylon Jennings approved of his performance. Duvall insisted on doing his own singing and even wrote some of the songs his character, washed-up country star Mac Sledge, performs.
 
-Hollywood has a terrible habit of condescending to rural America, turning small-town characters into either saints or simpletons. Duvall does neither. Mac Sledge is complicated, flawed, broken by addiction and bad choices, yet still capable of redemption. It's one of those rare cases where the Oscar actually went to the right performance at the right time in the [news](https://infeeds.com/tags/?tag=news) cycle.
+Hollywood has a terrible habit of condescending to rural America, turning small-town characters into either saints or simpletons. Duvall does neither. Mac Sledge is complicated, flawed, broken by addiction and bad choices, yet still capable of redemption. It's one of those rare cases where the Oscar actually went to the right performance at the right time in the [news](https://infeeds.com/tags/news) cycle.
 
 ## Colors and the Bull Story
 
@@ -74,7 +74,7 @@ The chemistry between Duvall and Tommy Lee Jones defines the entire series, and 
 
 Sidney Lumet's Network remains devastatingly relevant, and Duvall's Frank Hackett is the platonic ideal of the soulless television executive. When the network's news anchor has a breakdown on air that triggers massive ratings, Hackett sees nothing but dollar signs. Duvall simmers with barely contained rage and radiates superiority in every scene.
 
-The Frank Hacketts of the world have only multiplied since 1976. Every streaming service, every [business](https://infeeds.com/tags/?tag=business) decision made by algorithm rather than artistry, every executive who values engagement metrics over actual quality can trace their lineage back to Duvall's chilling performance.
+The Frank Hacketts of the world have only multiplied since 1976. Every streaming service, every [business](https://infeeds.com/tags/business) decision made by algorithm rather than artistry, every executive who values engagement metrics over actual quality can trace their lineage back to Duvall's chilling performance.
 
 ## The Apostle's Fire and Fury
 

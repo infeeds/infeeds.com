@@ -10,13 +10,13 @@ tags: [news, tech]
 tags_color: '#1f78b4'
 ---
 
-The <a href="https://infeeds.com/tags/?tag=entertainment">Entertainment</a> industry loves a good video game adaptation these days, and now Baldur's Gate 3 is getting the Hollywood treatment. Craig Mazin, the guy who gave us The Last of Us and Chernobyl, is taking on the wildly successful fantasy RPG. Sounds great on paper, right?
+The <a href="https://infeeds.com/tags/entertainment">Entertainment</a> industry loves a good video game adaptation these days, and now Baldur's Gate 3 is getting the Hollywood treatment. Craig Mazin, the guy who gave us The Last of Us and Chernobyl, is taking on the wildly successful fantasy RPG. Sounds great on paper, right?
 
 Here's the catch that's got fans in a twist. Larian Studios, the developers who poured their souls into making Baldur's Gate 3 one of the most celebrated games in recent memory, won't be directly involved. And when I say directly involved, I mean they're basically on the sidelines while Hasbro's Wizards of the Coast calls the shots.
 
 ## The Licensing Game Nobody Talks About
 
-This is where things get messy in the world of <a href="https://infeeds.com/tags/?tag=technology">Technology</a> and intellectual property. Larian never owned Baldur's Gate. They licensed it from Wizards of the Coast to make the game, which means legally speaking, Hasbro can do whatever they want with the franchise. It's perfectly legal, perfectly normal in the <a href="https://infeeds.com/tags/?tag=business">Business</a> world, and perfectly frustrating for fans who associate BG3 with Larian's creative vision.
+This is where things get messy in the world of <a href="https://infeeds.com/tags/technology">Technology</a> and intellectual property. Larian never owned Baldur's Gate. They licensed it from Wizards of the Coast to make the game, which means legally speaking, Hasbro can do whatever they want with the franchise. It's perfectly legal, perfectly normal in the <a href="https://infeeds.com/tags/business">Business</a> world, and perfectly frustrating for fans who associate BG3 with Larian's creative vision.
 
 Swen Vincke, Larian's founder, posted what I'd call a diplomatically positive message on X. His team worked "incredibly hard" to make the game worthy of its legacy, and he hopes the show will have the same passion. Reading between the lines? That's someone trying to stay professional while probably having mixed feelings about the whole situation.
 

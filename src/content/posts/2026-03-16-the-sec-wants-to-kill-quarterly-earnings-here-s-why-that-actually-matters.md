@@ -16,7 +16,7 @@ This isn't some random bureaucratic shuffle. According to the WSJ, SEC Chair Pau
 
 The quarterly earnings cycle is brutal. Companies spend enormous amounts of money and resources preparing these reports, coordinating with investors, prepping guidance, managing expectations. The whole machine spins four times a year. For smaller public companies especially, this becomes this massive overhead tax just to stay public.
 
-That overhead is actually pushing companies to stay private longer. Founders and boards see the quarterly grind as a reason to delay going public, which means less [capital](https://infeeds.com/tags/?tag=capital) available to actually scale. It's a self-defeating system if you think about it.
+That overhead is actually pushing companies to stay private longer. Founders and boards see the quarterly grind as a reason to delay going public, which means less [capital](https://infeeds.com/tags/capital) available to actually scale. It's a self-defeating system if you think about it.
 
 The hope from reformers is that semiannual reporting removes a barrier to going public. Make it easier to be a public company, and more companies will take that leap. That's the theory anyway.
 
@@ -30,7 +30,7 @@ That precedent gives this proposal real legs. The SEC can point to actual eviden
 
 Here's the thing though: just because the requirement becomes optional doesn't mean investors will suddenly accept less transparency. If you're raising capital from institutional investors, quarterly reporting will probably still be expected. That's just market reality.
 
-But for smaller public companies or [companies](https://infeeds.com/tags/?tag=business) that went public through alternative routes, this creates breathing room. It means less constant pressure to manufacture quarterly narratives and hit arbitrary targets that may not align with actual business rhythms.
+But for smaller public companies or [companies](https://infeeds.com/tags/business) that went public through alternative routes, this creates breathing room. It means less constant pressure to manufacture quarterly narratives and hit arbitrary targets that may not align with actual business rhythms.
 
 The real question is whether this actually encourages more venture-backed companies to go public. The IPO market has been pretty frozen anyway, but removing one regulatory friction point doesn't solve the deeper issues around valuations and market conditions.
 

@@ -36,11 +36,11 @@ The researchers then tried blocking this interferon response to see what would h
 
 The study also revealed what happens when the virus manages to slip past those first defenses and start replicating in earnest. Rhinovirus can trigger a separate alarm system that causes both infected and healthy cells to pump out massive amounts of mucus and inflammatory signals. This is probably why some people end up with that awful chest congestion and breathing problems, especially if they already have asthma or other lung conditions.
 
-Understanding these defense pathways could lead to better treatments down the road. Instead of just trying to kill the virus, we might be able to support the body's natural antiviral defenses while dialing down the inflammatory responses that make us feel so crummy. The [science](https://infeeds.com/tags/?tag=science) here points to a smarter approach than the sledgehammer method of current cold remedies.
+Understanding these defense pathways could lead to better treatments down the road. Instead of just trying to kill the virus, we might be able to support the body's natural antiviral defenses while dialing down the inflammatory responses that make us feel so crummy. The [science](https://infeeds.com/tags/science) here points to a smarter approach than the sledgehammer method of current cold remedies.
 
 ## The Missing Pieces
 
-Of course, this lab-grown nose model isn't perfect. It doesn't include all the cell types present in your actual nasal passages, and during real infections, immune cells rush to the site to help fight the virus. The researchers admit they need to study how these additional factors influence the body's response. Real [health](https://infeeds.com/tags/?tag=health) situations are always messier than controlled lab experiments.
+Of course, this lab-grown nose model isn't perfect. It doesn't include all the cell types present in your actual nasal passages, and during real infections, immune cells rush to the site to help fight the virus. The researchers admit they need to study how these additional factors influence the body's response. Real [health](https://infeeds.com/tags/health) situations are always messier than controlled lab experiments.
 
 But the core finding stands: your body's reaction to rhinovirus matters way more than the properties of the virus itself. Two people can get infected with genetically identical viruses and have completely different experiences based on how quickly and effectively their nasal cells mount that initial interferon response.
 

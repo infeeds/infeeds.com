@@ -30,7 +30,7 @@ When you think about it, that's actually fair. You can't exactly fake chemistry 
 
 ## The Flip Side
 
-But here's where it gets interesting. While Skarsgård apparently cleared the room with his falafel choices, Kidman also revealed which [celebrity](https://infeeds.com/tags/?tag=news) she thinks smells the absolute best. And it's someone you'd never expect her to have kissed.
+But here's where it gets interesting. While Skarsgård apparently cleared the room with his falafel choices, Kidman also revealed which [celebrity](https://infeeds.com/tags/news) she thinks smells the absolute best. And it's someone you'd never expect her to have kissed.
 
 Rihanna.
 

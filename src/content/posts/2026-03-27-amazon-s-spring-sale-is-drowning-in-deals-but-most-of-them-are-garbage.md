@@ -32,7 +32,7 @@ The fact that adults have just as much fun with it as kids is the real win here.
 
 ## When Technology Actually Solves Problems
 
-Speaking of <a href="https://infeeds.com/tags/?tag=technology">technology</a>, let's talk about the Syitren R300 CD player. I know, I know. CDs? In 2026? But here's the thing: you actually own your music. Streaming is convenient until it isn't, and this player bridges that gap perfectly.
+Speaking of <a href="https://infeeds.com/tags/technology">technology</a>, let's talk about the Syitren R300 CD player. I know, I know. CDs? In 2026? But here's the thing: you actually own your music. Streaming is convenient until it isn't, and this player bridges that gap perfectly.
 
 It's $90 right now, down from $120. Bluetooth connectivity, a headphone jack, even an SPDIF optical output if you're the type to get excited about audio connections. The retro-modern vibe doesn't hurt either. It's portable enough to take anywhere but looks good sitting on a shelf.
 

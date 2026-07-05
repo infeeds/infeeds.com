@@ -32,7 +32,7 @@ Here's where it gets bizarre: Trump is claiming the U.S. should have approval ov
 
 ## The Business Side Keeps Getting Worse
 
-Oil isn't the only victim here. A water desalination plant in Bahrain was hit by drones. University buildings were damaged with three people injured. Kuwait's fuel depots at the international airport caught huge fires. When you're destroying civilian infrastructure like water treatment facilities, you're not just damaging <a href="https://infeeds.com/tags/?tag=business">business</a> operations. You're affecting millions of people's access to basic necessities.
+Oil isn't the only victim here. A water desalination plant in Bahrain was hit by drones. University buildings were damaged with three people injured. Kuwait's fuel depots at the international airport caught huge fires. When you're destroying civilian infrastructure like water treatment facilities, you're not just damaging <a href="https://infeeds.com/tags/business">business</a> operations. You're affecting millions of people's access to basic necessities.
 
 The UAE's Ministry of Defense confirmed that its air defenses are actively intercepting ballistic missiles while fighter jets handle drones and loitering munitions. This is real-time combat operations happening over commercial hubs, airport terminals, and residential areas. A high-rise building in Dubai's Marina district, 23 Marina, took a direct hit from falling debris.
 
@@ -48,7 +48,7 @@ Israel, meanwhile, says it's struck multiple fuel storage complexes belonging to
 
 ## The Domino Effect Nobody Saw Coming
 
-When you disrupt 20% of global oil supply, you don't just affect energy prices. You affect shipping costs, manufacturing expenses, transportation logistics, and ultimately consumer prices on everything. A spike in oil prices doesn't stay localized to the gas pump. It spreads like wildfire through the entire <a href="https://infeeds.com/tags/?tag=business">business</a> ecosystem.
+When you disrupt 20% of global oil supply, you don't just affect energy prices. You affect shipping costs, manufacturing expenses, transportation logistics, and ultimately consumer prices on everything. A spike in oil prices doesn't stay localized to the gas pump. It spreads like wildfire through the entire <a href="https://infeeds.com/tags/business">business</a> ecosystem.
 
 Companies that rely on fuel-intensive operations are getting hammered. Airlines are reconsidering routes. Shipping companies are adjusting schedules. Manufacturers are looking at higher input costs. It's a cascading effect that takes weeks or months to fully materialize in economic data.
 
@@ -56,4 +56,4 @@ The question everyone's asking is whether this is a temporary shock or the begin
 
 Nobody wants to think about that scenario, but it's clearly on the minds of investors, central bankers, and energy traders right now.
 
-The real wildcard is Iran's new leadership. Will they dial back the aggression or escalate further? Will Trump's threats actually influence Iranian decision-making, or will they just harden positions? Will Israel continue striking Iranian targets? And how long can Gulf states keep absorbing these attacks without major casualties or systemic economic collapse? The answers to those questions will determine whether we're dealing with a week-long energy crisis or something that defines the next decade of global <a href="https://infeeds.com/tags/?tag=business">business</a> and geopolitics.
+The real wildcard is Iran's new leadership. Will they dial back the aggression or escalate further? Will Trump's threats actually influence Iranian decision-making, or will they just harden positions? Will Israel continue striking Iranian targets? And how long can Gulf states keep absorbing these attacks without major casualties or systemic economic collapse? The answers to those questions will determine whether we're dealing with a week-long energy crisis or something that defines the next decade of global <a href="https://infeeds.com/tags/business">business</a> and geopolitics.

@@ -34,7 +34,7 @@ A deadly Israeli strike on a car in southern Lebanon was reported shortly after 
 
 Trump claimed he ordered the immediate removal of a US naval blockade of Iranian ports and said ships were already moving through the Strait of Hormuz. Iran's deputy foreign minister confirmed the end of military operations, with state TV portraying the framework deal as a victory for Iran. That's quite a narrative gap between Tehran's triumphalism and Washington's version of events.
 
-The economic implications could be significant. When the conflict began on 28 February, fuel costs jumped as the war disrupted energy production and transportation across the Middle East. Reopening the Strait of Hormuz, through which about a fifth of the world's oil passes, would be a massive development for [Business](https://infeeds.com/tags/?tag=business) markets worldwide.
+The economic implications could be significant. When the conflict began on 28 February, fuel costs jumped as the war disrupted energy production and transportation across the Middle East. Reopening the Strait of Hormuz, through which about a fifth of the world's oil passes, would be a massive development for [Business](https://infeeds.com/tags/business) markets worldwide.
 
 ## Looking ahead
 

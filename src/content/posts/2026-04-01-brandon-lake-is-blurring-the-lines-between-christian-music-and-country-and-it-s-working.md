@@ -34,11 +34,11 @@ When asked about his core mission as an artist, Lake's answer was refreshingly h
 
 That last bit is crucial. He's not positioning himself as an authority figure who has all the answers. He's a fellow traveler, someone working through these questions in real time, just with a microphone and a record deal. Songs like "Hard Fought Hallelujah" and "When a Cowboy Prays" seem designed to create space for that kind of honest uncertainty rather than demand absolute faith.
 
-This approach runs counter to a lot of contemporary Christian music, which often feels more concerned with reaffirming belief than exploring its complications. Lake seems interested in the latter, which might explain why he's finding success in both the [entertainment](https://infeeds.com/tags/?tag=entertainment) world and among people who might otherwise dismiss contemporary Christian music as preachy or one-dimensional.
+This approach runs counter to a lot of contemporary Christian music, which often feels more concerned with reaffirming belief than exploring its complications. Lake seems interested in the latter, which might explain why he's finding success in both the [entertainment](https://infeeds.com/tags/entertainment) world and among people who might otherwise dismiss contemporary Christian music as preachy or one-dimensional.
 
 ## The Podcast Worth Your Time
 
-If Lake's perspective intrigues you, the full conversation is worth your time. Rolling Stone's Nashville Now drops new episodes every Wednesday, featuring artists like Vince Gill, Hardy, Kings of Leon, Lukas Nelson, and others navigating their own complicated relationships with <a href="https://infeeds.com/tags/?tag=entertainment">entertainment</a>, legacy, and cultural moment.
+If Lake's perspective intrigues you, the full conversation is worth your time. Rolling Stone's Nashville Now drops new episodes every Wednesday, featuring artists like Vince Gill, Hardy, Kings of Leon, Lukas Nelson, and others navigating their own complicated relationships with <a href="https://infeeds.com/tags/entertainment">entertainment</a>, legacy, and cultural moment.
 
 The beauty of a format like this is that you get to hear artists think out loud rather than deliver pre-packaged answers. Lake clearly respects that opportunity and uses it to explore genuine tension rather than smooth it over.
 

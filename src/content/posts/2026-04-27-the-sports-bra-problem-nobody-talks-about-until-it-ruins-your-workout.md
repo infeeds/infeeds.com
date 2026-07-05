@@ -10,7 +10,7 @@ tags_color: '#795548'
 
 Back pain halfway through a workout. Straps digging into your shoulders. That persistent chafing that makes you dread getting dressed for the gym. If you've got a larger bust, you know exactly what I'm talking about. The wrong sports bra doesn't just feel uncomfortable—it can completely derail your entire fitness routine.
 
-The problem is that finding a bra that keeps everything secure without cutting in, restricting your movement, or making you want to peel it off the second you're done is genuinely difficult. It's not about vanity or picking the "cutest" option. It's about physics, fit, and honestly, whether the athletic [business](https://infeeds.com/tags/?tag=business) is even bothering to design for bodies that aren't a standard small-to-medium frame.
+The problem is that finding a bra that keeps everything secure without cutting in, restricting your movement, or making you want to peel it off the second you're done is genuinely difficult. It's not about vanity or picking the "cutest" option. It's about physics, fit, and honestly, whether the athletic [business](https://infeeds.com/tags/business) is even bothering to design for bodies that aren't a standard small-to-medium frame.
 
 ## Support Isn't Optional, It's Essential
 

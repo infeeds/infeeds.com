@@ -21,7 +21,7 @@ The situation reveals just how fragile the current ceasefire actually is.
 
 The closure didn't emerge from nowhere. President Trump confirmed on Friday that the US would maintain a naval blockade of Iranian ports until both countries reach a peace agreement. The current two-week ceasefire expires on April 22, and neither side appears ready to fold first.
 
-Iran's Supreme National Security Council argues the blockade violates the ceasefire terms. The US has turned away 23 ships since it began enforcing the blockade on April 13. Iran sees this as economic strangulation and responded by shutting down one of the world's most critical <a href="https://infeeds.com/tags/?tag=business">business</a> arteries.
+Iran's Supreme National Security Council argues the blockade violates the ceasefire terms. The US has turned away 23 ships since it began enforcing the blockade on April 13. Iran sees this as economic strangulation and responded by shutting down one of the world's most critical <a href="https://infeeds.com/tags/business">business</a> arteries.
 
 Trump dismissed concerns about the closure, saying Iran cannot "blackmail" the US with threats about the waterway. Yet the math is brutal: roughly 20% of the world's oil and liquefied natural gas passes through this narrow chokepoint. The conflict, which began when the US and Israel attacked Iran on February 28, has already sent oil prices soaring above $100 per barrel at various points.
 

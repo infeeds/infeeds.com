@@ -18,7 +18,7 @@ What makes this particularly wild is that Bure would be the first of the origina
 
 Natasha and Bradley Steven Perry, both 27, posted the pregnancy announcement on Instagram with photos of themselves holding matching mugs labeled "MAMA!" and "DADA!" Bure didn't waste time celebrating in the comments, dropping a "CandyGram in full effect" alongside some heart emojis. It's the kind of supportive-parent energy you'd expect, but it also feels like she's internally screaming at how fast life has moved.
 
-Natasha has built her own career in the entertainment space, appearing in several Christmas movies alongside her mother and establishing herself as a lifestyle influencer. Bradley Steven Perry, meanwhile, played Gabe Duncan on the Disney Channel series "Good Luck Charlie" from 2010 to 2014. They're both working actors navigating <a href="https://infeeds.com/tags/?tag=entertainment">entertainment</a> in their own right, which means their kid will have some serious Hollywood genes.
+Natasha has built her own career in the entertainment space, appearing in several Christmas movies alongside her mother and establishing herself as a lifestyle influencer. Bradley Steven Perry, meanwhile, played Gabe Duncan on the Disney Channel series "Good Luck Charlie" from 2010 to 2014. They're both working actors navigating <a href="https://infeeds.com/tags/entertainment">entertainment</a> in their own right, which means their kid will have some serious Hollywood genes.
 
 ## The Full House Legacy Keeps Going
 

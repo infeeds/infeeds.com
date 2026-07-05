@@ -18,13 +18,13 @@ Her testimony wasn't subtle. She walked the jury through what she called the fou
 
 The science Lembke presented cuts to the heart of why this case matters. Teenage brains aren't finished cooking yet. Their prefrontal cortices, the part that says "maybe don't do that stupid thing," aren't fully connected to the deeper systems that drive behavior. It's like having a car with a powerful accelerator but faulty brakes.
 
-This isn't news to neuroscientists, but Lembke's argument is that [Technology](https://infeeds.com/tags/?tag=technology) companies absolutely knew this when they designed infinite scroll, autoplay, and push notifications. Features that might just be mildly annoying to adults become nearly irresistible traps for developing minds.
+This isn't news to neuroscientists, but Lembke's argument is that [Technology](https://infeeds.com/tags/technology) companies absolutely knew this when they designed infinite scroll, autoplay, and push notifications. Features that might just be mildly annoying to adults become nearly irresistible traps for developing minds.
 
 The plaintiff in this case, identified only as K.G.M., is now 20. She claims her childhood exposure to Instagram and YouTube led to anxiety, body dysmorphia, self-harm, and suicidal thoughts. She's one of thousands bringing similar lawsuits, but hers was picked to go first. No pressure.
 
 ## The Digital Casino Defense
 
-Lawyer Mark Lanier isn't pulling punches. He's calling these platforms "digital casinos" and comparing the swipe motion to pulling a slot machine handle. The reward isn't money but dopamine hits from likes and unexpected videos. It's a powerful metaphor that probably makes [Business](https://infeeds.com/tags/?tag=business) executives in Menlo Park extremely uncomfortable.
+Lawyer Mark Lanier isn't pulling punches. He's calling these platforms "digital casinos" and comparing the swipe motion to pulling a slot machine handle. The reward isn't money but dopamine hits from likes and unexpected videos. It's a powerful metaphor that probably makes [Business](https://infeeds.com/tags/business) executives in Menlo Park extremely uncomfortable.
 
 Lembke backed this up with testimony about what she described as internal Meta documents. One apparently sorted vulnerable users into neat categories: adolescents, females, people with mental health challenges, and low socioeconomic status. The implication is clear. These companies knew exactly who was most at risk.
 
@@ -48,7 +48,7 @@ Instagram chief Adam Mosseri testifies Wednesday. Mark Zuckerberg takes the stan
 
 The companies have rolled out parental controls and time management features, which their lawyers are highlighting. But Lembke testified these tools are too complicated for most parents to use effectively and too easy for kids to bypass. It's like putting a "please don't enter" sign on a door without a lock.
 
-What makes this case different from past moral panics about [entertainment](https://infeeds.com/tags/?tag=entertainment) affecting kids is the sophistication of the argument. This isn't "violent video games cause violence" territory. It's addiction medicine, neuroscience, and internal company documents showing awareness of harm.
+What makes this case different from past moral panics about [entertainment](https://infeeds.com/tags/entertainment) affecting kids is the sophistication of the argument. This isn't "violent video games cause violence" territory. It's addiction medicine, neuroscience, and internal company documents showing awareness of harm.
 
 The defense that these are just neutral platforms where bad things sometimes happen is getting harder to maintain when features like infinite scroll and autoplay exist for one reason only: to keep eyeballs glued to screens as long as possible. That's the business model. More time equals more ads equals more revenue.
 

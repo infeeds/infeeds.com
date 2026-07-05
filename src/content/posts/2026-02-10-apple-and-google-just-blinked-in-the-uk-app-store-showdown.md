@@ -12,7 +12,7 @@ tags_color: '#1f78b4'
 
 Well, well, well. Apple and Google just agreed to make some changes to their app stores in the UK after the Competition and Markets Authority came knocking. And before you start thinking this is some grand victory for competition, let's pump the brakes a bit.
 
-The CMA announced that both tech giants have committed to not giving their own apps preferential treatment and will be more transparent about how they approve other apps for sale. Sounds great on paper, right? But here's the thing: we've heard promises like this before from Big [Technology](https://infeeds.com/tags/?tag=technology) companies, and somehow their market dominance only seems to grow stronger.
+The CMA announced that both tech giants have committed to not giving their own apps preferential treatment and will be more transparent about how they approve other apps for sale. Sounds great on paper, right? But here's the thing: we've heard promises like this before from Big [Technology](https://infeeds.com/tags/technology) companies, and somehow their market dominance only seems to grow stronger.
 
 ## The "Effective Duopoly" That Surprised Nobody
 
@@ -26,7 +26,7 @@ Here's what they've actually agreed to: not using data from third-party develope
 
 Technology analyst Paolo Pescatore called this a "pragmatic first step" but also noted that some might see it as "addressing the low-hanging fruit." Translation: this is the easy stuff. The real structural issues? Those are still on the table.
 
-The UK app economy is massive. It's the largest in Europe by revenue and number of developers, generating about 1.5% of the country's GDP and supporting roughly 400,000 jobs. That's real money and real people whose livelihoods depend on a fair marketplace in the [business](https://infeeds.com/tags/?tag=business) sector.
+The UK app economy is massive. It's the largest in Europe by revenue and number of developers, generating about 1.5% of the country's GDP and supporting roughly 400,000 jobs. That's real money and real people whose livelihoods depend on a fair marketplace in the [business](https://infeeds.com/tags/business) sector.
 
 Both Apple and Google have been very vocal about not wanting UK regulations to mirror the EU's stricter approach. They argue that tough rules harm innovation, which is a convenient position when you're the ones benefiting from the current system. Under EU rules, Apple has already been forced to show users alternative browsers to Safari and make its services more interoperable with competitors, changes it claims have hurt privacy and security.
 
@@ -36,6 +36,6 @@ Apple's spokesperson trotted out the usual line about facing "fierce competition
 
 What matters is enforcement. The CMA can make all the demands it wants, but if there's no meaningful consequence for non-compliance or if the changes are implemented in name only, then what have we really accomplished here?
 
-The fact that both companies agreed relatively quickly might seem like progress, but it could just as easily be a strategic move to avoid harsher regulations down the line. Give a little now, avoid giving a lot later. It's a classic playbook move that we've seen in various [news](https://infeeds.com/tags/?tag=news) cycles across different industries.
+The fact that both companies agreed relatively quickly might seem like progress, but it could just as easily be a strategic move to avoid harsher regulations down the line. Give a little now, avoid giving a lot later. It's a classic playbook move that we've seen in various [news](https://infeeds.com/tags/news) cycles across different industries.
 
 The real question isn't whether Apple and Google made commitments today, but whether those commitments will actually change anything for the developers and users who've been squeezed by this duopoly for years.

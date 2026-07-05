@@ -26,7 +26,7 @@ Let me just rip through the answers so you can get back to your day (or your Tue
 
 ## Why These Puzzles Keep Us Coming Back
 
-The Mini Crossword format is genius because it doesn't demand hours of your time. It's just enough to make your brain feel like it's doing something productive while you're procrastinating on actual work. And honestly, in our current <a href="https://infeeds.com/tags/?tag=technology">technology</a>-obsessed world, it's kind of refreshing to solve something with a pen and paper (or stylus and screen, let's be real).
+The Mini Crossword format is genius because it doesn't demand hours of your time. It's just enough to make your brain feel like it's doing something productive while you're procrastinating on actual work. And honestly, in our current <a href="https://infeeds.com/tags/technology">technology</a>-obsessed world, it's kind of refreshing to solve something with a pen and paper (or stylus and screen, let's be real).
 
 These daily puzzles have created a whole routine for people. Wake up, coffee, crossword, Wordle, and maybe Connections if you're feeling spicy. It's low-stakes competition that doesn't require you to doom-scroll through news feeds or refresh your email for the hundredth time.
 
@@ -34,6 +34,6 @@ The thing about 1-Across stumping me initially is actually pretty common. The fi
 
 If you want more hints and strategies for tackling these puzzles without just blowing through the answers immediately, there's plenty of guidance out there. Some people swear by starting with the shortest clues first, others work methodically from top to bottom. There's no wrong way, really, unless you're cheating on the first attempt and then bragging about it.
 
-Want to check out the other puzzles New York Times has been throwing at us? <a href="https://infeeds.com/tags/?tag=tech">Tech</a> sites like CNET have been tracking all of them from Wordle to Strands to Connections. It's wild how many word games they've managed to get us all hooked on in just a few years.
+Want to check out the other puzzles New York Times has been throwing at us? <a href="https://infeeds.com/tags/tech">Tech</a> sites like CNET have been tracking all of them from Wordle to Strands to Connections. It's wild how many word games they've managed to get us all hooked on in just a few years.
 
 The real question is: do you fill in the answers and then check them, or do you check the answers as you go? Because that answer probably says more about your personality than you'd like to admit.

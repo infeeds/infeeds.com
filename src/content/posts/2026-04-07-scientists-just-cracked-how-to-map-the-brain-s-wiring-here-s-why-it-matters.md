@@ -38,7 +38,7 @@ Where this gets genuinely exciting is in disease research. Because Connectome-se
 
 "With sequencing-based approaches, the time and cost are greatly reduced, which really makes it possible to see differences in different brains," Zhao explained. "We could see where connections change, where the most vulnerable parts of the brain are, perhaps before symptoms even appear."
 
-The [Technology](/tags/?tag=technology) could help researchers understand what exactly triggers catastrophic cascade failures in diseases like Alzheimer's. If you can identify that weak link early, the thinking goes, maybe you can strengthen it before the disease spirals.
+The [Technology](/tags/technology) could help researchers understand what exactly triggers catastrophic cascade failures in diseases like Alzheimer's. If you can identify that weak link early, the thinking goes, maybe you can strengthen it before the disease spirals.
 
 The team is already working on improvements and believes they can eventually map the entire mouse brain. From there, human applications aren't far behind.
 

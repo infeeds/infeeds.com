@@ -14,7 +14,7 @@ He retired anyway.
 
 Most people called it irrational. Sanders had already won every award that mattered. He'd made his money. The record was within reach. But he walked away because staying would have cost him something he valued more: his health, his humility, and how people would remember him.
 
-That decision, made in 1998, offers one of the clearest lessons in modern <a href="https://infeeds.com/tags/?tag=business">business</a> thinking. Not for athletes, but for executives who spend decades wrestling with the same question: when is it actually time to go?
+That decision, made in 1998, offers one of the clearest lessons in modern <a href="https://infeeds.com/tags/business">business</a> thinking. Not for athletes, but for executives who spend decades wrestling with the same question: when is it actually time to go?
 
 ## The Peak vs. the Scoreboard
 

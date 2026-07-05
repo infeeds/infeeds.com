@@ -56,7 +56,7 @@ Then there's AI. About 79% of social media managers now use AI daily, and it's b
 
 One major concern is data protection. Feed proprietary or sensitive information into an AI tool, and you can't take it back. Another is copyright. If you don't know what a tool was trained on, copyrighted material might slip into your outputs. This matters especially in regulated industries like government and finance, where 82% of social marketers use AI to produce and optimize content.
 
-If you're using generative AI for customer service, controlling data inputs and training materials becomes critically important. Your chatbot can't create a [business](https://infeeds.com/tags/?tag=business) safety issue because it wasn't properly trained.
+If you're using generative AI for customer service, controlling data inputs and training materials becomes critically important. Your chatbot can't create a [business](https://infeeds.com/tags/business) safety issue because it wasn't properly trained.
 
 ## Building Your Defense Strategy
 

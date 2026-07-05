@@ -30,9 +30,9 @@ FLOSS. This one ties directly into the 1A answer since it starts with the same l
 
 ## Why This Puzzle Felt Different
 
-There's something satisfying about a Mini Crossword that doesn't demand hours of deliberation or deep knowledge of obscure <a href="https://infeeds.com/tags/?tag=technology">Technology</a> terms and pop culture references. This one leaned into everyday words and common phrases that most people encounter regularly.
+There's something satisfying about a Mini Crossword that doesn't demand hours of deliberation or deep knowledge of obscure <a href="https://infeeds.com/tags/technology">Technology</a> terms and pop culture references. This one leaned into everyday words and common phrases that most people encounter regularly.
 
-It's worth noting that the New York Times puzzle difficulty varies considerably from day to day. Some puzzles feel like they were designed to humble you, while others almost feel like warm-ups. If you're looking for more consistent challenges, the <a href="https://infeeds.com/tags/?tag=tech">tech</a> side of the puzzle universe has gotten increasingly competitive in recent years.
+It's worth noting that the New York Times puzzle difficulty varies considerably from day to day. Some puzzles feel like they were designed to humble you, while others almost feel like warm-ups. If you're looking for more consistent challenges, the <a href="https://infeeds.com/tags/tech">tech</a> side of the puzzle universe has gotten increasingly competitive in recent years.
 
 ## Getting Better at These Things
 
@@ -40,6 +40,6 @@ If you find yourself regularly needing help with the Mini Crossword, it's not ne
 
 The best approach is honestly just to keep doing them. After a few weeks of daily solving, you'll start noticing the common clue patterns and typical answer categories. Your brain naturally begins anticipating the puzzle creator's style and tendencies.
 
-Want to up your game even further? Check out the <a href="https://infeeds.com/tags/?tag=entertainment">full Mini Crossword tips and tricks guide</a> that goes deeper into strategy and technique.
+Want to up your game even further? Check out the <a href="https://infeeds.com/tags/entertainment">full Mini Crossword tips and tricks guide</a> that goes deeper into strategy and technique.
 
 The question isn't really whether you can solve these puzzles, but whether you want to spend your time becoming the kind of person who can solve them without checking the answers.

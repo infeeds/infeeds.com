@@ -22,7 +22,7 @@ Here's what I appreciate about this survey: there's no pretense about who should
 
 The survey itself is short. A handful of targeted questions. No hoops to jump through, no email required, no tracking. They're not collecting personally identifying information, and responses will only be viewed in aggregate. The data won't be sold or handed off to anyone. This is between Ars and its readers, period.
 
-Infeeds covers similar [Technology](https://infeeds.com/tags/?tag=technology) news and [Business](https://infeeds.com/tags/?tag=business) coverage, and we know how rare it is for a publication to be this transparent about the process.
+Infeeds covers similar [Technology](https://infeeds.com/tags/technology) news and [Business](https://infeeds.com/tags/business) coverage, and we know how rare it is for a publication to be this transparent about the process.
 
 ## The Lee Hutchinson Factor
 
@@ -30,4 +30,4 @@ Now here's where things get interesting. If the survey gets over ten thousand re
 
 Whether you're in it for the journalism, the community, or the remote possibility of a home visit from a tech writer with a song in his heart, this survey is worth five minutes of your time.
 
-What do you really think about where [Technology](https://infeeds.com/tags/?tag=technology) coverage is headed?
+What do you really think about where [Technology](https://infeeds.com/tags/technology) coverage is headed?

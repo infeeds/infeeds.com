@@ -24,7 +24,7 @@ But here's the catch: detecting this gas has been incredibly difficult. Most int
 
 ## How They Actually Saw the Invisible
 
-The breakthrough came from using MUSE, the Multi-Unit Spectroscopic Explorer mounted on the European Southern Observatory's Very Large Telescope in Chile. This is serious hardware, but even with such advanced [technology](https://infeeds.com/tags/?tag=technology), capturing a faint cosmic filament required one of the most ambitious observing campaigns ever conducted in a single region of the sky.
+The breakthrough came from using MUSE, the Multi-Unit Spectroscopic Explorer mounted on the European Southern Observatory's Very Large Telescope in Chile. This is serious hardware, but even with such advanced [technology](https://infeeds.com/tags/technology), capturing a faint cosmic filament required one of the most ambitious observing campaigns ever conducted in a single region of the sky.
 
 Tornotti and his team gathered data over hundreds of hours. The payoff was the sharpest image ever captured of a cosmic filament, detailed enough to precisely characterize its shape and trace the boundary between gas residing in galaxies and the material contained within the cosmic web itself.
 

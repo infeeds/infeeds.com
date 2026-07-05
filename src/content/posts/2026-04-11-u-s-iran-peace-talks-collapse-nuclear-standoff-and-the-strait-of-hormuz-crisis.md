@@ -38,7 +38,7 @@ While the U.S. and Iran were talking past each other in Pakistan, Israel wasn't 
 
 Israel wants Lebanon to disarm Hezbollah, much as a November 2024 ceasefire framework envisioned. But Lebanon's army has struggled for decades to constrain the militant group. Negotiations between Israel and Lebanon were supposed to begin Tuesday in Washington, but the Lebanese Prime Minister postponed his trip, citing "internal circumstances." Thousands protested the planned talks. Nothing about this signals momentum toward actual peace.
 
-Related coverage from [Business](https://infeeds.com/tags/?tag=business) outlets shows the diplomatic machinery is genuinely stuck. There's no clear path forward when one side is bombing the other under the guise of a separate conflict track.
+Related coverage from [Business](https://infeeds.com/tags/business) outlets shows the diplomatic machinery is genuinely stuck. There's no clear path forward when one side is bombing the other under the guise of a separate conflict track.
 
 ## The Pope's Plea and the Credibility Crisis
 

@@ -54,7 +54,7 @@ Once they introduced simple governance with clear goals, ownership, and aligned 
 
 ## Culture Is Where It Actually Happens
 
-[Technology](https://infeeds.com/tags/?tag=technology) doesn't create advantage by itself. Culture determines whether it's used effectively.
+[Technology](https://infeeds.com/tags/technology) doesn't create advantage by itself. Culture determines whether it's used effectively.
 
 The leaders who win create environments where experimentation is expected. They make it clear that learning matters and reinforce it through their actions. When success is defined by learning instead of perfection, behavior shifts. People take different risks. They ask different questions. They surface problems earlier because admitting what you don't know becomes safe.
 
@@ -80,6 +80,6 @@ At the same time, send a clear signal to your team. Progress will be measured by
 
 Keep one question in your head as you move forward: are we working from the inside out, or from the customer back?
 
-Uncertainty isn't going anywhere. It's the new baseline. The advantage belongs to the leaders who learn how to harness it instead of waiting for it to disappear. They'll move faster because learning becomes their operating system. They'll create actual value because they stay anchored in real [business](https://infeeds.com/tags/?tag=business) problems. They'll scale because they've aligned around a clear north star.
+Uncertainty isn't going anywhere. It's the new baseline. The advantage belongs to the leaders who learn how to harness it instead of waiting for it to disappear. They'll move faster because learning becomes their operating system. They'll create actual value because they stay anchored in real [business](https://infeeds.com/tags/business) problems. They'll scale because they've aligned around a clear north star.
 
 The question isn't whether you'll face uncertainty with AI. The question is whether you'll treat it as a reason to hesitate or a reason to learn.

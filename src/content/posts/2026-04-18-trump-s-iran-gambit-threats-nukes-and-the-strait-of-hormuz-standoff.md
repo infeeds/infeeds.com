@@ -54,6 +54,6 @@ Trump's threat about destroying Iran's infrastructure isn't necessarily bluster.
 
 The ceasefire in Lebanon that began Thursday provides some breathing room there, but only for ten days. Everything is on a knife's edge, synchronized to expire within days of each other.
 
-What's becoming clear is that both sides are using <a href="https://infeeds.com/tags/?tag=business">business</a> pressure and military posturing as negotiating tools. Trump is threatening to destroy power plants. Iran is threatening to close the world's most critical energy chokepoint. Neither threat is empty, but neither side seems positioned to actually achieve what they're demanding without causing massive collateral damage to the global economy.
+What's becoming clear is that both sides are using <a href="https://infeeds.com/tags/business">business</a> pressure and military posturing as negotiating tools. Trump is threatening to destroy power plants. Iran is threatening to close the world's most critical energy chokepoint. Neither threat is empty, but neither side seems positioned to actually achieve what they're demanding without causing massive collateral damage to the global economy.
 
 The real question isn't whether one side will blink first. It's whether either side can afford not to.

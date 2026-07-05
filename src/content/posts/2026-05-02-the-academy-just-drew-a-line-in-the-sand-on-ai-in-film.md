@@ -18,7 +18,7 @@ This isn't coming out of nowhere. AI-generated actors are already making headlin
 
 What's interesting here is that the Academy is being explicit about what counts and what doesn't. That specificity matters because it closes loopholes. You can't sneak in an AI performance and claim the actor consented if they never did. You can't use AI to write 90% of a screenplay and call the human who touched it up the author.
 
-That said, these rules reveal how messy this conversation actually is. The Academy had to create definitions. They had to figure out what "demonstrably performed by humans" even means in an age when the line between human performance and AI enhancement gets blurrier every few months. They're trying to write rules for a [Technology](https://infeeds.com/tags/?tag=technology) that's changing faster than policy frameworks can handle.
+That said, these rules reveal how messy this conversation actually is. The Academy had to create definitions. They had to figure out what "demonstrably performed by humans" even means in an age when the line between human performance and AI enhancement gets blurrier every few months. They're trying to write rules for a [Technology](https://infeeds.com/tags/technology) that's changing faster than policy frameworks can handle.
 
 The pushback isn't confined to Hollywood either. Publishers have already pulled books suspected of using AI. Writers' groups are implementing their own eligibility restrictions. What we're watching is an industry-wide scramble to establish boundaries before those boundaries become impossible to enforce.
 

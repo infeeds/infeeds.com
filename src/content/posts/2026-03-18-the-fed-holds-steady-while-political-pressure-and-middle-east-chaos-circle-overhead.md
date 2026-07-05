@@ -28,7 +28,7 @@ It's not dramatic, but it matters. When the committee gets tighter in its thinki
 
 ## Trump's Shadow Falls Across the Whole Thing
 
-Here's where it gets genuinely weird. The <a href="https://infeeds.com/tags/?tag=business">business</a> world is trying to focus on inflation and oil markets, but there's this whole political theater happening in the background that's almost too absurd to believe.
+Here's where it gets genuinely weird. The <a href="https://infeeds.com/tags/business">business</a> world is trying to focus on inflation and oil markets, but there's this whole political theater happening in the background that's almost too absurd to believe.
 
 President Trump keeps publicly badgering Powell to cut rates, complaining that he's not being aggressive enough despite inflation still being elevated. Meanwhile, Trump's own Justice Department has subpoenaed Powell for documents related to the Federal Reserve's headquarters renovation project. Powell basically said no, calling it what everyone suspects it is: a pretext to pressure him into rate cuts. A judge agreed with Powell and tossed the subpoenas.
 

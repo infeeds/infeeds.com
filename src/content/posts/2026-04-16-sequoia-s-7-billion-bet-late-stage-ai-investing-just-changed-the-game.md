@@ -10,7 +10,7 @@ tags_color: '#00ba65'
 
 Sequoia Capital just raised roughly $7 billion for a new fund, according to Bloomberg reporting. That's nearly double what the firm raised for its last comparable vehicle back in 2022, a $3.4 billion fund. The money flows into what Sequoia calls its "expansion strategy" - essentially its late-stage investing arm focused on the U.S. and Europe.
 
-The sheer size of this haul matters, but the timing and the reasoning behind it matter more. This is the first major capital raise under Sequoia's new co-stewardship model with Alfred Lin and Pat Grady, and it's essentially Sequoia's declaration that the <a href="https://infeeds.com/tags/?tag=technology">technology</a> landscape has fundamentally shifted.
+The sheer size of this haul matters, but the timing and the reasoning behind it matter more. This is the first major capital raise under Sequoia's new co-stewardship model with Alfred Lin and Pat Grady, and it's essentially Sequoia's declaration that the <a href="https://infeeds.com/tags/technology">technology</a> landscape has fundamentally shifted.
 
 ## When Speed Becomes Currency
 
@@ -24,7 +24,7 @@ Sequoia has already committed heavily here. The firm backed OpenAI originally, a
 
 The spread of bets reveals the firm's thesis: AI isn't a single opportunity. It's everywhere now. It's in the infrastructure layer, in specialized applications, in robotics, in software that automates knowledge work. Sequoia is hedging across all of it.
 
-## What This Means for <a href="https://infeeds.com/tags/?tag=business">Business</a>
+## What This Means for <a href="https://infeeds.com/tags/business">Business</a>
 
 This fund raise is a clear signal about where capital is flowing in 2026 and beyond. When a tier-one firm like Sequoia doubles down on late-stage AI investing, other firms take notice. It validates the urgency. It also tightens competition for the next wave of AI startups. Founders with real traction know exactly where to go, and they know the bar will be high.
 

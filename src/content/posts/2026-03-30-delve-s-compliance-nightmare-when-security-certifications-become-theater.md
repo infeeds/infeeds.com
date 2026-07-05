@@ -18,7 +18,7 @@ Now it's imploding in real time on social media.
 
 ## The Certification Shell Game Nobody Talks About
 
-Here's the uncomfortable truth that's been lurking in the [technology](https://infeeds.com/tags/?tag=technology) and compliance world for years: a lot of people don't actually believe these certifications mean anything. SOC 2, ISO 27001, all those fancy letters companies slap on their websites? Many security professionals treat them as security theater. Checkbox compliance. A way for enterprises to say they did their due diligence when something inevitably goes wrong.
+Here's the uncomfortable truth that's been lurking in the [technology](https://infeeds.com/tags/technology) and compliance world for years: a lot of people don't actually believe these certifications mean anything. SOC 2, ISO 27001, all those fancy letters companies slap on their websites? Many security professionals treat them as security theater. Checkbox compliance. A way for enterprises to say they did their due diligence when something inevitably goes wrong.
 
 But there's a difference between the system being imperfect and actively gaming it.
 
@@ -36,7 +36,7 @@ The real question now is whether this is a coordinated campaign against Delve or
 
 ## The Bigger Picture Nobody Wants to Admit
 
-This whole situation exposes something <a href="https://infeeds.com/tags/?tag=business" style="color: #00ba65;">business</a> leaders and security teams quietly acknowledge behind closed doors: compliance has become disconnected from actual security. You can pass a SOC 2 audit and still get hacked. You can be ISO certified and still have your infrastructure compromised.
+This whole situation exposes something <a href="https://infeeds.com/tags/business" style="color: #00ba65;">business</a> leaders and security teams quietly acknowledge behind closed doors: compliance has become disconnected from actual security. You can pass a SOC 2 audit and still get hacked. You can be ISO certified and still have your infrastructure compromised.
 
 Delve's entire value proposition depends on this being true. They make compliance easier because compliance is annoying bureaucracy, not real security. But if they're faking the evidence? If they're helping companies check boxes without doing the actual work? Then they're not just committing fraud. They're actively making the internet less secure.
 

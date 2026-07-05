@@ -8,7 +8,7 @@ tags: [news, business]
 tags_color: '#795548'
 ---
 
-The rumor mill has been spinning for months, and now it's official. SpaceX is set to go public in June, and if that's not enough to get the market buzzing, OpenAI and Anthropic are reportedly waiting in the wings. Investors are genuinely giddy at the prospect of getting into these next-generation [Technology](https://infeeds.com/tags/?tag=technology) giants.
+The rumor mill has been spinning for months, and now it's official. SpaceX is set to go public in June, and if that's not enough to get the market buzzing, OpenAI and Anthropic are reportedly waiting in the wings. Investors are genuinely giddy at the prospect of getting into these next-generation [Technology](https://infeeds.com/tags/technology) giants.
 
 But here's the uncomfortable question: are we watching history repeat itself?
 

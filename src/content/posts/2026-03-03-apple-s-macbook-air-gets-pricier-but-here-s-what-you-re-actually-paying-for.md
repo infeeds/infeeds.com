@@ -22,7 +22,7 @@ The M5 chip in these new Airs comes in two flavors. There's the basic version wi
 
 It gets weirder, though. If you want to upgrade to 24GB or 32GB of RAM, or if you need anything beyond 1TB of storage, you're forced to go with the fully-enabled chip. It's like Apple is gently nudging you toward spending more by making certain upgrades exclusive to the pricier option.
 
-The CPU side stays consistent across both versions, though: four super cores and six efficiency cores. <a href="https://infeeds.com/tags/?tag=technology">Technology</a> moves fast, and Apple's keeping pace, but the strategy here feels a bit like cost optimization disguised as features.
+The CPU side stays consistent across both versions, though: four super cores and six efficiency cores. <a href="https://infeeds.com/tags/technology">Technology</a> moves fast, and Apple's keeping pace, but the strategy here feels a bit like cost optimization disguised as features.
 
 ## The Bigger Picture
 
@@ -30,7 +30,7 @@ This announcement is part of Apple's broader week of product dumps. We're gettin
 
 Pre-orders start March 4, with actual availability on March 11. That gives you time to think about whether that extra $100 for base storage feels justified or just like inflation with a marketing spin.
 
-The <a href="https://infeeds.com/tags/?tag=business">business</a> move here is transparent enough. Apple's moving its entry price point up while wrapping it in the gift of faster, larger storage. It's not dishonest, but it's definitely deliberate. The company knows that storage capacity matters to consumers, and bundling it into the base model makes the higher starting price feel less like a straight price hike.
+The <a href="https://infeeds.com/tags/business">business</a> move here is transparent enough. Apple's moving its entry price point up while wrapping it in the gift of faster, larger storage. It's not dishonest, but it's definitely deliberate. The company knows that storage capacity matters to consumers, and bundling it into the base model makes the higher starting price feel less like a straight price hike.
 
 What's interesting is how this leaves room underneath for that rumored low-cost MacBook everyone keeps talking about. If the Air is starting at $1,099, there's clearly space for something cheaper. Whether Apple actually fills that gap or leaves it as a gap remains to be seen.
 

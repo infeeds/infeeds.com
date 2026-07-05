@@ -46,7 +46,7 @@ And it doesn't stop once the shooting starts. Hegseth talked about "hunting for 
 
 Artificial Intelligence is probably all over this phase too. The military is being cagey about specifics, but when Hegseth praised "a young colonel who's iterating on how we target and how we find and fix different aspects of what the Iranians are trying to do," he wasn't talking about manually combing through intelligence reports. That sounds like describing AI-powered targeting systems working in real time.
 
-This is where <a href="https://infeeds.com/tags/?tag=technology">Technology</a> isn't just supporting warfare anymore. It's becoming the warfare.
+This is where <a href="https://infeeds.com/tags/technology">Technology</a> isn't just supporting warfare anymore. It's becoming the warfare.
 
 ## Why Everything Stays Secret
 

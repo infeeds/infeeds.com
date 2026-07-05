@@ -34,7 +34,7 @@ This dependency is real. Countries that rely on the Strait for energy supplies a
 
 When asked about rumors that the administration might interfere with oil futures markets, Bessent basically said nope, not happening. He also seemed genuinely uncertain about what legal tools the U.S. even has to do something like that anyway.
 
-For <a href="https://infeeds.com/tags/?tag=business">business</a> leaders and traders, this matters. It means the market is moving freely right now without overt government manipulation, at least officially. Whether that's actually true behind closed doors is another question entirely.
+For <a href="https://infeeds.com/tags/business">business</a> leaders and traders, this matters. It means the market is moving freely right now without overt government manipulation, at least officially. Whether that's actually true behind closed doors is another question entirely.
 
 The real tension here is this: the U.S. needs global oil supplies to stay relatively stable to avoid economic chaos, but it's also locked in escalating military conflict with Iran. Those two things are fundamentally incompatible. So instead, the administration appears to be playing a delicate game of letting just enough Iranian oil slip through to prevent absolute catastrophe, while maintaining the appearance of a hardline stance.
 

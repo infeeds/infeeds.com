@@ -18,7 +18,7 @@ NPR pointed out something that should raise everyone's eyebrows. The redactions 
 
 ## The Names Everyone's Talking About
 
-The files mention Elon Musk, Donald Trump, Bill Gates, Commerce Secretary Howard Lutnick, and Richard Branson among others. But here's where it gets complicated. Being named in these documents doesn't automatically mean wrongdoing. Some people appear because they had [business](https://infeeds.com/tags/?tag=business) dealings with Epstein. Others show up in emails or meeting logs.
+The files mention Elon Musk, Donald Trump, Bill Gates, Commerce Secretary Howard Lutnick, and Richard Branson among others. But here's where it gets complicated. Being named in these documents doesn't automatically mean wrongdoing. Some people appear because they had [business](https://infeeds.com/tags/business) dealings with Epstein. Others show up in emails or meeting logs.
 
 CBS News broke down what the documents actually show about Gates and Musk specifically. Gates' connection to Epstein has been known for years, and these files add more context to meetings that happened. Musk appears in correspondence, though the nature and extent of any relationship remains unclear from what's been released.
 
@@ -28,7 +28,7 @@ The problem is context. A name in a document could mean anything from a brief en
 
 PBS dug into what the latest files reveal about ties between Epstein and prominent figures. The documents include emails, flight logs, meeting schedules, and correspondence spanning years. Some of it is mundane. Some of it is deeply uncomfortable to read.
 
-Trump's connections to Epstein feature prominently, which isn't surprising given their documented friendship from decades ago. The files show communication and interactions that Trump has previously downplayed or distanced himself from. His inner circle also appears throughout the documents in ways that [politics](https://infeeds.com/tags/?tag=politics) watchers are still parsing through.
+Trump's connections to Epstein feature prominently, which isn't surprising given their documented friendship from decades ago. The files show communication and interactions that Trump has previously downplayed or distanced himself from. His inner circle also appears throughout the documents in ways that [politics](https://infeeds.com/tags/politics) watchers are still parsing through.
 
 But the Justice Department itself admitted something pretty damning. According to KSAT, they had to pull down some initially released files because they potentially contained victim information that should have been redacted. They're now "fixing" the redactions. That's a nice way of saying they screwed up the first time around.
 

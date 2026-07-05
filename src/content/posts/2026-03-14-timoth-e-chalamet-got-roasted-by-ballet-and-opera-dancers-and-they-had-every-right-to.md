@@ -40,9 +40,9 @@ Training to become an opera singer is basically like training to be an elite ath
 
 If you want to experience ballet or opera without feeling completely lost, all three women recommended the same starting point: Tchaikovsky's "The Nutcracker." It's short, it's festive, it's fun. After that, "Swan Lake," "Coppelia," and "Giselle" are solid choices.
 
-For [entertainment](https://infeeds.com/tags/?tag=entertainment) that's new to opera, "Carmen," "Don Giovanni," and "La Bohème" offer strong drama and iconic music that hit emotionally right away. These 18th and 19th-century works have endured for a reason, and most local opera companies are probably performing something classic this season.
+For [entertainment](https://infeeds.com/tags/entertainment) that's new to opera, "Carmen," "Don Giovanni," and "La Bohème" offer strong drama and iconic music that hit emotionally right away. These 18th and 19th-century works have endured for a reason, and most local opera companies are probably performing something classic this season.
 
-The larger point everyone kept circling back to was that arts and creativity matter, especially now. Kids entering a world full of uncertainty and unpredictable [technology](https://infeeds.com/tags/?tag=technology) need to develop imagination, entrepreneurial thinking, emotional resilience, and self-expression. That's what the arts give you. That's what ballet and opera are actually for.
+The larger point everyone kept circling back to was that arts and creativity matter, especially now. Kids entering a world full of uncertainty and unpredictable [technology](https://infeeds.com/tags/technology) need to develop imagination, entrepreneurial thinking, emotional resilience, and self-expression. That's what the arts give you. That's what ballet and opera are actually for.
 
 Chalamet might have thought he was making a hot take. Instead, he accidentally reminded everyone why these art forms have been around for centuries and why they're not going anywhere. Sometimes the best thing a dismissal can do is prove itself wrong.
 

@@ -16,7 +16,7 @@ Sounds straightforward, right? More ships carrying oil between U.S. ports equals
 
 Let's rewind for a second. The Jones Act was originally intended to protect America's domestic shipping industry after World War I. It mandates that any goods transported between U.S. ports must be carried by U.S. vessels. Noble in theory, protectionist in practice.
 
-The problem? There are fewer than 100 Jones Act-compliant vessels in the entire country. That's an absurdly small number when you think about the scale of American commerce. Economists have been dunking on this law for years, arguing it's basically a self-imposed tariff that jacks up shipping costs and stifles domestic <a href="https://infeeds.com/tags/?tag=business">business</a>.
+The problem? There are fewer than 100 Jones Act-compliant vessels in the entire country. That's an absurdly small number when you think about the scale of American commerce. Economists have been dunking on this law for years, arguing it's basically a self-imposed tariff that jacks up shipping costs and stifles domestic <a href="https://infeeds.com/tags/business">business</a>.
 
 Trump's waiver essentially opens the floodgates to international tankers, letting foreign vessels do the heavy lifting for the next two months.
 

@@ -18,7 +18,7 @@ Paul James, who collaborated with Hammond throughout his career, shared the news
 
 Hammond had the kind of pedigree that could've made him coast on family name alone. His father was John Henry Hammond Jr., a pioneering producer and talent scout who literally shaped modern music. But the younger Hammond didn't trade on that legacy. Instead, he proved himself through relentless dedication to the craft.
 
-He started playing guitar in high school and made the bold decision to drop out of Antioch College in Ohio after just one year. That kind of choice could've gone either way, but Hammond turned it into a meaningful career in <a href="https://infeeds.com/tags/?tag=entertainment">entertainment</a>. He signed with Vanguard Records in 1963 and released his self-titled debut featuring songs by blues legends like Muddy Waters, Lightnin' Hopkins, and Robert Johnson. Alongside those interpretations, he covered classics like Chuck Berry's "Maybellene," showing how blues and rock and roll were always intertwined.
+He started playing guitar in high school and made the bold decision to drop out of Antioch College in Ohio after just one year. That kind of choice could've gone either way, but Hammond turned it into a meaningful career in <a href="https://infeeds.com/tags/entertainment">entertainment</a>. He signed with Vanguard Records in 1963 and released his self-titled debut featuring songs by blues legends like Muddy Waters, Lightnin' Hopkins, and Robert Johnson. Alongside those interpretations, he covered classics like Chuck Berry's "Maybellene," showing how blues and rock and roll were always intertwined.
 
 Over the course of his lifetime, Hammond released more than 30 albums. That's not quantity over quality either. These were carefully crafted records that respected the music's roots while bringing something fresh to the table.
 
@@ -28,7 +28,7 @@ In 1985, Hammond finally got the Grammy recognition his work deserved when he wo
 
 The awards kept coming after that. He received nominations for "You Can't Judge a Book by the Cover" in 1993, "Trouble No More" in 1994, and "In Your Arms Again" in 1995. Then came "Found True Love" in 1996 and "Long As I Have You" in 1998. His 2009 album "Rough & Tough" earned another nod for Best Traditional Blues Album. The Recording Academy eventually caught up with what blues fans had known all along.
 
-In 2011, Hammond earned his place in the <a href="https://infeeds.com/tags/?tag=music">music</a> world's hall of fame when the Blues Foundation inducted him. George Thorogood, a fellow icon in American rock and blues, wrote a tribute that captured Hammond's significance perfectly. "For more than 50 years, John Hammond, Jr. was an icon, a professional role model and, most importantly, a friend," Thorogood said.
+In 2011, Hammond earned his place in the <a href="https://infeeds.com/tags/music">music</a> world's hall of fame when the Blues Foundation inducted him. George Thorogood, a fellow icon in American rock and blues, wrote a tribute that captured Hammond's significance perfectly. "For more than 50 years, John Hammond, Jr. was an icon, a professional role model and, most importantly, a friend," Thorogood said.
 
 ## What Made Him Matter
 

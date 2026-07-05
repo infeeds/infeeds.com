@@ -36,7 +36,7 @@ When asked why he wasn't working with the legislative branch on trade policy, Tr
 
 That kind of executive confidence might feel refreshing to his supporters or terrifying to his critics, depending on where you sit. Either way, it underscores a fundamental tension in how tariff authority actually works in America. The Constitution technically gives Congress control of trade policy. But modern presidents have consistently stretched the boundaries of executive power, and courts have often let them.
 
-Visit [our <a href="https://infeeds.com/tags/?tag=business">business</a> section] for more on how economic policy shapes markets.
+Visit [our <a href="https://infeeds.com/tags/business">business</a> section] for more on how economic policy shapes markets.
 
 ## What Comes Next
 

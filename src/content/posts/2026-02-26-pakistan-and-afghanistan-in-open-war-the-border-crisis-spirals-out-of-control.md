@@ -16,7 +16,7 @@ This explosion of violence didn't come out of nowhere. The Afghan Taliban launch
 
 ## When a Ceasefire Becomes Worthless
 
-Back in October, both nations had agreed to a ceasefire. That agreement now feels like ancient history. The <a href="https://infeeds.com/tags/?tag=news">news</a> of these attacks highlights just how fragile that peace was from day one. Neither side trusted the other enough to actually engage in meaningful dialogue. Negotiations aimed at reaching a complete end to hostilities failed spectacularly, with Pakistan and Afghanistan pointing fingers at each other for not taking talks seriously.
+Back in October, both nations had agreed to a ceasefire. That agreement now feels like ancient history. The <a href="https://infeeds.com/tags/news">news</a> of these attacks highlights just how fragile that peace was from day one. Neither side trusted the other enough to actually engage in meaningful dialogue. Negotiations aimed at reaching a complete end to hostilities failed spectacularly, with Pakistan and Afghanistan pointing fingers at each other for not taking talks seriously.
 
 The reality is that neither country has been willing to genuinely address the root causes of their conflict. Pakistan has long accused Afghanistan's Taliban government of harboring anti-Pakistan terrorist groups responsible for suicide bombings across the border. Afghanistan, meanwhile, views Pakistan's military actions as unprovoked aggression. When you've got that level of mutual distrust, a ceasefire is basically just a timeout before the next round begins.
 

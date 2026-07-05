@@ -49,7 +49,7 @@ Sleeping pads are where weight obsession has to stop. The Exped MegaMat is genui
 
 ## Base Layers and Sun Protection
 
-[Technology](https://infeeds.com/tags/?tag=technology) has made merino wool accessible to people who aren't running ultramarathons. REI's 100 percent merino base layers are some of the best deals around even at full price. On sale, they're genuinely hard to pass up. Icebreaker's 200-weight version splits the difference between winter warmth and summer breathability, making it work for shoulder season hiking when temperatures are unpredictable.
+[Technology](https://infeeds.com/tags/technology) has made merino wool accessible to people who aren't running ultramarathons. REI's 100 percent merino base layers are some of the best deals around even at full price. On sale, they're genuinely hard to pass up. Icebreaker's 200-weight version splits the difference between winter warmth and summer breathability, making it work for shoulder season hiking when temperatures are unpredictable.
 
 Smartwool's 100 percent merino offering is the top pick if you're running colder weather missions. The loose fit means it doubles as a long-sleeve shirt during mild seasons, which extends the season you can wear it.
 

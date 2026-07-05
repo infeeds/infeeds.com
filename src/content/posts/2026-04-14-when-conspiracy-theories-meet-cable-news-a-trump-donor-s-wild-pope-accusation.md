@@ -29,7 +29,7 @@ The conspiracy spiraled further when Lambert criticized the pope for not specifi
 
 What's particularly telling is what Lambert didn't do. The pope has met with numerous celebrities and public figures—actor Adam Scott, model Naomi Campbell, director Judd Apatow. Lambert mysteriously refrained from suggesting these encounters were part of some shadowy political operation. Perhaps, one might reasonably assume, because connecting a papal audience with a director to campaign strategy would strain credulity even further.
 
-Yet that's precisely what makes this moment worth examining. This wasn't some fringe social media post that disappeared into the void. This was on [cable news](https://infeeds.com/tags/?tag=news), where millions of people saw a credible-seeming [business](https://infeeds.com/tags/?tag=business) figure confidently assert a theory built entirely on proximity and assumption.
+Yet that's precisely what makes this moment worth examining. This wasn't some fringe social media post that disappeared into the void. This was on [cable news](https://infeeds.com/tags/news), where millions of people saw a credible-seeming [business](https://infeeds.com/tags/business) figure confidently assert a theory built entirely on proximity and assumption.
 
 The social media response was swift. Lambert became the subject of ridicule, and rightfully so. But the real question isn't whether one donor's conspiracy theory is ridiculous. It's how comfortable we've become presenting them as legitimate debate material in mainstream outlets.
 

@@ -16,7 +16,7 @@ But here's the thing: Iran flat-out disagrees with Trump's timeline. Foreign Min
 
 Meanwhile, Pakistani Prime Minister Shehbaz Sharif was out there on X (formerly Twitter) practically doing a victory lap, saying a finalized deal was "likely expected in the next 24 hours" and that both sides would sign electronically. That's quite a contrast to Tehran's more cautious tone.
 
-The background here matters. This war has dragged on for over a year now, and the economic pain has been felt far beyond the Middle East. Oil markets have been volatile, shipping routes disrupted, and the strategic calculations are insanely complex. A peace deal would be welcome news for global [Business](https://infeeds.com/tags/?tag=business) stability, but only if it holds.
+The background here matters. This war has dragged on for over a year now, and the economic pain has been felt far beyond the Middle East. Oil markets have been volatile, shipping routes disrupted, and the strategic calculations are insanely complex. A peace deal would be welcome news for global [Business](https://infeeds.com/tags/business) stability, but only if it holds.
 
 Trump also claimed the deal would result in eliminating Iran's enriched uranium stockpile, which has been a major sticking point in negotiations. He then added something about B-2 bombers and burying nuclear material "deep under the powerful sunken granite mountains," which honestly reads more like a video game plot than foreign policy. He followed it with a vague threat: "If it doesn't [work out], we have the ultimate alternative, hopefully never to be used again!" Classic Trump.
 

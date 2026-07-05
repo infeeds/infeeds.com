@@ -38,4 +38,4 @@ Yes, Rivian kept moving through a natural disaster. That's impressive operationa
 
 The tornado is a footnote to that larger story. Rivian weathered 72 hours of chaos and kept the line moving. The harder part is sustaining the momentum for the next 18 months while hitting volume targets in an EV market that's become considerably more competitive since the R2 was announced.
 
-The R2 could be Rivian's shot at legitimacy as a mass-market [automotive brand](https://infeeds.com/tags/?tag=business). Or it could be the company's most expensive lesson in the gap between promotional pricing and actual [technology](https://infeeds.com/tags/?tag=technology) economics. We'll know a lot more by the end of 2026.
+The R2 could be Rivian's shot at legitimacy as a mass-market [automotive brand](https://infeeds.com/tags/business). Or it could be the company's most expensive lesson in the gap between promotional pricing and actual [technology](https://infeeds.com/tags/technology) economics. We'll know a lot more by the end of 2026.

@@ -18,7 +18,7 @@ At $800, this isn't a casual purchase. Even at its current sale price of around 
 
 The F25 Ultra weighs 21 pounds, which sounds brutal. In theory, moving that mass around for 30 minutes should leave you exhausted. It doesn't, and that's entirely thanks to power-assisted wheels that make the vacuum feel almost as effortless to navigate as a lightweight cordless model.
 
-Roborock borrowed this feature from its <a href="https://infeeds.com/tags/?tag=technology">technology</a> expertise in robot vacuums, and it shows. You can even adjust how much assistance you want, and there's a genuinely clever party trick: send the vacuum under low furniture using the app, sort of like a remote-controlled mini version that you can't fully detach but almost doesn't feel like you're dragging dead weight anymore.
+Roborock borrowed this feature from its <a href="https://infeeds.com/tags/technology">technology</a> expertise in robot vacuums, and it shows. You can even adjust how much assistance you want, and there's a genuinely clever party trick: send the vacuum under low furniture using the app, sort of like a remote-controlled mini version that you can't fully detach but almost doesn't feel like you're dragging dead weight anymore.
 
 It's a small thing that compounds into a much larger experience. I cleaned my entire 1,300-square-foot apartment without dreading the process, and I barely touched my battery meter.
 

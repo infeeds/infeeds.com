@@ -34,7 +34,7 @@ Assistant U.S. Attorney Bill Essayli didn't mince words in the announcement. "Th
 
 ## Why This Matters Beyond the Headlines
 
-This isn't just a [news](https://infeeds.com/tags/?tag=news) story about corporate misconduct, though it certainly is that. It's a symptom of how vulnerable certain groups can be when bureaucratic systems fail them. Military families already deal with enough uncertainty. Deployments. Relocations. Extended separations. The last thing they need is to worry about whether their possessions will still be there when they get home.
+This isn't just a [news](https://infeeds.com/tags/news) story about corporate misconduct, though it certainly is that. It's a symptom of how vulnerable certain groups can be when bureaucratic systems fail them. Military families already deal with enough uncertainty. Deployments. Relocations. Extended separations. The last thing they need is to worry about whether their possessions will still be there when they get home.
 
 The lawsuit seeks monetary relief for the affected service members and a jury trial. S&K Towing hasn't responded to requests for comment, and notably, they don't appear to have legal representation listed in court records yet. That's either a sign they're scrambling to figure out their next move, or they're hoping this goes away quietly. Neither option looks good for them.
 

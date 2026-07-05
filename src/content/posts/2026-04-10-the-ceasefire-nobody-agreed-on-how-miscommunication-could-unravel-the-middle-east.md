@@ -42,7 +42,7 @@ The fundamental question lingers: how much leverage does the Lebanese government
 
 ## The Displacement Nobody's Counting
 
-More than 1.2 million people have been displaced. That's one in five of Lebanon's entire population. Most are from Shia Muslim communities. The [news](https://infeeds.com/tags/?tag=news) isn't really about the negotiations at that point. It's about the scale of human displacement happening in real time while people in comfortable rooms debate the wording of agreements.
+More than 1.2 million people have been displaced. That's one in five of Lebanon's entire population. Most are from Shia Muslim communities. The [news](https://infeeds.com/tags/news) isn't really about the negotiations at that point. It's about the scale of human displacement happening in real time while people in comfortable rooms debate the wording of agreements.
 
 Israel claims it's killed around 1,100 Hezbollah fighters. Lebanon's health ministry says over 1,800 people have been killed overall, including at least 130 children, without distinguishing combatants from civilians. That distinction matters legally. It matters morally. But when you're one of those 1.2 million displaced people, it's an abstraction.
 

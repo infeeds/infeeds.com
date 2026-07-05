@@ -30,7 +30,7 @@ The difference is brutal. "The richer countries are going to pay up," Schuurman 
 
 His forecast isn't optimistic. Poorer nations face humanitarian crises. Europe braces for economic pain. The U.S. enters political territory. That's not a market prediction. That's a warning about real-world consequences when energy supply chains fracture and prices stay elevated for prolonged periods.
 
-## Where [Business](https://infeeds.com/tags/?tag=business) Goes From Here
+## Where [Business](https://infeeds.com/tags/business) Goes From Here
 
 The current standoff reveals something uncomfortable about global energy markets: they're held together by threads. Inventories can absorb shocks for only so long. Strategic reserves get depleted. Demand destruction—the polite term for people and companies using less energy because they can't afford it—eventually kicks in. But that adjustment happens through pain, not through market efficiency.
 

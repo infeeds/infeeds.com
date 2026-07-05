@@ -11,7 +11,7 @@ tags_color: '#2b2b2b'
 
 Every professional today knows the feeling. You need to write something, so you open one tool. Then you need to check research, which means switching to another. A quick image edit pulls you into a third application. By lunchtime, you've context-switched so many times that your actual work feels secondary to managing your toolbox.
 
-This isn't a productivity quirk anymore. It's becoming a genuine friction point for how work gets done, especially as <a href="https://infeeds.com/tags/?tag=technology">technology</a> companies rush to add AI capabilities everywhere. The proliferation of specialized AI tools is paradoxically making work harder, not easier.
+This isn't a productivity quirk anymore. It's becoming a genuine friction point for how work gets done, especially as <a href="https://infeeds.com/tags/technology">technology</a> companies rush to add AI capabilities everywhere. The proliferation of specialized AI tools is paradoxically making work harder, not easier.
 
 ## The Multiplication Problem
 
@@ -23,7 +23,7 @@ The real cost isn't just financial, though it adds up fast. It's cognitive. Ever
 
 ## Why Consolidation Is Winning
 
-Smart <a href="https://infeeds.com/tags/?tag=business">business</a> leaders are catching on. Instead of assembling a frankenstein stack of AI tools, they're exploring platforms that bundle capabilities. One dashboard. Multiple AI models. Writing, research, image generation, video tools, document analysis, all accessible without leaving the window.
+Smart <a href="https://infeeds.com/tags/business">business</a> leaders are catching on. Instead of assembling a frankenstein stack of AI tools, they're exploring platforms that bundle capabilities. One dashboard. Multiple AI models. Writing, research, image generation, video tools, document analysis, all accessible without leaving the window.
 
 The logic is straightforward. Reduce switching costs. Maintain workflow continuity. Choose the right AI model for the task without friction. Want GPT for one task and Claude for another? Don't rebuild your entire setup. Just pick the model and go.
 
@@ -47,7 +47,7 @@ Mobile and desktop accessibility isn't luxury either. Work isn't confined to des
 
 ## What's Really Changing
 
-The shift toward consolidated platforms signals something deeper in how <a href="https://infeeds.com/tags/?tag=business">business</a> thinks about AI adoption. It's moving from "collect the best tools" to "reduce friction in our actual workflows."
+The shift toward consolidated platforms signals something deeper in how <a href="https://infeeds.com/tags/business">business</a> thinks about AI adoption. It's moving from "collect the best tools" to "reduce friction in our actual workflows."
 
 That's maturation. Early AI adoption looked like startups bolting ChatGPT onto everything. Real adoption looks like quietly integrating AI where it actually reduces work without adding complexity.
 

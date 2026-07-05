@@ -20,7 +20,7 @@ Let's talk about what this actually means for your wallet. The Strait of Hormuz 
 
 Oil prices have already surged following Khamenei's comments, and experts were already warning about barrel prices potentially hitting $200 before this speech even happened. We're talking about a situation where a geopolitical powder keg is directly connected to the price of gas at your local pump. That connection isn't theoretical anymore. It's real and it's happening.
 
-The <a href="https://infeeds.com/tags/?tag=business">business</a> implications are staggering. Global supply chains already stressed from years of disruption now face the prospect of even tighter energy markets. Shipping companies are rerouting around the Cape of Good Hope, adding weeks to transit times and billions to operational costs.
+The <a href="https://infeeds.com/tags/business">business</a> implications are staggering. Global supply chains already stressed from years of disruption now face the prospect of even tighter energy markets. Shipping companies are rerouting around the Cape of Good Hope, adding weeks to transit times and billions to operational costs.
 
 ## A Different Kind of Leader
 

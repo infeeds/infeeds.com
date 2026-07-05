@@ -40,7 +40,7 @@ If you want to go even cheaper, the Asus Chromebook CX14 and its bigger sibling 
 
 They're surprisingly attractive for the price range. Thin bezels, reasonable chassis thickness, a comfortable keyboard, and a larger touchpad than you'd expect. The CX15 even comes in an appealing blue. The display and touchpad aren't great, and the webcam maxes out at 720p, which makes video calls rough around the edges. But nobody's going to love using a computer that costs less than $200. The CX14 at least won't make you miserable, and it'll get the job done without constant frustration.
 
-## The <a href="https://infeeds.com/tags/?tag=technology">Technology</a> That Actually Matters
+## The <a href="https://infeeds.com/tags/technology">Technology</a> That Actually Matters
 
 When you're shopping for a Chromebook, most of the usual laptop specs apply, but some are more important than others.
 

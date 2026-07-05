@@ -26,7 +26,7 @@ Former Republican Rep. Adam Kinzinger called it what he saw: "This is absolutely
 
 ## Where Politics and Religion Collide
 
-The real issue here isn't whether Burns personally worships Trump. It's what happens when [political](https://infeeds.com/tags/?tag=politics) reverence gets dressed in religious language and given religious dimensions. When a pastor leads a dedication ceremony and speaks about God's protection of a political figure, when the defense against idol worship accusations includes appeals to divine providence, the lines blur whether anyone intends them to or not.
+The real issue here isn't whether Burns personally worships Trump. It's what happens when [political](https://infeeds.com/tags/politics) reverence gets dressed in religious language and given religious dimensions. When a pastor leads a dedication ceremony and speaks about God's protection of a political figure, when the defense against idol worship accusations includes appeals to divine providence, the lines blur whether anyone intends them to or not.
 
 Mehdi Hasan from Zeteo made a pointed observation: "Remember: in the Middle East, we're fighting a regime of religious maniacs who blindly follow a Supreme Leader." The comparison stung because it forced people to consider how their own political veneration might look from the outside.
 

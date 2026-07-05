@@ -16,7 +16,7 @@ tags_color: '#d32f2f'
 
 Ubisoft just pulled the plug on six games, including the Prince of Persia remake everyone was waiting for. They're restructuring their entire company around five "Creative Houses" that will pump out the same franchises over and over again. Assassin's Creed, Far Cry, Rainbow Six. Rinse and repeat.
 
-This isn't just Ubisoft being Ubisoft. It's a trend sweeping through the entire [gaming industry](https://infeeds.com/tags/?tag=technology), and it should worry anyone who cares about actually interesting games. EA, Sony, and basically every major publisher is doing the exact same thing: fewer games, bigger budgets, zero chances taken.
+This isn't just Ubisoft being Ubisoft. It's a trend sweeping through the entire [gaming industry](https://infeeds.com/tags/technology), and it should worry anyone who cares about actually interesting games. EA, Sony, and basically every major publisher is doing the exact same thing: fewer games, bigger budgets, zero chances taken.
 
 The math seems simple on paper. Why gamble on a risky new IP when you can make Assassin's Creed 47 and guarantee a decent return? Why experiment with weird mechanics when you can just add another season pass to your existing franchises?
 
@@ -24,7 +24,7 @@ The math seems simple on paper. Why gamble on a risky new IP when you can make A
 
 Here's the thing though. This strategy isn't actually safe, no matter how much these companies want to believe it is. Remember Concord? Sony spent eight years and reportedly massive amounts of money on that game. It lasted two weeks before they pulled the plug completely and shut down the entire studio.
 
-Joost van Dreunen, a games professor at NYU, nailed it when he called this a "classic risk-aversion strategy" that's really just buying time rather than building a sustainable future. The [business](https://infeeds.com/tags/?tag=business) logic makes sense until you realize you're putting all your eggs in increasingly expensive baskets.
+Joost van Dreunen, a games professor at NYU, nailed it when he called this a "classic risk-aversion strategy" that's really just buying time rather than building a sustainable future. The [business](https://infeeds.com/tags/business) logic makes sense until you realize you're putting all your eggs in increasingly expensive baskets.
 
 Battlefield 2042 bombed hard, so EA threw everything they had at Battlefield 6. Multiple studios, massive resources, the works. It paid off this time, but what happens when it doesn't? What happens when audiences get tired of the same franchises year after year?
 
@@ -38,6 +38,6 @@ Sony used to be known for taking creative swings. Now they're doubling down on l
 
 The irony is that this whole strategy emerged because the AAA market got too competitive and expensive. So the solution is to make even bigger, more expensive games that absolutely cannot fail? That's like responding to high-stakes poker by pushing all your chips in every hand.
 
-Yves Guillemot, Ubisoft's CEO, summed up the mentality perfectly: successful games have "more financial potential than ever." Notice what's missing from that statement? Any mention of creativity, innovation, or giving players something they've never experienced before. It's all about financial potential and playing it safe with [tech](https://infeeds.com/tags/?tag=tech) that's already proven.
+Yves Guillemot, Ubisoft's CEO, summed up the mentality perfectly: successful games have "more financial potential than ever." Notice what's missing from that statement? Any mention of creativity, innovation, or giving players something they've never experienced before. It's all about financial potential and playing it safe with [tech](https://infeeds.com/tags/tech) that's already proven.
 
 Get ready for a future where every major game is a sequel, remake, or reboot of something you've already played, because apparently that's the only way these massive publishers can sleep at night.

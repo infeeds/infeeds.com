@@ -38,7 +38,7 @@ eBay's response was measured but firm. The board expressed confidence in Iannone
 
 That context matters. eBay isn't a broken company desperately needing salvation. It's mid-turnaround, generating returns for shareholders, and executing a focused strategy. Handing it over to GameStop's leadership would have meant throwing all that away on the bet that a CEO who can't clearly articulate his financing plan has some genius restructuring vision.
 
-The board also wasn't wrong about the debt risk. Adding $56 billion in acquisition debt plus operational leverage to a company like eBay could have created a financial disaster if anything went sideways. And in <a href="https://infeeds.com/tags/?tag=business">business</a>, things always go sideways.
+The board also wasn't wrong about the debt risk. Adding $56 billion in acquisition debt plus operational leverage to a company like eBay could have created a financial disaster if anything went sideways. And in <a href="https://infeeds.com/tags/business">business</a>, things always go sideways.
 
 ## What Cohen Does Next
 

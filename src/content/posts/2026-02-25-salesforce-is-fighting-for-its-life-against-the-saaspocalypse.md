@@ -40,7 +40,7 @@ Patrick Stokes, Salesforce's president and CMO, put it plainly: "You can ask it 
 
 ## The Architecture Wars
 
-Here's where this gets genuinely competitive. Salesforce presented its own vision of how the AI world should be structured. In their version, SaaS platforms like Salesforce sit at the top, controlling most of the [technology](https://infeeds.com/tags/?tag=technology) stack. AI model makers? They're relegated to the bottom, commoditized and interchangeable.
+Here's where this gets genuinely competitive. Salesforce presented its own vision of how the AI world should be structured. In their version, SaaS platforms like Salesforce sit at the top, controlling most of the [technology](https://infeeds.com/tags/technology) stack. AI model makers? They're relegated to the bottom, commoditized and interchangeable.
 
 This is a direct counter to OpenAI's competing vision, which emerged after they released Frontier, their enterprise agent. OpenAI's model puts OpenAI at the top controlling the stack, with SaaS companies relegated to being the unsexy backend.
 

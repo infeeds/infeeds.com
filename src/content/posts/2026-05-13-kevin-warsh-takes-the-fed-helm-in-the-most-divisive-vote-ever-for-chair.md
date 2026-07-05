@@ -16,7 +16,7 @@ It's worth pausing on that number. A 54-45 vote on a Fed chair doesn't just happ
 
 Here's the catch, though. Fresh data this week showed inflation sitting well above the Federal Reserve's 2% target, and pipeline pressures are accelerating at their highest levels in more than three years. Markets are already scaling back expectations for rate cuts and even pricing in the possibility of increases later this year.
 
-So Warsh arrives at a moment of genuine tension. The president wants stimulus through rate cuts. The economic data is screaming the opposite. That's not a recipe for a smooth first 100 days as <a href="https://infeeds.com/tags/?tag=business">chair of the nation's central bank</a>.
+So Warsh arrives at a moment of genuine tension. The president wants stimulus through rate cuts. The economic data is screaming the opposite. That's not a recipe for a smooth first 100 days as <a href="https://infeeds.com/tags/business">chair of the nation's central bank</a>.
 
 Warsh will chair his first Federal Open Market Committee meeting on June 16-17. By then, he'll be leading an institution that's already fractured. Stephen Miran, the governor whose seat Warsh is taking, has dissented from every FOMC vote since his September 2025 appointment, consistently pushing for more aggressive rate cuts. Miran wanted half-point cuts when the committee voted for quarter-point reductions in 2025. Earlier this year, he's opposed holding rates steady, arguing for reductions instead.
 

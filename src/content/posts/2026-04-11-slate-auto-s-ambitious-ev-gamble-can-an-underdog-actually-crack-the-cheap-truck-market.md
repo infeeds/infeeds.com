@@ -28,7 +28,7 @@ The timing is also working in Slate's favor. After the Trump administration pass
 
 ## The Execution Problem Is Still Real
 
-Let's not pretend Slate is a done deal. The <a href="https://infeeds.com/tags/?tag=business">business</a> of scaling an automaker from zero is genuinely punishing. Capital intensive. Regulatory minefield. Supply chain nightmares. Execution failures in EV manufacturing have become almost commonplace in recent years, and bankruptcy is hardly shocking anymore in this sector.
+Let's not pretend Slate is a done deal. The <a href="https://infeeds.com/tags/business">business</a> of scaling an automaker from zero is genuinely punishing. Capital intensive. Regulatory minefield. Supply chain nightmares. Execution failures in EV manufacturing have become almost commonplace in recent years, and bankruptcy is hardly shocking anymore in this sector.
 
 Slate identified a 1.4 million-square-foot former printing plant in Warsaw, Indiana as its factory location. It's dormant, 68-year-old industrial real estate. Converting that into a functional truck factory by late 2026 requires military-level precision and capital discipline. The company brought in Peter Faricy, a former Amazon Marketplace VP, to replace Chris Barman as CEO in March. Barman stayed on as President of Vehicles, which suggests this wasn't a shakeup but a strategic pivot. Faricy's job was clear: convert those 150,000 reservations into actual orders and get the factory online.
 
@@ -38,7 +38,7 @@ That's not nothing. But it's also not a guarantee.
 
 The deeper story here is about market structure. The U.S. EV market has cooled substantially. Major OEMs are slowing production. Chinese competitors are entering. But at the ultra-cheap end of the market, where Slate is hunting, there's basically nobody. Tesla's cheapest vehicle remains substantially pricier. Traditional automakers haven't bothered to go that low yet. This is a vacuum.
 
-If Slate pulls off even 50% of what it's promising, it proves that there's a playbook for cracking a price segment that everyone assumes is impossible to service. And if it fails, it becomes another cautionary tale in a graveyard of <a href="https://infeeds.com/tags/?tag=technology">technology</a> companies that ran out of runway before hitting production.
+If Slate pulls off even 50% of what it's promising, it proves that there's a playbook for cracking a price segment that everyone assumes is impossible to service. And if it fails, it becomes another cautionary tale in a graveyard of <a href="https://infeeds.com/tags/technology">technology</a> companies that ran out of runway before hitting production.
 
 The thing that makes Slate different from the typical EV startup graveyard isn't just Bezos's money or the experienced team. It's that the company spent three years in stealth actually building something instead of taking meetings. No public fanfare. No SPAC circus. Just heads down work in the backyard of Ford and General Motors, watching what they were doing and doing something completely different.
 

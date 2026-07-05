@@ -33,7 +33,7 @@ This retreat started quietly back in March, according to earlier reporting. Micr
 
 ## The Actual Strategy
 
-What Microsoft is doing here isn't abandoning AI. It's repackaging it. The company gets to keep its [Technology](https://infeeds.com/tags/?tag=technology) investments and AI capabilities while backing away from a name that's become a cultural flashpoint. Users who want the tools can still access them. Users who've grown tired of the Copilot logo won't have it constantly staring them in the face.
+What Microsoft is doing here isn't abandoning AI. It's repackaging it. The company gets to keep its [Technology](https://infeeds.com/tags/technology) investments and AI capabilities while backing away from a name that's become a cultural flashpoint. Users who want the tools can still access them. Users who've grown tired of the Copilot logo won't have it constantly staring them in the face.
 
 It's a calculated move, not a capitulation. The AI doesn't vanish; it just becomes less visible and less branded. Whether that's enough to satisfy critics remains to be seen.
 

@@ -22,7 +22,7 @@ Here's the kicker: both drugs achieved these numbers despite lower realized pric
 
 ## Market Share Tells the Real Story
 
-In the booming <a href="https://infeeds.com/tags/?tag=business">business</a> of GLP-1 drugs, Lilly now controls 60.1% of the U.S. obesity and diabetes market, according to the company's earnings presentation. Novo Nordisk? 39.4%. The gap is widening, and that margin matters when you're talking about a drug category that's reshaping the pharmaceutical industry.
+In the booming <a href="https://infeeds.com/tags/business">business</a> of GLP-1 drugs, Lilly now controls 60.1% of the U.S. obesity and diabetes market, according to the company's earnings presentation. Novo Nordisk? 39.4%. The gap is widening, and that margin matters when you're talking about a drug category that's reshaping the pharmaceutical industry.
 
 The company's overall first-quarter revenue hit $19.80 billion, up 56% year-over-year. U.S. revenue climbed 43% to $12.1 billion, driven by a 49% jump in prescription volumes for Mounjaro and Zepbound. Net income came in at $7.40 billion, or $8.26 per share, compared to $2.76 billion ($3.06 per share) in the prior year.
 

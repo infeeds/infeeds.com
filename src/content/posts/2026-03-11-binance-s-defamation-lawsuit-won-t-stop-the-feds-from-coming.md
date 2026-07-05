@@ -40,7 +40,7 @@ Then there's the Trump factor. Trump recently pardoned Zhao, which alarmed lawma
 
 From Blumenthal's perspective, this looks like a potential conflict of interest wrapped in a get-out-of-jail card. He's demanding records to understand how Binance managed to overlook massive sanctions violations and why compliance staff were terminated. A defamation lawsuit won't answer those questions.
 
-The real issue here is that Binance's complaint seems to depend on the court reaching the same conclusions as the company does about what the Journal knew and when. It's a narrow technical argument in a much broader <a href="https://infeeds.com/tags/?tag=business">business</a> and political problem.
+The real issue here is that Binance's complaint seems to depend on the court reaching the same conclusions as the company does about what the Journal knew and when. It's a narrow technical argument in a much broader <a href="https://infeeds.com/tags/business">business</a> and political problem.
 
 ## What's Actually at Stake
 

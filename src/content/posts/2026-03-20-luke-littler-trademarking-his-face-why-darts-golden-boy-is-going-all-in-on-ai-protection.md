@@ -26,7 +26,7 @@ This isn't just about merchandise anymore. The real driver here is generative AI
 
 Scarlett Johansson and Taylor Swift have both been caught in the crossfire of AI-generated videos and fake audio that circulate online. Johansson's case was particularly jarring because someone used her voice for an OpenAI demo without permission. These aren't hypothetical concerns anymore. They're happening right now.
 
-The [technology](https://infeeds.com/tags/?tag=technology) to create convincing deepfakes is becoming more accessible by the day. Anyone with a laptop and the right software can now generate videos of celebrities saying things they never said or doing things they never did. For someone like Littler, who built his entire brand on being the charismatic "Nuke" dominating the darts world, that's genuinely terrifying.
+The [technology](https://infeeds.com/tags/technology) to create convincing deepfakes is becoming more accessible by the day. Anyone with a laptop and the right software can now generate videos of celebrities saying things they never said or doing things they never did. For someone like Littler, who built his entire brand on being the charismatic "Nuke" dominating the darts world, that's genuinely terrifying.
 
 ## Not a Silver Bullet, But It Sends a Message
 
@@ -38,7 +38,7 @@ But here's the psychological angle: it puts off "opportunistic merchandising." S
 
 For licensing deals, a trademark gives Littler "something" tangible to license. Instead of having to explain why someone shouldn't use his image, he can point to legal documentation that he owns it. That's actually valuable when you're negotiating with brands.
 
-## The Broader [Business](https://infeeds.com/tags/?tag=business) Picture
+## The Broader [Business](https://infeeds.com/tags/business) Picture
 
 Darts has exploded in popularity over the last few years, partly because of younger players like Littler. Sponsorships, merchandise, media rights, licensing deals. There's real money flowing through professional darts now. For someone who became world champion at 17, protecting that asset makes complete sense.
 
@@ -46,7 +46,7 @@ Cole Palmer trademarked not just his image and autograph but literally the phras
 
 ## The Legal Framework Still Catching Up
 
-Here's what's frustrating about all this. Littler, McConaughey, and everyone else doing this are basically improvising legal protection because the actual laws haven't caught up to the [technology](https://infeeds.com/tags/?tag=technology).
+Here's what's frustrating about all this. Littler, McConaughey, and everyone else doing this are basically improvising legal protection because the actual laws haven't caught up to the [technology](https://infeeds.com/tags/technology).
 
 There's no comprehensive image rights law in the UK. There's no clear legal framework for how AI deepfakes should be handled. So instead, celebrities are using trademark law, copyright law, right of publicity laws from other countries, and any other legal tool available to them as defensive measures.
 

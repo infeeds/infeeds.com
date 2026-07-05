@@ -28,6 +28,6 @@ The White House has had a beekeeping program on the grounds since 2009, when Whi
 
 The gap between what happened and how some outlets framed it reveals something worth paying attention to. It's easy to sensationalize. A swarm of thousands of insects is visually dramatic. The word "attacking" sells better than "transitioning to a new home." Even reporters caught up in the moment can default to language that inflates the threat level.
 
-This isn't a massive failure of [news](https://infeeds.com/tags/?tag=news) coverage, but it's a small example of how framing shapes perception. The bees weren't the story here. The story was a funny, slightly absurd moment at a place where serious things usually happen. Treating them like a threat when they weren't one just muddies the water.
+This isn't a massive failure of [news](https://infeeds.com/tags/news) coverage, but it's a small example of how framing shapes perception. The bees weren't the story here. The story was a funny, slightly absurd moment at a place where serious things usually happen. Treating them like a threat when they weren't one just muddies the water.
 
 The White House bees got their moment of fame on Friday, and the press got their punchlines. Everyone went home fine. Maybe that's enough of a story without embellishment.

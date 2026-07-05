@@ -14,7 +14,7 @@ This isn't science fiction. According to BBC reporting, it's happening right now
 
 The polling industry is in crisis. Response rates have cratered from over 30% in the 1990s to below 5% today, according to AI consultant Stéphane Le Brun. Fewer people answering means higher costs, less representative data, and a public that trusts polls less with each passing election cycle. Something had to give.
 
-Enter [Technology](https://infeeds.com/tags/?tag=technology) that moves fast. Naratis, founded in 2025 by 28-year-old engineer Pierre Fontaine, claims to have solved the problem by automating qualitative research, the slowest and most expensive corner of polling. What once took weeks and tens of thousands of euros can now happen in a day or two. The company claims its method is "10 times faster, 10 times cheaper and 90% as accurate as human polling."
+Enter [Technology](https://infeeds.com/tags/technology) that moves fast. Naratis, founded in 2025 by 28-year-old engineer Pierre Fontaine, claims to have solved the problem by automating qualitative research, the slowest and most expensive corner of polling. What once took weeks and tens of thousands of euros can now happen in a day or two. The company claims its method is "10 times faster, 10 times cheaper and 90% as accurate as human polling."
 
 That's a bold pitch. And it raises an uncomfortable question: what are we actually measuring anymore?
 
@@ -42,7 +42,7 @@ These aren't theoretical concerns. The polling industry has already failed spect
 
 This is where things get really interesting. Some firms aren't just using AI to conduct interviews. They're generating synthetic respondents entirely, using "digital twins" and AI-created profiles based on real-world patterns.
 
-The idea has some merit in [business](https://infeeds.com/tags/?tag=business) research. You want to study a hard-to-reach group? Generate some synthetic versions based on the real people you did reach. But in political polling, the major firms are pumping the brakes.
+The idea has some merit in [business](https://infeeds.com/tags/business) research. You want to study a hard-to-reach group? Generate some synthetic versions based on the real people you did reach. But in political polling, the major firms are pumping the brakes.
 
 Ipsos refuses to publish political polls based on AI-generated data. OpinionWay's CEO Bruno Jeanbart was blunt about it: "We would never publish an opinion poll based on AI-generated data," citing concerns about trust. He expects France may eventually prohibit it outright.
 

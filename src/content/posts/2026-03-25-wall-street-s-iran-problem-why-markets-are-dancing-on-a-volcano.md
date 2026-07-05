@@ -28,7 +28,7 @@ Except McNally isn't convinced. If this conflict continues the way it's going, c
 
 ## When Past Performance Doesn't Matter
 
-This is where it gets interesting from a [business](https://infeeds.com/tags/?tag=business) perspective. Investors have basically trained themselves to treat geopolitical shocks like they're temporary hiccups. Trump's tariffs? They could be reversed. Trade wars? They come and go. But the Iran situation is fundamentally different.
+This is where it gets interesting from a [business](https://infeeds.com/tags/business) perspective. Investors have basically trained themselves to treat geopolitical shocks like they're temporary hiccups. Trump's tariffs? They could be reversed. Trade wars? They come and go. But the Iran situation is fundamentally different.
 
 Citadel Securities flagged exactly this problem. Their head of EMEA fixed income sales, Nohshad Shah, pointed out that everyone's assuming a quick resolution is coming. They're betting on it, actually. But a conflict involving multiple actors and competing interests doesn't work like a light switch. You can't just flip it off.
 

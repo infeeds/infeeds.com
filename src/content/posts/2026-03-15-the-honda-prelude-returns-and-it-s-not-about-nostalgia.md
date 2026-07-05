@@ -26,7 +26,7 @@ The real inflection point arrived with the third-generation Prelude in 1988. Thi
 
 But four-wheel steering was just the opening act. In 1993, Honda introduced VTEC, or Variable Valve Timing and Lift Electronic Control, into the Prelude. While Alfa Romeo had dabbled with variable valve timing earlier, Honda's system was different. It fundamentally changed how the engine breathed depending on how hard you were pushing it. At low rpm, the valves opened conservatively for fuel efficiency. At higher revs, an aggressive cam profile held the valves open longer and wider, extracting maximum performance. It was like getting two engines in one package.
 
-The fourth-generation Prelude in 1992 arrived with a 190-horsepower VTEC variant that moved the needle significantly. This wasn't just a styled-up Accord anymore. This was <a href="https://infeeds.com/tags/?tag=technology">technology</a> as identity.
+The fourth-generation Prelude in 1992 arrived with a 190-horsepower VTEC variant that moved the needle significantly. This wasn't just a styled-up Accord anymore. This was <a href="https://infeeds.com/tags/technology">technology</a> as identity.
 
 ## The Slow Fade and the Quiet Exit
 
@@ -36,7 +36,7 @@ Competition inside Honda's own showroom didn't help. The Accord Coupe, Civic Cou
 
 ## 2026: The Return, But Not Really
 
-So why bring it back now? Honda's new Prelude isn't arriving because the company suddenly felt sentimental. The auto industry that exists today looks nothing like the one the original Prelude inhabited. <a href="https://infeeds.com/tags/?tag=business">Business</a> models have fractured. Development costs have exploded. Margins have compressed. Tesla forced everyone to think like a technology company. China emerged as both a market and an innovation superpower. Governments now act as de facto product planners through emissions rules and subsidies.
+So why bring it back now? Honda's new Prelude isn't arriving because the company suddenly felt sentimental. The auto industry that exists today looks nothing like the one the original Prelude inhabited. <a href="https://infeeds.com/tags/business">Business</a> models have fractured. Development costs have exploded. Margins have compressed. Tesla forced everyone to think like a technology company. China emerged as both a market and an innovation superpower. Governments now act as de facto product planners through emissions rules and subsidies.
 
 Under these conditions, reviving a legacy nameplate becomes a calculated move, not a branding exercise.
 

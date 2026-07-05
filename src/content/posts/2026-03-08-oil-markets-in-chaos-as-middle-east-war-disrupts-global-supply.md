@@ -38,7 +38,7 @@ Trump is making noise about having a say in who becomes Iran's next Supreme Lead
 
 The clerical establishment inside Iran is uncomfortable leaving a three-person council in charge temporarily. They want a new leader appointed fast, which makes sense from their perspective. A country at war needs clear leadership. Ayatollah Seyyed Ahmad Alam al-Huda announced Sunday that elections were held and a new leader has been appointed, though no name was released.
 
-What happens next is anyone's guess. The <a href="https://infeeds.com/tags/?tag=business">business</a> community is holding its breath. Oil traders are watching every headline. Airlines are rerouting flights. Insurance companies are calculating risk premiums.
+What happens next is anyone's guess. The <a href="https://infeeds.com/tags/business">business</a> community is holding its breath. Oil traders are watching every headline. Airlines are rerouting flights. Insurance companies are calculating risk premiums.
 
 ## A Human Cost Nobody's Talking About
 
@@ -50,6 +50,6 @@ The Arab foreign ministers condemned Iran's attacks on Sunday, calling them a gr
 
 ## What Comes Next
 
-Nobody really knows. Energy prices could stabilize if cooler heads prevail. They could spike further if the conflict widens. American consumers are watching their budgets get tighter while <a href="https://infeeds.com/tags/?tag=news">news</a> networks cover the story like we're watching a movie. Meanwhile, the actual human consequences keep mounting.
+Nobody really knows. Energy prices could stabilize if cooler heads prevail. They could spike further if the conflict widens. American consumers are watching their budgets get tighter while <a href="https://infeeds.com/tags/news">news</a> networks cover the story like we're watching a movie. Meanwhile, the actual human consequences keep mounting.
 
 The bigger question nobody's asking: how many more weeks or months of this can the global economy actually handle before something breaks?

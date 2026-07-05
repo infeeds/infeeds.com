@@ -30,11 +30,11 @@ The fantasy is having time to actually learn to cook, not just follow instructio
 
 Here's something I didn't understand until recently: gut health actually matters. Like, a lot. It's not just wellness influencers making stuff up. Your gut affects your immune system, your mood, your energy levels, even how clearly you think.
 
-When your gut's a mess, everything feels harder. You're tired, cranky, craving junk you don't even want. It's one of those things that touches everything else in your [lifestyle](https://infeeds.com/tags/?tag=lifestyle), but most of us walk around feeling off without connecting the dots back to what we're eating.
+When your gut's a mess, everything feels harder. You're tired, cranky, craving junk you don't even want. It's one of those things that touches everything else in your [lifestyle](https://infeeds.com/tags/lifestyle), but most of us walk around feeling off without connecting the dots back to what we're eating.
 
 The whole point isn't to become some perfect clean-eating robot. It's just to feel better. More energy to do the stuff you actually care about. Fewer afternoons where you crash and need three coffees just to function. That steadier feeling where life doesn't feel quite so overwhelming.
 
-Food scientist Jules Clancy has a new program called Joyful Cooking for Natural Vitality that tries to tackle this stuff. It's a six-month coaching thing focused on building better habits and learning to cook without being chained to recipes. You can try it for a dollar for three weeks, which seems almost suspicious until you realize it's just smart [business](https://infeeds.com/tags/?tag=business) to let people test it first.
+Food scientist Jules Clancy has a new program called Joyful Cooking for Natural Vitality that tries to tackle this stuff. It's a six-month coaching thing focused on building better habits and learning to cook without being chained to recipes. You can try it for a dollar for three weeks, which seems almost suspicious until you realize it's just smart [business](https://infeeds.com/tags/business) to let people test it first.
 
 ## Making It Actually Sustainable
 

@@ -18,7 +18,7 @@ The timing makes sense though. Treyarch is running a free trial weekend simultan
 
 ## When You Can Actually Play
 
-The event went live Thursday at 1 p.m. ET and runs until Monday. If you're in a different time zone, you'll need to do the mental math yourself or check when your [Technology](https://infeeds.com/tags/?tag=technology) platform shows the event timer.
+The event went live Thursday at 1 p.m. ET and runs until Monday. If you're in a different time zone, you'll need to do the mental math yourself or check when your [Technology](https://infeeds.com/tags/technology) platform shows the event timer.
 
 One thing worth noting is that your existing double XP tokens are completely locked during this period. You can't stack them on top of the event boost, and any time you had remaining on active tokens gets frozen until Monday. It's Treyarch's way of preventing players from getting quadruple XP or something equally ridiculous.
 
@@ -32,8 +32,8 @@ The Quad Feed events have spoiled the community a bit. When everything gets doub
 
 For new players taking advantage of the free trial, the double account XP is genuinely helpful. You'll unlock more loadout options and perks faster than you would during a normal week, which means you won't be completely outgunned by players who've been grinding since launch. But if you've already maxed out your account level, this event offers virtually nothing.
 
-Warzone's inclusion in the event is probably the most interesting angle here. The battle royale mode getting both player and weapon XP boosts while Black Ops 7 gets a single boost type shows where Activision's priorities might be leaning. [Gaming](https://infeeds.com/tags/?tag=gaming) communities have picked up on this kind of thing before, and it usually sparks some heated discussions on Reddit and Twitter.
+Warzone's inclusion in the event is probably the most interesting angle here. The battle royale mode getting both player and weapon XP boosts while Black Ops 7 gets a single boost type shows where Activision's priorities might be leaning. [Gaming](https://infeeds.com/tags/gaming) communities have picked up on this kind of thing before, and it usually sparks some heated discussions on Reddit and Twitter.
 
-The free weekend trial is clearly the main attraction here, with the double XP functioning more as a supporting feature than the headliner. It's a classic move from the game [business](https://infeeds.com/tags/?tag=business) playbook: give people a taste for free, make the experience slightly better than normal, and hope they convert to paid players before Monday rolls around.
+The free weekend trial is clearly the main attraction here, with the double XP functioning more as a supporting feature than the headliner. It's a classic move from the game [business](https://infeeds.com/tags/business) playbook: give people a taste for free, make the experience slightly better than normal, and hope they convert to paid players before Monday rolls around.
 
 Still, free XP is free XP, even if it's not the bounty players were hoping for. If you've been meaning to prestige or just want to knock out a few levels while the getting's good, this weekend is your window. Just don't expect it to feel like the XP bonanzas Treyarch has thrown in the past.

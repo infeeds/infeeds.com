@@ -30,7 +30,7 @@ The celebrity sightings became legendary. Ernest Hemingway practically lived in 
 
 ## The Modern Era: Snow, Sustainability, and Social Media
 
-What's wild is that today, the town is bustling with a different kind of fame. Sure, celebrities still show up (many disguising themselves to avoid attention), but increasingly, Cortina is attracting visitors through [news](https://infeeds.com/tags/?tag=news) outlets and social media images of turquoise Alpine lakes and stunning peaks.
+What's wild is that today, the town is bustling with a different kind of fame. Sure, celebrities still show up (many disguising themselves to avoid attention), but increasingly, Cortina is attracting visitors through [news](https://infeeds.com/tags/news) outlets and social media images of turquoise Alpine lakes and stunning peaks.
 
 The Dolomites became a UNESCO World Heritage site, which gave the region official cultural weight and drew even more curious travelers. But there's something beautiful happening in Cortina now that goes beyond the Hollywood glamour of decades past. The town is quietly building a reputation for thoughtful tourism and sustainable living.
 

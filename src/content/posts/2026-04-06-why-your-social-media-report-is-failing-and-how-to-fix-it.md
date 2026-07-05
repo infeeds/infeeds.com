@@ -64,7 +64,7 @@ You can build a basic report using in-platform analytics from Meta, TikTok, or L
 
 Most teams benefit from a unified analytics tool. Hootsuite, for instance, lets you track performance across Facebook, Instagram, X, LinkedIn, and TikTok from a single dashboard. You can create custom reports and schedule them to go out automatically. Talkwalker is strong if you care about brand sentiment and competitive positioning. Google Analytics (GA4) connects social traffic to actual business outcomes like conversions and revenue.
 
-The right choice depends on your [business](https://infeeds.com/tags/?tag=business) needs and budget. But don't overthink it. A tool that gets used beats a sophisticated tool that sits abandoned.
+The right choice depends on your [business](https://infeeds.com/tags/business) needs and budget. But don't overthink it. A tool that gets used beats a sophisticated tool that sits abandoned.
 
 ## The Honest Assessment
 

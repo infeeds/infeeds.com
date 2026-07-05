@@ -14,7 +14,7 @@ The real story here isn't just about what's being said. It's about what Iran act
 
 ## The Strait of Hormuz Power Play
 
-Let's talk about the elephant in the room: control of the Strait of Hormuz. This narrow waterway is basically the jugular vein of global oil shipping. Roughly a third of the world's seaborne traded oil passes through there. Iran's condition that they gain control over it isn't just posturing. It's a direct grab for leverage over the global [business](https://infeeds.com/tags/?tag=business) ecosystem.
+Let's talk about the elephant in the room: control of the Strait of Hormuz. This narrow waterway is basically the jugular vein of global oil shipping. Roughly a third of the world's seaborne traded oil passes through there. Iran's condition that they gain control over it isn't just posturing. It's a direct grab for leverage over the global [business](https://infeeds.com/tags/business) ecosystem.
 
 Trump himself opened the door to this idea when he floated the possibility of joint control between himself and "the ayatollah." That comment alone shows how unconventional these discussions have become. When the US president is publicly discussing shared control of one of the world's most critical chokepoints, you know we're in uncharted diplomatic territory.
 

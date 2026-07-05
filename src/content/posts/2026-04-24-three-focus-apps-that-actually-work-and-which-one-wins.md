@@ -10,7 +10,7 @@ tags_color: '#ff5722'
 
 Your phone buzzes. A notification pops up. Three browser tabs suddenly feel urgent. Before you know it, 45 minutes have passed and you've accomplished nothing.
 
-If this sounds familiar, you're not alone. Attention spans are fragmenting faster than ever, and the market has responded with an entire category of <a href="https://infeeds.com/tags/?tag=technology">technology</a> designed to help you actually finish what you started. These focus apps all operate on similar principles: they track how long you spend on a task and dangle some kind of reward or incentive to keep you locked in.
+If this sounds familiar, you're not alone. Attention spans are fragmenting faster than ever, and the market has responded with an entire category of <a href="https://infeeds.com/tags/technology">technology</a> designed to help you actually finish what you started. These focus apps all operate on similar principles: they track how long you spend on a task and dangle some kind of reward or incentive to keep you locked in.
 
 The pitch sounds simple enough. But which ones actually work?
 

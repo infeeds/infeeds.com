@@ -42,7 +42,7 @@ Then there are the hybrids. Airtable combines spreadsheet familiarity with relat
 
 The right choice depends on your actual workflow, not feature lists.
 
-## Where <a href="https://infeeds.com/tags/?tag=business">Business</a> Gets Messy
+## Where <a href="https://infeeds.com/tags/business">Business</a> Gets Messy
 
 Here's where most teams stumble: they pick a tool based on what looks impressive in a demo, not what solves their real problem.
 

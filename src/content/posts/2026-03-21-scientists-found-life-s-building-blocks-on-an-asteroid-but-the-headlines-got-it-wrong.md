@@ -28,7 +28,7 @@ What's actually compelling about this paper is that it goes beyond just confirmi
 
 They compared the concentrations of these two groups across multiple asteroids and found something useful: the ratio correlates with how much ammonia each asteroid contains. That might sound like a detail, but it's a clue. It tells us something about what reactions actually produced these molecules in space.
 
-This is where <a href="https://infeeds.com/tags/?tag=technology">technology</a> and fundamental science intersect in a meaningful way. We've spent decades trying to figure out what chemical reactions could produce the building blocks of life under conditions that existed on early Earth. But space has completely different conditions. Different temperature, different pressure, different materials floating around. So the reactions happening out there should be totally distinct.
+This is where <a href="https://infeeds.com/tags/technology">technology</a> and fundamental science intersect in a meaningful way. We've spent decades trying to figure out what chemical reactions could produce the building blocks of life under conditions that existed on early Earth. But space has completely different conditions. Different temperature, different pressure, different materials floating around. So the reactions happening out there should be totally distinct.
 
 If we can figure out what those reactions are, we can start asking bigger questions. Not just about Earth, but about life anywhere.
 

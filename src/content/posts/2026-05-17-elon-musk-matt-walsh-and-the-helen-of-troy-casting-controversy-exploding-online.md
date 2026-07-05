@@ -20,7 +20,7 @@ Musk, who has been vocal about this project since at least January, quickly ampl
 
 This isn't Musk's first swing at Nolan's adaptation. Back in January, when rumors first circulated about Nyong'o's casting, Musk posted that "Chris Nolan has lost his integrity." He's also taken issue with the potential casting of Elliot Page as Achilles, calling it "one of the dumbest and most twisted things I've heard."
 
-The <a href="https://infeeds.com/tags/?tag=technology">technology</a> billionaire has been remarkably consistent in his disapproval, turning what might have been a routine casting announcement into a months-long dispute that's dominated social media discourse around the film.
+The <a href="https://infeeds.com/tags/technology">technology</a> billionaire has been remarkably consistent in his disapproval, turning what might have been a routine casting announcement into a months-long dispute that's dominated social media discourse around the film.
 
 Universal Entertainment, the studio releasing the film, declined to comment to The Hollywood Reporter on Musk's repeated salvos. Nyong'o herself has remained silent on the controversy.
 
@@ -38,4 +38,4 @@ The whole episode exposes something uncomfortable about how we discuss casting i
 
 Yet there's also a legitimate conversation buried underneath the noise. Questions about how we adapt classical material, how we think about historical accuracy in films that are fundamentally fictional anyway, and what role casting plays in storytelling are worth having. The problem is that this particular argument has calcified into talking points rather than genuine inquiry.
 
-What makes this moment worth watching isn't whether Musk is right or wrong about artistic integrity. It's that a <a href="https://infeeds.com/tags/?tag=entertainment">tech billionaire</a> with unparalleled platform power can relitigate casting decisions through social media for months, turning a creative choice into a culture war flashpoint that overshadows the actual film itself. Whether that's the kind of influence anyone should be comfortable with is perhaps the more interesting question than whether Helen of Troy can be Black.
+What makes this moment worth watching isn't whether Musk is right or wrong about artistic integrity. It's that a <a href="https://infeeds.com/tags/entertainment">tech billionaire</a> with unparalleled platform power can relitigate casting decisions through social media for months, turning a creative choice into a culture war flashpoint that overshadows the actual film itself. Whether that's the kind of influence anyone should be comfortable with is perhaps the more interesting question than whether Helen of Troy can be Black.

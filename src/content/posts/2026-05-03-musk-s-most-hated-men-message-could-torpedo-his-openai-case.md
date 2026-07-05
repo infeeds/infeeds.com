@@ -32,9 +32,9 @@ The parallel to Brockman's message is uncomfortable for Musk. And it gets worse.
 
 ## Why This Matters for the Trial
 
-Musk's testimony last week already seemed to weaken his case. He made concessions, got frustrated under questioning, backed off claims about existential AI risks, and admitted ignorance about <a href="https://infeeds.com/tags/?tag=technology">technology</a> safety practices at his own company, xAI. Adding an admission that he was threatening Brockman and Altman into submission would make it harder for any reasonable observer to see this lawsuit as anything other than what OpenAI claims: a harassment campaign driven by personal grudge rather than principle.
+Musk's testimony last week already seemed to weaken his case. He made concessions, got frustrated under questioning, backed off claims about existential AI risks, and admitted ignorance about <a href="https://infeeds.com/tags/technology">technology</a> safety practices at his own company, xAI. Adding an admission that he was threatening Brockman and Altman into submission would make it harder for any reasonable observer to see this lawsuit as anything other than what OpenAI claims: a harassment campaign driven by personal grudge rather than principle.
 
-The question now is whether Judge Gonzalez Rogers will allow the precedent to govern here. Musk's lawyers will argue strenuously that admitting settlement communications sets a dangerous precedent that chills future settlement attempts. They're right that this matters for <a href="https://infeeds.com/tags/?tag=business">business</a> litigation more broadly. Settle negotiations do need some protection, or everyone goes to trial instead.
+The question now is whether Judge Gonzalez Rogers will allow the precedent to govern here. Musk's lawyers will argue strenuously that admitting settlement communications sets a dangerous precedent that chills future settlement attempts. They're right that this matters for <a href="https://infeeds.com/tags/business">business</a> litigation more broadly. Settle negotiations do need some protection, or everyone goes to trial instead.
 
 But courts also have discretion when communications contain threats or evidence of fraudulent intent rather than genuine settlement efforts. OpenAI is arguing this message falls into that category. It's not a conciliatory offer. It's coercion.
 

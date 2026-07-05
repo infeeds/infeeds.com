@@ -26,7 +26,7 @@ Hegseth's background in cable news really showed itself here. He spent years wor
 
 But there's a difference between understanding media optics and letting them consume your entire public remarks when Americans are dying. This wasn't a guy grappling with difficult strategic questions or trying to explain complex military decisions to the public. This was someone who seemed genuinely more wounded by CNN's coverage than by the loss of life his policies have created.
 
-His excitement about billionaire David Ellison potentially taking over CNN felt particularly telling. When your main concern during a [news](https://infeeds.com/tags/?tag=news) cycle about American deaths is which billionaire might own which network, you've lost the plot entirely.
+His excitement about billionaire David Ellison potentially taking over CNN felt particularly telling. When your main concern during a [news](https://infeeds.com/tags/news) cycle about American deaths is which billionaire might own which network, you've lost the plot entirely.
 
 ## The Fundamental Problem
 

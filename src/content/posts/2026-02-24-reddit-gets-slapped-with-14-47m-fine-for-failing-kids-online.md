@@ -26,7 +26,7 @@ Reddit only started implementing proper age checks in July 2025 when the Online 
 
 What's interesting here is that this fine represents a shift in how regulators see Reddit. The platform's always positioned itself as this scrappy, privacy-respecting forum where anonymity matters. And look, there's something to that. But as social media expert Matt Navarra told the BBC, we're watching Reddit transition from being treated as a quirky forum site to being recognized as what it actually is: a major social platform with major responsibilities.
 
-The UK's got two regulators now working in tandem on this stuff. The ICO is pushing companies to take <a href="https://infeeds.com/tags/?tag=technology">technology</a> platforms seriously about children's data and design. Meanwhile, Ofcom's enforcing the Online Safety Act itself, making sure age verification actually happens across the board. It's a pincer movement, and it's catching up with platforms that were operating in a regulatory gray area.
+The UK's got two regulators now working in tandem on this stuff. The ICO is pushing companies to take <a href="https://infeeds.com/tags/technology">technology</a> platforms seriously about children's data and design. Meanwhile, Ofcom's enforcing the Online Safety Act itself, making sure age verification actually happens across the board. It's a pincer movement, and it's catching up with platforms that were operating in a regulatory gray area.
 
 ## What Reddit Says (And What They're Doing About It)
 

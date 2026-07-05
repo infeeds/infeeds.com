@@ -12,7 +12,7 @@ tags_color: '#1e88e5'
 
 Science is supposed to be this pristine temple of truth, right? Everything peer-reviewed, triple-checked, validated by experts before it sees the light of day. But here's the thing about science: it's done by humans, and humans mess up sometimes. Case in point, a 2018 Nature paper just issued a correction for what amounts to a copy-paste error in their supplementary figures.
 
-The original study looked at cotranslational assembly of protein complexes in eukaryotes using ribosome profiling. That's fancy talk for studying how proteins team up while they're still being built inside cells. Pretty cutting-edge <a href="https://infeeds.com/tags/?tag=science">science</a> stuff that helps us understand the molecular machinery of life.
+The original study looked at cotranslational assembly of protein complexes in eukaryotes using ribosome profiling. That's fancy talk for studying how proteins team up while they're still being built inside cells. Pretty cutting-edge <a href="https://infeeds.com/tags/science">science</a> stuff that helps us understand the molecular machinery of life.
 
 ## The Oops Moment
 
@@ -20,7 +20,7 @@ What happened here is almost embarrassingly mundane. Extended Data Figure 4d tur
 
 Here's where it gets slightly more forgivable. The assays for multiple strains were all performed together on the same petri dish. They shared a wild-type control and the phenotypes looked really similar anyway. So someone was juggling multiple images that looked nearly identical, probably running on four hours of sleep and too much coffee, and boom. Wrong file gets pasted in.
 
-The team at the Center for Molecular Biology of Heidelberg University and the German Cancer Research Center at least caught it, even if it took years. And they're clear about one thing: this doesn't change their results or conclusions. The actual <a href="https://infeeds.com/tags/?tag=science">science</a> is solid. Just the pictures got mixed up.
+The team at the Center for Molecular Biology of Heidelberg University and the German Cancer Research Center at least caught it, even if it took years. And they're clear about one thing: this doesn't change their results or conclusions. The actual <a href="https://infeeds.com/tags/science">science</a> is solid. Just the pictures got mixed up.
 
 ## Why This Matters More Than You Think
 
@@ -36,6 +36,6 @@ Credit where it's due: the authors came forward with this correction. They didn'
 
 But it does make you wonder how many other papers sitting in prestigious journals have similar figure prep errors that nobody's noticed yet. Not fraud, not misconduct, just honest mistakes made during the chaos of putting together supplementary materials that can run to dozens of pages.
 
-The correspondence authors, Ayala Shiber, Günter Kramer, and Bernd Bukau, now have their names on both the original groundbreaking work and this correction. In the grand scheme of things, that's probably the right outcome. The <a href="https://infeeds.com/tags/?tag=research">research</a> advanced our understanding of cellular biology, and the record got corrected when an error was found.
+The correspondence authors, Ayala Shiber, Günter Kramer, and Bernd Bukau, now have their names on both the original groundbreaking work and this correction. In the grand scheme of things, that's probably the right outcome. The <a href="https://infeeds.com/tags/research">research</a> advanced our understanding of cellular biology, and the record got corrected when an error was found.
 
 Still, you have to wonder what it says about our current scientific publishing system that these kinds of mistakes can hibernate unnoticed for years in papers that supposedly represent the gold standard of research rigor.

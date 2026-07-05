@@ -20,7 +20,7 @@ const posts = sectionTag ? (await getCollection('posts', ({ data }) => {
             <div class="section__info">
               <div class="section__head">
                 <h2 class="section__title" style="text-transform: capitalize;">{sectionTag}</h2>
-                <a class="section__link" href={`/tags/?tag=${sectionTag.toLowerCase()}`}>See more <i class="ion ion-md-arrow-forward"></i></a>
+                <a class="section__link" href={`/tags/${sectionTag.toLowerCase()}`}>See more <i class="ion ion-md-arrow-forward"></i></a>
               </div>
             </div>
 

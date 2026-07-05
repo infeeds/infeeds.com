@@ -16,7 +16,7 @@ Patrick Radden Keefe, a staff writer for The New Yorker, has turned this story i
 
 ## A City of Facades
 
-Most tourists see what London wants them to see: royal palaces, ancient pubs, West End theaters. The reality is messier and far more revealing. Over decades, London has transformed into what amounts to a global safety-deposit box for unexplained wealth. Multimillion-dollar apartments sit empty most of the year, owned by oligarchs and foreign elites who may never set foot inside them. The city has become, as Keefe describes it, a <a href="https://infeeds.com/tags/?tag=business">business</a> hub for money-laundering and, in his words, "a city full of crooks with pretensions to legitimacy."
+Most tourists see what London wants them to see: royal palaces, ancient pubs, West End theaters. The reality is messier and far more revealing. Over decades, London has transformed into what amounts to a global safety-deposit box for unexplained wealth. Multimillion-dollar apartments sit empty most of the year, owned by oligarchs and foreign elites who may never set foot inside them. The city has become, as Keefe describes it, a <a href="https://infeeds.com/tags/business">business</a> hub for money-laundering and, in his words, "a city full of crooks with pretensions to legitimacy."
 
 Zac's mother, Rochelle, tells Keefe something that captures the shock of discovery: "This whole world we didn't know about, this underworld that exists on our doorstep." The Brettlers were not poor. Zac's father works in finance; his mother writes for the Financial Times' How To Spend It magazine. They thought they knew their city. They didn't know it at all.
 

@@ -18,7 +18,7 @@ The breakthrough here isn't just about making another organoid. Researchers have
 
 Here's where things get weird in the best possible way. The therapy they tested involves molecules that literally dance. Samuel Stupp, the lead researcher behind this, figured out that molecules in constant motion interact better with cell receptors because, well, cells are constantly moving too. It's like trying to high-five someone at a party versus trying to high-five a statue.
 
-When they injected these dancing molecules into paralyzed mice back in 2021, the animals started walking again within four weeks. Four weeks. That's the kind of result that makes you do a double take when reading the [science](https://infeeds.com/tags/?tag=science) journals.
+When they injected these dancing molecules into paralyzed mice back in 2021, the animals started walking again within four weeks. Four weeks. That's the kind of result that makes you do a double take when reading the [science](https://infeeds.com/tags/science) journals.
 
 The therapy works by forming a web of nanofibers that mimic the spinal cord's natural environment. The faster the molecules move within this structure, the better they seem to work. Stupp's team found that the speedier versions consistently outperformed the sluggish ones, which makes intuitive sense when you think about it. Social molecules get more done.
 
@@ -36,7 +36,7 @@ One detail that's getting overlooked in all the dancing molecule excitement is t
 
 Without microglia, you're basically testing treatments on an incomplete model. It's like trying to understand how a car engine works but leaving out the cooling system. The fact that these organoids now contain all the major cell types means the results are far more reliable for predicting what might actually happen in human patients.
 
-The [research](https://infeeds.com/tags/?tag=research) took months because growing these organoids isn't quick. You start with induced pluripotent stem cells and carefully guide them into forming the complex tissue that includes neurons, astrocytes, and now microglia. It's more art than assembly line at this point.
+The [research](https://infeeds.com/tags/research) took months because growing these organoids isn't quick. You start with induced pluripotent stem cells and carefully guide them into forming the complex tissue that includes neurons, astrocytes, and now microglia. It's more art than assembly line at this point.
 
 ## From Mice to Mini Organs to Maybe Humans
 
@@ -48,7 +48,7 @@ Stupp mentioned they even tested the therapy on healthy organoids first, just to
 
 ## What Happens Next With Personalized Spinal Cords
 
-The long-term vision here gets even more interesting. Stupp's team wants to create organoids that model chronic, long-standing injuries where scar tissue is thicker and more stubborn. They're also exploring whether they could eventually generate implantable tissue from a patient's own stem cells, which would sidestep the whole immune rejection problem that plagues transplant [medicine](https://infeeds.com/tags/?tag=medicine).
+The long-term vision here gets even more interesting. Stupp's team wants to create organoids that model chronic, long-standing injuries where scar tissue is thicker and more stubborn. They're also exploring whether they could eventually generate implantable tissue from a patient's own stem cells, which would sidestep the whole immune rejection problem that plagues transplant [medicine](https://infeeds.com/tags/medicine).
 
 Imagine going to a doctor who grows you a small piece of replacement spinal cord tissue from your own cells, tests different therapies on it to see what works best for your specific injury, and then uses those findings to create a personalized treatment plan. That's not happening tomorrow, but it's not pure fantasy anymore either.
 

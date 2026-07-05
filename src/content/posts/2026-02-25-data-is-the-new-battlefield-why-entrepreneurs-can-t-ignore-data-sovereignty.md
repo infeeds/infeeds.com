@@ -10,7 +10,7 @@ tags: [news, business]
 tags_color: '#2b2b2b'
 ---
 
-For years, data was the invisible workhorse of <a href="https://infeeds.com/tags/?tag=business">business</a>. Companies collected it, analyzed it, monetized it, and moved on. Nobody really paid attention. Regulators issued privacy policies, teams updated their consent banners, and life continued.
+For years, data was the invisible workhorse of <a href="https://infeeds.com/tags/business">business</a>. Companies collected it, analyzed it, monetized it, and moved on. Nobody really paid attention. Regulators issued privacy policies, teams updated their consent banners, and life continued.
 
 That era is over.
 
@@ -68,7 +68,7 @@ This environment rewards discipline.
 
 ## The Landscape Ahead
 
-Individuals are becoming aware of the value embedded in their digital behavior. Governments are asserting authority over how that value flows. <a href="https://infeeds.com/tags/?tag=technology">Technology</a> is amplifying both the opportunity and the risk.
+Individuals are becoming aware of the value embedded in their digital behavior. Governments are asserting authority over how that value flows. <a href="https://infeeds.com/tags/technology">Technology</a> is amplifying both the opportunity and the risk.
 
 Entrepreneurs are sitting directly in the middle of this transition. Some will recognize that data sovereignty is about power and control, and they'll build systems designed to endure. Others will ignore it and discover that scale without trust isn't really scale at all.
 

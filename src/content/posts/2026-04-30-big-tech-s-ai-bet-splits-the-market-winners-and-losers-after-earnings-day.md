@@ -10,7 +10,7 @@ tags_color: '#795548'
 
 Wednesday was supposed to be the moment the market sorted out who's winning the AI race. Meta, Alphabet, Amazon, and Microsoft all dropped their quarterly results after the bell, collectively representing roughly $11.5 trillion in market cap. By Thursday morning, the verdict was clear: the market rewards AI spending only when it comes with revenue to match.
 
-All four beat expectations. All four are throwing massive money at artificial intelligence. Yet investors reacted wildly differently to each. That gap between winners and losers tells you everything about what matters right now in <a href="https://infeeds.com/tags/?tag=technology">Technology</a> stocks.
+All four beat expectations. All four are throwing massive money at artificial intelligence. Yet investors reacted wildly differently to each. That gap between winners and losers tells you everything about what matters right now in <a href="https://infeeds.com/tags/technology">Technology</a> stocks.
 
 ## Meta's Spending Spree Spooked Investors
 
@@ -42,10 +42,10 @@ Still, there's a murmur of concern here that matters. Microsoft is asking invest
 
 ## The Divide Is Real
 
-What emerges from <a href="https://infeeds.com/tags/?tag=business">Business</a> earnings Thursday is a hierarchy of comfort. The market will tolerate massive AI spending when there's tangible enterprise momentum to show for it. Google and Amazon demonstrated that. Spend is justified when deals are flowing and revenue is accelerating.
+What emerges from <a href="https://infeeds.com/tags/business">Business</a> earnings Thursday is a hierarchy of comfort. The market will tolerate massive AI spending when there's tangible enterprise momentum to show for it. Google and Amazon demonstrated that. Spend is justified when deals are flowing and revenue is accelerating.
 
 Meta and Microsoft are asking for faith without the same proof points. Meta's admission that it underestimated compute needs especially undermined confidence. If you can't forecast your own infrastructure requirements accurately, why should investors trust your broader AI strategy?
 
 There's also the headcount angle. Meta and Microsoft both plan layoffs in coming quarters. That's a signal they're tightening belts elsewhere to fund AI infrastructure. It's a pragmatic move, but it also suggests neither company is entirely comfortable with the trajectory of spending versus returns.
 
-The real story isn't that <a href="https://infeeds.com/tags/?tag=technology">technology</a> companies are investing heavily in AI. They all are. The story is which ones can show you the money before asking for blind faith in tomorrow's possibilities.
+The real story isn't that <a href="https://infeeds.com/tags/technology">technology</a> companies are investing heavily in AI. They all are. The story is which ones can show you the money before asking for blind faith in tomorrow's possibilities.

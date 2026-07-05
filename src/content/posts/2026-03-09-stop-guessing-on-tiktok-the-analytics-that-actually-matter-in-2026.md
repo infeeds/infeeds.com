@@ -24,7 +24,7 @@ Ben Ellis, a Social Intelligence Consultant, puts it well: "Use TikTok's demogra
 
 ## Why You Actually Need to Track This Stuff
 
-The reason [business](https://infeeds.com/tags/?tag=business) teams obsess over analytics is simple: they connect content to real outcomes. Brand awareness, traffic, sales. When you can measure those connections, you stop guessing about TikTok's ROI.
+The reason [business](https://infeeds.com/tags/business) teams obsess over analytics is simple: they connect content to real outcomes. Brand awareness, traffic, sales. When you can measure those connections, you stop guessing about TikTok's ROI.
 
 Say you're running a paid campaign alongside organic content. Analytics let you see which approach is actually driving customers. Maybe your organic posts get more views but your paid videos convert better. That's the kind of insight that changes how you allocate budget.
 
@@ -74,7 +74,7 @@ Create a dashboard that highlights the metrics tied to your actual objectives. M
 
 Check your analytics on a consistent schedule. Weekly works well for most teams. You want to catch patterns and issues early enough to adjust, not months later when a trend has already peaked or a problem has snowballed.
 
-If you're managing [technology](https://infeeds.com/tags/?tag=technology) or tools across your team, automate this process where possible. Schedule reports to be delivered automatically so nobody has to manually pull data. Most analytics platforms can do this across all your social channels at once, giving you a holistic view instead of TikTok in isolation.
+If you're managing [technology](https://infeeds.com/tags/technology) or tools across your team, automate this process where possible. Schedule reports to be delivered automatically so nobody has to manually pull data. Most analytics platforms can do this across all your social channels at once, giving you a holistic view instead of TikTok in isolation.
 
 ## Tools That Make This Easier
 

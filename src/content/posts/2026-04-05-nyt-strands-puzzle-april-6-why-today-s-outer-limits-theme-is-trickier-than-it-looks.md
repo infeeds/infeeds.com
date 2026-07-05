@@ -26,7 +26,7 @@ One of the toughest Strands topics to date involved marine biology. Words like B
 
 ## The Puzzle-Solving Ecosystem
 
-What's worth noting is that Strands exists within a broader ecosystem of <a href="https://infeeds.com/tags/?tag=technology">technology</a>-driven word games from the Times. The same publication offers Wordle, Connections, the Mini Crossword, and now Connections: Sports Edition. Each has its own rhythm, its own tricks. Some people treat them as a morning ritual, a warm-up before the day begins. Others dive into them during breaks, using them as a mental palate cleanser from work.
+What's worth noting is that Strands exists within a broader ecosystem of <a href="https://infeeds.com/tags/technology">technology</a>-driven word games from the Times. The same publication offers Wordle, Connections, the Mini Crossword, and now Connections: Sports Edition. Each has its own rhythm, its own tricks. Some people treat them as a morning ritual, a warm-up before the day begins. Others dive into them during breaks, using them as a mental palate cleanser from work.
 
 The proliferation of these puzzles suggests something worth considering: word games aren't just entertainment anymore. They're cultural touchstones. Millions of people are solving the same puzzle on the same day, and that shared experience creates a sort of invisible community. Someone in Tokyo and someone in Toronto are both hunting for "OUTERLIMITS" at roughly the same moment in time.
 

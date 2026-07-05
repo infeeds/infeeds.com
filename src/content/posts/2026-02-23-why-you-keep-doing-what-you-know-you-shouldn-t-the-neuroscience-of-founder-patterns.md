@@ -50,6 +50,6 @@ The point isn't perfection. It's noticing how often you're reacting instead of c
 
 Over time, constant reactivity keeps your brain in a low-grade stress response. Clarity suffers. Boundaries disappear. Rest stops feeling restorative. You wake up exhausted even after sleeping. Small decisions feel harder than they should. You're more cynical than you used to be. That's not ambition anymore. That's burnout wearing a productivity mask.
 
-If you want to <a href="https://infeeds.com/tags/?tag=business">scale your business</a> with impact and carry your vision forward without burning out, the answer isn't working harder or knowing more. It's disrupting the pattern itself.
+If you want to <a href="https://infeeds.com/tags/business">scale your business</a> with impact and carry your vision forward without burning out, the answer isn't working harder or knowing more. It's disrupting the pattern itself.
 
 You're not stuck. You're patterned. And patterns can change once you see them clearly enough to interrupt them.

@@ -22,7 +22,7 @@ A spokesperson for Gates didn't mince words when responding to Business Insider.
 
 That's a strong defense, but it doesn't change the fact that Gates has been steadily backpedaling on the extent of his relationship with Epstein for years now. He initially minimized their connection, suggesting they'd met a handful of times for philanthropic discussions. Documents have since shown they met multiple times over several years, with Gates even flying on Epstein's private jet.
 
-The [technology](https://infeeds.com/tags/?tag=technology) mogul has admitted these meetings were a "huge mistake," but the drip-drip-drip of new information keeps undermining his credibility on the subject. Each new revelation makes the previous explanation look incomplete at best.
+The [technology](https://infeeds.com/tags/technology) mogul has admitted these meetings were a "huge mistake," but the drip-drip-drip of new information keeps undermining his credibility on the subject. Each new revelation makes the previous explanation look incomplete at best.
 
 ## Melinda Knew Something
 
@@ -34,7 +34,7 @@ The identity of "Boris" remains a mystery. Was this person real? Did they actual
 
 ## The Bigger Pattern
 
-This isn't just about one set of questionable emails. It's about a pattern of Gates minimizing, denying, and slowly admitting to more contact with Epstein than he initially disclosed. The [business](https://infeeds.com/tags/?tag=business) world has largely given him a pass because of his philanthropic work, but there's a limit to how many times you can revise your story before people stop believing any version of it.
+This isn't just about one set of questionable emails. It's about a pattern of Gates minimizing, denying, and slowly admitting to more contact with Epstein than he initially disclosed. The [business](https://infeeds.com/tags/business) world has largely given him a pass because of his philanthropic work, but there's a limit to how many times you can revise your story before people stop believing any version of it.
 
 Epstein was known for collecting powerful people and creating situations that gave him leverage over them. Whether through actual compromising material or just the appearance of impropriety, he built a network that kept him connected to wealth and influence far beyond what his actual professional credentials justified.
 

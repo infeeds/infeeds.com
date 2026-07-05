@@ -15,7 +15,7 @@ For decades, OPEC has relied on a simple formula: Saudi Arabia controls the room
 
 ## Why This Matters More Than You Think
 
-The UAE wasn't just any member. It was the most influential player in OPEC behind Saudi Arabia, with substantial spare production capacity that could be deployed quickly during supply shocks. According to <a href="https://infeeds.com/tags/?tag=business">business</a> analysis, Saudi Arabia and the UAE together controlled a majority of the world's spare capacity, which sits at more than 4 million barrels per day. That's real power.
+The UAE wasn't just any member. It was the most influential player in OPEC behind Saudi Arabia, with substantial spare production capacity that could be deployed quickly during supply shocks. According to <a href="https://infeeds.com/tags/business">business</a> analysis, Saudi Arabia and the UAE together controlled a majority of the world's spare capacity, which sits at more than 4 million barrels per day. That's real power.
 
 Jorge León, head of geopolitical analysis at Rystad Energy, put it bluntly: the UAE's departure "removes one of the core pillars underpinning OPEC's ability to manage the market." OPEC will become "structurally weaker" as a consequence. He's not overstating it.
 

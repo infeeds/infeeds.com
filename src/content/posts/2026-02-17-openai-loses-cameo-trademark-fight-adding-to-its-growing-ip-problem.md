@@ -10,7 +10,7 @@ tags: [news, tech]
 tags_color: '#00ba65'
 ---
 
-OpenAI just can't seem to catch a break when it comes to naming things. A federal court in Northern California has sided with celebrity video platform Cameo, ordering the AI giant to stop using "Cameo" for its video generation features. This isn't just a slap on the wrist. It's becoming part of a troubling pattern for a company that's supposed to be leading the [technology](https://infeeds.com/tags/?tag=technology) revolution.
+OpenAI just can't seem to catch a break when it comes to naming things. A federal court in Northern California has sided with celebrity video platform Cameo, ordering the AI giant to stop using "Cameo" for its video generation features. This isn't just a slap on the wrist. It's becoming part of a troubling pattern for a company that's supposed to be leading the [technology](https://infeeds.com/tags/technology) revolution.
 
 The ruling came down Saturday, and it's pretty straightforward. OpenAI was using "Cameo" as the name for a feature in Sora 2, its AI-powered video generation app. The feature let users insert digital versions of themselves into AI-generated videos. Sounds cool, right? Except there's already a company called Cameo that's spent nearly a decade building exactly that kind of brand association with personalized celebrity videos.
 
@@ -24,13 +24,13 @@ This wasn't even OpenAI's first warning shot. Back in November, the court had al
 
 Here's where things get interesting, and not in a good way for OpenAI. This Cameo case is just one item on a growing list of intellectual property disputes. Earlier this month, they dropped the "IO" branding for upcoming hardware products. In November, OverDrive sued them over using "Sora" for their video generation app. Then there are the various lawsuits from artists, creatives, and media groups across different countries over copyright violations.
 
-Cameo CEO Steven Galanis didn't mince words in his statement. He emphasized that his company has spent nearly a decade building their brand around "talent-friendly interactions and genuine connection." It's not just about [business](https://infeeds.com/tags/?tag=business) for them. It's about protecting the marketplace and the thousands of creators who've built their presence on the platform.
+Cameo CEO Steven Galanis didn't mince words in his statement. He emphasized that his company has spent nearly a decade building their brand around "talent-friendly interactions and genuine connection." It's not just about [business](https://infeeds.com/tags/business) for them. It's about protecting the marketplace and the thousands of creators who've built their presence on the platform.
 
 OpenAI's response through a Reuters spokesperson was predictably defensive. They disagree that "anyone can claim exclusive ownership over the word 'cameo.'" But that's missing the point entirely. This isn't about dictionary definitions. It's about trademark law, consumer confusion, and respect for existing brands in the marketplace.
 
 ## Why This Keeps Happening
 
-The pattern here suggests something deeper than just careless naming choices. For a company valued in the hundreds of billions and supposedly at the cutting edge of [artificial intelligence](https://infeeds.com/tags/?tag=artificial-intelligence), these repeated missteps feel almost amateur. Either they're not doing proper trademark searches before launching features, or they're banking on being able to muscle through legal challenges with their resources.
+The pattern here suggests something deeper than just careless naming choices. For a company valued in the hundreds of billions and supposedly at the cutting edge of [artificial intelligence](https://infeeds.com/tags/artificial-intelligence), these repeated missteps feel almost amateur. Either they're not doing proper trademark searches before launching features, or they're banking on being able to muscle through legal challenges with their resources.
 
 Neither option looks great. The first suggests incompetence in basic business operations. The second suggests arrogance about their market position. When you're already fighting multiple copyright battles over your training data and facing scrutiny about how you build your AI models, picking unnecessary trademark fights seems remarkably shortsighted.
 

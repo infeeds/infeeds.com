@@ -12,7 +12,7 @@ You'd think the past twenty years would have transformed how companies work. Mob
 
 Yet walk into most offices today and you'll find something surprising: the friction points, the habits, the basic human dynamics that made work complicated in 2004 are still there. They're just wearing better clothes.
 
-This isn't nostalgia. It's a practical problem that most <a href="https://infeeds.com/tags/?tag=business">business</a> leaders don't want to admit.
+This isn't nostalgia. It's a practical problem that most <a href="https://infeeds.com/tags/business">business</a> leaders don't want to admit.
 
 ## The Illusion of Modernization
 
@@ -32,7 +32,7 @@ The office breakroom is another time capsule. Sure, some companies upgraded from
 
 Phones, too. While most homes ditched landlines years ago, walk through any workplace and you'll still see phones on desks and in conference rooms. They're actively used. Some companies offer AI-enabled "virtual receptionists" and automated systems, but many still employ human receptionists because customers want to talk to people, not bots. The phone remains one of the most familiar tools we have.
 
-And then there are the meetings. Endless, bloated, soul-crushing meetings. Back in the day, people complained about spending entire days in conference rooms. Did <a href="https://infeeds.com/tags/?tag=technology">technology</a> solve this? No. Tools like Zoom, Teams, and Meet made it easier to schedule more of them. If anything, digital collaboration amplified the inefficiency rather than reducing it.
+And then there are the meetings. Endless, bloated, soul-crushing meetings. Back in the day, people complained about spending entire days in conference rooms. Did <a href="https://infeeds.com/tags/technology">technology</a> solve this? No. Tools like Zoom, Teams, and Meet made it easier to schedule more of them. If anything, digital collaboration amplified the inefficiency rather than reducing it.
 
 ## Where Change Never Actually Happened
 
@@ -40,7 +40,7 @@ Hiring is a perfect example. Yes, there's LinkedIn, Indeed, and a wave of "talen
 
 Performance reviews? Over 71% of companies still rely on annual performance reviews, despite repeated calls from younger workers for continuous feedback and real-time responses. Decades pass. Nothing changes.
 
-Inventory counts are another relic. While some companies have embraced <a href="https://infeeds.com/tags/?tag=technology">technology</a> to cycle count more frequently, most businesses and their accountants still rely on annual physical counts. This often means shutting down operations for a week, typically during the holidays or other inconvenient times. The inefficiency is baked in, and nobody seems willing to fix it.
+Inventory counts are another relic. While some companies have embraced <a href="https://infeeds.com/tags/technology">technology</a> to cycle count more frequently, most businesses and their accountants still rely on annual physical counts. This often means shutting down operations for a week, typically during the holidays or other inconvenient times. The inefficiency is baked in, and nobody seems willing to fix it.
 
 Sales hasn't budged either. I close more deals meeting prospects face-to-face than through calls, emails, or online meetings. Humans connect with humans. Relationships still matter. You can buy a book or a shirt online with minimal interaction, but for larger B2B purchases, customers want to talk to a real person. That hasn't changed in twenty years, and it's unlikely to anytime soon.
 
@@ -62,4 +62,4 @@ Here's what's worth understanding: progress is progress. But some things about r
 
 The friction points, the habits, the human dynamics that make work inefficient today are the same ones that made it inefficient twenty years ago. And until companies stop treating modernization as a tool problem and start treating it as a systems problem, they'll keep layering digital solutions on top of broken processes.
 
-The question isn't whether your company has adopted the latest <a href="https://infeeds.com/tags/?tag=technology">technology</a>. The question is whether you've actually changed how work gets done. Most companies haven't.
+The question isn't whether your company has adopted the latest <a href="https://infeeds.com/tags/technology">technology</a>. The question is whether you've actually changed how work gets done. Most companies haven't.

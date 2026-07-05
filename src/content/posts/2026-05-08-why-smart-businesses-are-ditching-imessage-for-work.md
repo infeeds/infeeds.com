@@ -14,7 +14,7 @@ But there's a growing number of companies quietly abandoning it, and they're not
 
 ## The Illusion of Control
 
-When you run your <a href="https://infeeds.com/tags/?tag=business">business</a> on iMessage, something feels off if you really think about it. Your company owns nothing. You have zero admin access, zero control, and zero visibility into what's happening in those group chats.
+When you run your <a href="https://infeeds.com/tags/business">business</a> on iMessage, something feels off if you really think about it. Your company owns nothing. You have zero admin access, zero control, and zero visibility into what's happening in those group chats.
 
 Every file your team shares gets downloaded straight onto personal devices. Every conversation about pricing, clients, strategy, and operations lives in personal storage accounts, not yours. Your business has no ownership of it. None.
 
@@ -46,6 +46,6 @@ The pattern is always the same across industries: businesses wait longer than th
 
 ## The Question Is Timing, Not If
 
-iMessage is fine for keeping up with friends. Running your <a href="https://infeeds.com/tags/?tag=business">business</a> on it, though, is a risk that compounds every single day you leave it unaddressed.
+iMessage is fine for keeping up with friends. Running your <a href="https://infeeds.com/tags/business">business</a> on it, though, is a risk that compounds every single day you leave it unaddressed.
 
 The real question isn't whether you need to make this change. It's how much it's going to cost you before you finally do.

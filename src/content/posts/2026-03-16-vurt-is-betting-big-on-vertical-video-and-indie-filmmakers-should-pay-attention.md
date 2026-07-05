@@ -32,13 +32,13 @@ Ted Lucas didn't dream this up in a vacuum. He founded Slip-N-Slide Records, bui
 
 The timing also isn't coincidental. TikTok launched its own micro-drama app in January. Watch Club is expanding with SAG-AFTRA and WGA creators. The entire industry is suddenly moving in the same direction, which means either everyone's wrong or everyone's finally seeing what's actually happening in the world.
 
-Most people consume content on <a href="https://infeeds.com/tags/?tag=technology">technology</a> built specifically for their hands. Vertical video isn't a compromise. It's the native format.
+Most people consume content on <a href="https://infeeds.com/tags/technology">technology</a> built specifically for their hands. Vertical video isn't a compromise. It's the native format.
 
 ## The Real Question
 
 What's actually interesting isn't whether Vurt succeeds or fails. It's what happens when traditional platforms fully embrace vertical storytelling. Will Netflix eventually produce shows shot vertically? Will HBO Max rethink its entire design philosophy? Or will they continue fighting against how people actually consume media?
 
-The <a href="https://infeeds.com/tags/?tag=business">business</a> world moves slowly, but it moves. Every major platform that initially ignored short-form video eventually built a short-form video feature. Every platform that dismissed mobile went mobile-first. The pattern repeats.
+The <a href="https://infeeds.com/tags/business">business</a> world moves slowly, but it moves. Every major platform that initially ignored short-form video eventually built a short-form video feature. Every platform that dismissed mobile went mobile-first. The pattern repeats.
 
 What makes this moment different is that we're not waiting for legacy platforms to figure it out anymore. Vurt, ReelShort, DramaBox, and a dozen other startups are already proving the model works. They're making money. They're attracting talent. They're building audiences.
 

@@ -16,7 +16,7 @@ The only UC campus bucking the trend? UC San Diego, which happens to be the only
 
 ## The Great Student Migration
 
-This isn't students abandoning [technology](https://infeeds.com/tags/?tag=technology). They're not suddenly deciding to become English majors or philosophy students. They're voting with their feet and their tuition dollars, moving toward AI-specific programs while traditional CS departments watch their numbers shrink.
+This isn't students abandoning [technology](https://infeeds.com/tags/technology). They're not suddenly deciding to become English majors or philosophy students. They're voting with their feet and their tuition dollars, moving toward AI-specific programs while traditional CS departments watch their numbers shrink.
 
 Chinese universities figured this out way before we did. Nearly 60% of Chinese students and faculty now use AI tools multiple times daily. Schools like Zhejiang University made AI coursework mandatory. Tsinghua created entirely new interdisciplinary AI colleges. They're treating AI fluency like it's as essential as reading and writing, because at this point, it basically is.
 
@@ -42,7 +42,7 @@ Roberts said something that cuts to the heart of it: "No one's going to say to s
 
 ## The New Table Stakes
 
-This could be a temporary panic, students fleeing traditional CS because they heard job placement rates dropped. But it looks more like a genuine shift in how people think about [business](https://infeeds.com/tags/?tag=business) and technology education. AI isn't a specialization anymore, it's becoming the foundation.
+This could be a temporary panic, students fleeing traditional CS because they heard job placement rates dropped. But it looks more like a genuine shift in how people think about [business](https://infeeds.com/tags/business) and technology education. AI isn't a specialization anymore, it's becoming the foundation.
 
 The universities that figured this out early, the ones that built dedicated programs and hired vice provosts specifically for AI integration, they're the ones seeing enrollment surge. The ones still arguing about academic integrity policies are watching students leave.
 

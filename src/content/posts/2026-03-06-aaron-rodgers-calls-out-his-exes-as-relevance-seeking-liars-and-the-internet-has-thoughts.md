@@ -34,7 +34,7 @@ Fair enough. But here's where it gets weird: He's publicly defending this relati
 
 ## The Pattern Nobody's Talking About
 
-What's actually interesting here isn't what Rodgers said about his exes. It's what his pattern of public comments reveals about him. This is the same guy who's been an outspoken supporter of [Health and Human Services Secretary Robert F. Kennedy Jr.](https://infeeds.com/tags/?tag=news), seemingly accused Jimmy Kimmel of being connected to the Epstein list, and got roasted for nearly hitting a child with a golf ball at a celebrity tournament.
+What's actually interesting here isn't what Rodgers said about his exes. It's what his pattern of public comments reveals about him. This is the same guy who's been an outspoken supporter of [Health and Human Services Secretary Robert F. Kennedy Jr.](https://infeeds.com/tags/news), seemingly accused Jimmy Kimmel of being connected to the Epstein list, and got roasted for nearly hitting a child with a golf ball at a celebrity tournament.
 
 At what point do we ask: Is the problem always everyone else, or is there a consistency in how Rodgers handles conflict?
 

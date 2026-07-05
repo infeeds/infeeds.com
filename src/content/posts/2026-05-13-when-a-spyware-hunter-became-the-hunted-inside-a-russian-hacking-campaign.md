@@ -10,7 +10,7 @@ tags_color: '#00ba65'
 
 There's a particular kind of irony in a spyware researcher getting targeted by the very thing he spends his career investigating. That's exactly what happened to Donncha Ó Cearbhaill, head of Amnesty International's Security Lab, when a phishing message landed in his Signal inbox earlier this year.
 
-The message was laughably crude. It claimed to be from "Signal Security Support ChatBot," warning of suspicious activity and data leaks. The attackers demanded he enter a verification code and explicitly told him not to share it with anyone, "NOT EVEN SIGNAL EMPLOYEES." For anyone working in [technology](https://infeeds.com/tags/?tag=technology) security, this reads like a neon sign screaming "we are criminals."
+The message was laughably crude. It claimed to be from "Signal Security Support ChatBot," warning of suspicious activity and data leaks. The attackers demanded he enter a verification code and explicitly told him not to share it with anyone, "NOT EVEN SIGNAL EMPLOYEES." For anyone working in [technology](https://infeeds.com/tags/technology) security, this reads like a neon sign screaming "we are criminals."
 
 But here's the thing: instead of deleting it, Ó Cearbhaill saw an opportunity.
 

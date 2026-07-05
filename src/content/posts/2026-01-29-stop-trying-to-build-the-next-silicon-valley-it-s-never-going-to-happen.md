@@ -22,7 +22,7 @@ Here's the uncomfortable truth: Silicon Valley happened because of a specific co
 
 Silicon Valley operates in abundance. There's so much capital floating around that VCs can fund fifty companies knowing forty-nine will fail. One breakout success pays for everything else.
 
-That's not your reality if you're building in Memphis or Tulsa or literally anywhere that isn't a top-tier [tech hub](https://infeeds.com/tags/?tag=technology). You're operating in scarcity. Capital is harder to find. Experienced operators are rare. One bad bet doesn't just hurt, it can kill your company and torch your reputation for the next fundraise.
+That's not your reality if you're building in Memphis or Tulsa or literally anywhere that isn't a top-tier [tech hub](https://infeeds.com/tags/technology). You're operating in scarcity. Capital is harder to find. Experienced operators are rare. One bad bet doesn't just hurt, it can kill your company and torch your reputation for the next fundraise.
 
 So why would you adopt a strategy built for unlimited resources when you have limited ones?
 
@@ -32,7 +32,7 @@ The math doesn't work. When founders outside major hubs copy the Valley playbook
 
 Here's what actually works. The founders who succeed outside major hubs don't wait for their city to become the next tech mecca. They look around at what already exists and build on top of that.
 
-New Mexico has national labs and universities focused on quantum and space. Oklahoma has deep expertise in energy. Pittsburgh knows manufacturing and robotics. These aren't sexy [business](https://infeeds.com/tags/?tag=business) ideas for TechCrunch headlines, but they're real advantages that create leverage.
+New Mexico has national labs and universities focused on quantum and space. Oklahoma has deep expertise in energy. Pittsburgh knows manufacturing and robotics. These aren't sexy [business](https://infeeds.com/tags/business) ideas for TechCrunch headlines, but they're real advantages that create leverage.
 
 When you align your company with existing regional strengths, everything gets easier. You find customers faster. You hire people who actually know the industry. You face less competition because other founders are too busy chasing whatever's trending in San Francisco.
 
@@ -44,7 +44,7 @@ One of the biggest myths holding founders back is this idea that great companies
 
 That's not how it works.
 
-Even when incredible innovation happens outside major hubs, it often gets acquired and relocated. The founder might get a payout, but the local economy loses. The [technology](https://infeeds.com/tags/?tag=technology) moves to where the capital lives, and the cycle continues.
+Even when incredible innovation happens outside major hubs, it often gets acquired and relocated. The founder might get a payout, but the local economy loses. The [technology](https://infeeds.com/tags/technology) moves to where the capital lives, and the cycle continues.
 
 Smart founders don't wait to be found. They proactively build bridges to capital, experienced advisors, and strategic partners wherever those resources exist. That might mean flying to investor meetings, recruiting remote advisors, or bringing in operators from other cities part-time before convincing them to relocate.
 

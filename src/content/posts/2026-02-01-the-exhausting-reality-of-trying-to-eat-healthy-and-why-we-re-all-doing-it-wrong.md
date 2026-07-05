@@ -14,7 +14,7 @@ There's something deeply ironic about healthy eating. It's supposed to make you 
 
 I've been there. You probably have too. Standing in your kitchen at 7 PM, starving, staring at a fridge full of ingredients that might as well be random Lego pieces because you have no idea how they fit together. So you order takeout. Again. And you feel guilty about it. Again.
 
-The problem isn't that we don't want to eat better. It's that we've been sold this idea that healthy eating requires being some kind of meal-prep warrior who batch-cooks quinoa bowls on Sundays and has their <a href="https://infeeds.com/tags/?tag=lifestyle">lifestyle</a> perfectly optimized.
+The problem isn't that we don't want to eat better. It's that we've been sold this idea that healthy eating requires being some kind of meal-prep warrior who batch-cooks quinoa bowls on Sundays and has their <a href="https://infeeds.com/tags/lifestyle">lifestyle</a> perfectly optimized.
 
 That's not realistic. And honestly? It sounds miserable.
 
@@ -24,7 +24,7 @@ Here's something nobody talks about: being thin doesn't mean you're healthy. For
 
 That was Lori Deschene's reality, and it's probably more common than we think. Our culture is obsessed with how bodies look, not how they actually function. You can be skinny and malnourished. You can be thin and have terrible gut health.
 
-Now that gut health is finally getting attention in mainstream conversations about <a href="https://infeeds.com/tags/?tag=health">health</a>, we're starting to understand why so many people feel off even when they're doing "everything right" according to old standards. Your gut affects your immune system, your mental health, your energy levels. It's not just about avoiding a muffin top.
+Now that gut health is finally getting attention in mainstream conversations about <a href="https://infeeds.com/tags/health">health</a>, we're starting to understand why so many people feel off even when they're doing "everything right" according to old standards. Your gut affects your immune system, your mental health, your energy levels. It's not just about avoiding a muffin top.
 
 But here's where it gets tricky. Once you start paying attention to gut health, suddenly there are seventeen different experts telling you seventeen different things. Eat fermented foods. No, avoid FODMAPs. Drink bone broth. Actually, go vegan. It's enough to make you want to give up and just eat whatever's in front of you.
 

@@ -26,7 +26,7 @@ It's funny because ambitious covers aren't groundbreaking on their own. But doin
 
 ## What Free Concert Films Actually Mean
 
-There's something worth sitting with here. A major artist releasing a professional-grade concert film for free on YouTube isn't nothing. It's a signal about what's possible when someone has enough leverage to make unconventional choices. Most [entertainment](https://infeeds.com/tags/?tag=entertainment) industry moves are calculated to monetize every angle. This feels like the opposite instinct.
+There's something worth sitting with here. A major artist releasing a professional-grade concert film for free on YouTube isn't nothing. It's a signal about what's possible when someone has enough leverage to make unconventional choices. Most [entertainment](https://infeeds.com/tags/entertainment) industry moves are calculated to monetize every angle. This feels like the opposite instinct.
 
 The live album version is also available on streaming services, so there's still a commercial angle. But the free film first? That's the priority. That suggests the point was connection, not just extraction.
 

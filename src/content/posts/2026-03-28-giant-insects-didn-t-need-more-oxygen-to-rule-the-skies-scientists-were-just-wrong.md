@@ -68,6 +68,6 @@ Snelling mentioned one last frontier his team hasn't fully explored. They focuse
 
 He doesn't expect this to resurrect the oxygen-constraint hypothesis. "Any limitation upstream can be compensated by investment in the tracheoles—there's so much space down there," he explained. But it would be intellectually satisfying to understand the complete picture of how these ancient giants were built.
 
-This is the thing about science. Sometimes the simple, elegant answer that satisfied us for three decades turns out to be built on shaky ground. We had the framework backwards. The real question isn't why giant insects don't exist anymore. It's why they ever needed to in the first place when <a href="https://infeeds.com/tags/?tag=technology">technology</a> and <a href="https://infeeds.com/tags/?tag=science">science</a> show they could have evolved to stay small and thrived just fine.
+This is the thing about science. Sometimes the simple, elegant answer that satisfied us for three decades turns out to be built on shaky ground. We had the framework backwards. The real question isn't why giant insects don't exist anymore. It's why they ever needed to in the first place when <a href="https://infeeds.com/tags/technology">technology</a> and <a href="https://infeeds.com/tags/science">science</a> show they could have evolved to stay small and thrived just fine.
 
 The giant bugs are gone, and we still don't fully know which of these competing pressures actually mattered most. Maybe it was all of them working together. Maybe it was something nobody's thought of yet.

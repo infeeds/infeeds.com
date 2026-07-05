@@ -24,7 +24,7 @@ Here's where it gets personal. The new species has a name that combines Arthuria
 
 "He was just such a good teacher," Bodenham explained in the research announcement. "You could tell he was genuinely interested in the sciences. He didn't let me settle either. He was very good at challenging people."
 
-It's refreshing when <a href="https://infeeds.com/tags/?tag=science">science</a> remembers the humans behind it. Teachers shape the next generation of researchers, and naming a 215-million-year-old species after one feels right.
+It's refreshing when <a href="https://infeeds.com/tags/science">science</a> remembers the humans behind it. Teachers shape the next generation of researchers, and naming a 215-million-year-old species after one feels right.
 
 ## Built for the Hunt, Not the Swim
 

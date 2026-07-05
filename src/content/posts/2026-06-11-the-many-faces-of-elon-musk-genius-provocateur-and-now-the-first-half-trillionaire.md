@@ -20,7 +20,7 @@ And then there's X, the platform formerly known as Twitter, which Musk purchased
 
  Musk also launched xAI in 2023, his attempt to build an artificial intelligence company with the ambitious goal of "understanding the true nature of the universe." In early 2024, he sued OpenAI and Sam Altman, claiming the company had abandoned its original non-profit, open-source mission. However, a California jury dismissed the lawsuit in May 2026, ruling Musk had waited too long to file it.
 
-His business empire touches everything from [Technology](https://infeeds.com/tags/?tag=technology) to [Business](https://infeeds.com/tags/?tag=business), often simultaneously. As journalist Chris Stokel-Walker noted, "I'm never hugely convinced that he knows what he wants to do tomorrow. He very much leads by instinct." That instinct has made him hundreds of billions of dollars, so who am I to argue with the results?
+His business empire touches everything from [Technology](https://infeeds.com/tags/technology) to [Business](https://infeeds.com/tags/business), often simultaneously. As journalist Chris Stokel-Walker noted, "I'm never hugely convinced that he knows what he wants to do tomorrow. He very much leads by instinct." That instinct has made him hundreds of billions of dollars, so who am I to argue with the results?
 
 ## The Political Playground
 
@@ -48,6 +48,6 @@ On climate change, a topic he once championed, his views have moderated. He now 
 
 ## What Do We Make Of This?
 
-Love him or hate him, you cannot ignore him. That rare quality of being impossible to overlook might be Musk's most valuable asset, even beyond his companies. He has fundamentally changed how we think about what's possible in [Technology](https://infeeds.com/tags/?tag=technology), forced conversations about artificial intelligence, and reminded us that the line between visionary and lunatic often just depends on whether your bets pay off.
+Love him or hate him, you cannot ignore him. That rare quality of being impossible to overlook might be Musk's most valuable asset, even beyond his companies. He has fundamentally changed how we think about what's possible in [Technology](https://infeeds.com/tags/technology), forced conversations about artificial intelligence, and reminded us that the line between visionary and lunatic often just depends on whether your bets pay off.
 
 Whether history remembers him as the man who saved humanity or the man who nearly destroyed it probably depends on which version of Elon Musk shows up to work tomorrow, and honestly, even he might not know the answer to that.

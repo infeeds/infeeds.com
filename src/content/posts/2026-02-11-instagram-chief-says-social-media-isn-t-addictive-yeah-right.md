@@ -22,7 +22,7 @@ Mosseri was quick to clarify he's not a medical expert, though someone "very clo
 
 The plaintiff's lawyer, Mark Lanier, wasn't having it. He pulled up old podcast clips where Mosseri used the term "addiction" himself. Mosseri's response? He was probably just being "too casual" with his words, like everyone does. You know, casually describing your product's grip on users as addiction, then walking it back in court.
 
-This whole semantic juggling act feels like watching someone try to redefine what "is" means. The difference between clinical addiction and problematic use might matter in a medical journal, but when kids are glued to their screens for hours and experiencing [health](https://infeeds.com/tags/?tag=health) issues as a result, does the label really change anything?
+This whole semantic juggling act feels like watching someone try to redefine what "is" means. The difference between clinical addiction and problematic use might matter in a medical journal, but when kids are glued to their screens for hours and experiencing [health](https://infeeds.com/tags/health) issues as a result, does the label really change anything?
 
 ## Filters, Body Image, and Corporate Responsibility
 
@@ -32,7 +32,7 @@ Mosseri defended the approach by saying Meta tries to "be as safe as possible bu
 
 Parents in the courtroom visibly struggled during this part of the testimony. The judge actually had to remind spectators not to show reactions, which tells you how emotionally charged this case has become.
 
-Meta finally shut down third-party augmented reality filters in January 2025, but that's after years of these tools being available to teens already dealing with body image issues. The [Technology](https://infeeds.com/tags/?tag=technology) was out there, doing its damage, while the company collected data and ad revenue.
+Meta finally shut down third-party augmented reality filters in January 2025, but that's after years of these tools being available to teens already dealing with body image issues. The [Technology](https://infeeds.com/tags/technology) was out there, doing its damage, while the company collected data and ad revenue.
 
 ## The Teen Safety Mirage
 
@@ -40,6 +40,6 @@ Instagram loves to tout all the safety features it's added for young users. Pare
 
 Meta called that report "misleading, dangerously speculative" and accused researchers of misrepresenting their teen safety efforts. It's a familiar pattern. Create tools that look good in press releases, then attack anyone who points out they don't actually work as advertised.
 
-The case centers on a 20-year-old identified as "KGM" and two other plaintiffs in bellwether trials. These are test cases that could shape how thousands of similar lawsuits play out. The stakes for Meta and other [business](https://infeeds.com/tags/?tag=business) giants in this space couldn't be higher.
+The case centers on a 20-year-old identified as "KGM" and two other plaintiffs in bellwether trials. These are test cases that could shape how thousands of similar lawsuits play out. The stakes for Meta and other [business](https://infeeds.com/tags/business) giants in this space couldn't be higher.
 
 Meta is also dealing with a separate trial in New Mexico this week, because apparently one lawsuit at a time isn't enough. The legal pressure is mounting, and no amount of careful wordsmithing about "problematic use" versus "addiction" is going to make the fundamental question go away: if your platform is designed to maximize engagement at all costs, and that design is harming kids, does it really matter what you call it?

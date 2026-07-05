@@ -23,7 +23,7 @@ Salesforce made this explicit at TDX 2026 by reframing their entire platform as 
 
 This wasn't radical. It was honest.
 
-Every serious <a href="https://infeeds.com/tags/?tag=technology">technology</a> platform is heading this direction because <a href="https://infeeds.com/tags/?tag=business">business</a> itself is moving faster than dashboards can handle. A complaint posted at 2 a.m. reaches 100,000 people by morning. A trend lands at 9 a.m. and evaporates by lunch. Social doesn't stay on social anymore. It moves stock prices. It fills or empties shelves. It starts companies.
+Every serious <a href="https://infeeds.com/tags/technology">technology</a> platform is heading this direction because <a href="https://infeeds.com/tags/business">business</a> itself is moving faster than dashboards can handle. A complaint posted at 2 a.m. reaches 100,000 people by morning. A trend lands at 9 a.m. and evaporates by lunch. Social doesn't stay on social anymore. It moves stock prices. It fills or empties shelves. It starts companies.
 
 The brands pulling ahead right now aren't outspending competitors. They're detecting what's shaping perception, interpreting what it means, and activating before the window closes. That requires speed. And speed requires the system to live where the work actually happens, not locked inside a browser tab.
 

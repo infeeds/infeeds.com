@@ -18,7 +18,7 @@ But here's where it gets interesting. Experts are calling out the elephant in th
 
 Deepak Sarma, a distinguished scholar in public humanities at Case Western Reserve University, didn't mince words about the absurdity. "It is more than ironic that MAGA discourse routinely condemns 'Hollywood elites' while remaining deeply invested in celebrity as a mode of political authority," he pointed out. The movement's entire foundation rests on a reality TV star whose claim to political legitimacy came from playing a successful businessman on "The Apprentice."
 
-Think about it. Trump's whole political identity was manufactured through television. His "business acumen" was a carefully staged fantasy that millions bought into. Before him, there was Reagan, the Hollywood actor who turned screen charisma into presidential power. Arnold Schwarzenegger flexed his way from action movies to the California governor's mansion. Sarah Palin transformed [politics](https://infeeds.com/tags/?tag=politics) into a media performance art.
+Think about it. Trump's whole political identity was manufactured through television. His "business acumen" was a carefully staged fantasy that millions bought into. Before him, there was Reagan, the Hollywood actor who turned screen charisma into presidential power. Arnold Schwarzenegger flexed his way from action movies to the California governor's mansion. Sarah Palin transformed [politics](https://infeeds.com/tags/politics) into a media performance art.
 
 The trajectory is clear. Conservative politics has been celebrity-driven for decades.
 
@@ -46,10 +46,10 @@ Sarma suggested that MAGA's volcanic reaction to the Grammys reveals something d
 
 "The angry reaction is a defensive one, not as a response to what was said, but to the unsettling possibility that the spell might be weakening," Sarma said.
 
-Shaun Harper, a professor of public policy at the University of Southern California, took a different angle with a bit of dry humor. "Given its lack of demographic diversity, perhaps MAGA might find more support at the Country Music Awards. But not at the Grammy Awards." The [entertainment](https://infeeds.com/tags/?tag=entertainment) industry that celebrates hip-hop, R&B, Latin music, and pop isn't exactly fertile ground for an agenda built on violent family separations and anti-immigrant rhetoric.
+Shaun Harper, a professor of public policy at the University of Southern California, took a different angle with a bit of dry humor. "Given its lack of demographic diversity, perhaps MAGA might find more support at the Country Music Awards. But not at the Grammy Awards." The [entertainment](https://infeeds.com/tags/entertainment) industry that celebrates hip-hop, R&B, Latin music, and pop isn't exactly fertile ground for an agenda built on violent family separations and anti-immigrant rhetoric.
 
 Kehlani's speech captured the moment perfectly when she told the audience they're "stronger in numbers to speak against all the injustice going on in the world right now." Billie Eilish followed with a line that cut through all the noise: "No one is illegal on stolen land." Bad Bunny, fresh off triggering MAGA with his Super Bowl halftime announcement, declared, "We are not savage. We are not animals. We are not aliens. We are humans, and we are Americans."
 
 These aren't just celebrity hot takes. They're public figures using visibility to say what millions feel but can't amplify. Sarma called it a civic obligation: "When those with the loudest voices decline to speak, they do not remain neutral. Instead, they tacitly enable the conditions under which democratic institutions weaken."
 
-The real question isn't whether celebrities should speak out about [politics](https://infeeds.com/tags/?tag=politics), it's why one side only celebrates that speech when it reinforces their worldview while condemning it everywhere else.
+The real question isn't whether celebrities should speak out about [politics](https://infeeds.com/tags/politics), it's why one side only celebrates that speech when it reinforces their worldview while condemning it everywhere else.

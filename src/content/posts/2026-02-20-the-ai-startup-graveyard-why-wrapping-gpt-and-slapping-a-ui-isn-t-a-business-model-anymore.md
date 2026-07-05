@@ -38,7 +38,7 @@ The real money comes from companies that build proprietary IP to route queries i
 
 ## A Familiar Echo
 
-Mowry has been in the <a href="https://infeeds.com/tags/?tag=technology">technology</a> infrastructure game for decades. He spent time at AWS and Microsoft before landing at Google Cloud, so he's seen this movie before. And it's playing out the same way again.
+Mowry has been in the <a href="https://infeeds.com/tags/technology">technology</a> infrastructure game for decades. He spent time at AWS and Microsoft before landing at Google Cloud, so he's seen this movie before. And it's playing out the same way again.
 
 In the early days of cloud computing, around 2008 or 2009, startups emerged to resell AWS infrastructure. They marketed themselves as easier entry points, offering billing consolidation, better support, and friendlier tooling. For a hot minute, that worked. But then Amazon built those features themselves. Customers learned to manage AWS directly. And suddenly those middlemen had nothing to offer.
 

@@ -10,7 +10,7 @@ tags: [news, tech]
 tags_color: '#00ba65'
 ---
 
-New York lawmakers just introduced a bill that could slam the brakes on new data center construction for at least three years. It's a bold move in a state that's already struggling to keep up with energy demand, and it signals a growing unease about the AI infrastructure boom that [Technology](https://infeeds.com/tags/?tag=technology) companies keep promising will change everything.
+New York lawmakers just introduced a bill that could slam the brakes on new data center construction for at least three years. It's a bold move in a state that's already struggling to keep up with energy demand, and it signals a growing unease about the AI infrastructure boom that [Technology](https://infeeds.com/tags/technology) companies keep promising will change everything.
 
 The bill, backed by state senator Liz Krueger and assemblymember Anna Kelles, both Democrats, would impose a moratorium on permits for new data centers. Krueger didn't mince words when she said New York is "completely unprepared" for the facilities that are "gunning" for the state. She wants to hit pause before the state gets stuck with a bill it can't afford.
 
@@ -24,10 +24,10 @@ More than 230 environmental groups just signed an open letter to Congress demand
 
 ## The Energy Bill Nobody Asked For
 
-Studies have started linking data centers to increased home electricity bills, which is probably the fastest way to turn public opinion against any [Business](https://infeeds.com/tags/?tag=business) venture. Tech companies are planning to dump billions into AI infrastructure, building massive facilities that suck up electricity like nothing we've seen before. Someone has to pay for all that power, and it's looking more and more like it'll be regular utility customers.
+Studies have started linking data centers to increased home electricity bills, which is probably the fastest way to turn public opinion against any [Business](https://infeeds.com/tags/business) venture. Tech companies are planning to dump billions into AI infrastructure, building massive facilities that suck up electricity like nothing we've seen before. Someone has to pay for all that power, and it's looking more and more like it'll be regular utility customers.
 
 Governor Kathy Hochul tried to get ahead of this last month with something called Energize NY Development. Her office promised it would modernize how large energy users connect to the grid while making sure they "pay their fair share." It sounds good on paper, but Krueger apparently doesn't think it goes far enough, hence the push for a full moratorium.
 
 The timing of all this is fascinating. Tech companies are in an arms race to build out AI capabilities, and data centers are the foundation of that infrastructure. But they're running headlong into communities that don't want their electricity costs to spike or their local grids to get overwhelmed. It's a collision between Silicon Valley's ambitions and Main Street's utility bills, and right now it's not clear which side will win.
 
-What happens when the infrastructure demands of cutting-edge [tech](https://infeeds.com/tags/?tag=tech) run straight into the limits of what communities are willing to tolerate?
+What happens when the infrastructure demands of cutting-edge [tech](https://infeeds.com/tags/tech) run straight into the limits of what communities are willing to tolerate?

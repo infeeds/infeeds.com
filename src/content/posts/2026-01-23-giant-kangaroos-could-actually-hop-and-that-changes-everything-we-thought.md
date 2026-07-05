@@ -30,13 +30,13 @@ Turns out, yes they could. The metatarsals were strong enough, and the heel bone
 
 Before you start imagining herds of giant kangaroos bouncing across the outback in some prehistoric version of a nature documentary, the researchers are quick to pump the brakes. These animals could hop, but they probably didn't make a habit of it.
 
-Long distance hopping at that size would have been incredibly inefficient from an energy standpoint. It's like asking why bodybuilders don't typically run marathons. Sure, they physically can, but it's not what their bodies are optimized for. The [science](https://infeeds.com/tags/?tag=science) here points to something more tactical.
+Long distance hopping at that size would have been incredibly inefficient from an energy standpoint. It's like asking why bodybuilders don't typically run marathons. Sure, they physically can, but it's not what their bodies are optimized for. The [science](https://infeeds.com/tags/science) here points to something more tactical.
 
 Think about it from a survival perspective. You're a 250-kilogram kangaroo munching on vegetation when suddenly a Thylacoleo, one of those terrifying marsupial lions, decides you look tasty. What do you do? You don't casually walk away. You explode into a series of powerful hops to put distance between you and those teeth. Short bursts, high intensity, maximum effect.
 
 ## The Bigger Picture
 
-This research fits into a broader pattern we see in [nature](https://infeeds.com/tags/?tag=nature) where animals have backup movement strategies. Plenty of smaller animals today use occasional hopping even when it's not their primary mode of transportation. Certain rodents and small marsupials will hop when threatened but walk most of the time.
+This research fits into a broader pattern we see in [nature](https://infeeds.com/tags/nature) where animals have backup movement strategies. Plenty of smaller animals today use occasional hopping even when it's not their primary mode of transportation. Certain rodents and small marsupials will hop when threatened but walk most of the time.
 
 What makes this discovery fascinating is how it challenges our assumptions about size limitations in extinct animals. We tend to look at fossils and make educated guesses based on modern analogs, but evolution is weird and doesn't always follow the rulebook we've written for it.
 

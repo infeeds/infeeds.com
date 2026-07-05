@@ -30,6 +30,6 @@ The defendants will likely argue that filmmakers have a right to dramatize real 
 
 "The Rip," directed by Joe Carnahan, debuted on Netflix in January and currently sits at 78% Fresh on Rotten Tomatoes. It's been well-received critically, which perhaps makes the lawsuit's stakes feel even higher for Affleck and Damon's production venture.
 
-The case ultimately hinges on whether the real-world details embedded in the film are specific enough to constitute defamation, or whether the disclaimer and fictional framing shield the filmmakers from liability. It's a question that could reshape how productions approach <a href="https://infeeds.com/tags/?tag=entertainment">entertainment</a> inspired by true crime and law enforcement scandals.
+The case ultimately hinges on whether the real-world details embedded in the film are specific enough to constitute defamation, or whether the disclaimer and fictional framing shield the filmmakers from liability. It's a question that could reshape how productions approach <a href="https://infeeds.com/tags/entertainment">entertainment</a> inspired by true crime and law enforcement scandals.
 
 What happens here could influence how future filmmakers navigate the minefield between telling compelling stories rooted in reality and protecting the actual people whose lives those stories touch.

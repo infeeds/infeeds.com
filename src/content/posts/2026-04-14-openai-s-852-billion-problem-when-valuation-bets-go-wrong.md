@@ -34,7 +34,7 @@ There's irony in this dynamic. Sam Altman has seen valuation bubbles burst befor
 
 OpenAI CFO Sarah Friar pushed back against the skepticism, telling the Financial Times that the $122 billion raise itself proves investor confidence. Technically true. But confidence in what? That investors will keep the money flowing, or that the company will actually deliver returns that justify a trillion-dollar-plus exit? Those are two different things.
 
-## The [Business](https://infeeds.com/tags/?tag=business) of [Technology](https://infeeds.com/tags/?tag=technology) Cycles
+## The [Business](https://infeeds.com/tags/business) of [Technology](https://infeeds.com/tags/technology) Cycles
 
 The real issue isn't whether OpenAI is a good company. It clearly is. The question is whether it's a $852 billion company and whether it'll be worth $1.2 trillion in five years. Those aren't given answers just because you raised the biggest check in history.
 

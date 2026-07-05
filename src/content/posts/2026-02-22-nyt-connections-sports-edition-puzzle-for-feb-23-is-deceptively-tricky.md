@@ -18,7 +18,7 @@ The real kicker? That purple category is absolutely brutal.
 
 Let's talk about what makes today's puzzle particularly annoying in the best way possible. The purple grouping asks you to think about NFL teams, but with a twist. A literal twist of their names, actually. The first letter of each team gets swapped out for something completely different.
 
-So you're looking at words like "bolts" (Colts), "crowns" (Browns), "hackers" (Packers), and "paints" (Saints). It's the kind of puzzle that makes you feel dumb for not getting it immediately, then brilliant once you do figure it out. That's the sweet spot for any good <a href="https://infeeds.com/tags/?tag=technology">technology</a>-powered game like this one.
+So you're looking at words like "bolts" (Colts), "crowns" (Browns), "hackers" (Packers), and "paints" (Saints). It's the kind of puzzle that makes you feel dumb for not getting it immediately, then brilliant once you do figure it out. That's the sweet spot for any good <a href="https://infeeds.com/tags/technology">technology</a>-powered game like this one.
 
 The Athletic, which publishes Connections: Sports Edition through its subscription platform, clearly has a team of puzzle designers who enjoy torturing sports fans on a daily basis. And honestly? It works.
 

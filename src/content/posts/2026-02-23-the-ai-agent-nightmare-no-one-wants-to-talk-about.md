@@ -36,7 +36,7 @@ Yue admitted her mistake was pretty basic. She got comfortable with the tool aft
 
 ## We're Not Ready Yet, and That's Okay
 
-The bitter truth is that <a href="https://infeeds.com/tags/?tag=technology">technology</a> like this isn't ready for mass consumption. Not yet. Maybe not for another couple of years. 2027 or 2028, if we're optimistic. Right now, anyone actually using these agents successfully is basically MacGyvering their own safety systems.
+The bitter truth is that <a href="https://infeeds.com/tags/technology">technology</a> like this isn't ready for mass consumption. Not yet. Maybe not for another couple of years. 2027 or 2028, if we're optimistic. Right now, anyone actually using these agents successfully is basically MacGyvering their own safety systems.
 
 They're writing careful prompts, testing on smaller datasets, backing everything up, and generally treating their AI assistant like a toddler who might decide to rearrange the furniture while you're in the shower. It works, barely, but it requires constant vigilance.
 

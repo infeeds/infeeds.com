@@ -30,7 +30,7 @@ But there was another factor brewing beneath the surface. Paramount wasn't backi
 
 Bidding wars are like poker games where both players keep raising the stakes. Eventually, someone has to fold or risk going all in on a hand that might not be worth it. Netflix looked across the table at Paramount and realized that maybe this wasn't a hand worth playing to the end.
 
-The <a href="https://infeeds.com/tags/?tag=business">business</a> logic was simple: keep bidding and risk massive shareholder backlash, or step back and look disciplined to the market. Netflix chose the latter.
+The <a href="https://infeeds.com/tags/business">business</a> logic was simple: keep bidding and risk massive shareholder backlash, or step back and look disciplined to the market. Netflix chose the latter.
 
 ## Trump's Timely Text
 
@@ -42,9 +42,9 @@ Either way, having a sitting President publicly concerned about your acquisition
 
 ## The Human Cost Nobody's Talking About
 
-While Netflix and Paramount executives debate strategy and shareholders celebrate stock gains, people at Warner Bros. are sweating. The <a href="https://infeeds.com/tags/?tag=technology">technology</a> and entertainment world operates on deals like this, and deals create winners and losers.
+While Netflix and Paramount executives debate strategy and shareholders celebrate stock gains, people at Warner Bros. are sweating. The <a href="https://infeeds.com/tags/technology">technology</a> and entertainment world operates on deals like this, and deals create winners and losers.
 
-Employees at Warner Bros. are now bracing for layoffs. And with Paramount Skydance winning the bid, there's fresh concern about conservative political pressure on CNN, which sits under the Warner Bros. umbrella. These aren't abstract <a href="https://infeeds.com/tags/?tag=business">business</a> outcomes. They're real consequences for real people.
+Employees at Warner Bros. are now bracing for layoffs. And with Paramount Skydance winning the bid, there's fresh concern about conservative political pressure on CNN, which sits under the Warner Bros. umbrella. These aren't abstract <a href="https://infeeds.com/tags/business">business</a> outcomes. They're real consequences for real people.
 
 ## What This Actually Means
 

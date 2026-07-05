@@ -24,13 +24,13 @@ The competition format means you never know who'll make it to the next episode. 
 
 New episodes drop Thursdays at 9 p.m. ET on Peacock. Episode 8, titled "A Queen Never Comes Off Her Throne," continues the drama this week. If you're planning to catch up or jump in now, you'll need a Peacock subscription since this is an original series exclusive to the streaming platform.
 
-The [Technology](https://infeeds.com/tags/?tag=technology) behind streaming has changed how we consume reality TV, making weekly releases feel almost nostalgic in an era where everything usually drops at once.
+The [Technology](https://infeeds.com/tags/technology) behind streaming has changed how we consume reality TV, making weekly releases feel almost nostalgic in an era where everything usually drops at once.
 
 ## The Peacock Subscription Puzzle
 
 Here's where it gets slightly annoying. Peacock offers three tiers, but only two actually let you watch The Traitors. The Premium plan runs $11 monthly with ads, while Premium Plus costs $17 for mostly ad-free viewing. That "mostly" qualifier matters because even Premium Plus subscribers will see commercials during live sports and certain other content.
 
-The cheaper Select plan at $8 per month exists but won't give you access to Peacock originals like The Traitors. It's a weird [business](https://infeeds.com/tags/?tag=business) decision that forces viewers into higher tiers if they want the platform's signature content.
+The cheaper Select plan at $8 per month exists but won't give you access to Peacock originals like The Traitors. It's a weird [business](https://infeeds.com/tags/business) decision that forces viewers into higher tiers if they want the platform's signature content.
 
 There's also a bundle option pairing Peacock with Apple TV for $15 monthly if you want ad-supported Peacock and ad-free Apple TV. Bumping to ad-free Peacock brings the bundle to $20. Whether that's worth it depends on how much you use both services.
 

@@ -24,7 +24,7 @@ The math professor's experience has become the norm, Gerdis argues. Online check
 
 It's functional. It's efficient. It's not medicine as it should be.
 
-## The [Technology](https://infeeds.com/tags/?tag=technology) That Solved One Problem, Created Another
+## The [Technology](https://infeeds.com/tags/technology) That Solved One Problem, Created Another
 
 Electronic health records were supposed to help. They provide crucial access to a patient's medical history and ensure nothing falls through the cracks. What they've actually done is create an environment where completing computer templates matters more than the actual human sitting across from you.
 
@@ -36,7 +36,7 @@ A 2017 study from the American Medical Association and the Dartmouth-Hitchcock h
 
 The larger structural problems in American healthcare are real and well-documented. Dysfunctional insurance models. Inequitable access to care. Pharmaceutical costs that destroy families. The fact that most medical practices are now owned by third parties with their own financial incentives. Those are macro failures that require systemic solutions.
 
-But something else has shifted at the micro level, in the actual moment when a doctor and patient meet in a private room. The connection that once reliably stemmed from empathy, focus, and genuine collaboration has frayed. And while electronic [health](https://infeeds.com/tags/?tag=health) records bear some responsibility, they're not the whole story.
+But something else has shifted at the micro level, in the actual moment when a doctor and patient meet in a private room. The connection that once reliably stemmed from empathy, focus, and genuine collaboration has frayed. And while electronic [health](https://infeeds.com/tags/health) records bear some responsibility, they're not the whole story.
 
 Gerdis senses that patients have begun to accept this as normal. Expected, even. A doctor arrives, mostly focused elsewhere, and that's just how it works now. The ideal of medicine, where a caregiver brings their full attention and skill to understanding a human being's suffering, has quietly receded.
 

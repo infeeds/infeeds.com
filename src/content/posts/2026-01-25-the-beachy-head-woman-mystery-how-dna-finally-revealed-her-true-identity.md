@@ -34,9 +34,9 @@ Here's what's really interesting about this case. Roman Britain was genuinely di
 
 ## Why We Got It Wrong
 
-The problem with the earlier research wasn't bad science. It was limited [technology](https://infeeds.com/tags/?tag=technology). When you're working with degraded DNA from a skeleton that's been sitting around for 1,700 years, you're not exactly dealing with pristine material. The first attempts at genetic analysis extracted what they could, but it simply wasn't enough to draw solid conclusions.
+The problem with the earlier research wasn't bad science. It was limited [technology](https://infeeds.com/tags/technology). When you're working with degraded DNA from a skeleton that's been sitting around for 1,700 years, you're not exactly dealing with pristine material. The first attempts at genetic analysis extracted what they could, but it simply wasn't enough to draw solid conclusions.
 
-By 2024, the techniques had improved dramatically. Researchers could recover far more genetic material and compare it against a much larger database of known populations. That's how [science](https://infeeds.com/tags/?tag=science) works. You make the best conclusions you can with available data, then you revisit when better tools come along.
+By 2024, the techniques had improved dramatically. Researchers could recover far more genetic material and compare it against a much larger database of known populations. That's how [science](https://infeeds.com/tags/science) works. You make the best conclusions you can with available data, then you revisit when better tools come along.
 
 Dr. Selina Brace put it perfectly when she said scientific knowledge is constantly evolving. That's not a weakness, it's a feature. The willingness to go back and check your work, to update conclusions when new evidence appears, that's what separates real science from dogma.
 
@@ -46,4 +46,4 @@ The Beachy Head Woman's story matters beyond just one skeleton. It's a window in
 
 Her updated facial reconstruction reflects the new DNA findings. Gone is the earlier interpretation based on fragmentary data. What remains is a more accurate picture of who she probably was: a woman from southern England living in a time when the Roman Empire stretched across three continents and movement between regions was common, but who herself appears to have been part of the local population.
 
-It makes you wonder how many other historical interpretations are waiting for technology to catch up and prove us wrong. How many skeletons sitting in museums right now carry stories we've completely misunderstood? The Beachy Head Woman spent years being someone she wasn't, all because we didn't have the tools to read her DNA properly. Makes you think about what else we're getting wrong while we wait for the [technology](https://infeeds.com/tags/?tag=technology) to finally give us real answers.
+It makes you wonder how many other historical interpretations are waiting for technology to catch up and prove us wrong. How many skeletons sitting in museums right now carry stories we've completely misunderstood? The Beachy Head Woman spent years being someone she wasn't, all because we didn't have the tools to read her DNA properly. Makes you think about what else we're getting wrong while we wait for the [technology](https://infeeds.com/tags/technology) to finally give us real answers.

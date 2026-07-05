@@ -32,6 +32,6 @@ The beauty of the Mini Crossword is that it balances difficulty. You get your in
 
 The trick with paired clues is not to overthink them. Once you realize they're meant to work together, the answer becomes clearer. Sometimes the best puzzle-solving strategy is knowing when to step back and look at the bigger picture.
 
-If you're looking for more help with today's [tech](https://infeeds.com/tags/?tag=technology) and puzzle content, our daily hints page has guidance for Wordle, Strands, and Connections as well. And if you want to sharpen your crossword skills in general, our Mini Crossword tips guide covers the strategies that actually work.
+If you're looking for more help with today's [tech](https://infeeds.com/tags/technology) and puzzle content, our daily hints page has guidance for Wordle, Strands, and Connections as well. And if you want to sharpen your crossword skills in general, our Mini Crossword tips guide covers the strategies that actually work.
 
 The real question is: how many people will finish this puzzle without checking the answers, and how many of those will actually have known what "GETIN" meant before they saw it?

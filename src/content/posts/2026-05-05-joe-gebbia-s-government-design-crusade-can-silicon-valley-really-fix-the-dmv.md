@@ -28,11 +28,11 @@ These aren't flashy numbers. They're the kind of incremental improvements that a
 
 ## The Real Problem With Government UX
 
-Gebbia called the current state of [government websites](https://infeeds.com/tags/?tag=technology) "one of the darkest UX patterns that you could think of." That's a designer's term for deliberately confusing interface design, usually meant to trick users. Obviously, that's not the government's intention, but the effect is the same: complexity breeds distrust and disengagement.
+Gebbia called the current state of [government websites](https://infeeds.com/tags/technology) "one of the darkest UX patterns that you could think of." That's a designer's term for deliberately confusing interface design, usually meant to trick users. Obviously, that's not the government's intention, but the effect is the same: complexity breeds distrust and disengagement.
 
 "Just the perception of being hard precludes you from even engaging in it," Gebbia said. He's right. If people assume they'll get lost navigating a site or lose their data halfway through, they won't try. They'll give up before they start.
 
-The practical frustrations are real too. Pages timing out. Forms that don't save. Sites that lock you out after inactivity. These aren't failures of imagination or resources. They're failures of prioritization and, frankly, [business](https://infeeds.com/tags/?tag=business) discipline applied to the public sector.
+The practical frustrations are real too. Pages timing out. Forms that don't save. Sites that lock you out after inactivity. These aren't failures of imagination or resources. They're failures of prioritization and, frankly, [business](https://infeeds.com/tags/business) discipline applied to the public sector.
 
 ## The Skeptic's Question
 

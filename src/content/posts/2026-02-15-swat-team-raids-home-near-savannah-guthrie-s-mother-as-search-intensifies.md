@@ -28,7 +28,7 @@ Before Friday's raids, there were reports that DNA not belonging to Nancy Guthri
 
 Searchers also reportedly found gloves in the surrounding area that may be connected to the case. When you combine gloves at the scene with a masked intruder caught on camera wearing gloves, the pieces start forming a disturbing picture.
 
-The [news](https://infeeds.com/tags/?tag=news) has understandably sent shockwaves through both the local Tucson community and the wider audience who know Savannah Guthrie from her years on national television. It's one thing to report on these stories, another entirely when it hits someone in the public eye this directly.
+The [news](https://infeeds.com/tags/news) has understandably sent shockwaves through both the local Tucson community and the wider audience who know Savannah Guthrie from her years on national television. It's one thing to report on these stories, another entirely when it hits someone in the public eye this directly.
 
 ## The FBI's Involvement Signals Seriousness
 
@@ -36,6 +36,6 @@ When the FBI joins a local investigation, it typically means the case has elemen
 
 That's frustrating for everyone following the case and desperate for answers, but it's also standard procedure when investigators are still gathering evidence and potentially tracking suspects. The last thing they want is to tip off anyone involved about what they know or where they're looking next.
 
-The [entertainment](https://infeeds.com/tags/?tag=entertainment) world has been buzzing with concern for Savannah Guthrie, who has understandably kept a low profile as this nightmare unfolds. No parent should have to go through this, let alone someone whose every move is typically documented by tabloids and social media.
+The [entertainment](https://infeeds.com/tags/entertainment) world has been buzzing with concern for Savannah Guthrie, who has understandably kept a low profile as this nightmare unfolds. No parent should have to go through this, let alone someone whose every move is typically documented by tabloids and social media.
 
 The scale of Friday night's operation, with SWAT teams and numerous vehicles descending on a residential neighborhood, suggests authorities believe they're closing in on something significant. Whether those detained will face charges or provide information leading to Nancy's whereabouts remains the agonizing question everyone's waiting to have answered.

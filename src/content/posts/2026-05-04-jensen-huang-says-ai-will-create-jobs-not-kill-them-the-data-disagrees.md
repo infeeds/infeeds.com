@@ -12,7 +12,7 @@ Jensen Huang wants you to relax about AI taking your job.
 
 The Nvidia CEO sat down with MSNBC's Becky Quick at an event hosted by the Milken Institute this week and made a straightforward pitch: artificial intelligence isn't a labor apocalypse waiting to happen. It's a job creator. An industrial-scale generator of employment. The kind of thing that could actually help America re-industrialize itself.
 
-The argument is appealing, especially if you work in [technology](https://infeeds.com/tags/?tag=technology) or any field touched by AI. And there's a grain of truth to it. New industries do create jobs. The factories pumping out AI chips and hardware need workers. The companies building on top of AI infrastructure need engineers, sales people, and operators. Huang's right about that much.
+The argument is appealing, especially if you work in [technology](https://infeeds.com/tags/technology) or any field touched by AI. And there's a grain of truth to it. New industries do create jobs. The factories pumping out AI chips and hardware need workers. The companies building on top of AI infrastructure need engineers, sales people, and operators. Huang's right about that much.
 
 But there's a stubborn problem with his optimism: it doesn't align with what financial and academic experts are actually projecting.
 

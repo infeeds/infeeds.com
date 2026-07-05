@@ -20,7 +20,7 @@ To put this in perspective, Trump's own first administration filed 86 cases duri
 
 From day one, the Trump administration kicked off what they proudly called the "biggest deregulatory action in U.S. history." EPA Administrator Lee Zeldin launched 31 separate efforts to roll back restrictions on air and water pollution. They're handing more authority to states, many of which have historically been, let's say, less than enthusiastic about enforcing environmental rules.
 
-The push has been particularly sweet for fossil fuel companies. Trump declared an "energy emergency" immediately after taking office, which basically gave [business](https://infeeds.com/tags/?tag=business) interests a green light to prioritize profits over environmental protection.
+The push has been particularly sweet for fossil fuel companies. Trump declared an "energy emergency" immediately after taking office, which basically gave [business](https://infeeds.com/tags/business) interests a green light to prioritize profits over environmental protection.
 
 But here's where it gets interesting. This isn't just about changing regulations. The EPA is actively pulling back on enforcing existing laws. They're not even responding to requests for comment about it anymore.
 
@@ -42,7 +42,7 @@ TCEQ's approach under Pritzlaff was to let violations pile up, arguing it was mo
 
 ## The Numbers Tell a Grim Story
 
-Administrative cases did increase slightly during Trump's second term compared to Biden's, but here's the catch. Most of those cases involved paperwork violations around risk management plans or municipal drinking water issues. Cases involving actual industrial pollution? Those didn't increase at all, according to the [Environmental Integrity Project](https://infeeds.com/tags/?tag=environment).
+Administrative cases did increase slightly during Trump's second term compared to Biden's, but here's the catch. Most of those cases involved paperwork violations around risk management plans or municipal drinking water issues. Cases involving actual industrial pollution? Those didn't increase at all, according to the [Environmental Integrity Project](https://infeeds.com/tags/environment).
 
 The EPA issued just $41 million in penalties through September, which is $8 million less than the same period under Biden when you adjust for inflation. So even when they do take action, the financial consequences are lighter. It's like getting a parking ticket when you've been street racing.
 

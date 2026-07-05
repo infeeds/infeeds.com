@@ -24,7 +24,7 @@ But Nanos tells a completely different story. He says he actually talked the FBI
 
 ## When Anonymous Sources Contradict Official Statements
 
-The whole situation highlights something we see way too often in [news](https://infeeds.com/tags/?tag=news) coverage of ongoing investigations. Anonymous officials feeding one narrative to reporters while named officials say something entirely different on camera. Who do you believe?
+The whole situation highlights something we see way too often in [news](https://infeeds.com/tags/news) coverage of ongoing investigations. Anonymous officials feeding one narrative to reporters while named officials say something entirely different on camera. Who do you believe?
 
 The Reuters source painted a picture of bureaucratic stubbornness getting in the way of justice. "It's clear the fastest path to answers is leveraging federal resources and technology," this person said. "Anything less only prolongs the Guthrie family's grief and the community's wait for justice."
 
@@ -40,6 +40,6 @@ Nanos maintains he has "good leads" in the case, though he admitted to 13News th
 
 What we're seeing here is a classic clash that happens when local and federal agencies work together on high-profile cases. Sheriffs are elected officials who answer to their communities. Federal agents follow different protocols and have access to resources that local departments don't.
 
-Neither side is necessarily wrong, but when they disagree publicly through anonymous sources and media interviews, it creates confusion and erodes public confidence. The [entertainment](https://infeeds.com/tags/?tag=entertainment) world is watching this case closely because of Savannah Guthrie's profile, which only adds more pressure to an already tense situation.
+Neither side is necessarily wrong, but when they disagree publicly through anonymous sources and media interviews, it creates confusion and erodes public confidence. The [entertainment](https://infeeds.com/tags/entertainment) world is watching this case closely because of Savannah Guthrie's profile, which only adds more pressure to an already tense situation.
 
 Sometimes the biggest obstacle to solving a case isn't the complexity of the evidence, but getting everyone in the same room to agree on how to process it.

@@ -10,7 +10,7 @@ tags: [news, business]
 tags_color: '#795548'
 ---
 
-Squarespace has earned its reputation for making website building painless. Whether you're running a [business](https://infeeds.com/tags/?tag=business), showcasing photography work, or just need somewhere to dump your thoughts, the platform handles the heavy lifting. Templates are ready to go, AI can design things for you if you're feeling lazy, and everything stays under one roof.
+Squarespace has earned its reputation for making website building painless. Whether you're running a [business](https://infeeds.com/tags/business), showcasing photography work, or just need somewhere to dump your thoughts, the platform handles the heavy lifting. Templates are ready to go, AI can design things for you if you're feeling lazy, and everything stays under one roof.
 
 But pricing is where things get interesting. Not complicated, just worth understanding before you commit.
 
@@ -32,7 +32,7 @@ Plus and Advanced keep climbing the ladder with lower payment processing rates. 
 
 Most people overthink this decision. Look at your monthly sales income first. If you're barely selling anything, paying for Advanced makes zero sense. You're funding features that won't benefit you.
 
-Small [business](https://infeeds.com/tags/?tag=business) owners with steady online sales should run the numbers on transaction fees. Take what you're actually selling each month, calculate the fees at each tier, and see where the plan cost gets eaten up by fee savings. Sometimes Core is the sweet spot. Sometimes you need to jump higher.
+Small [business](https://infeeds.com/tags/business) owners with steady online sales should run the numbers on transaction fees. Take what you're actually selling each month, calculate the fees at each tier, and see where the plan cost gets eaten up by fee savings. Sometimes Core is the sweet spot. Sometimes you need to jump higher.
 
 Artists and bloggers without major sales operations probably don't need anything fancy. Basic gets you online with Squarespace's polished templates. You won't have every tool in the shed, but you also won't be paying for things you'll never use.
 

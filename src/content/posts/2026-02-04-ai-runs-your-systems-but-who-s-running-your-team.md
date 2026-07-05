@@ -10,7 +10,7 @@ tags: [news, business]
 tags_color: '#2b2b2b'
 ---
 
-AI has changed the speed of [business](https://infeeds.com/tags/?tag=business). The tools are smarter. The workflows are tighter. Automation now powers everything from emails to reports to meeting recaps. Execution has never been easier.
+AI has changed the speed of [business](https://infeeds.com/tags/business). The tools are smarter. The workflows are tighter. Automation now powers everything from emails to reports to meeting recaps. Execution has never been easier.
 
 But as the systems move faster, something else is slowing down. Leadership.
 
@@ -34,7 +34,7 @@ AI can write the update. It can generate the slide. It can summarize the meeting
 
 When leaders step back too far, the system keeps going until something breaks. And often by then, the signals that would have prompted a course correction are long gone.
 
-This isn't about rejecting [technology](https://infeeds.com/tags/?tag=technology). The right tools are helping companies scale faster and operate more efficiently. But leadership has to scale alongside it.
+This isn't about rejecting [technology](https://infeeds.com/tags/technology). The right tools are helping companies scale faster and operate more efficiently. But leadership has to scale alongside it.
 
 It starts with reengaging in the moments that matter. Leaders need to be more precise with when and how they show up. That might mean less time managing tasks and more time reinforcing direction. Less time reacting to output and more time setting tone early.
 

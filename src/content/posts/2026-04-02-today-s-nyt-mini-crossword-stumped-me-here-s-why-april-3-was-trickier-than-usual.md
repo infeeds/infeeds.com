@@ -39,6 +39,6 @@ Then there's APAL, which is probably the most brutal answer here. "C'mon, be ___
 
 The difficulty here isn't about obscure vocabulary or impossible wordplay. It's about the puzzle assuming you're thinking in multiple directions at once. The seasonal clues are clever because they work on two levels. The colloquialisms (HOOPER, APAL) assume a certain cultural fluency. And words like ROTE remind you that crosswords still value the classics.
 
-For [daily puzzle hints and strategies](https://infeeds.com/tags/?tag=technology), The New York Times has expanded its offerings beyond just Wordle. If you're solving multiple puzzles, the consistency of that editorial voice actually matters.
+For [daily puzzle hints and strategies](https://infeeds.com/tags/technology), The New York Times has expanded its offerings beyond just Wordle. If you're solving multiple puzzles, the consistency of that editorial voice actually matters.
 
 If you found this one easier than I did, congratulations on your puzzle skills. If you hit a wall, you're definitely not alone. The real question is whether today's mini felt satisfying after you cracked it, or if it left you wondering why a five-letter answer about being friendly had to be quite that obscure.

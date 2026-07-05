@@ -30,7 +30,7 @@ These aren't suggestions. They're written as requirements.
 
 Tegmark reached for an analogy that stuck with me. "You never have to worry that some drug company is going to release some drug that causes massive harm before people have figured out how to make it safe," he said, "because the FDA won't allow them to release anything until it's safe enough."
 
-We have that system for pharmaceuticals. We don't have anything like it for [technology](https://infeeds.com/tags/?tag=technology) that's increasingly woven into daily life. The gap is starting to feel less like an oversight and more like a policy failure.
+We have that system for pharmaceuticals. We don't have anything like it for [technology](https://infeeds.com/tags/technology) that's increasingly woven into daily life. The gap is starting to feel less like an oversight and more like a policy failure.
 
 Tegmark thinks the crack in the ice comes through child safety. The declaration specifically calls for mandatory pre-deployment testing of AI products aimed at younger users. Testing for increased suicidal ideation. Testing for exacerbation of mental health conditions. Testing for emotional manipulation.
 
@@ -42,7 +42,7 @@ It's actually a smart pressure point. Child protection has historically been the
 
 ## The Real Collision
 
-What makes this moment remarkable isn't just the declaration itself. It's the timing. The Pentagon standoff with [Anthropic](https://infeeds.com/tags/?tag=business) exposed something nobody was really talking about before: we have no coherent rules for AI governance. None. And the vacuum is being filled by corporate dealmaking and military pressure.
+What makes this moment remarkable isn't just the declaration itself. It's the timing. The Pentagon standoff with [Anthropic](https://infeeds.com/tags/business) exposed something nobody was really talking about before: we have no coherent rules for AI governance. None. And the vacuum is being filled by corporate dealmaking and military pressure.
 
 When Defense Secretary Pete Hegseth labeled an AI company a national security risk because it wouldn't hand over unlimited access to its technology, it became clear this wasn't about a contract dispute anymore. It was about control. Who gets to decide how powerful AI systems are deployed. Who controls the infrastructure. Who bears responsibility when things break.
 

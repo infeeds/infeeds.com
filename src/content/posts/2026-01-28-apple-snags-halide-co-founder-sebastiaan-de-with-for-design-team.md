@@ -20,7 +20,7 @@ For anyone who's spent time in the iPhone photography space, this is a big deal.
 
 If you've used Halide or Kino, you know the Lux philosophy. These aren't apps that try to do everything for everyone. They're opinionated tools built for people who care about how their photos and videos look. The Process Zero mode in Halide, which gives you unprocessed RAW files straight from the iPhone sensor, is the kind of feature that sounds niche until you try it and realize what you've been missing.
 
-De With has also become something of a go-to voice for deep dives on Apple's camera tech. His review of the iPhone 16e's camera (which he memorably described as having a "vibe") and his detailed breakdown of the iPhone 17 Pro showed someone who really understands both the technical side and the artistic side of smartphone photography. That's a rare combination in the [Technology](https://infeeds.com/tags/?tag=technology) world where most people lean heavily toward one or the other.
+De With has also become something of a go-to voice for deep dives on Apple's camera tech. His review of the iPhone 16e's camera (which he memorably described as having a "vibe") and his detailed breakdown of the iPhone 17 Pro showed someone who really understands both the technical side and the artistic side of smartphone photography. That's a rare combination in the [Technology](https://infeeds.com/tags/technology) world where most people lean heavily toward one or the other.
 
 ## What This Means for Lux
 
@@ -32,7 +32,7 @@ The pessimistic view is that Lux slowly winds down as de With gets absorbed into
 
 This isn't actually de With's first time working with Apple. According to his website, he's done design work for the company before, including projects on iCloud, MobileMe (remember that disaster?), and the Find My apps. So he's not walking into Cupertino blind. He knows how Apple works, which might make this transition smoother than your typical indie developer acquisition.
 
-The fact that he's specifically mentioned working on his "favorite products" suggests he'll be involved with iPhone or camera-related projects. That's the logical fit given his background, though Apple being Apple, they could just as easily put him on something completely different. The company has a history of hiring people for their talent and then deciding later where they fit best in the [business](https://infeeds.com/tags/?tag=business).
+The fact that he's specifically mentioned working on his "favorite products" suggests he'll be involved with iPhone or camera-related projects. That's the logical fit given his background, though Apple being Apple, they could just as easily put him on something completely different. The company has a history of hiring people for their talent and then deciding later where they fit best in the [business](https://infeeds.com/tags/business).
 
 ## The Indie App Dilemma
 

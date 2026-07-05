@@ -46,7 +46,7 @@ The results shattered previous records. The crystal grew to about 100 nanometers
 
 ## Why This Matters Beyond Geology
 
-The immediate payoff is straightforward: we now understand a long-standing geological puzzle. But the implications ripple into <a href="https://infeeds.com/tags/?tag=technology">Technology</a> far beyond rocks and minerals.
+The immediate payoff is straightforward: we now understand a long-standing geological puzzle. But the implications ripple into <a href="https://infeeds.com/tags/technology">Technology</a> far beyond rocks and minerals.
 
 The principle Sun's team uncovered could transform how we manufacture semiconductors, solar panels, batteries and other high-performance materials. Crystal growers have traditionally assumed that slower growth produces fewer defects. The research suggests the opposite is possible: you can grow defect-free materials rapidly if you actively remove flaws as they appear.
 
@@ -54,4 +54,4 @@ That's a different playbook entirely. Instead of patience as virtue, it's about 
 
 The research was supported by the American Chemical Society, the U.S. Department of Energy and the Japanese Society for the Promotion of Science. It's the kind of cross-institutional collaboration that often produces insights neither team would reach alone.
 
-What began as a stubborn geological mystery ended up teaching us something about how to build better materials for the modern world, which makes you wonder what other nature-based puzzles are actually holding the keys to future <a href="https://infeeds.com/tags/?tag=technology">technologies</a>.
+What began as a stubborn geological mystery ended up teaching us something about how to build better materials for the modern world, which makes you wonder what other nature-based puzzles are actually holding the keys to future <a href="https://infeeds.com/tags/technology">technologies</a>.

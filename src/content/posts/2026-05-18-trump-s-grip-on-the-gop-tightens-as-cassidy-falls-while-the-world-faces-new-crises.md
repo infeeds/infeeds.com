@@ -26,7 +26,7 @@ That distinction matters, but so does vigilance. Public health systems in the re
 
 Meanwhile, in California, a jury is about to decide one of Silicon Valley's messiest breakups. Elon Musk is suing OpenAI CEO Sam Altman and the company itself, claiming they "stole a charity." The two founded OpenAI in 2015 as a nonprofit dedicated to developing safe artificial intelligence for humanity's benefit.
 
-Then came the power struggle. Musk left. Now there's a courtroom fight over what happened to the original mission and mission statement. The case sits at the intersection of ego, ideology, and billions of dollars. Deliberations begin today, and the outcome could reshape how we think about [technology](https://infeeds.com/tags/?tag=technology) companies' founding principles and how quickly they abandon them.
+Then came the power struggle. Musk left. Now there's a courtroom fight over what happened to the original mission and mission statement. The case sits at the intersection of ego, ideology, and billions of dollars. Deliberations begin today, and the outcome could reshape how we think about [technology](https://infeeds.com/tags/technology) companies' founding principles and how quickly they abandon them.
 
 ## Small Victories in a Time of Paralysis
 
@@ -36,7 +36,7 @@ Mike Durglo Jr., climate change coordinator for the Confederated Salish and Koot
 
 The tribes have launched initiatives including wind energy development, water conservation, and ecosystem restoration. This year, the focus is on wildfire risk reduction and creating clean air havens for the reservation's 33,000 residents. Durglo, a former chairman of the EPA's Regional Tribal Operations Committee, points out something crucial: Indigenous peoples have been caretaking the natural world for millennia, long before "climate change" became a policy debate.
 
-When federal and state governments step back, tribes like these are stepping forward. It's a model that [business](https://infeeds.com/tags/?tag=business) leaders and policy makers should study, because it shows that climate progress doesn't require unanimous political will. It requires local power and long-term commitment.
+When federal and state governments step back, tribes like these are stepping forward. It's a model that [business](https://infeeds.com/tags/business) leaders and policy makers should study, because it shows that climate progress doesn't require unanimous political will. It requires local power and long-term commitment.
 
 ## Quick Hits
 

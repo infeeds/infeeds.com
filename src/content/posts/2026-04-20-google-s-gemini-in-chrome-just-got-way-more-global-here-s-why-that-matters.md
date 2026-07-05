@@ -24,7 +24,7 @@ This isn't just Google throwing AI features at the wall. There's a coherent visi
 
 But here's where the story gets interesting. The most ambitious feature, the one that actually controls your browser to complete tasks on your behalf, is still in testing. And it's only available to people paying for AI Pro or AI Ultra plans in the U.S.
 
-That's the real story, honestly. Google's expanding access to Gemini features in [Technology](https://infeeds.com/tags/?tag=technology), which sounds democratizing until you realize the genuinely transformative capabilities remain premium-only. It's not unusual in [Business](https://infeeds.com/tags/?tag=business), but it does reveal the economics at play. The features that require the most compute power and carry the most liability stay protected behind subscriptions.
+That's the real story, honestly. Google's expanding access to Gemini features in [Technology](https://infeeds.com/tags/technology), which sounds democratizing until you realize the genuinely transformative capabilities remain premium-only. It's not unusual in [Business](https://infeeds.com/tags/business), but it does reveal the economics at play. The features that require the most compute power and carry the most liability stay protected behind subscriptions.
 
 ## A Measured Rollout Strategy
 

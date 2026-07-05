@@ -22,11 +22,11 @@ The company insists the data won't be used for other purposes and that safeguard
 
 ## A Symptom of the Larger Problem
 
-This Meta initiative isn't an isolated incident. It's part of a broader [trend in technology](https://infeeds.com/tags/?tag=technology) that shows companies are rapidly running out of obvious places to source training data. Last week, it emerged that dead startups were being scavenged for their internal communications, with Slack archives, Jira tickets, and other corporate messaging platforms being converted into AI training material.
+This Meta initiative isn't an isolated incident. It's part of a broader [trend in technology](https://infeeds.com/tags/technology) that shows companies are rapidly running out of obvious places to source training data. Last week, it emerged that dead startups were being scavenged for their internal communications, with Slack archives, Jira tickets, and other corporate messaging platforms being converted into AI training material.
 
 Think about that for a moment. The casual conversations, the half-baked ideas, the frustrated venting that happens on company Slack channels, the technical documentation on internal wikis, the decision-making threads buried in old projects. All of it potentially valuable to someone building an AI model.
 
-The underlying issue is simple: AI models are voracious consumers of data. The better the data, the better the model. And the tech [industry](https://infeeds.com/tags/?tag=business) has already scraped most of the easily accessible corners of the internet. So they're now turning inward, looking at the data sitting in corporate repositories, employee devices, and archived communications.
+The underlying issue is simple: AI models are voracious consumers of data. The better the data, the better the model. And the tech [industry](https://infeeds.com/tags/business) has already scraped most of the easily accessible corners of the internet. So they're now turning inward, looking at the data sitting in corporate repositories, employee devices, and archived communications.
 
 ## The Privacy Reckoning That Hasn't Arrived
 

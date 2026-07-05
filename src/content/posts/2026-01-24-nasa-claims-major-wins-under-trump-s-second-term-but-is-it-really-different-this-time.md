@@ -20,13 +20,13 @@ But let's be real about what we're seeing here. NASA Administrator Jared Isaacma
 
 The big headline is Artemis II, which will supposedly send astronauts around the Moon "for the first time in more than 50 years." Great. Except we've been hearing about Artemis timelines for years now, and they keep sliding. Now NASA says Americans will return to the Moon by 2028 with plans for a permanent lunar base.
 
-I want to believe it. The idea of sustained lunar presence is genuinely exciting for anyone who cares about [space exploration](https://infeeds.com/tags/?tag=science). But NASA has been making moon promises since the Obama administration launched the original Artemis concept. Trump's first term rebranded it, added the Artemis Accords (which, to be fair, now include 60 nations), and here we are still waiting for boots on lunar soil.
+I want to believe it. The idea of sustained lunar presence is genuinely exciting for anyone who cares about [space exploration](https://infeeds.com/tags/science). But NASA has been making moon promises since the Obama administration launched the original Artemis concept. Trump's first term rebranded it, added the Artemis Accords (which, to be fair, now include 60 nations), and here we are still waiting for boots on lunar soil.
 
 The challenge isn't just political will or funding through things like the Working Families Tax Cut Act. It's the sheer complexity of keeping humans alive in deep space, building sustainable infrastructure, and doing it all while managing partnerships with private companies and international allies.
 
 ## What Actually Got Done This Year
 
-Strip away the political framing and you've got some legitimate wins. Two completed human spaceflight missions is solid. Fifteen science launches in a year shows the agency is still capable of moving multiple programs forward simultaneously. The X-plane test represents continued investment in aeronautics research, which often gets overshadowed by the sexier space stuff but matters tremendously for aviation and [technology](https://infeeds.com/tags/?tag=technology) development.
+Strip away the political framing and you've got some legitimate wins. Two completed human spaceflight missions is solid. Fifteen science launches in a year shows the agency is still capable of moving multiple programs forward simultaneously. The X-plane test represents continued investment in aeronautics research, which often gets overshadowed by the sexier space stuff but matters tremendously for aviation and [technology](https://infeeds.com/tags/technology) development.
 
 NASA is also pushing forward on the Nancy Grace Roman Space Telescope, which should launch before year's end if everything stays on track. This thing is designed to investigate dark energy and hunt for exoplanets, the kind of fundamental science that doesn't generate headlines but expands our understanding of the universe.
 
@@ -34,7 +34,7 @@ The nuclear propulsion work is particularly interesting because it's essential f
 
 ## The Space Force Elephant in the Room
 
-The report mentions the establishment of the U.S. Space Force during Trump's first term as if it's an unqualified success story. The Space Force has been controversial since day one, with critics questioning whether creating an entirely new military branch was necessary or just expensive reorganization of existing capabilities. The jury's still out on whether it's providing genuine strategic advantages or just adding another layer of [bureaucracy](https://infeeds.com/tags/?tag=business) to military space operations.
+The report mentions the establishment of the U.S. Space Force during Trump's first term as if it's an unqualified success story. The Space Force has been controversial since day one, with critics questioning whether creating an entirely new military branch was necessary or just expensive reorganization of existing capabilities. The jury's still out on whether it's providing genuine strategic advantages or just adding another layer of [bureaucracy](https://infeeds.com/tags/business) to military space operations.
 
 What's undeniable is that space is increasingly contested territory. China's space program is advancing rapidly, and they're not shy about their lunar ambitions. Russia, despite economic struggles, maintains significant space capabilities. The geopolitical dimension of space exploration isn't going away.
 

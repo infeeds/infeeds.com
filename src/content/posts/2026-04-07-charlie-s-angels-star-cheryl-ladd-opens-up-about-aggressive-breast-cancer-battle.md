@@ -16,7 +16,7 @@ That kind of matter-of-fact resilience might sound simple until you consider wha
 
 ## When Three Angels Share the Same Battle
 
-What made Ladd's announcement particularly poignant was the company she was in. Her co-stars Kate Jackson, 77, and Jaclyn Smith, 80, are also [health](https://infeeds.com/tags/?tag=health) cancer survivors. Jackson emphasized the critical importance of early detection, telling Variety: "It's really important to understand and embrace not being afraid of getting a mammogram. Early detection is key. Find it early enough and you'll probably be all right."
+What made Ladd's announcement particularly poignant was the company she was in. Her co-stars Kate Jackson, 77, and Jaclyn Smith, 80, are also [health](https://infeeds.com/tags/health) cancer survivors. Jackson emphasized the critical importance of early detection, telling Variety: "It's really important to understand and embrace not being afraid of getting a mammogram. Early detection is key. Find it early enough and you'll probably be all right."
 
 The statistic itself is striking. Three women from the same groundbreaking series, each facing down a cancer diagnosis. That's not coincidence. That's a reminder of how pervasive this disease is, regardless of success, fame, or resources.
 

@@ -28,7 +28,7 @@ Think questions like "How long does it take to see results from direct mail?" or
 
 The trick is structuring your content so AI can easily lift answers straight from your pages. Use headlines that mirror real questions. Break information into scannable chunks. Make yourself quotable. The goal isn't just ranking anymore. It's becoming the source AI cites when someone asks about your industry.
 
-Sure, you might not get the click. But you're building authority in a world where [business](https://infeeds.com/tags/?tag=business) visibility matters more than vanity metrics.
+Sure, you might not get the click. But you're building authority in a world where [business](https://infeeds.com/tags/business) visibility matters more than vanity metrics.
 
 ## The One Channel AI Can't Touch
 
@@ -56,7 +56,7 @@ In an AI-driven world, reviews are the one form of social proof that can't be fa
 
 The problem is most businesses wait around hoping customers remember to leave reviews. Build a system instead. Ask at the exact right moment, right after a win or positive interaction. Make it simple. Make it repeatable.
 
-[Technology](https://infeeds.com/tags/?tag=technology) might be changing how people discover businesses, but human psychology around trust hasn't evolved nearly as fast.
+[Technology](https://infeeds.com/tags/technology) might be changing how people discover businesses, but human psychology around trust hasn't evolved nearly as fast.
 
 ## The Real Lesson Nobody Wants to Hear
 

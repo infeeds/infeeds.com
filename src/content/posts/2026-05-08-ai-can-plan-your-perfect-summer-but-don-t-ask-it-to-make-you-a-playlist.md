@@ -12,7 +12,7 @@ Summer carries a particular kind of pressure. There are enough songs about sun-s
 
 May is here, which means the scramble begins. How do you actually make the most of those finite warm months without ending up exhausted or, worse, disappointed?
 
-Turns out, <a href="https://infeeds.com/tags/?tag=technology">technology</a> has some surprisingly useful answers.
+Turns out, <a href="https://infeeds.com/tags/technology">technology</a> has some surprisingly useful answers.
 
 ## When AI Gets the Calendar Right
 

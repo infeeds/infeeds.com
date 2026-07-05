@@ -16,7 +16,7 @@ The FBI didn't waste time. They served search warrants at his home, the district
 
 ## When EdTech Goes Wrong
 
-Here's where it gets really messy. Back in 2024, Carvalho championed a deal with AllHere, an education <a href="https://infeeds.com/tags/?tag=technology">technology</a> company hawking an AI chatbot called "Ed" that was supposed to help students. The district paid $3 million for this partnership. Three months later? The whole thing imploded.
+Here's where it gets really messy. Back in 2024, Carvalho championed a deal with AllHere, an education <a href="https://infeeds.com/tags/technology">technology</a> company hawking an AI chatbot called "Ed" that was supposed to help students. The district paid $3 million for this partnership. Three months later? The whole thing imploded.
 
 AllHere went belly-up into bankruptcy. The company's founder, Joanna Smith-Griffin, got hit with securities fraud, wire fraud, and identity theft charges. And here's the kicker: the district still hasn't publicly explained what actually went wrong or whether there were red flags beforehand.
 
@@ -34,7 +34,7 @@ The FBI also searched near Miami where Kerr lives. She hasn't commented. Neither
 
 Carvalho's fall from grace is genuinely stunning if you look at his resume. He won Superintendent of the Year from the national association in 2014. Spain actually knighted him for expanding Spanish-language programs. He came to LA with credentials and immediately started getting credit for improving academic performance.
 
-But here's what sticks in your throat about <a href="https://infeeds.com/tags/?tag=business">business</a> like this in public education: a school district sitting on piles of federal COVID relief money is arguably the most attractive target for anyone with a shiny tech pitch and the right connections. You've got desperate administrators trying to close learning gaps, you've got budget flexibility, and you've got boards that want quick wins.
+But here's what sticks in your throat about <a href="https://infeeds.com/tags/business">business</a> like this in public education: a school district sitting on piles of federal COVID relief money is arguably the most attractive target for anyone with a shiny tech pitch and the right connections. You've got desperate administrators trying to close learning gaps, you've got budget flexibility, and you've got boards that want quick wins.
 
 The AllHere situation suggests nobody pumped the brakes hard enough. A $3 million commitment to an unproven AI chatbot that disappeared after ninety days isn't a small oops. That's a significant institutional failure somewhere in the approval process.
 

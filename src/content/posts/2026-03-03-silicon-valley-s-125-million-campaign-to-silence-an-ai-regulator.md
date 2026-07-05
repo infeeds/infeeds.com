@@ -30,7 +30,7 @@ But to the people funding Leading the Future? It might as well be the end of civ
 
 Let's talk about scale for a second, because this is where it gets properly wild. The average assembly race in New York raises maybe $100,000. Meta alone is dropping $65 million across state races through two separate super PACs. Leading the Future has committed to spending at least $10 million just on defeating Bores.
 
-This isn't someone trying to have a conversation about <a href="https://infeeds.com/tags/?tag=technology">technology</a> policy. This is intimidation. This is an attempt to send a message: disagree with us on AI regulation and we will bury you financially.
+This isn't someone trying to have a conversation about <a href="https://infeeds.com/tags/technology">technology</a> policy. This is intimidation. This is an attempt to send a message: disagree with us on AI regulation and we will bury you financially.
 
 "They're targeting me to make an example of me," Bores told TechCrunch. And you know what? He's probably right. If they can defeat someone with his credibility and background, they can defeat almost anyone.
 
@@ -38,7 +38,7 @@ The numbers get darker when you look at the bigger picture. AI companies, indust
 
 ## But There's Pushback
 
-Not all of <a href="https://infeeds.com/tags/?tag=business">business</a> is aligned here, which is interesting. Anthropic, OpenAI's main competitor, is backing a different PAC called Public First Action that actually supports AI regulation focused on transparency and safety. They're spending $450,000 on Bores' race, which is nothing compared to the opposition but at least suggests some fracturing in the tech elite's united front.
+Not all of <a href="https://infeeds.com/tags/business">business</a> is aligned here, which is interesting. Anthropic, OpenAI's main competitor, is backing a different PAC called Public First Action that actually supports AI regulation focused on transparency and safety. They're spending $450,000 on Bores' race, which is nothing compared to the opposition but at least suggests some fracturing in the tech elite's united front.
 
 There's also grassroots stuff happening inside tech companies themselves. Workers at the very firms trying to crush Bores' campaign are organizing to support candidates who want actual oversight. These aren't anti-AI radicals. They're employees who work in AI and actually care about how the technology gets deployed.
 

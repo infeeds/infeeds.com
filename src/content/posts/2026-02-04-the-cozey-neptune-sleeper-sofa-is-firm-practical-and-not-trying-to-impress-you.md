@@ -16,7 +16,7 @@ Enter the Cozey Neptune, a modular sleeper sofa from Montreal that's taking a di
 
 ## Shipping Fast, Assembling Slower
 
-The Neptune arrives fast. Like, suspiciously fast for furniture. We're talking four days via FedEx, which is basically unheard of when most made-to-order couches take months to show up. But there's a catch: it arrives in 13 separate boxes that you'll need to schlep around your house and somehow assemble into a functional piece of [technology](https://infeeds.com/tags/?tag=technology) for living.
+The Neptune arrives fast. Like, suspiciously fast for furniture. We're talking four days via FedEx, which is basically unheard of when most made-to-order couches take months to show up. But there's a catch: it arrives in 13 separate boxes that you'll need to schlep around your house and somehow assemble into a functional piece of [technology](https://infeeds.com/tags/technology) for living.
 
 The boxes aren't impossible to carry if you're reasonably mobile, but getting the heavier ones upstairs solo is a workout you didn't sign up for. No tools required for assembly, which sounds great until you realize you're spending a couple of hours trying to figure out which connector goes where and why you have so many lumbar pillows. The modular design means you can reconfigure it later, which is genuinely useful if you move or change your mind about layout. That flexibility is probably the Neptune's strongest selling point.
 
@@ -38,7 +38,7 @@ But for your main living room where you're sitting every evening? That firmness 
 
 ## The Business Model Behind the Boxes
 
-Cozey's direct-to-consumer approach is part of a larger shift in how [furniture](https://infeeds.com/tags/?tag=business) gets made and sold. By cutting out showrooms and keeping inventory ready to ship, they can deliver in days instead of months. The tradeoff is a limited color selection: four Performance fabrics and four neutrals in their proprietary water-resistant material. That's nothing compared to the endless swatches you'd get from traditional brands, but it's the price of immediacy.
+Cozey's direct-to-consumer approach is part of a larger shift in how [furniture](https://infeeds.com/tags/business) gets made and sold. By cutting out showrooms and keeping inventory ready to ship, they can deliver in days instead of months. The tradeoff is a limited color selection: four Performance fabrics and four neutrals in their proprietary water-resistant material. That's nothing compared to the endless swatches you'd get from traditional brands, but it's the price of immediacy.
 
 The 30-day trial period softens the blow, though you'll need to keep all those boxes if you want to return it. Disassembling and repacking 13 boxes is nobody's idea of a good time, but at least the option exists.
 

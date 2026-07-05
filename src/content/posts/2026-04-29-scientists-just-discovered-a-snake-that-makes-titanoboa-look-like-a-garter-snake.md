@@ -16,7 +16,7 @@ The discovery comes from fossil remains unearthed at the Panandhro Lignite Mine 
 
 Let's talk scale for a second. We're talking about a creature roughly 36 to 49 feet long. That's longer than most school buses. That's longer than a semi-truck cab. If you're trying to picture it, imagine anacondas but then imagine them on steroids for a few million years.
 
-The vertebrae alone tell you something about this animal's build. Each one measured between 37.5 and 62.7 millimeters in length and 62.4 and 111.4 millimeters in width. These aren't delicate bones. They suggest a thick, cylindrical body built for power and density, not speed. Researchers estimate the total length based on these measurements, though they're honest about the uncertainty involved. In [science](/tags/?tag=science), that kind of intellectual honesty matters.
+The vertebrae alone tell you something about this animal's build. Each one measured between 37.5 and 62.7 millimeters in length and 62.4 and 111.4 millimeters in width. These aren't delicate bones. They suggest a thick, cylindrical body built for power and density, not speed. Researchers estimate the total length based on these measurements, though they're honest about the uncertainty involved. In [science](/tags/science), that kind of intellectual honesty matters.
 
 What's fascinating is how Vasuki indicus slots into the broader picture of prehistoric snakes. It's being classified within the madtsoiidae family, a lineage that persisted for nearly 100 million years, from the Late Cretaceous all the way through the Late Pleistocene. These snakes weren't confined to one region either. They roamed Africa, Europe, and India.
 

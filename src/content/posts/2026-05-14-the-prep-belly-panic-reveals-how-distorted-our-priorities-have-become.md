@@ -40,7 +40,7 @@ Here's what makes this genuinely dangerous: misinformation around PrEP doesn't j
 
 Dr. Dapkins noted that for most patients, "the substantial reduction in HIV transmission risk will outweigh the potential concern about weight gain," but he also emphasized that this should be discussed thoughtfully between patient and clinician, without judgment.
 
-That nuance matters. Real conversations about [health](https://infeeds.com/tags/?tag=health) outcomes should happen in clinical settings, not in the comments section of TikTok videos. And when unfounded rumors spread faster than actual medical information, that clinical conversation becomes harder to have.
+That nuance matters. Real conversations about [health](https://infeeds.com/tags/health) outcomes should happen in clinical settings, not in the comments section of TikTok videos. And when unfounded rumors spread faster than actual medical information, that clinical conversation becomes harder to have.
 
 ## A Question of Values
 

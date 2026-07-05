@@ -42,7 +42,7 @@ The school district posted a tribute on Facebook, describing her as someone know
 
 Here's what sits uncomfortably at the heart of this case: either Caleb Flynn murdered his wife and deliberately misled police, or he's an innocent man caught in a nightmare of circumstantial suspicion because authorities needed to close a case quickly.
 
-The truth matters here, not just for Caleb, but for Ashley's memory, for their two daughters who lost their mother, and for [what justice actually means](https://infeeds.com/tags/?tag=news) in a case where the evidence apparently moved so fast from "unsolved" to "solved" in seventy-two hours.
+The truth matters here, not just for Caleb, but for Ashley's memory, for their two daughters who lost their mother, and for [what justice actually means](https://infeeds.com/tags/news) in a case where the evidence apparently moved so fast from "unsolved" to "solved" in seventy-two hours.
 
 Defense attorneys will argue procedural shortcuts. Prosecutors will present evidence the public hasn't yet seen. A jury will eventually sit through both sides and try to figure out what really happened on the day Ashley Flynn died.
 

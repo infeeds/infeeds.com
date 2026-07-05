@@ -34,7 +34,7 @@ The **Alogic Matrix Ultimate** has a folding design and includes a detachable po
 
 ## The Tech Behind the Charging
 
-Most of these chargers rely on either [MagSafe](https://infeeds.com/tags/?tag=technology) or Qi2 certification, both of which use magnets embedded in the back of iPhones (12 series and newer) to ensure perfect alignment. That alignment matters more than you might think. Misaligned charging means slower speeds and the dreaded "I woke up to a dead phone" scenario. Qi2 is the newer standard, developed with Apple's involvement, and brings magnetic charging to non-Apple devices too. The latest Qi2.2 update pushes those speeds up to 25 watts, though support is still limited to newer devices like the iPhone 17 range and Google's Pixel 10 series.
+Most of these chargers rely on either [MagSafe](https://infeeds.com/tags/technology) or Qi2 certification, both of which use magnets embedded in the back of iPhones (12 series and newer) to ensure perfect alignment. That alignment matters more than you might think. Misaligned charging means slower speeds and the dreaded "I woke up to a dead phone" scenario. Qi2 is the newer standard, developed with Apple's involvement, and brings magnetic charging to non-Apple devices too. The latest Qi2.2 update pushes those speeds up to 25 watts, though support is still limited to newer devices like the iPhone 17 range and Google's Pixel 10 series.
 
 StandBy mode, introduced in iOS 17, turns your phone into a clock or widget display when charging in landscape orientation. It's genuinely useful on a nightstand, and most of these chargers handle it well. Nightstand mode on the Apple Watch does the same thing for your wrist, keeping the display on while the watch charges upright.
 

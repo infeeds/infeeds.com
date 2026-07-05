@@ -38,7 +38,7 @@ Long-press on a blank area of your home screen and select Home settings or whate
 
 These tweaks are small, but they reset your brain's relationship with your device. You're not just cleaning your phone. You're reimagining it.
 
-## Clean Up Your [Technology](https://infeeds.com/tags/?tag=technology) Settings
+## Clean Up Your [Technology](https://infeeds.com/tags/technology) Settings
 
 This is where most people get lost, but it doesn't have to be complicated. Open your Settings app and scroll through. Change anything that's been nagging at you. Enable notifications that matter. Disable notifications that don't.
 

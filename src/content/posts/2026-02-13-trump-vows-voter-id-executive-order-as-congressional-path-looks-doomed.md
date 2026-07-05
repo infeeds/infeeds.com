@@ -26,7 +26,7 @@ Trump's response? He's basically saying forget Congress, I'll do it myself. That
 
 States control elections. It's baked into the Constitution. Trump claims he's discovered some previously "unarticulated" legal argument that would justify federal overreach into state election administration, but he's keeping those cards close to his chest for now.
 
-The whole thing feels like a setup for a massive [business](https://infeeds.com/tags/?tag=business) and legal battle that could reshape American democracy. Critics of the SAVE Act argue it could disenfranchise millions, particularly women whose birth certificates don't match their married names. The bill requires both proof of citizenship to register AND photo ID to cast a ballot, which sounds reasonable until you consider how many Americans lack easy access to the required documentation.
+The whole thing feels like a setup for a massive [business](https://infeeds.com/tags/business) and legal battle that could reshape American democracy. Critics of the SAVE Act argue it could disenfranchise millions, particularly women whose birth certificates don't match their married names. The bill requires both proof of citizenship to register AND photo ID to cast a ballot, which sounds reasonable until you consider how many Americans lack easy access to the required documentation.
 
 ## The Political Theater Behind the Policy
 

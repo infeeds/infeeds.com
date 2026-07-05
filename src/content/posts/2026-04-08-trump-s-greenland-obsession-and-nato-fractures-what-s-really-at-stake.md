@@ -26,7 +26,7 @@ Trump's Greenland talk isn't random. According to reports from the New York Time
 
 Michael Feller, chief strategist at Geopolitical Strategy, sees the Pentagon leaks as a calculated move. "This doesn't augur invasion, but is likely designed to intimidate," he said. Trump mentioned during a Monday press conference that he and Rutte had already reached "the framework of a future deal with respect to Greenland" back in January. So the public bravado about wanting Greenland isn't just theater. It's backed by real diplomatic and military maneuvering.
 
-The broader picture is complex. Trump has also threatened tariffs on European countries, signaling that his frustration with NATO extends beyond military matters into <a href="https://infeeds.com/tags/?tag=business">business</a> relations. U.S. relations with European allies have deteriorated noticeably, caught between Trump's demands for military commitment in Iran and his threats on the trade front.
+The broader picture is complex. Trump has also threatened tariffs on European countries, signaling that his frustration with NATO extends beyond military matters into <a href="https://infeeds.com/tags/business">business</a> relations. U.S. relations with European allies have deteriorated noticeably, caught between Trump's demands for military commitment in Iran and his threats on the trade front.
 
 ## A Fragile Ceasefire Already Cracking
 

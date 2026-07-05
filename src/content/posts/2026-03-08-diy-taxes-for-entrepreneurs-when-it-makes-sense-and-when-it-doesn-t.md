@@ -16,7 +16,7 @@ That's where the appeal of DIY tax software comes in. It's tempting to think you
 
 ## The Reality of Self-Directed Tax Filing
 
-Here's the thing about doing your own taxes. It's not quite as complicated as people make it sound, but it's also way more nuanced than filing a simple W-2. As a [business](https://infeeds.com/tags/?tag=business) owner, you've got deductions, credits, and edge cases that most standard software doesn't fully account for.
+Here's the thing about doing your own taxes. It's not quite as complicated as people make it sound, but it's also way more nuanced than filing a simple W-2. As a [business](https://infeeds.com/tags/business) owner, you've got deductions, credits, and edge cases that most standard software doesn't fully account for.
 
 Tax software these days is pretty solid. Most tools walk you through filing step-by-step, help you import documents like W-2s and 1099s, and guide you through hundreds of potential deductions. They make the basic stuff accessible. But entrepreneurship isn't basic.
 

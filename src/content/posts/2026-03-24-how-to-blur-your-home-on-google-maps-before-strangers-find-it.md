@@ -16,7 +16,7 @@ The thing is, Google actually gives you an out. You can blur your home right on 
 
 Here's the thing about this feature: you need a computer. The blur tool doesn't exist in the Google Maps app on your phone, which feels intentionally limiting, but whatever. Fire up maps.google.com in your browser and search for your home address.
 
-Once the map loads and you can see your location, look for that photo thumbnail that appears near the top-left, right above your address. Click it to enter Street View mode. This is where Google's <a href="https://infeeds.com/tags/?tag=technology">technology</a> basically hands you the keys to your own privacy.
+Once the map loads and you can see your location, look for that photo thumbnail that appears near the top-left, right above your address. Click it to enter Street View mode. This is where Google's <a href="https://infeeds.com/tags/technology">technology</a> basically hands you the keys to your own privacy.
 
 ## The Blurring Process
 

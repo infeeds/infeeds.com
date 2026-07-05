@@ -30,7 +30,7 @@ The 14-inch version is also on sale for $1,300, but that discount isn't nearly a
 
 ## The Catch Nobody's Talking About
 
-Asus has a 2026 update coming with new Intel chips, but here's the thing. It's only coming to the 14-inch model. The newer processors will bring legitimate performance improvements, especially for graphics work. But there's a decent chance Asus will price that model even higher than the current generation, especially with memory shortages driving up component costs across the [Technology](https://infeeds.com/tags/?tag=technology) industry.
+Asus has a 2026 update coming with new Intel chips, but here's the thing. It's only coming to the 14-inch model. The newer processors will bring legitimate performance improvements, especially for graphics work. But there's a decent chance Asus will price that model even higher than the current generation, especially with memory shortages driving up component costs across the [Technology](https://infeeds.com/tags/technology) industry.
 
 So you're stuck with the classic dilemma. Wait for slightly better specs at probably a much higher price, or grab proven hardware at a legitimately good discount. For most people, the current model at $1,000 is the smarter move.
 
@@ -38,6 +38,6 @@ So you're stuck with the classic dilemma. Wait for slightly better specs at prob
 
 Best Buy also knocked $500 off the Asus Zephyrus G14, which comes with an RTX 5070 Ti graphics card. That's serious gaming hardware in a relatively portable package. If you need something that can handle both work and play without compromising on either front, it's worth checking out alongside the Zenbook.
 
-The Presidents' Day sale timing is actually perfect if you've been putting off a laptop upgrade. These kinds of discounts on premium hardware don't stick around long, especially when retailers see strong [business](https://infeeds.com/tags/?tag=business) demand. The Zenbook S 16 held its value for over a year, so there's no guarantee it'll stay at this price once the sale ends.
+The Presidents' Day sale timing is actually perfect if you've been putting off a laptop upgrade. These kinds of discounts on premium hardware don't stick around long, especially when retailers see strong [business](https://infeeds.com/tags/business) demand. The Zenbook S 16 held its value for over a year, so there's no guarantee it'll stay at this price once the sale ends.
 
 At $1,500, this laptop was a tough sell despite its quality. At $1,000 with this spec sheet, it's honestly one of the better deals you'll find in the premium Windows laptop space right now. Sometimes patience actually pays off, even if it takes longer than you'd like.

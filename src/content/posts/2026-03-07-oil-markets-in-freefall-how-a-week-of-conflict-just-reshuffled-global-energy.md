@@ -20,7 +20,7 @@ The moment things really shifted was when Israel's fighter jets struck a souther
 
 Iranian state media blamed "an attack from the U.S. and the Zionist regime," and they weren't wrong. This attack signals that the conflict has moved beyond military installations into the economic bloodstream of the region. When you start hitting infrastructure that keeps lights on and factories running, you're not just fighting a war anymore. You're weaponizing everyday life.
 
-The broader [business](https://infeeds.com/tags/?tag=business) implications are staggering. Oil is the lifeblood of emerging markets and developed economies alike. A sustained disruption doesn't just mean higher prices at the pump. It means supply chain chaos, inflation pressures, and potential recession risks for countries already teetering on economic edges.
+The broader [business](https://infeeds.com/tags/business) implications are staggering. Oil is the lifeblood of emerging markets and developed economies alike. A sustained disruption doesn't just mean higher prices at the pump. It means supply chain chaos, inflation pressures, and potential recession risks for countries already teetering on economic edges.
 
 ## The Strait of Hormuz Is Basically Closed
 

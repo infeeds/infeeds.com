@@ -24,11 +24,11 @@ This isn't even the first time this has happened. Back in January, another analy
 
 ## The Problem Nobody Really Wants to Solve
 
-The <a href="https://infeeds.com/tags/?tag=technology">technology</a> here is working exactly as designed, which is kind of the problem. Prediction markets thrive on anonymity and speed. Remove either one and you undermine the whole concept. But keep them both and you've basically built a financial instrument that rewards people with advance knowledge of geopolitical events.
+The <a href="https://infeeds.com/tags/technology">technology</a> here is working exactly as designed, which is kind of the problem. Prediction markets thrive on anonymity and speed. Remove either one and you undermine the whole concept. But keep them both and you've basically built a financial instrument that rewards people with advance knowledge of geopolitical events.
 
 When Kalshi CEO Tarek Mansour was asked about this, his response was telling. He said they don't list markets tied directly to death and that they design rules to prevent profiting from assassinations. They even reimbursed fees from the Khamenei bets.
 
-That's nice, but it's also kind of beside the point. The <a href="https://infeeds.com/tags/?tag=business">business</a> model of prediction markets is built on the assumption that people with information will trade on it. The question isn't whether someone can game the system. The question is whether the system itself is fundamentally broken when applied to matters of life and death.
+That's nice, but it's also kind of beside the point. The <a href="https://infeeds.com/tags/business">business</a> model of prediction markets is built on the assumption that people with information will trade on it. The question isn't whether someone can game the system. The question is whether the system itself is fundamentally broken when applied to matters of life and death.
 
 ## The Broader Implications
 

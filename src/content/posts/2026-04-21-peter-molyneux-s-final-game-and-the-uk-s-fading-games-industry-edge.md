@@ -22,7 +22,7 @@ This is the reality many indie developers face. You can have all the creative vi
 
 ## Britain's Competitive Problem
 
-Here's what keeps Molyneux up at night, and it should concern anyone invested in UK [technology](https://infeeds.com/tags/?tag=technology) and [business](https://infeeds.com/tags/?tag=business): the country's gaming advantage is eroding. China can produce games faster and cheaper. The US has unbelievable financial firepower. The UK remains "one of the world's true creative powerhouses," according to Nick Poole, head of industry body UK Interactive Entertainment, but that position is increasingly under pressure.
+Here's what keeps Molyneux up at night, and it should concern anyone invested in UK [technology](https://infeeds.com/tags/technology) and [business](https://infeeds.com/tags/business): the country's gaming advantage is eroding. China can produce games faster and cheaper. The US has unbelievable financial firepower. The UK remains "one of the world's true creative powerhouses," according to Nick Poole, head of industry body UK Interactive Entertainment, but that position is increasingly under pressure.
 
 Guildford, where Molyneux established Bullfrog Productions in 1987, has become a hub. Nearly 30 companies now operate there, including parts of EA and Ubisoft, alongside standouts like Hello Games, creator of the Bafta-winning No Man's Sky. That concentration of talent and risk-taking creativity has been a genuine competitive edge. But edges dull when larger markets can outspend and outproduce you.
 

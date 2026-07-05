@@ -42,7 +42,7 @@ Then there's the mysterious "Project Mulberry," Bloomberg's reporting on Apple's
 
 ## What About WatchOS 27?
 
-Following Apple's rebranding convention, the next major [Technology](https://infeeds.com/tags/?tag=technology) update will be WatchOS 27. A dramatic visual redesign isn't in the cards since the last major overhaul already happened. Instead, look for incremental improvements: better battery management tools, more customizable gesture controls, maybe an expanded Workout Buddy feature that moves beyond just cheerleading metrics.
+Following Apple's rebranding convention, the next major [Technology](https://infeeds.com/tags/technology) update will be WatchOS 27. A dramatic visual redesign isn't in the cards since the last major overhaul already happened. Instead, look for incremental improvements: better battery management tools, more customizable gesture controls, maybe an expanded Workout Buddy feature that moves beyond just cheerleading metrics.
 
 A symptom tracker tied into the Vitals app similar to Oura Ring's approach would be genuinely useful. Something that could flag early illness signs before they become serious. Apple's health ecosystem is powerful but scattered across different apps. Consolidating that would be genuinely valuable, even if it doesn't generate headlines.
 

@@ -14,7 +14,7 @@ But here's where it gets interesting: the backlash isn't just about AI taking jo
 
 ## The Palpable Fear Meets Political Reality
 
-Senator Mark Warner (D-VA) used the perfect word backstage at the Axios AI Summit: palpable. The fear of AI-related job loss is palpable. Even as some data suggests AI hasn't started mass layoffs yet, the anxiety is spreading faster than the <a href="https://infeeds.com/tags/?tag=technology">technology</a> itself.
+Senator Mark Warner (D-VA) used the perfect word backstage at the Axios AI Summit: palpable. The fear of AI-related job loss is palpable. Even as some data suggests AI hasn't started mass layoffs yet, the anxiety is spreading faster than the <a href="https://infeeds.com/tags/technology">technology</a> itself.
 
 Warner's observation about major law firms abandoning entry-level hiring is particularly telling. These aren't speculative concerns from academics. This is happening in real industries, with real career paths evaporating. The VC who's zeroing out his software investments? That's not doom-saying. That's capital fleeing based on what he sees coming.
 
@@ -28,7 +28,7 @@ It's a pragmatic move that sidesteps the moratorium conversation entirely. While
 
 He's not wrong. The genie's out. You can't stuff it back in through regulation alone. So instead of fighting the tide, why not redirect it?
 
-The beauty of Warner's approach is that it acknowledges something politicians usually dance around: the <a href="https://infeeds.com/tags/?tag=business">business</a> benefiting from AI disruption has an obligation to help absorb the shock. Whether that's Nvidia, OpenAI, or Goldman Sachs firing junior analysts, someone made a decision that generated massive value. Those decisions have human costs.
+The beauty of Warner's approach is that it acknowledges something politicians usually dance around: the <a href="https://infeeds.com/tags/business">business</a> benefiting from AI disruption has an obligation to help absorb the shock. Whether that's Nvidia, OpenAI, or Goldman Sachs firing junior analysts, someone made a decision that generated massive value. Those decisions have human costs.
 
 "I've thought for a long time there's an obligation from the industry to help figure this out and help pay for it," Warner told TechCrunch. The question isn't whether they should contribute. It's how.
 

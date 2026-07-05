@@ -24,13 +24,13 @@ So which version is real? The guy visiting the White House to schmooze, or the g
 
 ## The Policy Deflection
 
-Cook's framing of what he does as "policy" rather than "politics" is smart PR. [Business](https://infeeds.com/tags/?tag=business) leaders have been using this dodge for years. Policy sounds objective. Neutral. Like you're just trying to make sure the trains run on time. Politics sounds dirty and divisive.
+Cook's framing of what he does as "policy" rather than "politics" is smart PR. [Business](https://infeeds.com/tags/business) leaders have been using this dodge for years. Policy sounds objective. Neutral. Like you're just trying to make sure the trains run on time. Politics sounds dirty and divisive.
 
 But policy and politics aren't actually separable when you're dealing with the highest levels of government. When you're meeting with an administration about tax codes, manufacturing incentives, or trade agreements, you're engaging in politics whether you call it that or not.
 
 Cook's $600 billion commitment to move more manufacturing to the U.S. is a perfect example. It's being framed as patriotic. And maybe it is. But it's also happening under an administration that Cook is clearly trying to maintain good relations with. Is it coincidence, policy, or politics?
 
-## The [Technology](https://infeeds.com/tags/?tag=technology) World's Credibility Problem
+## The [Technology](https://infeeds.com/tags/technology) World's Credibility Problem
 
 What's actually concerning here goes beyond Cook's personal choices. When the heads of the world's biggest tech companies all show up at the same political event, when they're all meeting privately with the same administration, it raises questions about what side they're on and what that means for everyone else.
 

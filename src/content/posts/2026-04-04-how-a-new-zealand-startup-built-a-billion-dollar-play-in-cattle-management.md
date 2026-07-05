@@ -30,7 +30,7 @@ Here's where the value proposition gets really interesting. The collar isn't jus
 
 The financial math is straightforward. By giving ranchers precise control over grazing patterns, Halter can lift land productivity by as much as 20 percent. Some customers are literally doubling their output. That's not just labor savings, though that happens too. It's about ensuring cattle graze more efficiently and leave less grass behind.
 
-For a sector that's been resistant to [technology](https://infeeds.com/tags/?tag=technology) adoption, that kind of ROI is a game-changer. "From day one, Halter has been built around a really strong financial ROI," Piggott said. "If you can lift the productivity of land by 20%, that flows through the entire business."
+For a sector that's been resistant to [technology](https://infeeds.com/tags/technology) adoption, that kind of ROI is a game-changer. "From day one, Halter has been built around a really strong financial ROI," Piggott said. "If you can lift the productivity of land by 20%, that flows through the entire business."
 
 ## The Competition Isn't What You Think
 
@@ -38,13 +38,13 @@ Halter isn't alone in seeing the opportunity. Merck already has a virtual fencin
 
 Piggott doesn't seem fazed. On drones specifically, he argued that a collar remains the better form factor for core fencing functionality. But his real insight about competition is more telling: "The biggest competition is just not changing anything. It's doing what you did last year."
 
-That's not false bravado. It's an acknowledgment that the agricultural [technology](https://infeeds.com/tags/?tag=technology) sector has struggled for years, with startups failing to convince farmers to adopt new products while managing razor-thin margins. Halter's traction comes from focusing relentlessly on financial returns rather than technical elegance.
+That's not false bravado. It's an acknowledgment that the agricultural [technology](https://infeeds.com/tags/technology) sector has struggled for years, with startups failing to convince farmers to adopt new products while managing razor-thin margins. Halter's traction comes from focusing relentlessly on financial returns rather than technical elegance.
 
 The company has also had time to solve a problem most startups never face: extreme reliability. A system managing a thousand animals needs to operate to "many nines of uptime," meaning a 1 percent failure rate translates to ten animals wandering out at any given time. "Chasing those many nines of reliability takes time," Piggott said, "and that long tail is what we proved out in New Zealand over many years before we started to expand globally."
 
 ## A Global Bet, Not a US-Centric One
 
-Most [technology](https://infeeds.com/tags/?tag=technology) companies treat the United States as their center of gravity. Halter doesn't. The company operates across New Zealand, Australia, and 22 US states, but it's explicitly focused on global expansion including South America and Europe. Piggott noted that the US market, while important, isn't the world's largest for agriculture.
+Most [technology](https://infeeds.com/tags/technology) companies treat the United States as their center of gravity. Halter doesn't. The company operates across New Zealand, Australia, and 22 US states, but it's explicitly focused on global expansion including South America and Europe. Piggott noted that the US market, while important, isn't the world's largest for agriculture.
 
 Halter currently has collars on one million cattle. There are one billion more in the world. Even in New Zealand, its home market, penetration is below 10 percent.
 

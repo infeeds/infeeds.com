@@ -50,7 +50,7 @@ And the oscillation-generating inverter problem? That's just a faulty piece of h
 
 Traditional power plants with spinning turbines are often credited with providing "inertia" that stabilizes grids. The analysis suggests that even tripling the inertia from traditional generators would have only dampened oscillations by about 3 percent. So the popular "we need more natural gas plants" argument doesn't actually hold up here.
 
-Most of the fixes are straightforward software and policy changes. Automate the shunt reactors instead of making operators flip switches manually. Widen the safety margins so hardware doesn't disconnect at the slightest voltage spike. Make sure renewable generators can actually adapt to [Technology](https://infeeds.com/tags/?tag=technology) emergencies instead of being locked into rigid configurations.
+Most of the fixes are straightforward software and policy changes. Automate the shunt reactors instead of making operators flip switches manually. Widen the safety margins so hardware doesn't disconnect at the slightest voltage spike. Make sure renewable generators can actually adapt to [Technology](https://infeeds.com/tags/technology) emergencies instead of being locked into rigid configurations.
 
 Spain's path to net zero isn't fundamentally broken. The report identifies 16 major events that led to collapse, but most of them are fixable without rethinking the entire approach. Battery storage will eventually help too, as overproduction from renewables makes that investment economically viable.
 

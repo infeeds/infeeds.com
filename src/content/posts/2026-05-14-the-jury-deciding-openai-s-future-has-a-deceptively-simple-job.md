@@ -46,9 +46,9 @@ That's a convenient claim, but it's not obviously false either. The trial hasn't
 
 ## Why This Matters Beyond the Courtroom
 
-The [Business](https://infeeds.com/tags/?tag=business) stakes here involve more than just OpenAI's corporate structure. A verdict for Musk could force a restructuring of the world's most consequential AI lab eight years after he last formally participated in it. That seems almost absurdly backward until you remember the counterargument: if a nonprofit's mission was genuinely betrayed, the timeline shouldn't matter.
+The [Business](https://infeeds.com/tags/business) stakes here involve more than just OpenAI's corporate structure. A verdict for Musk could force a restructuring of the world's most consequential AI lab eight years after he last formally participated in it. That seems almost absurdly backward until you remember the counterargument: if a nonprofit's mission was genuinely betrayed, the timeline shouldn't matter.
 
-But there's another layer. [Technology](https://infeeds.com/tags/?tag=technology) companies routinely blend nonprofit and for-profit structures. Universities do the same. The question the jury is actually answering is whether that blending itself constitutes betrayal when the original founders had different intentions.
+But there's another layer. [Technology](https://infeeds.com/tags/technology) companies routinely blend nonprofit and for-profit structures. Universities do the same. The question the jury is actually answering is whether that blending itself constitutes betrayal when the original founders had different intentions.
 
 OpenAI's attorneys argue that their current structure has existed since the first Microsoft investment in 2018. Forcing a restructuring now would be unreasonable. Musk's team counters that the 2023 investment was categorically different because it came after the statute of limitations on earlier ones, changing the character of the enterprise.
 

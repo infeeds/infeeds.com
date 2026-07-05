@@ -48,7 +48,7 @@ Space weather poses a genuine threat to astronauts and satellite infrastructure,
 
 A 13th-century diary from an influential Japanese courtier described seeing "red lights in the northern sky over Kyoto" in February 1204 CE. That's an aurora, and it caught the researchers' attention. When they measured carbon-14 in local wood from that period, they found the telltale spikes of a solar proton event. An examination of tree rings confirmed that a red aurora had occurred in China around 1200 to 1201 CE.
 
-The method worked. By combining historical sources with [Technology](https://infeeds.com/tags/?tag=technology) that measures past atmospheric changes, researchers can now identify less extreme solar storms that are actually more frequent but harder to detect. It also revealed something fascinating: solar cycles weren't always the 11-year patterns we observe today. In the medieval period, they fluctuated on seven- to eight-year cycles.
+The method worked. By combining historical sources with [Technology](https://infeeds.com/tags/technology) that measures past atmospheric changes, researchers can now identify less extreme solar storms that are actually more frequent but harder to detect. It also revealed something fascinating: solar cycles weren't always the 11-year patterns we observe today. In the medieval period, they fluctuated on seven- to eight-year cycles.
 
 ## The Real Value of Curiosity
 

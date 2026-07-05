@@ -12,7 +12,7 @@ When the people who built ChatGPT start their own venture fund, you pay attentio
 
 Zero Shot, a new $100 million fund backed by OpenAI alumni, just closed its first $20 million and has already written checks to at least three startups. The fund's five founding partners read like a who's who of early OpenAI: Evan Morikawa (former head of applied engineering for DALL-E and ChatGPT), Andrew Mayne (OpenAI's original prompt engineer and host of The OpenAI podcast), Shawn Jain (engineer, researcher, and founder of the GenAI startup Synthefy), Kelly Kovacs (previously a partner at 01A), and Brett Rounsaville (formerly of Twitter and Disney, now CEO at Mayne's consulting firm Interdimensional).
 
-The fund's genesis is refreshingly honest. These founders spent years getting asked to consult for other VCs on AI [technology](https://infeeds.com/tags/?tag=technology) and advising founder friends launching startups. Eventually, they decided to cut out the middleman.
+The fund's genesis is refreshingly honest. These founders spent years getting asked to consult for other VCs on AI [technology](https://infeeds.com/tags/technology) and advising founder friends launching startups. Eventually, they decided to cut out the middleman.
 
 "Maybe we should do our own fund, because we think we have a pretty good sense of where things are headed, and we have this great access to people who we think are incredible builders," Mayne told TechCrunch, recalling the decision.
 
@@ -44,4 +44,4 @@ Zero Shot has also assembled an advisory board that reads like an all-star team 
 
 What's notable is that none of this feels like a vanity project. These aren't celebrities trading on their former titles. Morikawa is still deeply involved in robotics at Generalist. Mayne is actively consulting through Interdimensional. Jain founded his own company. They're not parking their expertise; they're compounding it through investing.
 
-The real question is whether insider knowledge actually translates to better [business](https://infeeds.com/tags/?tag=business) outcomes in venture. Pattern recognition doesn't always pay off, and being right about AI trends doesn't guarantee picking winners. But when you're actively dismissing categories of startups that less informed VCs are still funding, you're at least betting differently. And in venture, different is often more valuable than right.
+The real question is whether insider knowledge actually translates to better [business](https://infeeds.com/tags/business) outcomes in venture. Pattern recognition doesn't always pay off, and being right about AI trends doesn't guarantee picking winners. But when you're actively dismissing categories of startups that less informed VCs are still funding, you're at least betting differently. And in venture, different is often more valuable than right.

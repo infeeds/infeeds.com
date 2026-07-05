@@ -36,7 +36,7 @@ But here's the thing. When White House press secretary Karoline Leavitt was aske
 
 ## The Waiting Game
 
-This is where things get interesting for the <a href="https://infeeds.com/tags/?tag=business">business</a> world. Energy markets hate uncertainty more than they hate high prices. A $90 barrel is manageable if everyone knows it'll stay at $90. But $80 one day, potentially $100 the next? That creates chaos in planning, hedging, and investment decisions.
+This is where things get interesting for the <a href="https://infeeds.com/tags/business">business</a> world. Energy markets hate uncertainty more than they hate high prices. A $90 barrel is manageable if everyone knows it'll stay at $90. But $80 one day, potentially $100 the next? That creates chaos in planning, hedging, and investment decisions.
 
 Companies in everything from airlines to shipping to manufacturing are already adjusting. Some are probably locking in fuel contracts. Others are reconsidering expansion plans. The economic ripples from a geopolitical shock in the Middle East spread surprisingly fast.
 

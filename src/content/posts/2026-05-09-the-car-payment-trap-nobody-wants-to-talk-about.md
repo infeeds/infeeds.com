@@ -19,7 +19,7 @@ Not quite.
 
 ## The Longer Loan Isn't Free Money
 
-The problem with Yajnik's argument isn't that it's wrong. It's that it's incomplete. Yes, keeping payments affordable relative to income is important. But that statistic masks a darker reality that the <a href="https://infeeds.com/tags/?tag=business">business</a> of auto lending is quietly normalizing: people are financing cars for six, seven, or even eight years just to make the math work.
+The problem with Yajnik's argument isn't that it's wrong. It's that it's incomplete. Yes, keeping payments affordable relative to income is important. But that statistic masks a darker reality that the <a href="https://infeeds.com/tags/business">business</a> of auto lending is quietly normalizing: people are financing cars for six, seven, or even eight years just to make the math work.
 
 That's the real cost of inflation in the used car market and higher interest rates. It's not showing up in the payment-to-income ratio because lenders have simply stretched the timeline. It's financial borrowing against your future self.
 

@@ -34,7 +34,7 @@ The mechanism behind FTL1's damage also became clearer during further experiment
 
 This kind of research gets a lot of hype that doesn't pan out in humans. Cell cultures and mice aren't people, and aging in mice isn't exactly the same as aging in humans. But Villeda seems genuinely measured about the implications. He's not claiming a cure. He's saying the biology is pointing toward real therapeutic opportunities.
 
-"We're seeing more opportunities to alleviate the worst consequences of old age," he said. "It's a hopeful time to be working on the [biology of aging](https://infeeds.com/tags/?tag=science)."
+"We're seeing more opportunities to alleviate the worst consequences of old age," he said. "It's a hopeful time to be working on the [biology of aging](https://infeeds.com/tags/science)."
 
 The next phase would likely involve developing compounds that either reduce FTL1 production or counteract its metabolic effects, then testing whether they actually work in humans without causing unforeseen problems. That's still years away. But the pathway is now clearer than it was before.
 

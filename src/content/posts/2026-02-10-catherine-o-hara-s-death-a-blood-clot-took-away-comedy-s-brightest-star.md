@@ -20,7 +20,7 @@ TMZ reported she was rushed to the hospital after struggling to breathe. The who
 
 O'Hara wasn't just funny. She was the kind of funny that made you believe comedy could be sophisticated and silly at the same time. From playing the frazzled mother in "Home Alone" to embodying the deliciously dramatic Moira Rose in "Schitt's Creek," she had range that most actors spend entire careers trying to find.
 
-Her husband Bo Welch received her remains, and the family announced they'd hold a private celebration of life. That's how these things go now in the [entertainment](https://infeeds.com/tags/?tag=entertainment) world. Public mourning, private goodbyes.
+Her husband Bo Welch received her remains, and the family announced they'd hold a private celebration of life. That's how these things go now in the [entertainment](https://infeeds.com/tags/entertainment) world. Public mourning, private goodbyes.
 
 The tributes flooded in immediately. Macaulay Culkin, who played her on-screen son decades ago in "Home Alone," posted heartbreaking photos on Instagram. There's something particularly gut-wrenching about watching the little kid from those Christmas movies all grown up and mourning his movie mom.
 
@@ -30,7 +30,7 @@ Dan Levy's tribute cut deep. He wrote about how O'Hara was "extended family" eve
 
 "It's hard to imagine a world without her in it," Levy wrote. And honestly, he's right. O'Hara was one of those rare performers who seemed eternal, like she'd always be around to make us laugh at the absurdity of being human.
 
-The cast of "The Studio," her latest project where she played Patty opposite Seth Rogan, said they "pinched ourselves every day" getting to work with her. Even at 71, she was still the person everyone wanted in their [news](https://infeeds.com/tags/?tag=news) about new projects.
+The cast of "The Studio," her latest project where she played Patty opposite Seth Rogan, said they "pinched ourselves every day" getting to work with her. Even at 71, she was still the person everyone wanted in their [news](https://infeeds.com/tags/news) about new projects.
 
 ## The Roles That Defined Generations
 

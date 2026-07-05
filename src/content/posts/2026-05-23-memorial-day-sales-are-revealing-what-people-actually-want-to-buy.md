@@ -10,11 +10,11 @@ tags_color: '#795548'
 
 Memorial Day weekend arrives with the usual fanfare: everything's on sale, the deals are supposedly unmissable, and retailers want you to believe this is your last chance to buy things you didn't know you needed. But here's what's actually happening beneath the noise. People aren't impulse-buying random gadgets anymore. They're waiting for big sale events to finally pull the trigger on purchases they've been genuinely considering.
 
-The pattern is clear when you look at what shoppers are actually clicking on and adding to their carts. Travel gear, kitchen appliances, vacuum cleaners, and [technology](https://infeeds.com/tags/?tag=technology) devices dominate the conversation. These aren't products that spark joy from a marketing email. These are the things people use every single day, and they're willing to wait for the right price to upgrade.
+The pattern is clear when you look at what shoppers are actually clicking on and adding to their carts. Travel gear, kitchen appliances, vacuum cleaners, and [technology](https://infeeds.com/tags/technology) devices dominate the conversation. These aren't products that spark joy from a marketing email. These are the things people use every single day, and they're willing to wait for the right price to upgrade.
 
 ## Why Tech Still Owns Memorial Day
 
-[Technology](https://infeeds.com/tags/?tag=technology) remains the most strategic category during major sales events. Unlike, say, a trendy kitchen gadget, people rarely regret investing in quality tech when the price makes sense. An Apple Watch, a pair of Sony noise-canceling headphones, or a solid air purifier aren't impulses. They're purchases that stick around.
+[Technology](https://infeeds.com/tags/technology) remains the most strategic category during major sales events. Unlike, say, a trendy kitchen gadget, people rarely regret investing in quality tech when the price makes sense. An Apple Watch, a pair of Sony noise-canceling headphones, or a solid air purifier aren't impulses. They're purchases that stick around.
 
 The AirPods 4 hitting $99 (down from $129) is instructive here. They're the cheapest AirPods available, but they still deliver solid sound and seamless Apple integration. For casual listeners, that's exactly what they need. No one's comparing specs with 47 other options at this price point. They're just deciding: do I want this or not?
 
@@ -30,7 +30,7 @@ Travel season is ramping up, and that's where Memorial Day sales become truly st
 
 ## Kitchen Upgrades Hit Different During Sales
 
-Kitchen categories tend to get overlooked in these discussions, but they reveal something important about how people think about [business](https://infeeds.com/tags/?tag=business) investments in their own lives. Le Creuset Dutch ovens, Nespresso machines, Breville coffee equipment, and solid cutting boards don't move at full price for most households. They're the "someday" purchases.
+Kitchen categories tend to get overlooked in these discussions, but they reveal something important about how people think about [business](https://infeeds.com/tags/business) investments in their own lives. Le Creuset Dutch ovens, Nespresso machines, Breville coffee equipment, and solid cutting boards don't move at full price for most households. They're the "someday" purchases.
 
 A Nespresso Vertuo Pop+ by Breville at $150 (was $200) with a milk frother included is a coffeehouse setup for your kitchen. That's genuinely useful if you drink coffee every morning. You're not buying it on a whim. You're making a decision: do I want to improve my morning routine?
 

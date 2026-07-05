@@ -14,7 +14,7 @@ Airbnb didn't open 220 offices when it expanded into 220 countries. Spotify does
 
 The world has moved on. And if your company hasn't noticed, you're already behind.
 
-The age of one-size-fits-all international expansion is officially over. What's replacing it? Something far more sophisticated: matching the right employment model to each market, each role, and each specific <a href="https://infeeds.com/tags/?tag=business">business</a> objective. It's not just smarter. It's the difference between scaling fast and scaling stuck.
+The age of one-size-fits-all international expansion is officially over. What's replacing it? Something far more sophisticated: matching the right employment model to each market, each role, and each specific <a href="https://infeeds.com/tags/business">business</a> objective. It's not just smarter. It's the difference between scaling fast and scaling stuck.
 
 ## The Three Models That Actually Work
 

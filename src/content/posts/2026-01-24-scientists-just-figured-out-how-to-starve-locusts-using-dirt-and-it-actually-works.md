@@ -38,11 +38,11 @@ Researchers weren't sure what would happen in real farming conditions. Would loc
 
 The treated plots consistently performed better across every metric. Fewer locusts showed up, the ones that did caused less leaf damage, and harvest yields doubled. Even better, there was no evidence that nitrogen fertilizer made other pest problems worse.
 
-Mamour Touré, the lead author from Université Gaston Berger in Senegal, says the results matter beyond just the [science](https://infeeds.com/tags/?tag=science). "The study gave them a better understanding of grasshoppers and locusts, as well as a practical way to control them at the local level."
+Mamour Touré, the lead author from Université Gaston Berger in Senegal, says the results matter beyond just the [science](https://infeeds.com/tags/science). "The study gave them a better understanding of grasshoppers and locusts, as well as a practical way to control them at the local level."
 
 ## The Compost Solution Nobody Saw Coming
 
-There's an obvious problem with this discovery: nitrogen fertilizer costs money that many farming communities don't have. It also raises [sustainability](https://infeeds.com/tags/?tag=sustainability) questions about long-term soil health.
+There's an obvious problem with this discovery: nitrogen fertilizer costs money that many farming communities don't have. It also raises [sustainability](https://infeeds.com/tags/sustainability) questions about long-term soil health.
 
 Cease's team is already ahead of that concern. They've been testing compost instead, and the results look just as promising. "Ongoing work is focused exclusively on compost, and we seem to be getting the same results," she says.
 
@@ -58,7 +58,7 @@ The U.S. doesn't have native locust species right now, which makes it easy to tr
 
 Even without locusts, American ranchers already deal with serious grasshopper problems. The USDA tracks 12 species of rangeland grasshoppers (plus one cricket) known as the Dirty Dozen. When these insects swarm across western grazing lands, they strip vegetation and compete directly with livestock for food.
 
-Chemical pesticides remain the primary control method, but the [environmental](https://infeeds.com/tags/?tag=environment) and health costs of widespread pesticide use keep adding up. What Cease's team learns from fighting locusts in Africa and Asia could become essential knowledge for managing migratory pests in North America.
+Chemical pesticides remain the primary control method, but the [environmental](https://infeeds.com/tags/environment) and health costs of widespread pesticide use keep adding up. What Cease's team learns from fighting locusts in Africa and Asia could become essential knowledge for managing migratory pests in North America.
 
 The Global Locust Initiative is part of ASU's Julie Ann Wrigley Global Futures Laboratory, and they're taking a systems approach to the problem. Environmental conditions, insect behavior, economic pressures, public policy, and land management all feed into locust outbreak cycles. Understanding those connections creates opportunities to interrupt the cycle before swarms form.
 

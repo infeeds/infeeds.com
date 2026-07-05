@@ -46,7 +46,7 @@ In March, Arizona's attorney general charged Kalshi with running an illegal gamb
 
 Polymarket's doing what tech companies always do in Washington: show up, make some noise, curry favor with whoever's in power, and hope the regulatory environment stays friendly. It's working. But underneath the marketing activations and partnership announcements, you've got a platform where most users lose money, enforcement is murky, and the whole thing is wrapped in a thin layer of "sophisticated prediction market" language.
 
-The grocery store gimmick in February. The bar in March. The company's already hinting at doing more of this. It's working because it's novel. It's working because [Technology](https://infeeds.com/tags/?tag=technology) people love talking about the future. It's working because, honestly, watching a crowd of strangers set odds on literally anything is weirdly entertaining.
+The grocery store gimmick in February. The bar in March. The company's already hinting at doing more of this. It's working because it's novel. It's working because [Technology](https://infeeds.com/tags/technology) people love talking about the future. It's working because, honestly, watching a crowd of strangers set odds on literally anything is weirdly entertaining.
 
 Polymarket didn't need a bar to make money. Users were already betting billions on the platform. So why show up in person? Because prediction markets need to feel normal before they become normal. They need to move from "weird crypto thing" to "obviously this is how we figure out what happens next."
 

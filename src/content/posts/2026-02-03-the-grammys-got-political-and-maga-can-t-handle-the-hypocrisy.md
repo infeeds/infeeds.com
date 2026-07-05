@@ -18,7 +18,7 @@ But here's the thing that makes their outrage so deliciously absurd: these same 
 
 Let's talk about the elephant in the room. Donald Trump didn't ascend to the presidency through traditional political channels or decades of public service. He got there because he was famous, because he played a successful businessman on television, and because conservatives ate it up.
 
-Deepak Sarma, a distinguished scholar in public humanities at Case Western Reserve University, points out that this isn't even new territory for conservatives. Ronald Reagan made the jump from Hollywood to the White House back in the 1980s. Arnold Schwarzenegger parlayed his action hero status into the California governorship. Sarah Palin turned [politics](https://infeeds.com/tags/?tag=politics) into performance art.
+Deepak Sarma, a distinguished scholar in public humanities at Case Western Reserve University, points out that this isn't even new territory for conservatives. Ronald Reagan made the jump from Hollywood to the White House back in the 1980s. Arnold Schwarzenegger parlayed his action hero status into the California governorship. Sarah Palin turned [politics](https://infeeds.com/tags/politics) into performance art.
 
 The whole "stick to entertainment" argument falls apart when your entire political identity is wrapped up in a former reality show host's persona. Trump's political credibility was literally built on a carefully staged television character that pretended to be a business genius while obscuring a messier reality.
 
@@ -48,7 +48,7 @@ The criticism that artists should just shut up and entertain ignores something f
 
 Bonilla makes a crucial point about silence normalizing democratic erosion. When celebrities and regular citizens alike stay quiet in the face of injustice, it becomes harder to fight back later. The erosion happens gradually, and before you know it, speaking out becomes dangerous rather than just controversial.
 
-Shaun Harper, a professor of public policy and [business](https://infeeds.com/tags/?tag=business) at USC, points out that MAGA might find a more sympathetic audience at the Country Music Awards given the demographic differences. But the Grammys represent a more diverse cross-section of America, and that America isn't interested in violently separating families or shooting people in the face.
+Shaun Harper, a professor of public policy and [business](https://infeeds.com/tags/business) at USC, points out that MAGA might find a more sympathetic audience at the Country Music Awards given the demographic differences. But the Grammys represent a more diverse cross-section of America, and that America isn't interested in violently separating families or shooting people in the face.
 
 The outrage from MAGA isn't really about celebrities getting political. It's about celebrities getting political in ways that challenge their worldview. It's defensive posturing from people who know their positions are morally shaky and getting harder to defend.
 
@@ -56,7 +56,7 @@ The outrage from MAGA isn't really about celebrities getting political. It's abo
 
 Sarma frames it as a civic obligation for people with public visibility to use their platforms responsibly. When those with the loudest voices decline to speak, they're not staying neutral. They're enabling the weakening of democratic institutions through their silence.
 
-Musicians have always used their art and platforms to speak out against oppression and injustice. That's not new. What's new is the brazenness of the hypocrisy from people who built their entire movement around celebrity [culture](https://infeeds.com/tags/?tag=culture) suddenly demanding that celebrities stay in their lane.
+Musicians have always used their art and platforms to speak out against oppression and injustice. That's not new. What's new is the brazenness of the hypocrisy from people who built their entire movement around celebrity [culture](https://infeeds.com/tags/culture) suddenly demanding that celebrities stay in their lane.
 
 The anger over the Grammys reveals something deeper than just political disagreement. It shows a discomfort with the possibility that the MAGA spell might be weakening, that more people are questioning the moral coherence of policies that lead to deadly violence against innocent people.
 

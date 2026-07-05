@@ -18,7 +18,7 @@ The app runs on Sarvam's freshly announced 105B model, a massive language model 
 
 The numbers tell a compelling story. Sam Altman recently dropped that ChatGPT has crossed 100 million weekly active users in India alone. That's not a rounding error or a vanity metric. That's a massive chunk of the world's population actively engaging with AI tools. Anthropic's Claude isn't far behind either, grabbing 5.8% of its global usage from India, second only to the U.S.
 
-This kind of traction has naturally caught the attention of policymakers and local entrepreneurs alike. India has been increasingly vocal about wanting homegrown [technology](https://infeeds.com/tags/?tag=technology) solutions that keep data and infrastructure within the country's borders. It's part of a larger push for digital sovereignty that we're seeing across different nations.
+This kind of traction has naturally caught the attention of policymakers and local entrepreneurs alike. India has been increasingly vocal about wanting homegrown [technology](https://infeeds.com/tags/technology) solutions that keep data and infrastructure within the country's borders. It's part of a larger push for digital sovereignty that we're seeing across different nations.
 
 ## The Indus App: What's Actually There
 

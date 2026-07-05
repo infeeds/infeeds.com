@@ -20,7 +20,7 @@ The Qwen S1 is the flashier of the two options. It features a heads-up display e
 
 The display itself is this cool green color that projects information right into your field of vision. Not intrusive, just there when you need it. There's bone conduction audio built into the arms, so you get sound piped directly to your ears without blasting everyone around you.
 
-The battery setup is clever too. Each arm has a swappable battery module that snaps off and on. Need more juice? Just swap in a fresh one and you're good to go. It's a small detail, but it's the kind of practical thinking that actually matters when you're dealing with wearable <a href="https://infeeds.com/tags/?tag=technology">technology</a>.
+The battery setup is clever too. Each arm has a swappable battery module that snaps off and on. Need more juice? Just swap in a fresh one and you're good to go. It's a small detail, but it's the kind of practical thinking that actually matters when you're dealing with wearable <a href="https://infeeds.com/tags/technology">technology</a>.
 
 ## Where These Glasses Actually Shine
 
@@ -38,6 +38,6 @@ The G1 will start at around $275, which undercuts Meta's Ray-Ban Gen 2 glasses a
 
 Here's where things get a little fuzzy. These glasses are available for preorder in China starting March 8, with sales kicking off immediately after. But Alibaba is being vague about international availability, just saying it'll happen "later in 2026" with integration for global services. That's a long time to wait, and it leaves a lot of room for competitors to make moves.
 
-The real story here isn't just that Alibaba built a decent pair of smart glasses. It's that Chinese tech companies keep showing up at European tech events and launching products that actually work. The dominance of Xiaomi and Honor at MWC was already a shift in the <a href="https://infeeds.com/tags/?tag=business">business</a> landscape. Adding Alibaba to that mix, with a serious AI-powered wearable, signals something bigger is happening in the race for the next computing platform.
+The real story here isn't just that Alibaba built a decent pair of smart glasses. It's that Chinese tech companies keep showing up at European tech events and launching products that actually work. The dominance of Xiaomi and Honor at MWC was already a shift in the <a href="https://infeeds.com/tags/business">business</a> landscape. Adding Alibaba to that mix, with a serious AI-powered wearable, signals something bigger is happening in the race for the next computing platform.
 
 Meta's Ray-Ban glasses have been solid, but they haven't exactly set the world on fire. Alibaba's entry might be the jolt the category needs, assuming they can actually deliver on that international rollout promise. If they do, and if the pricing stays reasonable, we might finally be entering the era where smart glasses stop being a novelty and start being something people actually want to wear.

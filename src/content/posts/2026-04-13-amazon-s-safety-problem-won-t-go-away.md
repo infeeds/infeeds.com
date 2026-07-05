@@ -34,7 +34,7 @@ This isn't a new conversation. The U.S. Attorney's Office for the Southern Distr
 
 In response to these concerns, Amazon told TechCrunch that it has seen a 43% reduction in its global recordable incident rate since 2019 and that it's invested more than $2.5 billion in safety improvements during that same period, including hundreds of millions in 2026 alone.
 
-Those figures sound substantial. But here's the thing: you can invest billions in safety and still have a <a href="https://infeeds.com/tags/?tag=business">business</a> culture that doesn't prioritize worker wellbeing as much as it prioritizes throughput. You can install curtains for soundproofing without adequately considering the thermal consequences. You can claim improvements while workers are still collapsing on warehouse floors.
+Those figures sound substantial. But here's the thing: you can invest billions in safety and still have a <a href="https://infeeds.com/tags/business">business</a> culture that doesn't prioritize worker wellbeing as much as it prioritizes throughput. You can install curtains for soundproofing without adequately considering the thermal consequences. You can claim improvements while workers are still collapsing on warehouse floors.
 
 The math of workplace safety isn't just about spending. It's about priorities. It's about whether a worker lying dead on the floor results in an immediate investigation into conditions, or whether it results in a statement about non-work-relatedness and a cancelled night shift.
 

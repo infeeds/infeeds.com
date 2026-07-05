@@ -20,7 +20,7 @@ Here's the thing about RISC-V: it's not x86 (Intel's territory) and it's not ARM
 
 SiFive operates like ARM used to. It doesn't manufacture chips. It licenses designs that customers can customize for their own needs. The company stayed quiet for four years after that last funding round, which suggests they were actually building something worth backing.
 
-Until recently, RISC-V was relegated to smaller applications: embedded systems, IoT devices, the kind of hardware that doesn't grab headlines. But [technology](https://infeeds.com/tags/?tag=technology) moves fast when billions of dollars are on the table.
+Until recently, RISC-V was relegated to smaller applications: embedded systems, IoT devices, the kind of hardware that doesn't grab headlines. But [technology](https://infeeds.com/tags/technology) moves fast when billions of dollars are on the table.
 
 ## Why Nvidia Cares About An Open-Source Chip
 
@@ -34,7 +34,7 @@ The irony is sharp: as Nvidia's traditional rivals scramble to compete, Nvidia i
 
 What makes SiFive genuinely interesting isn't the architecture itself. It's that the company exists in an unusual position. Open designs plus neutral backing plus proper funding means SiFive could theoretically serve customers that would never trust a single vendor like Intel or ARM.
 
-That has [business](https://infeeds.com/tags/?tag=business) implications beyond just chip design. In a world increasingly paranoid about supply chain vulnerabilities, open-source alternatives to proprietary monopolies suddenly look less like hobbyist projects and more like strategic assets.
+That has [business](https://infeeds.com/tags/business) implications beyond just chip design. In a world increasingly paranoid about supply chain vulnerabilities, open-source alternatives to proprietary monopolies suddenly look less like hobbyist projects and more like strategic assets.
 
 The funding round attracted investors who clearly think long-term about infrastructure. Atreides also backed Cerebras Systems' $1 billion round. These aren't people gambling on quick exits. They're betting on foundational shifts in how computing gets built.
 

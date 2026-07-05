@@ -10,7 +10,7 @@ tags_color: '#2196f3'
 
 Saturday's New York Times Mini Crossword doesn't mess around. The grid expands, the clues get thornier, and suddenly you're second-guessing answers you'd normally sail through. The April 18 edition is no exception, and if you're staring at your screen wondering why a Disney movie reference has you stumped, you're not alone.
 
-The good news is we've solved it for you. Whether you're a crossword regular or just dabbling in the [tech](https://infeeds.com/tags/?tag=technology)-powered world of daily puzzles, here's what you need to know.
+The good news is we've solved it for you. Whether you're a crossword regular or just dabbling in the [tech](https://infeeds.com/tags/technology)-powered world of daily puzzles, here's what you need to know.
 
 ## The Straightforward Ones First
 
@@ -22,7 +22,7 @@ Let's start with the gimmes, because even on a Saturday, the Times throws you a 
 
 ## When The New York Times Gets Meta
 
-Here's where things get interesting. **13A** asks for a "New York Times game with weaving, interconnected answers," and the answer is STRANDS. This clue works beautifully if you play multiple Times [games](https://infeeds.com/tags/?tag=gaming) beyond Wordle and the crossword. If you don't, it might feel like the puzzle is winking at an inside joke you're not part of. And honestly, that's exactly what it's doing. The Times has built an ecosystem of interconnected puzzles, and they're not shy about referencing them within each other.
+Here's where things get interesting. **13A** asks for a "New York Times game with weaving, interconnected answers," and the answer is STRANDS. This clue works beautifully if you play multiple Times [games](https://infeeds.com/tags/gaming) beyond Wordle and the crossword. If you don't, it might feel like the puzzle is winking at an inside joke you're not part of. And honestly, that's exactly what it's doing. The Times has built an ecosystem of interconnected puzzles, and they're not shy about referencing them within each other.
 
 ## The Trickiest Answer of the Day
 

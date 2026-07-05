@@ -32,7 +32,7 @@ A creamy pesto pasta made with store-bought marinara, pesto, dairy-free cream ch
 
 That's increasingly rare. Most conversations about home cooking assume either budget eating or splurge eating. One-pot dinners quietly occupy the space where nutrition, flavor, and cost all work together.
 
-## Why One-Pot Matters for [Business](https://infeeds.com/tags/?tag=business)
+## Why One-Pot Matters for [Business](https://infeeds.com/tags/business)
 
 There's something worth noting about why this trend is gaining momentum. Home cooking as a category has been declining for decades. The rise of delivery apps, meal kit services, and convenience foods has offered an escape hatch from the kitchen. Yet here we are, watching people deliberately choose to cook.
 

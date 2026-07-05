@@ -22,7 +22,7 @@ But here's the thing. Right now, only Albert Park has the full 3D treatment. The
 
 ## Where This Fits in Apple's F1 Play
 
-Let's not forget that Apple dropped $140 million on exclusive F1 streaming rights in the US just last year. So this Maps integration isn't random. It's part of a broader [Technology](https://infeeds.com/tags/?tag=technology) strategy to own different corners of the F1 fan experience. The streaming rights, the interactive maps, the tie-ins with Apple TV. They're essentially building an ecosystem around Formula 1.
+Let's not forget that Apple dropped $140 million on exclusive F1 streaming rights in the US just last year. So this Maps integration isn't random. It's part of a broader [Technology](https://infeeds.com/tags/technology) strategy to own different corners of the F1 fan experience. The streaming rights, the interactive maps, the tie-ins with Apple TV. They're essentially building an ecosystem around Formula 1.
 
 It's a smart move from a business perspective, even if it feels a bit fragmented from the user side. Imagine if all these features were seamlessly woven together instead of feeling like separate initiatives.
 

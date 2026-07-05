@@ -26,7 +26,7 @@ The US Cybersecurity and Infrastructure Security Agency (CISA) wasn't taking cha
 
 Here's where it gets frustrating. This isn't Cisco's first rodeo with a maximum-severity vulnerability recently. Just last December, the company warned about another 10.0 vulnerability in its Async software, which runs most of their products. That one was also actively being exploited.
 
-Two catastrophic bugs in two months is starting to look less like bad luck and more like a systemic problem. The <a href="https://infeeds.com/tags/?tag=technology">Technology</a> community isn't exactly thrilled when mega vendors keep getting caught napping on critical security issues.
+Two catastrophic bugs in two months is starting to look less like bad luck and more like a systemic problem. The <a href="https://infeeds.com/tags/technology">Technology</a> community isn't exactly thrilled when mega vendors keep getting caught napping on critical security issues.
 
 ## Who's Actually Behind This?
 
@@ -36,7 +36,7 @@ That's almost more unsettling. When you don't know who's exploiting you, you can
 
 ## What This Means for Everyone Else
 
-If you're not running Cisco SD-WAN products, you might think this doesn't affect you. You'd probably be wrong. Supply chain attacks have taught us that vulnerabilities in one vendor's critical infrastructure can ripple outward in unexpected ways. <a href="https://infeeds.com/tags/?tag=business">Business</a> continuity planning just got a lot more complicated for a lot of organizations.
+If you're not running Cisco SD-WAN products, you might think this doesn't affect you. You'd probably be wrong. Supply chain attacks have taught us that vulnerabilities in one vendor's critical infrastructure can ripple outward in unexpected ways. <a href="https://infeeds.com/tags/business">Business</a> continuity planning just got a lot more complicated for a lot of organizations.
 
 The bigger lesson is simpler and more depressing: the infrastructure that keeps modern society running has more security gaps than anyone wants to admit. We're patching bugs that have been open for three years while new ones are being discovered at major vendors. It's a treadmill, and we're all just trying not to fall off.
 

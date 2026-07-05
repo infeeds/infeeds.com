@@ -28,7 +28,7 @@ It's not that polyamines are inherently good or bad. They're context-dependent. 
 
 ## How the Research Cracked the Case
 
-Associate Professor Kyohei Higashi's team didn't just theorize about this. They got their hands dirty with actual cell lines and some serious [science](https://infeeds.com/tags/?tag=science) firepower.
+Associate Professor Kyohei Higashi's team didn't just theorize about this. They got their hands dirty with actual cell lines and some serious [science](https://infeeds.com/tags/science) firepower.
 
 First, they stripped cancer cells of polyamines using drugs. Then they added spermidine back in, watching what happened across more than 6,700 different proteins. This wasn't casual observation. They used high-resolution proteomic techniques to map exactly which proteins responded and how.
 

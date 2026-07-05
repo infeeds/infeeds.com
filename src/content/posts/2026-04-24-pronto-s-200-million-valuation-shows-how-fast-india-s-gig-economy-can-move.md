@@ -26,9 +26,9 @@ On the supply side, Pronto has over 4,500 active professionals on its platform, 
 
 Here's where the story gets interesting. Demand is outpacing supply. Sardana noted that bookings were growing about 20% week over week while the onboarding of new workers couldn't keep up. This is a nice problem to have in theory, but it also hints at operational constraints that could become friction points as the company scales.
 
-The [Business](https://infeeds.com/tags/?tag=business) case for on-demand domestic help in India is substantial, but it's also crowded. Other players are chasing the same opportunity. What matters now is whether Pronto can maintain this growth trajectory without burning cash or compromising worker quality and retention, two areas that have historically plagued gig economy companies.
+The [Business](https://infeeds.com/tags/business) case for on-demand domestic help in India is substantial, but it's also crowded. Other players are chasing the same opportunity. What matters now is whether Pronto can maintain this growth trajectory without burning cash or compromising worker quality and retention, two areas that have historically plagued gig economy companies.
 
-Pronto's investor list before this round included Epiq Capital, Glade Brook Capital, General Catalyst, and Bain Capital Ventures. Adding Lachy Groom to the cap table suggests conviction from someone with [Technology](https://infeeds.com/tags/?tag=technology) pedigree. Groom's track record includes early bets on companies like Figma and Airbnb, so he's not someone who backs startups casually.
+Pronto's investor list before this round included Epiq Capital, Glade Brook Capital, General Catalyst, and Bain Capital Ventures. Adding Lachy Groom to the cap table suggests conviction from someone with [Technology](https://infeeds.com/tags/technology) pedigree. Groom's track record includes early bets on companies like Figma and Airbnb, so he's not someone who backs startups casually.
 
 The startup had raised about $40 million in total before this round. Now it's presumably around $60 million raised and valued at $200 million. For a company that didn't exist two years ago, that's a remarkable trajectory.
 

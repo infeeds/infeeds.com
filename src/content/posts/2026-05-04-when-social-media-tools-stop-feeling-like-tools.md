@@ -12,7 +12,7 @@ There's a particular kind of pain that hits enterprise marketing teams. It's not
 
 The tools were supposed to solve this. Instead, many of them just added another layer of complexity.
 
-That disconnect between what teams actually need and what they're getting is worth examining. Because when the <a href="https://infeeds.com/tags/?tag=technology">technology</a> meant to streamline operations actually slows things down, something fundamental is broken.
+That disconnect between what teams actually need and what they're getting is worth examining. Because when the <a href="https://infeeds.com/tags/technology">technology</a> meant to streamline operations actually slows things down, something fundamental is broken.
 
 ## The Data Problem Nobody Talks About
 
@@ -42,7 +42,7 @@ Large organizations need governance. Nobody rational disputes that. But there's 
 
 The chokepoint usually looks like this: complex approval layers, communication silos, tools that nobody wants to use because they're too cumbersome, and integration nightmares that make it harder to move information around than it would be to just email spreadsheets to each other.
 
-When adoption drops because the tools are too difficult to navigate, your entire operation grinds. The <a href="https://infeeds.com/tags/?tag=business">business</a> value of having governance in place becomes moot if the governance itself is the reason nobody's getting anything done.
+When adoption drops because the tools are too difficult to navigate, your entire operation grinds. The <a href="https://infeeds.com/tags/business">business</a> value of having governance in place becomes moot if the governance itself is the reason nobody's getting anything done.
 
 The better path is obvious in hindsight: make governance feel invisible. Connect to the tools teams already know. Stop treating risk management and speed as opposing forces. They're not. They're only at odds when the systems managing them are poorly designed.
 

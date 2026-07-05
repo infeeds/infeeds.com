@@ -14,7 +14,7 @@ This phone had every opportunity to be on time. Trump Mobile announced it in Jun
 
 ## A Year Late Is Still Late
 
-The delays weren't subtle. Trump Mobile CEO Pat O'Brien tried to put a positive spin on it in his statement to CNET, saying "the [Technology](https://infeeds.com/tags/?tag=technology) business is more difficult than some may realize, as parts must be tested for quality assurances." Fair enough. But when a smartphone company misses its manufacturing window by nearly a year, you have to wonder what exactly went wrong in those quality assurance tests.
+The delays weren't subtle. Trump Mobile CEO Pat O'Brien tried to put a positive spin on it in his statement to CNET, saying "the [Technology](https://infeeds.com/tags/technology) business is more difficult than some may realize, as parts must be tested for quality assurances." Fair enough. But when a smartphone company misses its manufacturing window by nearly a year, you have to wonder what exactly went wrong in those quality assurance tests.
 
 The company didn't set aside review units for journalists the way most phone makers do. Instead, CNET placed a preorder with a $100 deposit back in June 2025 and had to wait for expedited shipping just to get hands on the device. That's not normal practice, and it signals a company stretched thin across production, logistics, and public relations.
 

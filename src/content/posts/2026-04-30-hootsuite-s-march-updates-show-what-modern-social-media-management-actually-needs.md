@@ -12,7 +12,7 @@ Hootsuite dropped a batch of updates in March that feel less like feature bloat 
 
 That matters, because the gap between good tools and great tools often comes down to the small stuff. The ability to save five minutes here, reduce one approval loop there, and suddenly your team isn't drowning in administrative overhead.
 
-The updates span [business](https://infeeds.com/tags/?tag=business) intelligence integration, smarter content creation, and better governance, which tells you something about where platform priorities actually sit these days.
+The updates span [business](https://infeeds.com/tags/business) intelligence integration, smarter content creation, and better governance, which tells you something about where platform priorities actually sit these days.
 
 ## When Campaign Analysis Stops Being Busywork
 
@@ -26,7 +26,7 @@ The same philosophy shows up in how OwlyGPT now handles document uploads. Drop a
 
 OwlyGPT's ability to send AI-generated images directly into Hootsuite's Create tool or whiteboard without downloading and re-uploading them is textbook friction removal. Click and move forward instead of juggling browser tabs and file managers.
 
-What's interesting here is that these aren't groundbreaking AI capabilities. They're about integrating existing [technology](https://infeeds.com/tags/?tag=technology) into workflows more smoothly. The AI itself isn't new. The thinking is in making it feel less like a separate tool and more like part of the native platform.
+What's interesting here is that these aren't groundbreaking AI capabilities. They're about integrating existing [technology](https://infeeds.com/tags/technology) into workflows more smoothly. The AI itself isn't new. The thinking is in making it feel less like a separate tool and more like part of the native platform.
 
 ## Approval Tracking Got Messy. Now It Doesn't Have To Be
 

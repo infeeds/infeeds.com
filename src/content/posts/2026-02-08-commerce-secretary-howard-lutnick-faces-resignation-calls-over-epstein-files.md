@@ -24,7 +24,7 @@ And then there's the island. Massie stated pretty bluntly that Lutnick "clearly 
 
 ## When Business Gets Complicated
 
-The [business](https://infeeds.com/tags/?tag=business) connections between the two men add another layer to this mess. Both Lutnick and Epstein invested in a company called AdFin Solutions, which has since gone under. That's a financial relationship that extends beyond casual social interactions.
+The [business](https://infeeds.com/tags/business) connections between the two men add another layer to this mess. Both Lutnick and Epstein invested in a company called AdFin Solutions, which has since gone under. That's a financial relationship that extends beyond casual social interactions.
 
 Massie was the lead Republican on the Epstein Files Transparency Act, so he's got skin in this game. He pushed for these files to be released, and now they're exposing people in ways that are hard to ignore. He pointed out that British officials have already fallen over their Epstein connections. Morgan McSweeney resigned as chief of staff to UK Prime Minister Keir Starmer, and Peter Mandelson got ousted as U.S. ambassador. Both were named in the files.
 
@@ -32,7 +32,7 @@ The Commerce Department is playing defense, calling this a "failing attempt by t
 
 ## The Political Fallout
 
-Massie's angle here is interesting because he's approaching this from his own party. He's not a Democrat trying to score political points against a Republican administration. He's saying Lutnick should resign to "make life easier on the president." That's Republican on Republican criticism, which carries different weight in [political](https://infeeds.com/tags/?tag=politics) circles.
+Massie's angle here is interesting because he's approaching this from his own party. He's not a Democrat trying to score political points against a Republican administration. He's saying Lutnick should resign to "make life easier on the president." That's Republican on Republican criticism, which carries different weight in [political](https://infeeds.com/tags/politics) circles.
 
 The fact that these files are coming out now, while Lutnick is serving as Commerce Secretary, makes this exponentially more problematic than if he were still in the private sector. Public officials face different standards, and connections to a convicted sex offender are about as toxic as it gets in public service.
 

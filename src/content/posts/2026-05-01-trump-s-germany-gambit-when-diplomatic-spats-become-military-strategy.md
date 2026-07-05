@@ -36,6 +36,6 @@ The withdrawal will happen over six to twelve months, giving some breathing room
 
 When a policy disagreement over Iran strategy becomes grounds for troop reductions, allies face a new calculus. Do you speak honestly about strategy, or do you stay quiet to keep American soldiers in place? Germany already learned this lesson; Pistorius was careful to note the move came as no surprise, perhaps sensing that public shock would only invite more criticism from Trump.
 
-The court ruling on abortion access, sanctions on Cuba, and Congressional authorisation debates mentioned in the source material seem disconnected from this [news](https://infeeds.com/tags/?tag=news) story, suggesting some editorial mixing in the original material. But they point to a broader pattern: decisions being made with speed and confidence, often driven by personality rather than deliberative process.
+The court ruling on abortion access, sanctions on Cuba, and Congressional authorisation debates mentioned in the source material seem disconnected from this [news](https://infeeds.com/tags/news) story, suggesting some editorial mixing in the original material. But they point to a broader pattern: decisions being made with speed and confidence, often driven by personality rather than deliberative process.
 
 Merz made a tactical error by criticising US strategy publicly. But Trump made a strategic one if he thinks demonstrating the fragility of defence commitments will bring allies into closer alignment. It might do the opposite.

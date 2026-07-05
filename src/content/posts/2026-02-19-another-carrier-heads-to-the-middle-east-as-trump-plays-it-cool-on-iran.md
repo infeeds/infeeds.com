@@ -24,7 +24,7 @@ The military positioning itself raises questions about what comes next. Are we h
 
 What's interesting is how Trump is handling this. He's not being his typical bombastic self. There's no "fire and fury" rhetoric, no predictions about what's going to happen. Just quiet movement and non-answers to reporters' questions. That's either brilliant strategy or nervous energy, depending on who you ask.
 
-Political tensions in the Middle East have been simmering for years, and the region remains one of the most unpredictable flashpoints globally. You can read more about the [geopolitical dynamics](https://infeeds.com/tags/?tag=geopolitics) shaping this crisis if you want the full picture of why this matters beyond the headlines.
+Political tensions in the Middle East have been simmering for years, and the region remains one of the most unpredictable flashpoints globally. You can read more about the [geopolitical dynamics](https://infeeds.com/tags/geopolitics) shaping this crisis if you want the full picture of why this matters beyond the headlines.
 
 This kind of strategic ambiguity cuts both ways though. Maybe it's keeping Iran guessing and preventing escalation. Or maybe it's just creating a vacuum where misunderstandings fester and tensions ratchet up without anyone really intending for them to.
 

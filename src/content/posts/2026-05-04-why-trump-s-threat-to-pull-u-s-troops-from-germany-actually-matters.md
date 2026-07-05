@@ -24,7 +24,7 @@ But it's not just about defending Europe from Russia. The presence of American f
 
 When most people think of military bases, they imagine soldiers marching around. The reality is far more infrastructural. According to the NPR reporting, U.S. forces in Germany run Ramstein Air Base, which serves as the headquarters of U.S. Air Forces in Europe. It's the logistical hub that coordinates air-to-air refueling flights, military logistics, and information operations across the continent.
 
-That's not just supporting European [defense](https://infeeds.com/tags/?tag=defense) efforts either. It's the nervous system through which the U.S. projects military power globally. Ramstein is how American air operations in the Middle East get supported. It's how intelligence flows. It's how the U.S. maintains its ability to act as a global power.
+That's not just supporting European [defense](https://infeeds.com/tags/defense) efforts either. It's the nervous system through which the U.S. projects military power globally. Ramstein is how American air operations in the Middle East get supported. It's how intelligence flows. It's how the U.S. maintains its ability to act as a global power.
 
 But the footprint goes deeper still. There are American Army hospitals in Germany. Schools for military families. Shopping exchanges (PX stores). Entire communities of American service members, spouses, and children. It's not just military infrastructure. It's an extension of American life itself, planted in the heart of Europe.
 

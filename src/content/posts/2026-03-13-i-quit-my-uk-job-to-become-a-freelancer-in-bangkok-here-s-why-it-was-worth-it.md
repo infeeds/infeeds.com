@@ -32,7 +32,7 @@ A modern one-bedroom condo with a gym and pool in Bangkok? Four hundred dollars 
 
 For months, I wrestled with the decision. I could keep grinding in the UK, trying to climb out of a hole that got deeper every year. Or I could change the game entirely by changing my location.
 
-I started building a [freelance writing business](https://infeeds.com/tags/?tag=business) on the side while still employed. It felt absurd at first, working two jobs simultaneously, but it gave me something concrete to hold onto. By the time I was ready to leave, I had one solid client locked in. Not much of a safety net, but better than nothing. And honestly, there was no positive future waiting for me if I stayed.
+I started building a [freelance writing business](https://infeeds.com/tags/business) on the side while still employed. It felt absurd at first, working two jobs simultaneously, but it gave me something concrete to hold onto. By the time I was ready to leave, I had one solid client locked in. Not much of a safety net, but better than nothing. And honestly, there was no positive future waiting for me if I stayed.
 
 Last June, I quit. Booked a one-way ticket. Said goodbye to my parents and the life I'd known.
 

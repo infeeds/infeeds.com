@@ -26,7 +26,7 @@ Then he walked away.
 
 ## The Law School Plot Twist
 
-At 22, Schuck didn't see himself staying at iProfile. There weren't enough rungs on the ladder, and honestly, something else was calling to him. Law felt noble. Stable. Respectable in a way <a href="https://infeeds.com/tags/?tag=business">business</a> didn't feel yet.
+At 22, Schuck didn't see himself staying at iProfile. There weren't enough rungs on the ladder, and honestly, something else was calling to him. Law felt noble. Stable. Respectable in a way <a href="https://infeeds.com/tags/business">business</a> didn't feel yet.
 
 So he enrolled at Ohio State's law school in 2006. And then something interesting happened: his entrepreneurial instinct didn't fade. It sharpened.
 
@@ -68,6 +68,6 @@ But people matter just as much. Schuck tells his leaders that their job is to cr
 
 That philosophy came directly from his mother, who had no choice but to make every job count, make every dollar count, make every opportunity count. She couldn't afford to waste people. Neither could Henry.
 
-The story of DiscoverOrg isn't really about data or <a href="https://infeeds.com/tags/?tag=technology">technology</a> or B2B sales infrastructure. It's about what happens when someone who grew up with nothing refuses to accept that scarcity as an excuse for building something mediocre. It's about choosing discipline over shortcuts, hunger over credentials, and people over process.
+The story of DiscoverOrg isn't really about data or <a href="https://infeeds.com/tags/technology">technology</a> or B2B sales infrastructure. It's about what happens when someone who grew up with nothing refuses to accept that scarcity as an excuse for building something mediocre. It's about choosing discipline over shortcuts, hunger over credentials, and people over process.
 
 Maybe that's the real question worth asking: how many billion-dollar ideas are sitting in someone's garage right now, waiting for the person with just enough desperation and just enough discipline to build them?

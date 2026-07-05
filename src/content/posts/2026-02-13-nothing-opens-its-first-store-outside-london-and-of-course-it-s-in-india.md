@@ -20,16 +20,16 @@ Carl Pei isn't pretending this store is just about selling phones either. The tw
 
 Here's where things get interesting. The store will showcase both Nothing's main line and CMF, its budget brand that spun off last year. CMF isn't some afterthought slapped together in Shenzhen. It's headquartered in India with a joint venture involving local ODM Optiemus.
 
-Pei draws a clear line between the two brands. Nothing stays niche with higher price points while CMF goes after the masses. But he's quick to clarify that CMF isn't churning out rebadged garbage like most budget brands do. There's actual [design](https://infeeds.com/tags/?tag=technology) consideration happening here, even if the price tags don't reflect premium positioning.
+Pei draws a clear line between the two brands. Nothing stays niche with higher price points while CMF goes after the masses. But he's quick to clarify that CMF isn't churning out rebadged garbage like most budget brands do. There's actual [design](https://infeeds.com/tags/technology) consideration happening here, even if the price tags don't reflect premium positioning.
 
 The differentiation matters because India's smartphone market doesn't reward laziness. Consumers here are savvy, price-conscious, and absolutely willing to switch brands if something better comes along. Having two distinct brands lets Nothing play in different sandboxes without diluting either identity.
 
 ## Retail Theater Goes Global
 
-Nothing isn't alone in treating India like a priority market for physical retail. Apple is opening its sixth store in the country this month in Mumbai's Borivali area. When you've got Apple treating India as a tier-one retail destination, you know the [business](https://infeeds.com/tags/?tag=business) case is solid.
+Nothing isn't alone in treating India like a priority market for physical retail. Apple is opening its sixth store in the country this month in Mumbai's Borivali area. When you've got Apple treating India as a tier-one retail destination, you know the [business](https://infeeds.com/tags/business) case is solid.
 
 The interesting part is what comes next. Nothing says Tokyo and New York stores are in the pipeline, though they're keeping quiet about timelines. That's the right call. Better to nail the Bengaluru execution than rush into markets where they don't have the same organic momentum.
 
 The company isn't exactly strapped for cash either. Last year's $200 million Series C at a $1.3 billion valuation gives them runway to experiment with retail without betting the farm. Total funding sits at $450 million, which buys a lot of factory-themed store fixtures and USB testing displays.
 
-What's smart about this approach is that Nothing is building retail presence where their community already exists rather than trying to manufacture hype in markets where nobody knows who they are. Bengaluru has the userbase concentration, the [tech](https://infeeds.com/tags/?tag=tech)-savvy demographics, and apparently enough people who care about transparent design language to justify a flagship store. Sometimes the obvious play is obvious because it's actually the right move.
+What's smart about this approach is that Nothing is building retail presence where their community already exists rather than trying to manufacture hype in markets where nobody knows who they are. Bengaluru has the userbase concentration, the [tech](https://infeeds.com/tags/tech)-savvy demographics, and apparently enough people who care about transparent design language to justify a flagship store. Sometimes the obvious play is obvious because it's actually the right move.

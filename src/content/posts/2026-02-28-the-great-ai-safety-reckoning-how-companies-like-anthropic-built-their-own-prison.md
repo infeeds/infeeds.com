@@ -36,11 +36,11 @@ Tegmark calls it "sowing the seeds of their own predicament." He's not wrong. Th
 
 ## What Happens When Nobody's in Charge
 
-This is where <a href="https://infeeds.com/tags/?tag=technology">technology</a> policy gets dangerous. Without clear rules, power fills the vacuum, and right now the Trump administration is demonstrating exactly how much power a government can wield over a tech company when there's no regulatory framework to push back against.
+This is where <a href="https://infeeds.com/tags/technology">technology</a> policy gets dangerous. Without clear rules, power fills the vacuum, and right now the Trump administration is demonstrating exactly how much power a government can wield over a tech company when there's no regulatory framework to push back against.
 
 Sam Altman at OpenAI came out publicly supporting Anthropic's position, which took some courage. He said OpenAI has the same red lines. But Google stayed silent. xAI stayed silent. That silence is deafening, and it tells you everything about where corporate interests actually lie when tested.
 
-The "China threat" argument has been the go-to excuse for this entire mess. Whenever someone suggests regulation, the <a href="https://infeeds.com/tags/?tag=business">business</a> lobby immediately responds: but what about Beijing? We'll fall behind. We need to move fast. Tegmark's pushback here is worth taking seriously. China is actually banning AI girlfriends. Xi Jinping, the guy literally nobody would describe as soft on corporate overreach, is not going to tolerate an AI company building something that could threaten his government.
+The "China threat" argument has been the go-to excuse for this entire mess. Whenever someone suggests regulation, the <a href="https://infeeds.com/tags/business">business</a> lobby immediately responds: but what about Beijing? We'll fall behind. We need to move fast. Tegmark's pushback here is worth taking seriously. China is actually banning AI girlfriends. Xi Jinping, the guy literally nobody would describe as soft on corporate overreach, is not going to tolerate an AI company building something that could threaten his government.
 
 The real threat isn't losing a race to China. It's building something nobody knows how to control and hoping it doesn't decide humans are expendable.
 

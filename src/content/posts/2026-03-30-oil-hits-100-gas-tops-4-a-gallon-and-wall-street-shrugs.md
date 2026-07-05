@@ -28,7 +28,7 @@ When one-fifth of global oil supply faces potential disruption, energy markets d
 
 Europe's inflation rate jumped to 2.5% in March, up from 1.9% in February. That's not all energy, but energy is a driver. When crude prices spike, everything downstream gets more expensive. Shipping costs rise. Manufacturing costs rise. Food prices rise.
 
-## [Business](https://infeeds.com/tags/?tag=business) Moves On
+## [Business](https://infeeds.com/tags/business) Moves On
 
 If energy was the morning's drama, corporate dealmaking was the subplot. McCormick shares jumped 3% on speculation it might absorb Unilever's food division as the London-based conglomerate tries to streamline. Separately, Sysco announced a $29 billion acquisition of Jetro Restaurant Depot, which tells you something about consolidation appetite in the supply chain world.
 

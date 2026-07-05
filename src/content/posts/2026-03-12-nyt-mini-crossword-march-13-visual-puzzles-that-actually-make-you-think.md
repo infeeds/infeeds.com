@@ -24,7 +24,7 @@ The vertical answers tie things together. MOLTO is that Italian phrase meaning "
 
 You know what's interesting about using visual clues in a crossword? It breaks the monotony. Crosswords have been around since forever, and most of them follow the same format. But when the puzzle itself becomes part of the solving experience, something shifts. Your brain has to work differently than it does with traditional clues. You're not just retrieving knowledge. You're interpreting design.
 
-This is exactly the kind of thing that keeps people coming back to daily puzzles. The New York Times knows their audience well enough to know that occasionally throwing in something unexpected keeps things fresh. The [technology](https://infeeds.com/tags/?tag=technology) behind digital crosswords allows for these kinds of experiments in ways that print puzzles never could.
+This is exactly the kind of thing that keeps people coming back to daily puzzles. The New York Times knows their audience well enough to know that occasionally throwing in something unexpected keeps things fresh. The [technology](https://infeeds.com/tags/technology) behind digital crosswords allows for these kinds of experiments in ways that print puzzles never could.
 
 There's also something satisfying about figuring out a visual clue. When you understand the joke, you feel smart. When you don't get it immediately, there's that little moment of frustration followed by "Oh, of course" when it clicks. That emotional roller coaster is part of why millions of people do these puzzles every single day.
 

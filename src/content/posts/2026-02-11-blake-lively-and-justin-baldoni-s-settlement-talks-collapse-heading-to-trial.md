@@ -33,13 +33,13 @@ The messages from April 2023 are particularly spicy. Lively apparently asked Swi
 
 "He's a clown and thinks he's a writer now," Lively allegedly wrote, asking Swift to make it seem like Baldoni deserved credit for pages he didn't actually write. Swift's response? "I'll do anything for you!!" Which is sweet friendship goals but probably not what you want in your court documents.
 
-This is what happens when [entertainment](https://infeeds.com/tags/?tag=entertainment) industry feuds collide with the legal system. Everyone's dirty laundry ends up on public display.
+This is what happens when [entertainment](https://infeeds.com/tags/entertainment) industry feuds collide with the legal system. Everyone's dirty laundry ends up on public display.
 
 ## The Reputation War
 
 Both sides are fighting for something more valuable than money at this point: their reputations. Lively claims she's suffered "emotional distress, humiliation, shame, and embarrassment" from Baldoni's alleged smear campaign, and says it's damaged her career. Baldoni maintains he did nothing wrong and was simply defending himself against "threats by two extremely powerful people with unlimited resources."
 
-The case has ballooned into hundreds of court filings and thousands of pages of documents. Baldoni's crisis PR firm got dragged into separate litigation, claiming they only did what any firm would do when hired by a client under attack. The [news](https://infeeds.com/tags/?tag=news) cycle keeps churning, and neither side seems willing to back down.
+The case has ballooned into hundreds of court filings and thousands of pages of documents. Baldoni's crisis PR firm got dragged into separate litigation, claiming they only did what any firm would do when hired by a client under attack. The [news](https://infeeds.com/tags/news) cycle keeps churning, and neither side seems willing to back down.
 
 What started as a dispute between two actors has morphed into something much bigger. It's a window into how Hollywood really works behind the glossy premieres and carefully crafted Instagram posts. It's about power, control, and what happens when professional relationships implode spectacularly.
 

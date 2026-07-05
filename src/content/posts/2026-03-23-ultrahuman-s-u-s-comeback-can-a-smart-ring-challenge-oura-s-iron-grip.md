@@ -12,7 +12,7 @@ Ultrahuman is back in the U.S. market, and it's hungry.
 
 The Bengaluru-based health-tech startup just secured approval from U.S. Customs and Border Protection for its new Ring Pro, marking a dramatic turnaround after a brutal ten months of import restrictions that cost the company up to $50 million in lost sales. It's a moment that matters, not just for Ultrahuman's bottom line, but for the entire smart ring industry watching from the sidelines.
 
-The story here isn't just about one company's comeback. It's about how quickly <a href="https://infeeds.com/tags/?tag=technology">technology</a> markets can shift when a major player gets sidelined, and what happens when they try to claw their way back.
+The story here isn't just about one company's comeback. It's about how quickly <a href="https://infeeds.com/tags/technology">technology</a> markets can shift when a major player gets sidelined, and what happens when they try to claw their way back.
 
 ## The Import Disaster That Changed Everything
 
@@ -42,7 +42,7 @@ The smart ring market itself is exploding. IDC estimates roughly 2.6 million uni
 
 While Ultrahuman fights to reclaim its U.S. territory, Oura just entered India with its Ring 4 launch. It's a clever countermove. India is Ultrahuman's home turf, and the startup currently leads that market with 30.4% market share. But here's the thing: the Indian smart ring market declined 30.6% year-over-year in 2025, despite Ultrahuman being the category leader.
 
-That's concerning. Market consolidation plus declining demand in your home market is a tough combination. Oura's international brand recognition could help it establish itself faster than you'd expect, especially since most early local competitors already faded away. The <a href="https://infeeds.com/tags/?tag=business">business</a> dynamics in India reward established global players over scrappy local startups these days.
+That's concerning. Market consolidation plus declining demand in your home market is a tough combination. Oura's international brand recognition could help it establish itself faster than you'd expect, especially since most early local competitors already faded away. The <a href="https://infeeds.com/tags/business">business</a> dynamics in India reward established global players over scrappy local startups these days.
 
 Kumar is publicly unbothered about the competition, suggesting increased rivalry could actually expand awareness in a still-nascent category. That's the polite CEO answer. Privately, he's probably running scenarios on how Oura's entry affects growth projections.
 

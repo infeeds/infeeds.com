@@ -17,7 +17,7 @@ The escalating tensions between Iran and other regional powers have now cost $25
 
 Here's what $25 billion actually buys in a conflict spiral: It buys weapons. Lots of them. Defense contractors are having the kind of year that makes their shareholders smile, but that capital flowing into military stockpiles is capital not flowing into healthcare, infrastructure, or anything that builds civilian prosperity.
 
-The <a href="https://infeeds.com/tags/?tag=business">business</a> logic seems straightforward. Tension rises. Nations perceive threat. Orders increase. Inventories replenish. Profits flow. But this dynamic has a shelf life, and we're watching it stretch thin.
+The <a href="https://infeeds.com/tags/business">business</a> logic seems straightforward. Tension rises. Nations perceive threat. Orders increase. Inventories replenish. Profits flow. But this dynamic has a shelf life, and we're watching it stretch thin.
 
 What gets lost in the transaction is the opportunity cost. When a government commits $25 billion to military readiness in response to Iranian escalation, it's making a choice about where that money goes. That's not a neutral policy decision.
 

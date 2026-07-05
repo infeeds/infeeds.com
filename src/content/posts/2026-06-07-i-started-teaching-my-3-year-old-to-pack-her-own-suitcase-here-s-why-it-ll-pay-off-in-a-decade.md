@@ -42,6 +42,6 @@ I'm not trying to create unrealistic independence at 3. Over time, I can shift m
 
 It does take longer now. There's no way around that. But if the alternative is still packing for her a decade from now, the tradeoff feels worth it.
 
-The beauty of [business](https://infeeds.com/tags/?tag=business) strategy is thinking in decades, not quarters. Whether you're building a company or raising a future adult, the decisions that feel hardest now often pay off most later. Teaching a 3-year-old to pack isn't really about packing at all. It's about building a habit of ownership before the stakes get higher.
+The beauty of [business](https://infeeds.com/tags/business) strategy is thinking in decades, not quarters. Whether you're building a company or raising a future adult, the decisions that feel hardest now often pay off most later. Teaching a 3-year-old to pack isn't really about packing at all. It's about building a habit of ownership before the stakes get higher.
 
 This might sound like overkill to some parents. Maybe it is. But I'd rather spend 90 minutes now than still be negotiating with a teenager about which stuffed animals are "essential" in another ten years.

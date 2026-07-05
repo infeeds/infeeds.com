@@ -32,7 +32,7 @@ What they found was a correlation. The ratio between purines and pyrimidines see
 
 Here's where it gets philosophical. Scientists have spent years figuring out what chemical reactions could produce these nucleic acid bases under conditions that probably existed on early Earth. It's a reasonable approach, but space is a very different environment. It's colder, has different pressures, different radiation exposure. The reactions that work in space might be completely different from the ones we've been studying in labs.
 
-If we understand the <a href="https://infeeds.com/tags/?tag=technology">technology</a> behind what reactions actually happened in asteroids, we can figure out what chemistry to look for elsewhere. And that opens up the real question: if life emerged on other planets, would it have followed similar paths? Did asteroids seed the galaxy with chemistry that makes life possible?
+If we understand the <a href="https://infeeds.com/tags/technology">technology</a> behind what reactions actually happened in asteroids, we can figure out what chemistry to look for elsewhere. And that opens up the real question: if life emerged on other planets, would it have followed similar paths? Did asteroids seed the galaxy with chemistry that makes life possible?
 
 Now, before you get too excited about alien panspermia, there are caveats. These bases might not survive the heat of atmospheric entry when an asteroid falls to Earth. Even if they do, whether they'd concentrate enough to actually spark life is unclear. And frankly, we don't even know if the nucleic acid bases from space were essential to life on Earth at all.
 

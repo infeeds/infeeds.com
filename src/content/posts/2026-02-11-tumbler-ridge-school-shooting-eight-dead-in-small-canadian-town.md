@@ -30,8 +30,8 @@ The response time was incredibly fast. Officers arrived within two minutes of th
 
 ## Canada's Gun Debate Heats Up Again
 
-This tragedy is going to reignite [debates](https://infeeds.com/tags/?tag=news) about whether Canada's gun laws need to be even stricter. The country already has significantly tougher regulations than its southern neighbor, but events like this always prompt questions about whether enough is being done.
+This tragedy is going to reignite [debates](https://infeeds.com/tags/news) about whether Canada's gun laws need to be even stricter. The country already has significantly tougher regulations than its southern neighbor, but events like this always prompt questions about whether enough is being done.
 
-Prime Minister Mark Carney called it "unheard of cruelty" and noted that students and teachers witnessed something no one should ever have to see. Some victims are still in hospital "fighting for their lives," he said in a statement that acknowledged the ongoing nature of this [community's](https://infeeds.com/tags/?tag=community) trauma.
+Prime Minister Mark Carney called it "unheard of cruelty" and noted that students and teachers witnessed something no one should ever have to see. Some victims are still in hospital "fighting for their lives," he said in a statement that acknowledged the ongoing nature of this [community's](https://infeeds.com/tags/community) trauma.
 
 The question everyone's asking is the same one that comes up after every mass shooting: could this have been prevented? Van Rootselaar had mental health issues known to police, a lapsed gun license, and a history that included dropping out of the very school that became a crime scene. At what point does a collection of red flags become an intervention?

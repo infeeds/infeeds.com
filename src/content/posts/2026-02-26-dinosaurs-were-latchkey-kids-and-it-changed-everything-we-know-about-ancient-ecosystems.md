@@ -44,7 +44,7 @@ This is where things get wild. A juvenile Brachiosaurus couldn't reach leaves 10
 
 "While adults and offspring are technically the same biological species, they occupy fundamentally different ecological niches," Holtz explained. "So, they can be considered different 'functional species.'"
 
-Think about what this means. If you count juvenile dinosaurs as separate functional species from their parents, the total number of distinct ecological roles in ancient dinosaur communities suddenly explodes. Scientists who study modern <a href="https://infeeds.com/tags/?tag=science">science</a> have generally assumed mammal-dominated ecosystems today are more diverse because we see more different species living together. But when you recalculate dinosaur ecosystems with this new framework, the functional diversity jumps dramatically.
+Think about what this means. If you count juvenile dinosaurs as separate functional species from their parents, the total number of distinct ecological roles in ancient dinosaur communities suddenly explodes. Scientists who study modern <a href="https://infeeds.com/tags/science">science</a> have generally assumed mammal-dominated ecosystems today are more diverse because we see more different species living together. But when you recalculate dinosaur ecosystems with this new framework, the functional diversity jumps dramatically.
 
 "The total number of functional species in these dinosaur fossil communities is actually greater on average than what we see in mammalian ones," Holtz said.
 

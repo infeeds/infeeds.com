@@ -14,7 +14,7 @@ Elon Musk ordered another round of job cuts at xAI this week after growing impat
 
 ## When Ambition Meets Reality
 
-The <a href="https://infeeds.com/tags/?tag=technology">technology</a> world loves a good comeback story, but they're far rarer than people think. What usually happens instead is what we're seeing at xAI: talented people get burned out, leave for competitors offering better terms, and the organization becomes increasingly unstable.
+The <a href="https://infeeds.com/tags/technology">technology</a> world loves a good comeback story, but they're far rarer than people think. What usually happens instead is what we're seeing at xAI: talented people get burned out, leave for competitors offering better terms, and the organization becomes increasingly unstable.
 
 Two cofounders departed this week alone. Zihang Dai, a senior technical member who had actually been honest about xAI's lag in coding capabilities, is gone. Guodong Zhang, who ran pre-training for the Grok models, left after being blamed for the coding product's failures and stripped of his responsibilities. That leaves only two of the original 11 cofounders still standing.
 
@@ -34,7 +34,7 @@ This week xAI poached Andrew Milich and Jason Ginsberg from Cursor, a popular AI
 
 The irony is thick here. Musk has the ability and resources to recruit top talent. The problem isn't whether he can poach people from other companies. It's whether those people will actually stay long enough to build something lasting when they see how quickly things can fall apart.
 
-<a href="https://infeeds.com/tags/?tag=business">Business</a> moves this aggressive often work in the short term. You cut costs, fire underperformers, bring in structure. But there's usually a cost nobody wants to talk about: the people you didn't need to lose, the institutional knowledge that walks out the door, the culture that never quite recovers.
+<a href="https://infeeds.com/tags/business">Business</a> moves this aggressive often work in the short term. You cut costs, fire underperformers, bring in structure. But there's usually a cost nobody wants to talk about: the people you didn't need to lose, the institutional knowledge that walks out the door, the culture that never quite recovers.
 
 Musk keeps saying xAI "was not built right first time around, so is being rebuilt from the foundations up." He compares it to what happened with Tesla. But here's the thing about that comparison: Tesla actually survived its chaos. Most startups don't. Most people don't stick around to watch their company get dismantled, no matter how compelling the vision of Mars colonization sounds.
 

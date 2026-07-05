@@ -40,9 +40,9 @@ The Information Commissioner's Office, the UK's data watchdog, cleared TfL of an
 
 But security researcher Kevin Beaumont doesn't buy it. He argues that informing the public of the scale of a breach is "the most basic requirement for transparency." He's right. And he's calling for UK regulation to actually change so that victims of data theft get treated like they matter.
 
-## The <a href="https://infeeds.com/tags/?tag=technology">Technology</a> of Evasion
+## The <a href="https://infeeds.com/tags/technology">Technology</a> of Evasion
 
-What's weird is that the system isn't designed to protect companies. It's just designed to let them avoid accountability. The <a href="https://infeeds.com/tags/?tag=business">business</a> case for silence is obvious: fewer people know about the problem, fewer people panic, fewer people threaten lawsuits.
+What's weird is that the system isn't designed to protect companies. It's just designed to let them avoid accountability. The <a href="https://infeeds.com/tags/business">business</a> case for silence is obvious: fewer people know about the problem, fewer people panic, fewer people threaten lawsuits.
 
 But from a cybersecurity standpoint, this approach is backwards. The more people who know a breach happened, the more people can take precautions. The more people who understand their risk, the better they can protect themselves. Silence doesn't protect anyone except the company that got hacked.
 

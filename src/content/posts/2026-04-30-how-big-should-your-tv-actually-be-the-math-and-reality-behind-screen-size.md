@@ -10,7 +10,7 @@ tags_color: '#2196f3'
 
 "Get the biggest TV you can afford." It's a saying that's stuck around for good reason, and honestly, it still holds up. But it's also not the whole story. The real question people struggle with is different: how big is too big?
 
-The good news is that <a href="https://infeeds.com/tags/?tag=technology">technology</a> has made TVs genuinely cheaper year after year, even the premium models. So sizing up isn't the financial gut-punch it used to be. The tricky part is figuring out what actually works for your specific room, your couch distance, and whoever else has to live with that giant rectangle on your wall.
+The good news is that <a href="https://infeeds.com/tags/technology">technology</a> has made TVs genuinely cheaper year after year, even the premium models. So sizing up isn't the financial gut-punch it used to be. The tricky part is figuring out what actually works for your specific room, your couch distance, and whoever else has to live with that giant rectangle on your wall.
 
 ## The Math That Actually Matters
 

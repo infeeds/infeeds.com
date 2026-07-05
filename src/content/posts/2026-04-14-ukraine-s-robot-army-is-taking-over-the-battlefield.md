@@ -28,6 +28,6 @@ Here's what matters: these robots aren't game-changers so much as damage-limiter
 
 Russia has noticed the trend and responded in kind, increasing its own robotic deployments over the winter of 2025-2026. So we're not witnessing a Ukrainian technological edge so much as a mutual arms race born from desperation. Both militaries are racing to replace flesh with circuits because flesh dies too easily now.
 
-The broader lesson extends far beyond Ukraine. [Warfare technology](https://infeeds.com/tags/?tag=technology) has become so lethal that traditional approaches to combat are increasingly untenable. Drones made the old ways lethal. Robots are the response. It's not evolution. It's adaptation to a changed world.
+The broader lesson extends far beyond Ukraine. [Warfare technology](https://infeeds.com/tags/technology) has become so lethal that traditional approaches to combat are increasingly untenable. Drones made the old ways lethal. Robots are the response. It's not evolution. It's adaptation to a changed world.
 
 Whether Zelenskyy's claim about robots forcing surrenders is real or propaganda, the underlying shift is genuine. The battlefield is becoming a place where machines do work that humans physically cannot do without dying. That's not progress in any meaningful sense. It's just what happens when you make warfare too dangerous for humans to survive.

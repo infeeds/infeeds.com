@@ -36,7 +36,7 @@ So maybe this isn't purely about Fortnite's operational costs. Maybe it's about 
 
 ## The Bigger Picture
 
-Here's what's interesting: the entire gaming <a href="https://infeeds.com/tags/?tag=technology">Technology</a> industry has been raising prices left and right over the past year. Hardware, software, subscriptions, you name it. Rising development costs, inflation, and tariffs are being cited across the board. It's a legitimate industry trend, not just an Epic Games thing.
+Here's what's interesting: the entire gaming <a href="https://infeeds.com/tags/technology">Technology</a> industry has been raising prices left and right over the past year. Hardware, software, subscriptions, you name it. Rising development costs, inflation, and tariffs are being cited across the board. It's a legitimate industry trend, not just an Epic Games thing.
 
 Still, there's a difference between raising prices gradually across the board and suddenly making your core currency more expensive for the first time in nearly a decade. One feels like market adjustment. The other feels like maximizing profit from a captive audience.
 

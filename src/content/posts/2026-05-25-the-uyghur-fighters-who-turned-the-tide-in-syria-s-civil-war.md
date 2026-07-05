@@ -28,7 +28,7 @@ The result was a practical alliance that disregarded borders, nationalities, and
 
 What strikes me most is how this single dynamic illustrates the interconnected mess of modern conflict. You can't separate Syria's civil war from China's domestic policies. You can't neatly categorize these fighters as "mercenaries" and wash your hands of the nuance. They're humans caught in a terrible feedback loop where suffering in one country spills across continents and manifests in completely unexpected ways.
 
-For those following [news](https://infeeds.com/tags/?tag=news) about the Middle East, this adds another layer to an already impossible puzzle. The Syrian conflict wasn't just a battle between government and rebels—it was a gathering point for grievances from around the world.
+For those following [news](https://infeeds.com/tags/news) about the Middle East, this adds another layer to an already impossible puzzle. The Syrian conflict wasn't just a battle between government and rebels—it was a gathering point for grievances from around the world.
 
 ## The Bigger Picture
 

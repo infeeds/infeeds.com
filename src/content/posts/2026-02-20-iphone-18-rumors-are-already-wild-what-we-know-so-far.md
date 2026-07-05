@@ -34,7 +34,7 @@ We've tested under-display cameras on plenty of phones over the years, and the r
 
 After years of complaints about iPhone thinness, Apple finally prioritized battery in the iPhone 17 Pro. People actually noticed. Now the question is whether they'll keep that momentum going with the iPhone 18.
 
-According to Weibo leakers, the iPhone 18 Pro could pack over 5,000 mAh. The eSIM-only versions might hit 5,200 mAh since they free up space normally used for SIM card slots. That's solid, and there's speculation about new silicone carbon battery [technology](https://infeeds.com/tags/?tag=technology) making an appearance. Time will tell if that actually materializes.
+According to Weibo leakers, the iPhone 18 Pro could pack over 5,000 mAh. The eSIM-only versions might hit 5,200 mAh since they free up space normally used for SIM card slots. That's solid, and there's speculation about new silicone carbon battery [technology](https://infeeds.com/tags/technology) making an appearance. Time will tell if that actually materializes.
 
 The processor side is more straightforward. The A20 chip is coming, built on Apple's new Wafer-Level Multi-Chip Module that puts everything on the same wafer. RAM is integrated directly into the CPU, which should mean better efficiency and performance. It's the kind of incremental improvement that doesn't sound flashy but actually matters in real-world usage. The C2 modem is also rumored to arrive, bringing improved wireless connectivity and potentially full satellite phone capabilities beyond just emergency texting.
 

@@ -26,6 +26,6 @@ NASA considers this mission critical infrastructure for future deep space explor
 
 ## Entertainment Meets Achievement
 
-There's something refreshing about pairing country music with space exploration. It strips away the sterile, purely technical language we often use when discussing <a href="https://infeeds.com/tags/?tag=technology">Technology</a> breakthroughs. Brown's presence reminds us that exploration isn't just for scientists and engineers. It belongs to all of us watching from below, dreaming bigger.
+There's something refreshing about pairing country music with space exploration. It strips away the sterile, purely technical language we often use when discussing <a href="https://infeeds.com/tags/technology">Technology</a> breakthroughs. Brown's presence reminds us that exploration isn't just for scientists and engineers. It belongs to all of us watching from below, dreaming bigger.
 
 The crew returned to Earth on April 10, splashing down in the Pacific Ocean. They left space having set records, tested critical systems, and apparently having woken up to Zac Brown Band. Not bad for a day's work at the edge of human possibility.

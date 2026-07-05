@@ -22,7 +22,7 @@ Here's the thing nobody talks about: just because a laptop is from 2018 doesn't 
 
 An 8th Gen Intel Core i5 with 8GB of RAM and 256GB of storage isn't flashy, but it works. The 12.3-inch touchscreen is still responsive. The 1.7-pound weight still feels portable. Windows 11 still loads. And here's the kicker: you're looking at roughly $230 for a refurbished unit versus $850 new.
 
-That $620 difference isn't just money in your pocket. It's breathing room. It's the flexibility to invest in something else your <a href="https://infeeds.com/tags/?tag=business">business</a> actually needs right now.
+That $620 difference isn't just money in your pocket. It's breathing room. It's the flexibility to invest in something else your <a href="https://infeeds.com/tags/business">business</a> actually needs right now.
 
 ## The Environmental Angle Nobody Mentions
 
@@ -32,7 +32,7 @@ The environmental case is getting harder to ignore. When component costs are ris
 
 ## The Real Question
 
-The deeper issue here isn't really about whether a six-year-old laptop can handle your tasks. It probably can. The real question is whether you're buying <a href="https://infeeds.com/tags/?tag=technology">technology</a> because you need it or because you're afraid of falling behind.
+The deeper issue here isn't really about whether a six-year-old laptop can handle your tasks. It probably can. The real question is whether you're buying <a href="https://infeeds.com/tags/technology">technology</a> because you need it or because you're afraid of falling behind.
 
 There's a difference. One keeps you productive. The other keeps you chasing.
 

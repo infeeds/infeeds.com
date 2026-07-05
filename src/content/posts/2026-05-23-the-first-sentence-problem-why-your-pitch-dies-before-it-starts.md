@@ -18,7 +18,7 @@ The problem isn't knowledge. The founder absolutely knows what they're building.
 
 ## When 10 Seconds Determines Everything
 
-Nobody is reading carefully anymore. [Investors](https://infeeds.com/tags/?tag=business) are skimming pitches between meetings. Journalists are pattern-matching your company against whatever story they covered last week. Potential customers are half-distracted, evaluating whether you're worth their remaining attention span.
+Nobody is reading carefully anymore. [Investors](https://infeeds.com/tags/business) are skimming pitches between meetings. Journalists are pattern-matching your company against whatever story they covered last week. Potential customers are half-distracted, evaluating whether you're worth their remaining attention span.
 
 This isn't laziness. It's just the reality of moving fast through information.
 
@@ -34,7 +34,7 @@ There's a simple test for whether your opening explanation is working. Find some
 
 Here's what most founders miss: the "what we're not" part.
 
-When something new appears, the brain's fastest move is to attach it to something familiar. That's not a flaw in how people think. That's just categorization. But in spaces like proptech and other emerging [technology](https://infeeds.com/tags/?tag=technology) sectors, the familiar category people reach for is usually wrong. Different business models get lumped together constantly. And once that comparison sticks, it quietly shapes every conversation that follows.
+When something new appears, the brain's fastest move is to attach it to something familiar. That's not a flaw in how people think. That's just categorization. But in spaces like proptech and other emerging [technology](https://infeeds.com/tags/technology) sectors, the familiar category people reach for is usually wrong. Different business models get lumped together constantly. And once that comparison sticks, it quietly shapes every conversation that follows.
 
 Being specific about what you're not is one of the most underused tools in early-stage messaging. It cuts through that mental filing system before someone else does it for you.
 

@@ -24,9 +24,9 @@ Still, nearby countries are on alert, and the WHO explicitly advised against bor
 
 ## Silicon Valley's Billion-Dollar Courtroom Drama
 
-A jury in California is diving into deliberations this week in a <a href="https://infeeds.com/tags/?tag=technology">Technology</a> case that's part scorned founder story, part ideological betrayal. Elon Musk is suing OpenAI, CEO Sam Altman, and others over a company the two co-founded together in 2015.
+A jury in California is diving into deliberations this week in a <a href="https://infeeds.com/tags/technology">Technology</a> case that's part scorned founder story, part ideological betrayal. Elon Musk is suing OpenAI, CEO Sam Altman, and others over a company the two co-founded together in 2015.
 
-The stakes are huge in <a href="https://infeeds.com/tags/?tag=business">Business</a> terms. OpenAI started as a nonprofit dedicated to developing AI for humanity's benefit. Musk left after a power struggle. Now he's claiming his former partners "stole a charity." The lawsuit centers on whether OpenAI transformed from a nonprofit mission into a profit-chasing machine without honoring its original commitments.
+The stakes are huge in <a href="https://infeeds.com/tags/business">Business</a> terms. OpenAI started as a nonprofit dedicated to developing AI for humanity's benefit. Musk left after a power struggle. Now he's claiming his former partners "stole a charity." The lawsuit centers on whether OpenAI transformed from a nonprofit mission into a profit-chasing machine without honoring its original commitments.
 
 The trial is essentially asking: what does it mean to betray the founding principles of a company? And who decides?
 

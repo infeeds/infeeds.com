@@ -22,7 +22,7 @@ So this wasn't some lucky break. This was coordination between Mexican military 
 
 The immediate fallout was visible within hours. Cars burning on the streets of Jalisco. Armed men appearing in public. The governor issued a code red warning. The US issued a shelter-in-place alert across multiple Mexican states including Jalisco, Tamaulipas, and parts of Michoacan, Guerrero, and Nuevo Leon.
 
-It was chaos, but it was understandable chaos. A power vacuum in a [major crime organization](https://infeeds.com/tags/?tag=news) creates immediate instability.
+It was chaos, but it was understandable chaos. A power vacuum in a [major crime organization](https://infeeds.com/tags/news) creates immediate instability.
 
 ## Why This Actually Matters (And Why It Might Not)
 
@@ -34,7 +34,7 @@ But here's where we need to be honest: cartel leadership deaths don't always tra
 
 ## The Real Question
 
-What happens to CJNG now matters less than what it says about Mexico's [security challenges](https://infeeds.com/tags/?tag=news) more broadly. Can the government maintain this momentum? Can they capitalize on the disruption to weaken the organization further? Or will a successor emerge and stabilize operations within weeks?
+What happens to CJNG now matters less than what it says about Mexico's [security challenges](https://infeeds.com/tags/news) more broadly. Can the government maintain this momentum? Can they capitalize on the disruption to weaken the organization further? Or will a successor emerge and stabilize operations within weeks?
 
 The burning cars and armed men in the streets on Sunday suggest the organization still has teeth, still has reach, still has the ability to respond immediately to crisis. That's not nothing. That's a reminder that El Mencho's death, while significant, doesn't represent the end of anything. It represents a transition point.
 

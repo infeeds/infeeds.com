@@ -40,7 +40,7 @@ That leaves us with a more fascinating explanation: Neanderthal males preferred 
 
 You'd need not just male Neanderthals choosing modern human partners, but their offspring being favored as well. The preference would have to echo through generations, with mixed-ancestry individuals being continuously selected for or at least not filtered out.
 
-The researchers were careful here. They acknowledged that the real answer might be messier than a simple either-or scenario. Maybe <a href="https://infeeds.com/tags/?tag=technology">technology</a> in understanding ancient DNA and natural selection combined to create this pattern. Maybe there were social factors we simply can't access anymore.
+The researchers were careful here. They acknowledged that the real answer might be messier than a simple either-or scenario. Maybe <a href="https://infeeds.com/tags/technology">technology</a> in understanding ancient DNA and natural selection combined to create this pattern. Maybe there were social factors we simply can't access anymore.
 
 ## What This Means
 

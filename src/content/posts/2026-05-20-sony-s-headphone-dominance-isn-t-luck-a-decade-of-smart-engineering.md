@@ -12,7 +12,7 @@ There's something almost unfair about Sony's grip on the wireless headphone mark
 
 Rich, detailed sound. Comfortable designs you won't regret wearing for hours. Active noise cancellation that genuinely silences the chaos around you. These aren't flashy features. They're the things that determine whether a $150 pair of headphones feels like a bargain or a waste.
 
-Yet Sony's success masks a more interesting question. In a crowded [business](https://infeeds.com/tags/?tag=business) landscape packed with competent competitors from Bose, Apple, and others, what gives Sony such a consistent edge? And more importantly, do you actually need to spend $460 on their flagship model, or is the cheaper option sitting just below it the smarter move?
+Yet Sony's success masks a more interesting question. In a crowded [business](https://infeeds.com/tags/business) landscape packed with competent competitors from Bose, Apple, and others, what gives Sony such a consistent edge? And more importantly, do you actually need to spend $460 on their flagship model, or is the cheaper option sitting just below it the smarter move?
 
 ## The Flagship Dilemma: XM5 vs XM6
 
@@ -62,7 +62,7 @@ Sony released the WF-1000XM6 earbuds with even better ANC and improved call qual
 
 Sony's consistent performance across its lineup raises an interesting point about how markets work. At the top end, differences between competing headphones from major brands tend to be minimal. Distinctions center on design, features, and subtle qualities rather than fundamental performance gaps. This is actually a healthy sign for consumers. It means you're not forced into one choice.
 
-Yet when it comes to noise cancellation specifically, Sony sits near the top of the pile. Only Bose headphones consistently rival their ANC capabilities. In a [technology](https://infeeds.com/tags/?tag=technology) category where one feature can make or break the product, that's worth noting.
+Yet when it comes to noise cancellation specifically, Sony sits near the top of the pile. Only Bose headphones consistently rival their ANC capabilities. In a [technology](https://infeeds.com/tags/technology) category where one feature can make or break the product, that's worth noting.
 
 What separates Sony from its competitors isn't revolutionary engineering. It's consistency. They test extensively in real-world environments. They iterate carefully on designs that work. They don't chase trends that don't matter. Over a decade of reviews, that approach compounds into a reputation that's hard to shake.
 

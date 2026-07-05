@@ -20,7 +20,7 @@ Another commercial shows a skinny young guy asking for workout advice to build a
 
 The ads are a direct jab at OpenAI's announcement that it's bringing advertisements to ChatGPT's free version. Media outlets immediately picked up on the drama, with headlines saying Anthropic "mocks," "skewers," and "dunks on" its rival. Even Altman admitted he laughed at the commercials, but that admission came wrapped in what can only be described as a social media manifesto.
 
-Altman's response started off acknowledging the humor, then quickly spiraled into accusations that Anthropic was being "dishonest" and "authoritarian." That's quite the escalation for some cheeky [Technology](https://infeeds.com/tags/?tag=technology) company commercials.
+Altman's response started off acknowledging the humor, then quickly spiraled into accusations that Anthropic was being "dishonest" and "authoritarian." That's quite the escalation for some cheeky [Technology](https://infeeds.com/tags/technology) company commercials.
 
 He argued that OpenAI would never run ads the way Anthropic depicted them, that users would obviously reject such intrusive advertising. OpenAI has promised that ads will be separate, clearly labeled, and won't influence conversations. But here's the thing: OpenAI also said it plans to test ads "at the bottom of answers in ChatGPT when there's a relevant sponsored product or service based on your current conversation." That's literally conversation-specific advertising, which is exactly what Anthropic's ads were making fun of.
 
@@ -28,7 +28,7 @@ He argued that OpenAI would never run ads the way Anthropic depicted them, that 
 
 Altman tried to position OpenAI as the company serving the masses while painting Anthropic as some elitist operation. "Anthropic serves an expensive product to rich people," he wrote. "We also feel strongly that we need to bring AI to billions of people who can't pay for subscriptions."
 
-Except Claude also has a free tier. And when you line up the subscription options side by side, they're remarkably similar. Claude offers plans at $0, $17, $100, and $200. ChatGPT has tiers at $0, $8, $20, and $200. The pricing structures are practically identical in [business](https://infeeds.com/tags/?tag=business) terms.
+Except Claude also has a free tier. And when you line up the subscription options side by side, they're remarkably similar. Claude offers plans at $0, $17, $100, and $200. ChatGPT has tiers at $0, $8, $20, and $200. The pricing structures are practically identical in [business](https://infeeds.com/tags/business) terms.
 
 The "authoritarian" accusation is where things got really weird. Altman claimed Anthropic wants to control what people do with AI, that it blocks Claude Code usage from companies it doesn't like (including OpenAI), and that it dictates acceptable use cases. He called it "a dark path" and warned about "one authoritarian company" controlling AI development.
 
@@ -42,4 +42,4 @@ What makes this situation fascinating is how deeply Anthropic's ads got under Al
 
 OpenAI can promise all day that ads won't influence responses, but the moment you see an advertisement connected to your conversation, doubt creeps in. Did it recommend that restaurant because it's actually good, or because someone paid for placement? The skepticism is automatic and probably impossible to eliminate entirely.
 
-Anthropic's marketing team understood this anxiety perfectly and weaponized it in 30-second spots that made people laugh while making OpenAI's [news](https://infeeds.com/tags/?tag=news) about ads look questionable. And judging by the length and tone of Altman's response, it worked better than anyone at Anthropic probably hoped. When your competitor writes an essay calling you dishonest and authoritarian because of your Super Bowl commercials, you've already won the PR battle.
+Anthropic's marketing team understood this anxiety perfectly and weaponized it in 30-second spots that made people laugh while making OpenAI's [news](https://infeeds.com/tags/news) about ads look questionable. And judging by the length and tone of Altman's response, it worked better than anyone at Anthropic probably hoped. When your competitor writes an essay calling you dishonest and authoritarian because of your Super Bowl commercials, you've already won the PR battle.

@@ -18,13 +18,13 @@ The Crew Dragon spacecraft carrying four fresh astronauts finally docked with th
 
 NASA doesn't usually talk about these things, but one of the Crew-11 astronauts had a serious health issue just days into the new year. The agency won't say who it was, only that they're recovering back on Earth. Privacy matters, even 250 miles up.
 
-But here's the thing about [space exploration](https://infeeds.com/tags/?tag=space). When something goes wrong, the ripple effects are huge. The entire Crew-11 team came home on January 15, more than a month ahead of schedule. That left Williams as the only person qualified to handle the US Orbital Segment, which includes areas maintained by NASA and partner agencies from Canada, Europe, and Japan.
+But here's the thing about [space exploration](https://infeeds.com/tags/space). When something goes wrong, the ripple effects are huge. The entire Crew-11 team came home on January 15, more than a month ahead of schedule. That left Williams as the only person qualified to handle the US Orbital Segment, which includes areas maintained by NASA and partner agencies from Canada, Europe, and Japan.
 
 The space station isn't some sleek sci-fi set. Parts of it are over two decades old, meaning something always needs fixing, monitoring, or babysitting. Williams spent most of his time on maintenance duty, which isn't exactly why astronauts sign up for the job.
 
 ## The Scramble to Launch Early
 
-Back on the ground, NASA and SpaceX had their own challenges. They needed to move up the Crew-12 launch by several weeks to get help to Williams as fast as possible. That's no small ask when you're dealing with [technology](https://infeeds.com/tags/?tag=technology) this complex.
+Back on the ground, NASA and SpaceX had their own challenges. They needed to move up the Crew-12 launch by several weeks to get help to Williams as fast as possible. That's no small ask when you're dealing with [technology](https://infeeds.com/tags/technology) this complex.
 
 The teams pulled it off though. Dragon launched early Friday morning and made it to the station by Saturday evening. NASA Administrator Jared Isaacman, who knows a thing or two about pressure situations, praised the workforce during a post-launch news conference. His comment about being "mission focused" wasn't just corporate speak either. These teams were simultaneously prepping for the Artemis II mission while juggling two emergency crew operations.
 
@@ -32,7 +32,7 @@ SpaceX's Crew Dragon program has been flying regularly since late 2020, and NASA
 
 ## What This Says About Modern Spaceflight
 
-Williams reached orbit back in November on a Russian Soyuz spacecraft alongside cosmonauts Sergey Kud-Sverchkov and Sergei Mikaev. The fact that international cooperation still functions this well in [space](https://infeeds.com/tags/?tag=space), despite tensions on Earth, says something important about what humans can achieve when they actually try.
+Williams reached orbit back in November on a Russian Soyuz spacecraft alongside cosmonauts Sergey Kud-Sverchkov and Sergei Mikaev. The fact that international cooperation still functions this well in [space](https://infeeds.com/tags/space), despite tensions on Earth, says something important about what humans can achieve when they actually try.
 
 The speed at which NASA and SpaceX responded to this crisis also shows how far commercial spaceflight has come. A decade ago, bringing a crew home early and launching replacements ahead of schedule would have been nearly impossible. Now it's something they can pull off in a matter of weeks while simultaneously working on moon missions.
 

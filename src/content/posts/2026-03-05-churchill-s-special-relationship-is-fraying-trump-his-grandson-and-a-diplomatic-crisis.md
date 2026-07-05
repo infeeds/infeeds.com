@@ -28,7 +28,7 @@ The relationship survived the Cold War. It survived Tony Blair's unpopular Iraq 
 
 What's changed under Trump is tone, approach, and a willingness to question whether this partnership is actually worth maintaining. There's been talk of tariffs on British goods. There's been criticism of how the U.K. operates. And there's been a general sense that Trump views international relationships as transactional rather than relational.
 
-Churchill's grandson, Nicholas Soames, has been particularly vocal about this. He's not just expressing concern from the sidelines. He's actively warning that the foundation of <a href="https://infeeds.com/tags/?tag=news">news</a> coming out of Washington and London suggests a real cooling between the two countries.
+Churchill's grandson, Nicholas Soames, has been particularly vocal about this. He's not just expressing concern from the sidelines. He's actively warning that the foundation of <a href="https://infeeds.com/tags/news">news</a> coming out of Washington and London suggests a real cooling between the two countries.
 
 When family speaks up, people listen. And when it's the grandson of the man who literally coined the phrase, you definitely listen.
 
@@ -50,7 +50,7 @@ The economic implications are significant too. Trade between the U.S. and U.K. h
 
 ## Is This Actually Happening?
 
-Some observers think the doom and gloom is overblown. They argue that relationships between major powers have natural ebbs and flows. They point out that cooperation on <a href="https://infeeds.com/tags/?tag=news">security and defense</a> continues even amid political tensions. They suggest that this is just another chapter, not the final one.
+Some observers think the doom and gloom is overblown. They argue that relationships between major powers have natural ebbs and flows. They point out that cooperation on <a href="https://infeeds.com/tags/news">security and defense</a> continues even amid political tensions. They suggest that this is just another chapter, not the final one.
 
 Maybe they're right. Maybe Soames and the worried diplomats are catastrophizing. Maybe in five years, people will look back and laugh at how pessimistic everyone was being.
 

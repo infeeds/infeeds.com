@@ -22,7 +22,7 @@ So when xAI's coding tools lag behind the competition, it's not some abstract be
 
 A month ago, 11 senior engineers left xAI following what Musk called a "reorganization." That included two other co-founders. But apparently that purge wasn't enough, because now SpaceX and Tesla executives have parachuted into the company to evaluate employees and identify who doesn't meet the cut. That's the kind of move you make when you've lost confidence in your current leadership structure.
 
-The [business](/tags/?tag=business) problem is real: xAI has just over 5,000 employees compared to more than 7,500 at OpenAI and more than 4,700 at Anthropic. They're smaller, they're losing people, and they're playing catch-up on the technology that actually matters.
+The [business](/tags/business) problem is real: xAI has just over 5,000 employees compared to more than 7,500 at OpenAI and more than 4,700 at Anthropic. They're smaller, they're losing people, and they're playing catch-up on the technology that actually matters.
 
 Musk has started digging through rejected job applications with a colleague named Baris Akis, reaching out to candidates who didn't make the cut before. He even apologized on X for ghosting people. That's a pretty low moment for a company that's supposed to be building the future.
 
@@ -46,7 +46,7 @@ Beyond coding tools, Musk is betting on something larger called Macrohard. Yes, 
 
 Sounds great in theory. Execution has been rough. The project lead left within weeks. Business Insider reported it was on pause. Then this week, Musk revealed it's actually a joint effort with Tesla, which is building a complementary agent called "Digital Optimus" (wink wink, humanoid robot reference).
 
-The vision is ambitious but not original. Perplexity is already working on something similar. OpenAI has Peter Steinberger developing agents there. The [technology](/tags/?tag=technology) space is crowded and moving fast, and xAI is trying to play catch-up while rebuilding its entire company culture at the same time.
+The vision is ambitious but not original. Perplexity is already working on something similar. OpenAI has Peter Steinberger developing agents there. The [technology](/tags/technology) space is crowded and moving fast, and xAI is trying to play catch-up while rebuilding its entire company culture at the same time.
 
 ## The Real Question
 

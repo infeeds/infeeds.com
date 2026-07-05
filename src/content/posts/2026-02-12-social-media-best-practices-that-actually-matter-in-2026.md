@@ -20,7 +20,7 @@ Here's what actually matters now.
 
 Algorithms don't care about your follower count anymore. They care about relevance. If you're consistently reaching the right people and those people are engaging, you win. If you're accumulating followers who never interact with your content, you're basically invisible.
 
-Every [business](https://infeeds.com/tags/?tag=business) running social media should know exactly who they're talking to. Not just demographics, but actual behavior patterns. What platforms do they use? What time are they online? What problems are they trying to solve?
+Every [business](https://infeeds.com/tags/business) running social media should know exactly who they're talking to. Not just demographics, but actual behavior patterns. What platforms do they use? What time are they online? What problems are they trying to solve?
 
 Your CRM and Google Analytics already have most of these answers. Social media insights fill in the gaps. The hard part isn't finding the data. It's actually using it to inform your content strategy instead of just posting whatever feels right.
 
@@ -78,7 +78,7 @@ Social listening is scanning platforms for mentions of your brand, products, com
 
 This gives you real-time insight into what people actually think about your company. Not what they tell you in surveys or focus groups, but what they say when they think you're not listening.
 
-You can spot trending topics in your industry, monitor competitors, and catch customer complaints before they snowball. [Business](https://infeeds.com/tags/?tag=business) teams that use social listening well earn more credibility and bigger budgets because they deliver insights that drive real impact.
+You can spot trending topics in your industry, monitor competitors, and catch customer complaints before they snowball. [Business](https://infeeds.com/tags/business) teams that use social listening well earn more credibility and bigger budgets because they deliver insights that drive real impact.
 
 ## AI Can Help, But It Can't Replace Strategy
 
@@ -90,7 +90,7 @@ AI should make your team faster and more efficient. It shouldn't make your conte
 
 ## Social Media Is a Customer Service Channel Now
 
-More than half of consumers prefer chat-based customer service over phone calls. That includes social media DMs and comments. If you're ignoring messages or taking days to respond, you're losing [business](https://infeeds.com/tags/?tag=business).
+More than half of consumers prefer chat-based customer service over phone calls. That includes social media DMs and comments. If you're ignoring messages or taking days to respond, you're losing [business](https://infeeds.com/tags/business).
 
 The tricky part is that customers don't always tag you directly. They ask questions in comments, share feedback in posts, and request support without ever mentioning your handle. Social listening helps you catch these conversations before they spiral.
 

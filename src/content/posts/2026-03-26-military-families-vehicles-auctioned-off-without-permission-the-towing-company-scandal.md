@@ -26,7 +26,7 @@ Think about the practical reality here. A Marine gets deployed for six months. W
 
 ## When "Business as Usual" Crosses Into Crime
 
-What makes this case particularly egregious is the attitude. A manager casually admitting they do this "all the time" suggests this wasn't negligence. It was practice. It was [business](https://infeeds.com/tags/?tag=business) strategy.
+What makes this case particularly egregious is the attitude. A manager casually admitting they do this "all the time" suggests this wasn't negligence. It was practice. It was [business](https://infeeds.com/tags/business) strategy.
 
 Assistant U.S. Attorney Bill Essayli put it plainly in the announcement: "It is unacceptable and illegal for a business to sell or dispose of these vehicles without abiding by the laws that protect servicemembers."
 

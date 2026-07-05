@@ -20,7 +20,7 @@ But here's what nobody wants to talk about: access to courses doesn't equal actu
 
 ## The Problem Isn't Course Availability
 
-Walk into any [business](https://infeeds.com/tags/?tag=business) meeting these days and someone will inevitably bring up upskilling. It's become the corporate equivalent of eating your vegetables. Everyone agrees it's important, everyone nods along, but implementation is where things fall apart.
+Walk into any [business](https://infeeds.com/tags/business) meeting these days and someone will inevitably bring up upskilling. It's become the corporate equivalent of eating your vegetables. Everyone agrees it's important, everyone nods along, but implementation is where things fall apart.
 
 The real issue isn't finding courses. The internet is drowning in educational content. YouTube alone could probably upskill your entire team if they actually watched with intention instead of letting videos play in the background while checking emails. The issue is creating an environment where learning actually sticks and gets applied.
 
@@ -32,7 +32,7 @@ Professional development works when it's targeted, timely, and tied to real outc
 
 The platform includes progress tracking and quarterly instructor Q&A webinars, which are genuinely useful features if you're actually using the service. The 4.6/5 Trustpilot rating suggests some people are finding value. But ratings on learning platforms often come from the motivated 10% who would probably succeed learning from a library book anyway.
 
-The [technology](https://infeeds.com/tags/?tag=technology) angle is interesting though. Courses on AI, blockchain, and emerging tech can provide real value if you're in an industry being disrupted by these forces. Understanding the fundamentals of how these systems work gives you enough knowledge to ask better questions and make smarter decisions, even if you're not the one building them.
+The [technology](https://infeeds.com/tags/technology) angle is interesting though. Courses on AI, blockchain, and emerging tech can provide real value if you're in an industry being disrupted by these forces. Understanding the fundamentals of how these systems work gives you enough knowledge to ask better questions and make smarter decisions, even if you're not the one building them.
 
 ## The Flexibility Trap
 
@@ -46,7 +46,7 @@ This isn't a knock on StackSkills specifically. It's the fundamental challenge o
 
 If you're going to invest in something like this, the real value comes from using it as a curated resource for specific problems. Need to understand the basics of digital marketing for a new product launch? Great, there's probably a focused course for that. Team member needs to get up to speed on a particular software tool? Find the relevant course and make it part of their onboarding.
 
-Treating it like Netflix for professional skills, browsing for interesting topics when you're bored, that's where the value proposition falls apart. The courses covering [finance](https://infeeds.com/tags/?tag=business), graphic design, and business fundamentals are only useful if they're filling a specific, immediate knowledge gap.
+Treating it like Netflix for professional skills, browsing for interesting topics when you're bored, that's where the value proposition falls apart. The courses covering [finance](https://infeeds.com/tags/business), graphic design, and business fundamentals are only useful if they're filling a specific, immediate knowledge gap.
 
 The discount from $600 to $19.97 is aggressive enough to make you wonder about the actual value proposition. Either the original price was wildly inflated, or the business model relies on volume sales to people who won't actually use the product extensively. Probably both.
 

@@ -24,7 +24,7 @@ The position might also develop from chronic pain or past injuries. Your body le
 
 ## Maybe You Just Sleep That Way
 
-Here's the thing that gets lost in all the viral [health](https://infeeds.com/tags/?tag=health) content claiming to decode your every move: sometimes you sleep like a flamingo because it's comfortable. That's it. No hidden trauma signals, no urgent medical red flags.
+Here's the thing that gets lost in all the viral [health](https://infeeds.com/tags/health) content claiming to decode your every move: sometimes you sleep like a flamingo because it's comfortable. That's it. No hidden trauma signals, no urgent medical red flags.
 
 Jade Wu, a board-certified sleep psychologist, emphasizes that we naturally gravitate toward positions that feel good to our bodies. If you're sleeping on your side with one leg up, you might actually be helping yourself breathe better at night. This variation can lower your risk of sleep apnea and other breathing problems compared to sleeping flat on your back.
 

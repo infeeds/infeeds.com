@@ -24,7 +24,7 @@ This creates an interesting arbitrage opportunity for bargain hunters willing to
 
 The inventory mix at Bin Wins is genuinely eclectic. Johnson found cases of Alani Nu energy drinks and Fairlife Core Power protein shakes, typically retailing for $30 to $40. There were shoes, clothing, seasonal decorations like Halloween items and Christmas stockings, and even auto parts. Employees mentioned spotting high-ticket items like AirPods in previous loads, though Johnson didn't personally see those during her visit.
 
-The <a href="https://infeeds.com/tags/?tag=business">business</a> model relies on speed and volume. Returns and overstock that cost Staples money to store get liquidated quickly. For shoppers, it means every bin visit is a lucky dip. You might find a genuinely discounted item or something that should've stayed in the warehouse.
+The <a href="https://infeeds.com/tags/business">business</a> model relies on speed and volume. Returns and overstock that cost Staples money to store get liquidated quickly. For shoppers, it means every bin visit is a lucky dip. You might find a genuinely discounted item or something that should've stayed in the warehouse.
 
 Johnson used her Amazon app's barcode scanner to verify retail prices on items she was considering. This simple trick cuts through the guesswork about whether something is actually a deal or just clearance priced merchandise nobody wanted at full price.
 

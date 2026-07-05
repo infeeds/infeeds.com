@@ -14,7 +14,7 @@ The investment makes a certain kind of sense, though. While Match Group's flagsh
 
 ## Why Match Group Needs a Win
 
-Match Group owns basically everything you've ever swiped on: Tinder, Match, OkCupid, Hinge. Yet the company is stuck in a rut. In February, it beat quarterly estimates but reported declining user growth across its major properties. The broader [tech](https://infeeds.com/tags/?tag=technology) industry has noticed too. Americans increasingly say they're tired of dating apps. They want serendipity. They want bookstore encounters. They want to ask someone for their number without opening an algorithm.
+Match Group owns basically everything you've ever swiped on: Tinder, Match, OkCupid, Hinge. Yet the company is stuck in a rut. In February, it beat quarterly estimates but reported declining user growth across its major properties. The broader [tech](https://infeeds.com/tags/technology) industry has noticed too. Americans increasingly say they're tired of dating apps. They want serendipity. They want bookstore encounters. They want to ask someone for their number without opening an algorithm.
 
 This is existential. Dating apps made their money on network effects and habit formation. When the habit breaks, so does the revenue model.
 
@@ -26,7 +26,7 @@ Spencer Rascoff, CEO of Match Group, said in a statement that the Sniffies team 
 
 Sniffies will continue operating independently, with Match Group playing the role of strategic backer and growth partner.
 
-## A [Business](https://infeeds.com/tags/?tag=business) Model Under Pressure
+## A [Business](https://infeeds.com/tags/business) Model Under Pressure
 
 The bigger picture here is instructive. Match Group's core business faces pressure from changing user behavior and cultural attitudes toward digital dating. The company has responded by diversifying into niche communities with specific needs and loyal audiences. That's pragmatic, but it also signals that the era of the mega-app solving romance for billions might be ending.
 

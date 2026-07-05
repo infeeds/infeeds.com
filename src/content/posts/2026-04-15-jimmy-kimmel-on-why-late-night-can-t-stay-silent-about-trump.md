@@ -36,7 +36,7 @@ The conversation took a darker turn when Kimmel addressed comedians who've gone 
 
 Obama added a blunt observation: "For some of these folks, this is a game. This is a hustle."
 
-That distinction matters in understanding the landscape of contemporary [media](https://infeeds.com/tags/?tag=media). There's a real difference between a performer making calculated choices to align with power and someone actually wrestling with their responsibility to their audience. One is strategy. The other is conscience.
+That distinction matters in understanding the landscape of contemporary [media](https://infeeds.com/tags/media). There's a real difference between a performer making calculated choices to align with power and someone actually wrestling with their responsibility to their audience. One is strategy. The other is conscience.
 
 ## The Admission That Haunts MAGA
 
@@ -46,4 +46,4 @@ That observation cuts to something deeper than just political tribalism. It spea
 
 Kimmel's position isn't complicated or particularly courageous. He's simply saying that when you have a platform and you see something worth discussing, you discuss it. That it might be uncomfortable doesn't change the obligation. That it might cost you doesn't make it optional.
 
-The fact that this needs to be said at all, and that it's worth parsing in a conversation with a former first lady, tells you something about where we are. When basic accountability and honest reflection become newsworthy, when a comedian has to explain why he talks about politics on a [news](https://infeeds.com/tags/?tag=news)-adjacent platform, the conversation itself has become the story.
+The fact that this needs to be said at all, and that it's worth parsing in a conversation with a former first lady, tells you something about where we are. When basic accountability and honest reflection become newsworthy, when a comedian has to explain why he talks about politics on a [news](https://infeeds.com/tags/news)-adjacent platform, the conversation itself has become the story.

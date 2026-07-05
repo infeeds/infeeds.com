@@ -24,7 +24,7 @@ According to Fernando Garberoglio, lead author on the study and researcher at th
 
 This wasn't just a minor correction. This was a whole new picture of snake origins. Bigger bodies. Bigger mouths. Different hunting strategies. A different lifestyle entirely.
 
-## Unlocking Hidden Details with [Technology](https://infeeds.com/tags/?tag=technology)
+## Unlocking Hidden Details with [Technology](https://infeeds.com/tags/technology)
 
 The breakthrough wouldn't have been possible without micro-CT scanning, a technique that let researchers see inside the fossil without cracking it open. They could trace the paths of nerves and blood vessels, reconstruct bones buried deep in the rock, and examine anatomical details that would otherwise remain hidden.
 

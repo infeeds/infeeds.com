@@ -14,7 +14,7 @@ According to the National Retail Federation, U.S. retailers processed $849.9 bil
 
 But here's where it gets worse: ecommerce retailers are getting hammered even harder. The NRF estimates that more than 19% of online sales were returned last year. Capital One research paints an even starker picture, showing ecommerce returns averaging 24.5% of sales compared to just 8.72% for brick-and-mortar purchases. When roughly one in four orders comes back through the door, the economics start to break down fast.
 
-The [business](https://infeeds.com/tags/?tag=business) case for fixing this is straightforward: the longer returned merchandise sits in a warehouse, the faster it loses value. But execution? That's where most ecommerce businesses are falling apart.
+The [business](https://infeeds.com/tags/business) case for fixing this is straightforward: the longer returned merchandise sits in a warehouse, the faster it loses value. But execution? That's where most ecommerce businesses are falling apart.
 
 ## The Fashion Collapse
 
@@ -32,7 +32,7 @@ The complexity has multiplied. Returns now arrive from multiple sales channels, 
 
 The ripple effects are real. Inefficient returns processing disrupts picking operations, distorts inventory accuracy, and slows outbound fulfillment. It's not just a returns problem anymore. It becomes an operational crisis.
 
-## Where [Technology](https://infeeds.com/tags/?tag=technology) Enters
+## Where [Technology](https://infeeds.com/tags/technology) Enters
 
 The retailers who are actually managing this well have one thing in common: they've invested in warehouse management systems (WMS) built for reverse logistics. A purpose-built system creates structured workflows, guides teams through each stage from receipt through inspection and disposition, and replaces guesswork with standardized decision-making.
 

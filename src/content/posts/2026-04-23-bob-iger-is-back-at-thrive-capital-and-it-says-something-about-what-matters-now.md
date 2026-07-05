@@ -30,13 +30,13 @@ This isn't a venture firm scrappy for attention. This is institutional capital a
 
 The easy answer is that Iger's name carries weight. Decades of experience building Disney into a global powerhouse doesn't hurt when you're trying to mentor founders navigating impossibly complex businesses. He's navigated boardroom politics, content wars, streaming transitions, and geopolitical minefields.
 
-But Kushner's "leadership matters most" comment hints at something else. We're in a period where [Technology](https://infeeds.com/tags/?tag=technology) ambitions are running high, capital is plentiful, and founders are building things that require not just technical brilliance but also institutional savvy. AI companies need to navigate government regulation. Payments platforms need to work with legacy financial systems. Space companies need to think decades ahead.
+But Kushner's "leadership matters most" comment hints at something else. We're in a period where [Technology](https://infeeds.com/tags/technology) ambitions are running high, capital is plentiful, and founders are building things that require not just technical brilliance but also institutional savvy. AI companies need to navigate government regulation. Payments platforms need to work with legacy financial systems. Space companies need to think decades ahead.
 
 That's a different kind of leadership than scrappy startup hustle. It's the kind Iger actually practiced.
 
 ## The Mutual Benefit
 
-For Iger, this move makes obvious sense. He's not retired. He's probably not done working. But a full-time CEO job at another Fortune 500 company carries different baggage than advising a [Business](https://infeeds.com/tags/?tag=business) firm where he already has an ownership stake. It's influence without the exhaustion.
+For Iger, this move makes obvious sense. He's not retired. He's probably not done working. But a full-time CEO job at another Fortune 500 company carries different baggage than advising a [Business](https://infeeds.com/tags/business) firm where he already has an ownership stake. It's influence without the exhaustion.
 
 For Thrive, they're signaling something to their founders and their limited partners. They have access to serious, proven executive talent. That matters when you're asking founders to think bigger and longer-term than most startups naturally do.
 

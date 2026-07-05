@@ -18,7 +18,7 @@ I've wanted to recommend this machine for months. It's genuinely one of the best
 
 But $1,500 was ridiculous. Sure, it came with 24GB of RAM and a full terabyte of storage right out of the gate, but that price tag put it in direct competition with machines that had more going for them in specific categories. The Zenbook was great at everything, exceptional at nothing, and premium pricing needs exceptional.
 
-At $1,000 though? Different story entirely. You're getting that same memory and storage, plus a gorgeous 2880 x 1800 OLED display running at 120Hz. That's the kind of screen that makes everything from editing photos to watching content feel premium. The [Technology](https://infeeds.com/tags/?tag=technology) packed into this chassis was always impressive, it just needed the right price point to match.
+At $1,000 though? Different story entirely. You're getting that same memory and storage, plus a gorgeous 2880 x 1800 OLED display running at 120Hz. That's the kind of screen that makes everything from editing photos to watching content feel premium. The [Technology](https://infeeds.com/tags/technology) packed into this chassis was always impressive, it just needed the right price point to match.
 
 ## Ports That Actually Make Sense
 
@@ -28,7 +28,7 @@ There's a 14-inch version available too, currently priced at $1,300. It's a dece
 
 ## The Update Question
 
-Here's where things get interesting. Asus has a 2026 update coming with Intel's latest chips, but it's only hitting the 14-inch model. From testing, those new CPUs make a real difference, especially for graphics performance. But here's my bet: Asus will launch that updated model at an even higher price than the original $1,500, and with memory shortages making headlines in [business](https://infeeds.com/tags/?tag=business) circles, they'll have an excuse to keep it there longer.
+Here's where things get interesting. Asus has a 2026 update coming with Intel's latest chips, but it's only hitting the 14-inch model. From testing, those new CPUs make a real difference, especially for graphics performance. But here's my bet: Asus will launch that updated model at an even higher price than the original $1,500, and with memory shortages making headlines in [business](https://infeeds.com/tags/business) circles, they'll have an excuse to keep it there longer.
 
 So you're looking at either grabbing this proven machine at half off, or waiting for the new hotness that'll probably cost you significantly more for incremental improvements. The math isn't complicated.
 

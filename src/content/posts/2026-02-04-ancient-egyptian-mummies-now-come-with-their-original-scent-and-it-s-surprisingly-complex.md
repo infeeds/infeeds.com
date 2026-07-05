@@ -20,7 +20,7 @@ The whole project started when Huber's team analyzed residue from canopic jars, 
 
 What they found was surprisingly complex. We're talking beeswax, plant oils, animal fats, bitumen, and resins from trees like pines and larches. They even identified coumarin, which gives off vanilla-like scents and comes from cinnamon and pea plants, plus benzoic acid from fragrant tree resins. This wasn't some basic preservation recipe. The ancient Egyptians were importing ingredients from outside their region and mixing them with the precision of modern perfumers.
 
-The [technology](https://infeeds.com/tags/?tag=technology) used to crack this ancient code is pretty impressive too. Gas chromatography-mass spectrometry helped identify volatile organic compounds, separating what actually came from embalming agents versus what was just decay. It's like CSI but for 3,000-year-old funeral practices.
+The [technology](https://infeeds.com/tags/technology) used to crack this ancient code is pretty impressive too. Gas chromatography-mass spectrometry helped identify volatile organic compounds, separating what actually came from embalming agents versus what was just decay. It's like CSI but for 3,000-year-old funeral practices.
 
 ## From Lab Data to Museum Experience
 
@@ -34,13 +34,13 @@ Two museums jumped on board with different approaches. The Museum August Kestner
 
 There's something about smell that bypasses our rational brain and hits us emotionally. You can read about mummification processes all day, study the tools and techniques, but actually smelling what those ancient embalmers worked with creates a connection that's hard to replicate otherwise.
 
-The ancient Egyptians developed these elaborate preservation techniques because they believed the physical body needed to survive for the afterlife. They weren't just tossing some salt on corpses and calling it good. This was a sophisticated [science](https://infeeds.com/tags/?tag=science) involving trade networks, chemical knowledge, and ritual precision.
+The ancient Egyptians developed these elaborate preservation techniques because they believed the physical body needed to survive for the afterlife. They weren't just tossing some salt on corpses and calling it good. This was a sophisticated [science](https://infeeds.com/tags/science) involving trade networks, chemical knowledge, and ritual precision.
 
 Most of what we know about their methods comes from sparse ancient texts. Herodotus described the basics, liquefying brains through the nose with iron hooks and filling body cavities with spices. But the specific recipes were lost to time until modern analysis could piece together the chemical signatures left behind.
 
 ## The Future of Sensory Museums
 
-Huber's team didn't just create a novelty experience. They developed an entire workflow process that other museums can follow to add scents to their exhibits. It's an interesting shift in how we think about [education](https://infeeds.com/tags/?tag=education) and historical preservation.
+Huber's team didn't just create a novelty experience. They developed an entire workflow process that other museums can follow to add scents to their exhibits. It's an interesting shift in how we think about [education](https://infeeds.com/tags/education) and historical preservation.
 
 The challenge lies in making these experiences accessible without turning them into gimmicks. Nobody wants museums to smell like theme parks, but strategic use of scent could revolutionize how we connect with the past. Imagine smelling the gunpowder from a Civil War exhibit or the bread from a medieval bakery display.
 

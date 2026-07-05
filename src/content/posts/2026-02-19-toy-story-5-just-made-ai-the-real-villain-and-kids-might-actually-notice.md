@@ -26,7 +26,7 @@ That line lands differently depending on who's watching. For parents in the thea
 
 ## The Screen Time Question Nobody Really Wants to Answer
 
-Look, we all know that excessive screen time isn't great for children. The research is pretty clear on that front. But here's the thing about <a href="https://infeeds.com/tags/?tag=technology">technology</a> and kids: it's not going anywhere, and Pixar knows this. They're not trying to convince anyone to throw their tablets in the trash. They're just holding up a mirror and asking if we've thought about what we're looking at.
+Look, we all know that excessive screen time isn't great for children. The research is pretty clear on that front. But here's the thing about <a href="https://infeeds.com/tags/technology">technology</a> and kids: it's not going anywhere, and Pixar knows this. They're not trying to convince anyone to throw their tablets in the trash. They're just holding up a mirror and asking if we've thought about what we're looking at.
 
 The funny part? Toy Story 5 is being released into a world where kids are watching it on those exact same devices. Streaming it at home instead of going to theaters. Watching clips on YouTube before they see the full movie. The meta-commentary is almost too perfect.
 

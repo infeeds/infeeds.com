@@ -19,7 +19,7 @@ The mosaic itself is stunning. It shows three scenes from the legendary conflict
 
 Here's where it gets fascinating. Researchers at the University of Leicester initially assumed this was depicting scenes from Homer's Iliad, because that's the version of the Trojan War everyone knows. But when Dr. Jane Masséglia and her team took a closer look, something didn't add up. The scenes matched a completely different telling of the story, one written by the Greek playwright Aeschylus in a tragedy called Phrygians.
 
-The catch? That play is basically lost to [history](https://infeeds.com/tags/?tag=history). We know it existed, but the full text hasn't survived. This mosaic might be one of the only visual representations we have left of Aeschylus's version, preserved in tiny colored tiles under a British farm for nearly two thousand years.
+The catch? That play is basically lost to [history](https://infeeds.com/tags/history). We know it existed, but the full text hasn't survived. This mosaic might be one of the only visual representations we have left of Aeschylus's version, preserved in tiny colored tiles under a British farm for nearly two thousand years.
 
 Think about what that means for a second. The person who commissioned this mosaic didn't go with the popular Homer interpretation. They chose the obscure, sophisticated version that would have made other educated Romans nod approvingly. It's like someone today decorating their house with references to experimental theater instead of Marvel movies. This was a flex.
 
@@ -35,10 +35,10 @@ The mosaic came to light during lockdown, got officially excavated by University
 
 ## What This Tells Us About Roman Britain
 
-Professor Hella Eckhardt from the University of Reading, who wasn't involved in the study, called it "exciting research" that shows how stories of Greek heroes were transmitted not just through texts but through images across different materials and [art](https://infeeds.com/tags/?tag=art) forms. Which makes sense when you think about it. Most people in the ancient world couldn't read, so visual storytelling was huge.
+Professor Hella Eckhardt from the University of Reading, who wasn't involved in the study, called it "exciting research" that shows how stories of Greek heroes were transmitted not just through texts but through images across different materials and [art](https://infeeds.com/tags/art) forms. Which makes sense when you think about it. Most people in the ancient world couldn't read, so visual storytelling was huge.
 
 Rachel Cubitt from Historic England noted that this research "offers a more nuanced picture of the interests and influences of those who may have lived there, and of people living across Roman Britain at this time." The villa's owner would have been wealthy, educated, and cosmopolitan enough to appreciate obscure Greek drama and Mediterranean design aesthetics.
 
 Jim Irvine, the guy who literally stumbled onto this during lockdown, seems appropriately amazed by the whole thing. He mentioned that the research "reveals a level of cultural integration across the Roman world that we're only just beginning to appreciate" and suggested Roman Britain might have been "far more cosmopolitan than we often imagine."
 
-It makes you wonder what else is sitting undiscovered in British fields right now, waiting for the next curious farmer to come along. If a lost Greek tragedy can survive as floor art for two millennia in Rutland, what other fragments of forgotten [culture](https://infeeds.com/tags/?tag=culture) are still out there, quietly preserving stories we thought were gone forever?
+It makes you wonder what else is sitting undiscovered in British fields right now, waiting for the next curious farmer to come along. If a lost Greek tragedy can survive as floor art for two millennia in Rutland, what other fragments of forgotten [culture](https://infeeds.com/tags/culture) are still out there, quietly preserving stories we thought were gone forever?

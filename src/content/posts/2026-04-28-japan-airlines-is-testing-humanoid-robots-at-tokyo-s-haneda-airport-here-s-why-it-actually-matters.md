@@ -28,12 +28,12 @@ A staged demonstration video circulating online shows exactly how messy this cou
 
 This is the fundamental problem with applying humanoid robots to open, unpredictable environments. Assembly lines and warehouses use specialized robots performing identical, controlled tasks repeatedly. Airports? Airports are chaos. Every cargo container is slightly different. Every situation demands judgment.
 
-The source of challenge isn't just [technology](https://infeeds.com/tags/?tag=technology) here. It's the software and hardware needed to make these machines work reliably in human environments. Even with the latest AI models powering them, robots still struggle with tasks humans find trivial. A robot needs to understand not just how to push a container, but when to push it, how much force to apply, and what to do when something goes wrong.
+The source of challenge isn't just [technology](https://infeeds.com/tags/technology) here. It's the software and hardware needed to make these machines work reliably in human environments. Even with the latest AI models powering them, robots still struggle with tasks humans find trivial. A robot needs to understand not just how to push a container, but when to push it, how much force to apply, and what to do when something goes wrong.
 
 ## What's Actually at Stake
 
 Safety is going to matter enormously. Haneda isn't some quiet test facility. It's a working airport with constant human activity. A humanoid robot moving around cargo while humans are nearby introduces obvious safety complications. That's why the first phase involves identifying which airport areas will actually be safe for these machines to operate in.
 
-The [business](https://infeeds.com/tags/?tag=business) case is compelling, though. If these robots can even partially relieve the labor shortage at major airports, they could become standard equipment. Japan's demographic crisis means the labor shortage isn't going away. Either airports find robots that work, or they don't keep pace with demand.
+The [business](https://infeeds.com/tags/business) case is compelling, though. If these robots can even partially relieve the labor shortage at major airports, they could become standard equipment. Japan's demographic crisis means the labor shortage isn't going away. Either airports find robots that work, or they don't keep pace with demand.
 
 The real test starts in May 2026. By then, we'll know whether humanoid robots can move beyond controlled factory settings into real-world complexity. They might prove transformative. They might just become expensive props that occasionally make pushing gestures while humans do the actual work. Either way, Haneda Airport is about to become very interesting to watch.

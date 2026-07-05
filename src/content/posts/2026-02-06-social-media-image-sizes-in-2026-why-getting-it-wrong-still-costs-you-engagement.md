@@ -12,7 +12,7 @@ tags_color: '#ff9800'
 
 Social media image sizes are one of those things nobody really wants to think about until something goes horribly wrong. You spend hours crafting the perfect post, only to watch your carefully designed graphic get butchered by an unexpected crop. Your logo disappears. Your call-to-action text gets cut off. Suddenly that professional content looks amateur.
 
-The annoying truth is that platforms keep tweaking their dimensions. Not massive overhauls every time, just little adjustments that add up. And if you're managing multiple [business](https://infeeds.com/tags/?tag=business) accounts across different networks, keeping track feels like a part-time job you never applied for.
+The annoying truth is that platforms keep tweaking their dimensions. Not massive overhauls every time, just little adjustments that add up. And if you're managing multiple [business](https://infeeds.com/tags/business) accounts across different networks, keeping track feels like a part-time job you never applied for.
 
 ## Instagram Still Plays By Its Own Rules
 
@@ -44,7 +44,7 @@ LinkedIn switches up image dimensions depending on whether you're posting from a
 
 For feed images, 1200 x 1200 pixels works well across both. Link previews do better at 1200 x 627 pixels. Profile photos and cover images follow their own rules entirely, and naturally those rules differ between personal and company pages.
 
-If you're managing [business](https://infeeds.com/tags/?tag=business) content on LinkedIn, you need separate templates for different post types. It's extra work that nobody really wants to do, but skipping it means your brand looks inconsistent.
+If you're managing [business](https://infeeds.com/tags/business) content on LinkedIn, you need separate templates for different post types. It's extra work that nobody really wants to do, but skipping it means your brand looks inconsistent.
 
 ## Why Wrong Sizes Actually Kill Engagement
 

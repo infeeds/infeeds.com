@@ -45,7 +45,7 @@ I opened my mouth to answer and realized something terrifying. I couldn't find m
 
 For several long seconds, I genuinely didn't know how to speak as a person instead of a role.
 
-This is what happens when you spend years choosing polish over honesty. When you let [technology](https://infeeds.com/tags/?tag=technology) regulate your emotions because it's safer than risking someone's disappointment. You move further away from yourself until one day you can't find the way back.
+This is what happens when you spend years choosing polish over honesty. When you let [technology](https://infeeds.com/tags/technology) regulate your emotions because it's safer than risking someone's disappointment. You move further away from yourself until one day you can't find the way back.
 
 ## The Perfect Hiding Place
 
@@ -63,7 +63,7 @@ So we hide. We polish. We let algorithms decide which versions of our feelings a
 
 ## What Changed
 
-I didn't delete every AI app and move to a cabin. I still work in [business](https://infeeds.com/tags/?tag=business) where technology is unavoidable, and some of it is genuinely useful.
+I didn't delete every AI app and move to a cabin. I still work in [business](https://infeeds.com/tags/business) where technology is unavoidable, and some of it is genuinely useful.
 
 But I made a decision. Before I ask any tool "What should I say?" I ask myself "What am I actually feeling right now?"
 
@@ -79,7 +79,7 @@ The parts of me that feel too heavy, too dramatic, too complicated are often exa
 
 ## If You're Reading This
 
-Maybe you run a team, a household, a small [business](https://infeeds.com/tags/?tag=business), a life that other people depend on. Maybe you've noticed you're more comfortable typing your rawest feelings into a box than saying them out loud to someone who knows your name.
+Maybe you run a team, a household, a small [business](https://infeeds.com/tags/business), a life that other people depend on. Maybe you've noticed you're more comfortable typing your rawest feelings into a box than saying them out loud to someone who knows your name.
 
 You're not broken for finding AI comforting. It makes perfect sense to turn toward something that feels safe and predictable when people haven't always been that for you.
 

@@ -25,7 +25,7 @@ These broadcast decisions matter because they signal something worth noting: not
 
 ## Paid Alternatives and Regional Workarounds
 
-In the US, Peacock is your destination. The streaming service will carry Paris-Roubaix coverage through its <a href="https://infeeds.com/tags/?tag=business">Business</a> sports offerings. A Peacock Premium subscription runs $11 a month with ads, which gets you on-demand access to their full catalog plus live sports like this.
+In the US, Peacock is your destination. The streaming service will carry Paris-Roubaix coverage through its <a href="https://infeeds.com/tags/business">Business</a> sports offerings. A Peacock Premium subscription runs $11 a month with ads, which gets you on-demand access to their full catalog plus live sports like this.
 
 UK viewers can watch on TNT Sports through HBO Max, though that setup will cost you around 31 pounds monthly.
 
@@ -33,7 +33,7 @@ If you're traveling and want to access your home country's free coverage, a VPN 
 
 ## Why Streaming Sports Still Feels Fragmented
 
-The current state of sports streaming is a masterclass in how <a href="https://infeeds.com/tags/?tag=technology">Technology</a> hasn't actually simplified entertainment consumption. Instead, it's fractured it. You've got Peacock, HBO Max, TNT Sports, France.TV, SBS On Demand, and traditional broadcasters all holding pieces of the same event. A global audience that wants to watch the same race often needs multiple subscriptions or workarounds just to catch it.
+The current state of sports streaming is a masterclass in how <a href="https://infeeds.com/tags/technology">Technology</a> hasn't actually simplified entertainment consumption. Instead, it's fractured it. You've got Peacock, HBO Max, TNT Sports, France.TV, SBS On Demand, and traditional broadcasters all holding pieces of the same event. A global audience that wants to watch the same race often needs multiple subscriptions or workarounds just to catch it.
 
 Van der Poel's three-year reign over Paris-Roubaix says something about consistency and dominance in modern cycling. Pogacar's presence suggests the competitive field isn't dead yet. But the real test this year might be whether anyone can figure out a simpler way to actually watch the race.
 

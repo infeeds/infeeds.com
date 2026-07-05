@@ -22,7 +22,7 @@ Let's be honest about what happened here. Retail investors want one thing: expos
 
 Destiny Tech100 has them. Robinhood doesn't.
 
-Instead, Robinhood's portfolio includes Databricks, Stripe, Mercor, and Oura. These are solid companies doing interesting things in [technology](https://infeeds.com/tags/?tag=technology) and fintech. But they're not OpenAI. They don't have the cultural cachet or the perceived upside that makes retail investors' eyes light up.
+Instead, Robinhood's portfolio includes Databricks, Stripe, Mercor, and Oura. These are solid companies doing interesting things in [technology](https://infeeds.com/tags/technology) and fintech. But they're not OpenAI. They don't have the cultural cachet or the perceived upside that makes retail investors' eyes light up.
 
 The gap is so obvious that Robinhood's CFO basically admitted it to reporters. Shiv Verma told Axios Pro that the company is actively trying to get exposure to OpenAI. Sarah Pinto, Robinhood Ventures President, acknowledged they're aiming to expand to "15 to 20 of the best late-stage growth companies out there."
 

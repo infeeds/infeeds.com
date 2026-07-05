@@ -30,10 +30,10 @@ That's genuinely different from what the Pentagon was demanding earlier. Someone
 
 ## The Bigger Picture
 
-What's fascinating here is that this isn't really about [technology](https://infeeds.com/tags/?tag=technology) in isolation. It's about how companies navigate power. Anthropic took a principled stand and got crushed by the federal government for it. OpenAI found a way to collaborate while claiming the same guardrails exist.
+What's fascinating here is that this isn't really about [technology](https://infeeds.com/tags/technology) in isolation. It's about how companies navigate power. Anthropic took a principled stand and got crushed by the federal government for it. OpenAI found a way to collaborate while claiming the same guardrails exist.
 
 Neither approach is obviously right or wrong. Anthropic's employees probably feel like they made a moral choice. OpenAI's employees might feel like they found a pragmatic solution. But you have to wonder what happens when the government eventually wants something that contradicts those safety agreements.
 
 The timing is also worth noting. Altman released his statement right before the U.S. and Israel started bombing Iran, with Trump calling for regime change. So we're sitting here talking about AI safeguards while actual military operations are happening. The hypothetical has a way of becoming very real very quickly.
 
-What started as a debate about principles turned into a [business](https://infeeds.com/tags/?tag=business) decision that will probably reshape how every other AI company negotiates with the government going forward. And the next CEO who takes Anthropic's position will know exactly what they're signing up for.
+What started as a debate about principles turned into a [business](https://infeeds.com/tags/business) decision that will probably reshape how every other AI company negotiates with the government going forward. And the next CEO who takes Anthropic's position will know exactly what they're signing up for.

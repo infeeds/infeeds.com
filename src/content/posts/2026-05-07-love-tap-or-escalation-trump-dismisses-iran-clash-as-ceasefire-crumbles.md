@@ -25,7 +25,7 @@ The real problem isn't Trump's word choice. It's what comes next. He explicitly 
 
 ## The Strait's Grip on Global Oil Markets
 
-The Strait of Hormuz isn't just any body of water. It's a chokepoint through which roughly a fifth of the world's traded oil passes daily. Any sustained disruption there ripples through energy markets globally. <a href="https://infeeds.com/tags/?tag=business">Business</a> interests worldwide have a stake in keeping this corridor open.
+The Strait of Hormuz isn't just any body of water. It's a chokepoint through which roughly a fifth of the world's traded oil passes daily. Any sustained disruption there ripples through energy markets globally. <a href="https://infeeds.com/tags/business">Business</a> interests worldwide have a stake in keeping this corridor open.
 
 The timing of this incident matters too. Iran was reportedly reviewing a U.S. proposal meant to end the broader war and open the door to nuclear talks. That proposal now sits in limbo while both sides blame each other for starting a fight. The diplomatic window, never wide to begin with, just got narrower.
 

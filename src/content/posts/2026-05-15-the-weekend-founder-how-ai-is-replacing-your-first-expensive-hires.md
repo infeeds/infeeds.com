@@ -14,7 +14,7 @@ You're staring at a checklist that reads like a small business fever dream. Mark
 
 That calculus just shifted.
 
-A 2026 Goldman Sachs survey found that 76% of small business owners are already using AI. Of those users, 93% say it's having a positive impact on their <a href="https://infeeds.com/tags/?tag=business">business</a>. But here's the gap that matters: only 14% have fully integrated AI into their core operations. Most people have the tools. Almost nobody knows what sequence to use them in.
+A 2026 Goldman Sachs survey found that 76% of small business owners are already using AI. Of those users, 93% say it's having a positive impact on their <a href="https://infeeds.com/tags/business">business</a>. But here's the gap that matters: only 14% have fully integrated AI into their core operations. Most people have the tools. Almost nobody knows what sequence to use them in.
 
 ## The Real Shift Isn't About Having More Apps
 
@@ -44,7 +44,7 @@ Seven specific tools and their corresponding prompts can get you to version one 
 
 The final piece is often overlooked. Once you find a workflow that works, you document it once. Then you hand it to a virtual assistant. Share it with a client. Feed it back into an AI agent to see how much runs without you. That's Scribe's place in the stack. It transforms your workflow from something you execute to something that executes itself.
 
-The entire sequence matters more than any individual tool. That's the part most <a href="https://infeeds.com/tags/?tag=technology">technology</a> coverage misses. Every tool is just a lever. The real work is learning which levers to pull and when.
+The entire sequence matters more than any individual tool. That's the part most <a href="https://infeeds.com/tags/technology">technology</a> coverage misses. Every tool is just a lever. The real work is learning which levers to pull and when.
 
 ## The 14% Problem
 

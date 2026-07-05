@@ -24,7 +24,7 @@ When you design an EV from the ground up, you get to rethink the entire vehicle.
 
 ## Software-Defined Vehicles Don't Wait for Anyone
 
-Honda's retreat from EVs also means it's ceding ground on the second massive shift happening in <a href="https://infeeds.com/tags/?tag=technology">technology</a>: software-defined vehicles.
+Honda's retreat from EVs also means it's ceding ground on the second massive shift happening in <a href="https://infeeds.com/tags/technology">technology</a>: software-defined vehicles.
 
 Think about what you get when you buy a Tesla, a Rivian, or a BYD. Over-the-air updates. Slick infotainment systems. Advanced driver assistance features that improve over time. Consumers now expect this stuff. They've been trained by Tesla to want it.
 
@@ -44,7 +44,7 @@ Chinese competitors have already figured this out. BYD, NIO, Xiaomi's car divisi
 
 ## What Comes Next
 
-Without an EV strategy, Honda is betting that it can coast on its <a href="https://infeeds.com/tags/?tag=business">business</a> reputation and existing customer loyalty. It's banking on the idea that this transition is just awkward temporary noise.
+Without an EV strategy, Honda is betting that it can coast on its <a href="https://infeeds.com/tags/business">business</a> reputation and existing customer loyalty. It's banking on the idea that this transition is just awkward temporary noise.
 
 It's not. And every quarter Honda stays sidelined is another quarter where customers get used to EVs that don't have the Honda badge. Every quarter a new EV owner gets comfortable with over-the-air updates and software that evolves over time, that's muscle memory building for a competitor.
 

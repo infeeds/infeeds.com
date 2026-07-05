@@ -12,7 +12,7 @@ tags_color: '#00ba65'
 
 When a company's CEO mentions an existential threat six times during an earnings call, you know something is wrong.
 
-Salesforce reported solid numbers this week. $10.7 billion in quarterly revenue, up 13% year-over-year. Guidance is strong. The fundamentals look fine. Yet Marc Benioff spent his time on stage fighting a narrative that won't die: that AI agents are about to render the entire SaaS industry obsolete. The market has dubbed this fear the "SaaSpocalypse," and it's been hammering <a href="https://infeeds.com/tags/?tag=technology">technology</a> stocks lately.
+Salesforce reported solid numbers this week. $10.7 billion in quarterly revenue, up 13% year-over-year. Guidance is strong. The fundamentals look fine. Yet Marc Benioff spent his time on stage fighting a narrative that won't die: that AI agents are about to render the entire SaaS industry obsolete. The market has dubbed this fear the "SaaSpocalypse," and it's been hammering <a href="https://infeeds.com/tags/technology">technology</a> stocks lately.
 
 So what did Salesforce do? It panicked. Not in a way that admits panic, of course. Instead, it threw the kitchen sink at investors.
 
@@ -32,7 +32,7 @@ What's really revealing is that Salesforce felt compelled to present its own arc
 
 This is a direct response to OpenAI's architectural vision, which shows the opposite: OpenAI at the top, database companies relegated to the bottom as interchangeable engines. That vision spooked investors earlier this month when OpenAI released Frontier.
 
-It's architecture theater. Both companies are fighting for investor confidence about who controls the future of enterprise <a href="https://infeeds.com/tags/?tag=business">business</a> software. The answer is probably: whoever can prove they actually solved a real problem for customers.
+It's architecture theater. Both companies are fighting for investor confidence about who controls the future of enterprise <a href="https://infeeds.com/tags/business">business</a> software. The answer is probably: whoever can prove they actually solved a real problem for customers.
 
 ## The Jacket Moment
 

@@ -10,7 +10,7 @@ tags: [news, business]
 tags_color: '#4caf50'
 ---
 
-Meta just dropped a bomb on the AI chip market, and it's not the kind of bomb that makes headlines for a day then fades away. A week after committing to millions of Nvidia processors, the social media giant inked a massive multiyear deal with Advanced Micro Devices worth tens of billions of dollars. This isn't just another <a href="https://infeeds.com/tags/?tag=business">business</a> transaction. It's a declaration that the compute shortage is real, the stakes are impossibly high, and nobody's going to sit around waiting for Nvidia to solve everything.
+Meta just dropped a bomb on the AI chip market, and it's not the kind of bomb that makes headlines for a day then fades away. A week after committing to millions of Nvidia processors, the social media giant inked a massive multiyear deal with Advanced Micro Devices worth tens of billions of dollars. This isn't just another <a href="https://infeeds.com/tags/business">business</a> transaction. It's a declaration that the compute shortage is real, the stakes are impossibly high, and nobody's going to sit around waiting for Nvidia to solve everything.
 
 Here's what's actually happening. Meta is deploying up to 6 gigawatts of AMD's graphics processing units across its AI data centers, alongside AI-optimized CPUs. AMD's MI450 GPUs in Helios rack-scale servers will start shipping later this year. The deal itself represents something bigger than just acquiring more chips. It's Meta flexing its ability to play both sides and, frankly, it's forcing the industry to acknowledge that one company can't own the entire future of artificial intelligence.
 
@@ -20,7 +20,7 @@ Nvidia owns roughly 90 percent of the AI chip market right now. The company is w
 
 AMD has been trailing badly in this race. The company is valued at $320 billion, a fraction of Nvidia's valuation. But here's the thing about being the underdog in a market where demand vastly exceeds supply. You get to be creative. AMD is winning because they're willing to customize their chips specifically for Meta's workloads. Nvidia apparently isn't doing that, at least not to the same degree.
 
-Ben Bajarin, a chip analyst at Creative Strategies, noted this distinction matters more than people realize. "It's a good way for them to win some of these deals," he said about AMD's customization approach. That's the kind of detail that separates winners from losers in this <a href="https://infeeds.com/tags/?tag=technology">technology</a> arms race.
+Ben Bajarin, a chip analyst at Creative Strategies, noted this distinction matters more than people realize. "It's a good way for them to win some of these deals," he said about AMD's customization approach. That's the kind of detail that separates winners from losers in this <a href="https://infeeds.com/tags/technology">technology</a> arms race.
 
 ## Why This Matters Beyond the Numbers
 
@@ -44,4 +44,4 @@ Nvidia reports quarterly earnings on Wednesday. Analysts expect revenue growth o
 
 AMD's Helios represents the first large-scale competition to Nvidia's Grace Blackwell systems, which have seen tremendous demand since launching in 2024. For the first time in years, there's actually an alternative that serious players are willing to bet on.
 
-We're entering a phase where the <a href="https://infeeds.com/tags/?tag=business">business</a> of AI infrastructure becomes less about one company's dominance and more about who can deliver what their customers need, when they need it. Meta just showed everyone that if you want to stay in the game, you better be willing to work with whoever can actually build the chips.
+We're entering a phase where the <a href="https://infeeds.com/tags/business">business</a> of AI infrastructure becomes less about one company's dominance and more about who can deliver what their customers need, when they need it. Meta just showed everyone that if you want to stay in the game, you better be willing to work with whoever can actually build the chips.

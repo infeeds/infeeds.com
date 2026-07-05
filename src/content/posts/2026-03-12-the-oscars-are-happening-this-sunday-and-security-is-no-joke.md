@@ -28,7 +28,7 @@ Here's what strikes me about Kapoor's comments though. He kept circling back to 
 
 The ceremony happens at the Dolby Theatre in Los Angeles on Sunday at 7 p.m. EDT. Publicists and studio reps are doing walkthroughs on Thursday to make sure the red-carpet logistics run smoothly despite the extra security layers. It's the kind of detailed planning that happens behind the scenes and nobody really thinks about unless something goes wrong.
 
-What's interesting is that major events like this have become part of the broader landscape of [news](https://infeeds.com/tags/?tag=news) coverage. The Oscars aren't just entertainment anymore, they're tied to global events, geopolitical tensions, and the real work of keeping major public gatherings secure. It forces you to think about how interconnected everything has become.
+What's interesting is that major events like this have become part of the broader landscape of [news](https://infeeds.com/tags/news) coverage. The Oscars aren't just entertainment anymore, they're tied to global events, geopolitical tensions, and the real work of keeping major public gatherings secure. It forces you to think about how interconnected everything has become.
 
 The Academy hasn't officially commented on the specifics, which is probably the smart play. But the fact that multiple law enforcement agencies are on the same page, that producers are confident enough to move forward, and that there's this whole invisible infrastructure supporting the event, that says something about how seriously people are taking this.
 

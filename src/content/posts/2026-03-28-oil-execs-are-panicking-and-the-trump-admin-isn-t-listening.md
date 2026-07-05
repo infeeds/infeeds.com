@@ -14,7 +14,7 @@ Ryan Lance from ConocoPhillips laid it out plainly: you can't just remove 8 to 1
 
 ## The Strait Gets Closed, the World Shrugs
 
-Iran's blockade of the Strait of Hormuz isn't some theoretical scenario anymore. It's real, it's happening, and according to Sheikh Nawaf al-Sabah, the CEO of Kuwait Petroleum, it amounts to holding the world's economy hostage. This isn't hyperbole from an activist. It's a company executive describing his own <a href="https://infeeds.com/tags/?tag=business">business</a> landscape.
+Iran's blockade of the Strait of Hormuz isn't some theoretical scenario anymore. It's real, it's happening, and according to Sheikh Nawaf al-Sabah, the CEO of Kuwait Petroleum, it amounts to holding the world's economy hostage. This isn't hyperbole from an activist. It's a company executive describing his own <a href="https://infeeds.com/tags/business">business</a> landscape.
 
 The Strait is basically the highway for Gulf oil exports. Close it, and you're not just affecting the Middle East. You're creating shockwaves across Asia, Europe, and eventually everywhere else. Al-Sabah warned about a "domino effect" that extends through supply chains globally. That means your electricity bill, your gas prices, your heating costs. Everything ripples outward.
 

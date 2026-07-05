@@ -26,7 +26,7 @@ The company is throwing serious money at this restructuring. Between $225 millio
 
 This isn't happening in isolation. Just weeks earlier, Block laid off nearly half its workforce and used the same AI justification. Before that cut, Block's stock had tanked roughly 35% from its October 2025 peak. Block, which owns CashApp and Afterpay, made essentially the same move: cut staff, blame AI, double down on artificial intelligence investments.
 
-You start to notice a pattern. The <a href="https://infeeds.com/tags/?tag=business">business</a> world seems to be using AI as both shield and sword. It shields companies from criticism by framing cuts as inevitable and forward-thinking. It's a sword because those who don't embrace AI are supposedly left behind. It's a neat narrative, and it works.
+You start to notice a pattern. The <a href="https://infeeds.com/tags/business">business</a> world seems to be using AI as both shield and sword. It shields companies from criticism by framing cuts as inevitable and forward-thinking. It's a sword because those who don't embrace AI are supposedly left behind. It's a neat narrative, and it works.
 
 Even Atlassian's chief technology officer, Rajeev Rajan, is stepping down after nearly four years in the role. That's another signal that internal leadership recognizes significant shifts are happening. Whether that's purely AI-driven or reflective of broader strategic changes remains unclear.
 
@@ -38,6 +38,6 @@ The cuts hit hardest in Australia, with about 30% of affected roles based there.
 
 It's worth stepping back and asking whether all this turmoil actually serves customers or employees better. Does cutting 1,600 people while acquiring AI companies lead to better products? Or does it signal that the company's leadership is scrambling to position itself in what they believe the future demands, consequences be damned?
 
-The <a href="https://infeeds.com/tags/?tag=technology">technology</a> industry has a habit of moving in waves. Everyone rushes toward whatever seems like the next big thing. We've seen this with cloud computing, blockchain, cryptocurrency, and now AI. Sometimes these moves pan out. Sometimes they represent mass delusion. Often it's both.
+The <a href="https://infeeds.com/tags/technology">technology</a> industry has a habit of moving in waves. Everyone rushes toward whatever seems like the next big thing. We've seen this with cloud computing, blockchain, cryptocurrency, and now AI. Sometimes these moves pan out. Sometimes they represent mass delusion. Often it's both.
 
 What's clear is that AI is becoming the justification for almost every corporate restructuring these days, which makes it harder to distinguish between genuine strategic necessity and opportunistic decision-making dressed up in forward-thinking language.

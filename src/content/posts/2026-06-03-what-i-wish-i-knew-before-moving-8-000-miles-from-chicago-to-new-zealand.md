@@ -28,7 +28,7 @@ Out of necessity, I jumped headfirst into "normal" life after I moved abroad. My
 
 Weekends were for errands, not exploring. With no real adjustment period, life felt bogged down by normality pretty quickly. The enchantment of being in a new place vanished before I had a chance to savor it.
 
-I wish I had planned a few weekends away to explore or at least taken a week off to discover my new home before I jumped into the day-to-day routine. That [business advice about planning](https://infeeds.com/tags/?tag=business) applies to life transitions just as much as it applies to work projects.
+I wish I had planned a few weekends away to explore or at least taken a week off to discover my new home before I jumped into the day-to-day routine. That [business advice about planning](https://infeeds.com/tags/business) applies to life transitions just as much as it applies to work projects.
 
 ## Build Your Professional Network Early
 

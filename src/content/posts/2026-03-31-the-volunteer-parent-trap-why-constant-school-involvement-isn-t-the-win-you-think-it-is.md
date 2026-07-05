@@ -11,7 +11,7 @@ tags_color: '#795548'
 
 There's a particular kind of exhaustion that comes from trying to be the perfect parent. It's the kind that has you waking up at 5 a.m. to field a call from the principal, juggling a screaming newborn while dialing down a phone tree to announce school closures. It's the kind that fills your weeks with stapling construction paper, leading committees, and showing up so reliably that the school staff probably recognized your car better than they recognized some of the teachers.
 
-For more than 15 years, one mother did exactly this. With five children cycling through elementary school, she volunteered relentlessly. Math centers, bulletin boards, the Book Fair, Games Day, Halloween Parade committees. She was there. Always there. And she did it all driven by a single conviction: that her constant presence would create lasting memories, forge deeper bonds, and prove she was doing [parenting](https://infeeds.com/tags/?tag=business) better than her own parents had done.
+For more than 15 years, one mother did exactly this. With five children cycling through elementary school, she volunteered relentlessly. Math centers, bulletin boards, the Book Fair, Games Day, Halloween Parade committees. She was there. Always there. And she did it all driven by a single conviction: that her constant presence would create lasting memories, forge deeper bonds, and prove she was doing [parenting](https://infeeds.com/tags/business) better than her own parents had done.
 
 There's something almost noble about that impulse, right up until you realize it's built on sand.
 

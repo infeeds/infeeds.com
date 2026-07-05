@@ -44,7 +44,7 @@ Warner raises a fair point when he asks: "Isn't it the goal of every country to 
 
 ## The Ransomware Parallel
 
-This isn't a unique problem. A similar dynamic has been playing out for years in ransomware, another critical [area of cybercrime](https://infeeds.com/tags/?tag=technology). The most prolific ransomware gangs tend to be based in Slavic countries, particularly Russia. And Russia has essentially offered safe harbor to cybercriminal gangs, so long as those groups don't target Russian citizens or organizations cooperating with the Russian government.
+This isn't a unique problem. A similar dynamic has been playing out for years in ransomware, another critical [area of cybercrime](https://infeeds.com/tags/technology). The most prolific ransomware gangs tend to be based in Slavic countries, particularly Russia. And Russia has essentially offered safe harbor to cybercriminal gangs, so long as those groups don't target Russian citizens or organizations cooperating with the Russian government.
 
 The Kremlin periodically does selective enforcement against ransomware actors, but it's never amounted to the comprehensive crackdown that would meaningfully address ransomware as a global threat. The pattern repeats: selective enforcement creates perverse incentives. Criminals know where the pressure points are, and they work around them.
 
@@ -52,6 +52,6 @@ The Kremlin periodically does selective enforcement against ransomware actors, b
 
 Here's where things get murky. Whatever Beijing's intent might be, the actual result is that these criminal networks keep thriving. The scammers keep operating. Americans keep getting targeted. The money keeps flowing out of victims' accounts into offshore networks.
 
-The uncomfortable truth is that as long as countries can selectively enforce rules based on who's being victimized, global [business](https://infeeds.com/tags/?tag=business) and crime problems won't get solved comprehensively. Individual governments protect their own. International cooperation remains fragmented. And the criminals adapt.
+The uncomfortable truth is that as long as countries can selectively enforce rules based on who's being victimized, global [business](https://infeeds.com/tags/business) and crime problems won't get solved comprehensively. Individual governments protect their own. International cooperation remains fragmented. And the criminals adapt.
 
 For now, Americans should assume they're increasingly being treated as the path of least resistance by scamming operations that can't hit Chinese targets anymore. The targeting will probably only get more sophisticated, the pitches more personalized, the social engineering more refined. When you've got an organized operation with money, infrastructure, and motivation, you don't give up. You just find new victims.

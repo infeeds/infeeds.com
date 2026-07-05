@@ -14,7 +14,7 @@ There's something magical about watching someone's passion project become a wind
 
 It started in the early 1970s when her mom was just 14 years old. A friend had a typeset tray filled with little items, and something clicked. Her mom wanted to create her own. She found a tray at a garage sale, and instead of spending her birthday money on charm bracelets, she bought miniatures. One tray became two. Two became dozens. Decades later, an entire 1000-square-foot basement has been transformed into what Celina describes as an antique warehouse.
 
-The collection wasn't just an obsession. It became a [business](https://infeeds.com/tags/?tag=business) of sorts, a lifestyle, a family ritual. Every Saturday, the three musketeers (mom, grandma, and Celina) would hit the garage sales and antique shops looking for new additions. They weren't looking for anything specific, just pieces that spoke to them, miniatures that fit the compartments in those typeset trays.
+The collection wasn't just an obsession. It became a [business](https://infeeds.com/tags/business) of sorts, a lifestyle, a family ritual. Every Saturday, the three musketeers (mom, grandma, and Celina) would hit the garage sales and antique shops looking for new additions. They weren't looking for anything specific, just pieces that spoke to them, miniatures that fit the compartments in those typeset trays.
 
 ## When Beauty Meets Purpose
 

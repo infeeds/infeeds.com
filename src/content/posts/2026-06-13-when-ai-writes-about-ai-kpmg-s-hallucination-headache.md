@@ -8,7 +8,7 @@ tags: [news, tech]
 tags_color: '#00ba65'
 ---
 
-The [Technology](https://infeeds.com/tags/?tag=technology) sector's love affair with AI has always had a whiff of irony to it, but this one takes the cake. KPMG, one of the biggest professional services firms on the planet, recently had to pull a report titled "Redefining excellence in the age of agentic AI" after several major organizations came forward and said the thing simply wasn't true.
+The [Technology](https://infeeds.com/tags/technology) sector's love affair with AI has always had a whiff of irony to it, but this one takes the cake. KPMG, one of the biggest professional services firms on the planet, recently had to pull a report titled "Redefining excellence in the age of agentic AI" after several major organizations came forward and said the thing simply wasn't true.
 
 According to financial Times reporting, GPTZero, a research group that specializes in detecting AI-generated content, flagged numerous inaccuracies in the report, which was published back in October 2025. The firm basically used AI to write a report about AI, and the whole thing fell apart. Classic.
 

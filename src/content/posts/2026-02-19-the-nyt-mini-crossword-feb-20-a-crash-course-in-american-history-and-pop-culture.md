@@ -22,13 +22,13 @@ It's wild to think about how different political landscapes used to be. The part
 
 ## When Puzzles Demand You Know Everything
 
-This is where [technology](https://infeeds.com/tags/?tag=technology) has actually changed how we solve puzzles. Gone are the days when you'd be completely stuck without a library or a friend who happened to know obscure facts. Now you can instantly look up anything, but there's still something satisfying about actually knowing the answer before Googling it.
+This is where [technology](https://infeeds.com/tags/technology) has actually changed how we solve puzzles. Gone are the days when you'd be completely stuck without a library or a friend who happened to know obscure facts. Now you can instantly look up anything, but there's still something satisfying about actually knowing the answer before Googling it.
 
 The Mini Crossword loves this approach. It'll throw architecture at you, then switch to old TV shows, then hit you with a video game reference. It's like the puzzle constructor assumes you're the kind of person who pays attention to everything from history documentaries to gaming streams.
 
 ## The Grind of Daily Puzzle Solving
 
-For many people, this has become part of their morning routine. They grab coffee, open the New York Times games section, and spend a few minutes wrestling with clues. It's become this weird communal experience where thousands of people are all solving the same puzzle at roughly the same time. Check out the [daily hints](https://infeeds.com/tags/?tag=news) if you get stuck on other clues too.
+For many people, this has become part of their morning routine. They grab coffee, open the New York Times games section, and spend a few minutes wrestling with clues. It's become this weird communal experience where thousands of people are all solving the same puzzle at roughly the same time. Check out the [daily hints](https://infeeds.com/tags/news) if you get stuck on other clues too.
 
 Some people find it relaxing. Others get genuinely frustrated. Either way, there's something compelling about that daily challenge. The Mini Crossword is short enough that you can finish it in a few minutes, but it's smart enough that you might need to think a little bit.
 

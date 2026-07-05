@@ -10,7 +10,7 @@ tags_color: '#2196f3'
 
 Chelsea's back is against the wall. Down 5-2 from the first leg, they're hosting PSG on Tuesday night for what amounts to a survival mission in the Champions League. It's one of those matches that reminds you why people love soccer in the first place, and naturally, everyone wants to watch it.
 
-The problem? Figuring out where to actually watch it depends entirely on where you live. Geographic restrictions on sports streaming are genuinely annoying, and the fragmented <a href="https://infeeds.com/tags/?tag=technology">technology</a> landscape means there's no single answer for everyone.
+The problem? Figuring out where to actually watch it depends entirely on where you live. Geographic restrictions on sports streaming are genuinely annoying, and the fragmented <a href="https://infeeds.com/tags/technology">technology</a> landscape means there's no single answer for everyone.
 
 ## Where Americans Can Tune In
 

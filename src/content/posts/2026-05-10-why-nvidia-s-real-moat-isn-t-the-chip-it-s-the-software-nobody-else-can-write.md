@@ -52,7 +52,7 @@ Here's the uncomfortable truth for Nvidia's competitors: Nvidia isn't really a c
 
 Nvidia's moat against AMD or Intel isn't the H100. It's CUDA and the ecosystem of software, researchers, and institutional knowledge built around it. Sure, AMD has competitive hardware. But do you really want to build your AI infrastructure on an unstable platform with a buggy developer experience?
 
-That ecosystem lock-in comes with a cost, and Nvidia knows it. The price tags are offensive. But in a world where training costs hundreds of millions of dollars, a slightly faster platform becomes a permanent advantage. And on <a href="https://infeeds.com/tags/?tag=technology">Technology</a> fronts like this, permanent advantages compound.
+That ecosystem lock-in comes with a cost, and Nvidia knows it. The price tags are offensive. But in a world where training costs hundreds of millions of dollars, a slightly faster platform becomes a permanent advantage. And on <a href="https://infeeds.com/tags/technology">Technology</a> fronts like this, permanent advantages compound.
 
 Every year, new hopefuls try to drain the moat. DeepSeek made a valiant effort by working at the PTX level, and it worked for them. But that required an exceptional engineering team willing to suffer through gnarly low-level optimization. Most companies won't pay that price.
 

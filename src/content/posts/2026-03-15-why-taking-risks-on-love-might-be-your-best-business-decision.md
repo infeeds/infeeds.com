@@ -8,7 +8,7 @@ tags: [news, business]
 tags_color: '#795548'
 ---
 
-We talk a lot about calculated risks in <a href="https://infeeds.com/tags/?tag=business">business</a>. Leaving a stable job for a startup. Investing in a new market. Moving companies to chase a better opportunity. But what about the risks we take in life that shape everything else?
+We talk a lot about calculated risks in <a href="https://infeeds.com/tags/business">business</a>. Leaving a stable job for a startup. Investing in a new market. Moving companies to chase a better opportunity. But what about the risks we take in life that shape everything else?
 
 I met Tim online when it still felt weird to say that out loud. He was everything I wasn't looking for on paper: a fisherman, a sports guy, a salesman with this infectious charm. But there was something about him that just worked. The problem was geography. He was in Minneapolis. I was in Chicago, and I'd made myself a promise to never leave the city again after college.
 

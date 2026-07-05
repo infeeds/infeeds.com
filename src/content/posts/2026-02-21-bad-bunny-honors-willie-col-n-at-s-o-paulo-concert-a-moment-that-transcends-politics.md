@@ -16,7 +16,7 @@ The moment felt genuine, not performative. Bad Bunny didn't just drop a quick sh
 
 ## When Art Bridges the Divide
 
-Here's where it gets interesting. Colón wasn't exactly a Bad Bunny supporter in recent years. The salsa legend had right-wing views and wasn't shy about voicing criticism of the reggaeton superstar on social media. But when "NUEVAYoL" first dropped on Benito's genre-bending [album](https://infeeds.com/tags/?tag=entertainment), Colón responded positively anyway.
+Here's where it gets interesting. Colón wasn't exactly a Bad Bunny supporter in recent years. The salsa legend had right-wing views and wasn't shy about voicing criticism of the reggaeton superstar on social media. But when "NUEVAYoL" first dropped on Benito's genre-bending [album](https://infeeds.com/tags/entertainment), Colón responded positively anyway.
 
 "When I heard it, I was really surprised. The push it gave to salsa and to Boricuas, it's something we all needed," Colón said in a video response back then. That's a beautiful thing, actually. Despite their differences, Colón recognized what Bad Bunny was doing for Puerto Rican culture and music heritage.
 

@@ -22,7 +22,7 @@ An Army civilian employee who spoke anonymously to WIRED described the shift pre
 
 Here's the kicker: the employee hasn't met anyone who actually took one of these detail positions. Not one person. Yet according to the DOD's own claims from August 2025, nearly 500 civilians have signed up. That's possible, sure. But it's also worth noting the gap between official numbers and ground-level reality.
 
-The jobs themselves range from boring to alarming. Some positions involve data entry. Others involve "developing concepts of operation and campaign plans to execute internal arrests and raids" and "managing the physical flow of detained illegal aliens from arrest to deportation." That's not administrative work. That's frontline involvement in [immigration enforcement](https://infeeds.com/tags/?tag=politics) operations.
+The jobs themselves range from boring to alarming. Some positions involve data entry. Others involve "developing concepts of operation and campaign plans to execute internal arrests and raids" and "managing the physical flow of detained illegal aliens from arrest to deportation." That's not administrative work. That's frontline involvement in [immigration enforcement](https://infeeds.com/tags/politics) operations.
 
 ## The Staffing Crisis Nobody's Talking About
 
@@ -38,7 +38,7 @@ If you want to apply for one of these detail positions, you go through USAJobs l
 
 The scope of what these roles entail is genuinely broad. Logistical planning for moving law enforcement personnel and equipment. Assisting with campaign planning for interior arrests and raids. Managing the data systems for detained immigrants moving through the deportation pipeline. These aren't peripheral tasks. These are core functions of immigration enforcement.
 
-And this is just one piece of a larger reshuffling happening across federal [government](https://infeeds.com/tags/?tag=politics). Housing and Urban Development is blocking families with immigrant members from certain benefits. The General Services Administration is helping ICE find new facilities across the country. It's coordinated. It's systematic.
+And this is just one piece of a larger reshuffling happening across federal [government](https://infeeds.com/tags/politics). Housing and Urban Development is blocking families with immigrant members from certain benefits. The General Services Administration is helping ICE find new facilities across the country. It's coordinated. It's systematic.
 
 ## The Real Question
 

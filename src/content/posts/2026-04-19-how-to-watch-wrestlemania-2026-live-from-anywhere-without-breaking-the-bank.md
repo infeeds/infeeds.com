@@ -34,6 +34,6 @@ The broader point here: streaming rights fragmentation is a mess that consumers 
 
 ## The Practical Reality
 
-All of this underscores a larger <a href="https://infeeds.com/tags/?tag=business">business</a> problem. WWE has carved up global rights into regional packages that make perfect sense from a licensing perspective but create friction for anyone trying to actually watch the event. A US subscriber to Netflix can't watch on their own account without additional tools. An Australian can watch instantly. A traveler stuck in a country without Netflix access suddenly has barriers.
+All of this underscores a larger <a href="https://infeeds.com/tags/business">business</a> problem. WWE has carved up global rights into regional packages that make perfect sense from a licensing perspective but create friction for anyone trying to actually watch the event. A US subscriber to Netflix can't watch on their own account without additional tools. An Australian can watch instantly. A traveler stuck in a country without Netflix access suddenly has barriers.
 
 Whether WrestleMania is worth the effort to track down depends on how committed you are to the spectacle. But at least the paths exist now. Choose the one that fits your situation and your comfort level with terms of service.

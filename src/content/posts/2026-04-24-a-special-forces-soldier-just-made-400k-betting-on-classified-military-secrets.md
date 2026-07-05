@@ -26,7 +26,7 @@ The profits were staggering: more than $404,000.
 
 This case exposes something bigger than one soldier's poor judgment. Prediction markets have exploded in popularity over the past few years, and they've become a testing ground for insider trading in real time. These platforms allow users to bet on almost anything: sports outcomes, election results, even TV show winners.
 
-The spike in well-timed, highly specific trades on recent geopolitical events has alarmed lawmakers across both parties. There were unusual bets surrounding the U.S. and Israel's war against Iran. Wagers preceded Trump's political moves with suspicious precision. Now, a military operation that risks lives has become a <a href="https://infeeds.com/tags/?tag=business">business</a> opportunity for someone with access to the truth before the market knew it.
+The spike in well-timed, highly specific trades on recent geopolitical events has alarmed lawmakers across both parties. There were unusual bets surrounding the U.S. and Israel's war against Iran. Wagers preceded Trump's political moves with suspicious precision. Now, a military operation that risks lives has become a <a href="https://infeeds.com/tags/business">business</a> opportunity for someone with access to the truth before the market knew it.
 
 Polymarket CEO Shayne Coplan said the platform flagged the suspicious activity and cooperated with authorities. "Every trade is public, permanent, and auditable," he wrote on X. "Bad actors leave a trail." Fair enough, but the platform's success depends on growth and volume. Markets don't regulate themselves when profits are on the line.
 

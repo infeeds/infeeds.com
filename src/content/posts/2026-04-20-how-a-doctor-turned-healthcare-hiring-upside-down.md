@@ -43,7 +43,7 @@ In September 2025, Incredible Health debuted two AI tools. Gale is a career part
 
 That's not hype. That's a concrete change to how people spend their time at work. It's changing what their jobs actually are.
 
-The [business](https://infeeds.com/tags/?tag=business) model is straightforward: employers pay for platform access through a subscription. Nurses sign up for free. That asymmetry makes sense. Nurses have historically been the ones with less power in this equation. Giving them free access and making employers pay is a small gesture toward rebalancing.
+The [business](https://infeeds.com/tags/business) model is straightforward: employers pay for platform access through a subscription. Nurses sign up for free. That asymmetry makes sense. Nurses have historically been the ones with less power in this equation. Giving them free access and making employers pay is a small gesture toward rebalancing.
 
 Revenue from that model, plus about $100 million in fundraising, has kept the company growing without the desperation that sometimes clouds startup thinking.
 

@@ -30,4 +30,4 @@ California attempted to set guardrails back in 2021, restricting when police can
 
 The law exists because reality showed what happens without it. Castellanos learned that the hard way.
 
-What remains unclear is whether an $11.8 million settlement actually changes institutional behavior, or if it simply becomes another cost of [business](https://infeeds.com/tags/?tag=business) as usual.
+What remains unclear is whether an $11.8 million settlement actually changes institutional behavior, or if it simply becomes another cost of [business](https://infeeds.com/tags/business) as usual.

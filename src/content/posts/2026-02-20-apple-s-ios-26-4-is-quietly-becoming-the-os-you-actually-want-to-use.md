@@ -46,8 +46,8 @@ CarPlay is getting video playback support for apps like Apple TV, but only when 
 
 Here's what's notably absent: a next-generation Siri experience. Apple has been talking about deeper AI ambitions for its voice assistant, but those changes got delayed again. iOS 26.4 keeps Siri basically where it was, which feels like a missed moment. All this AI momentum and the one tool that could actually benefit from it gets benched.
 
-The <a href="https://infeeds.com/tags/?tag=technology">technology</a> landscape is moving fast enough that waiting on features can feel risky, especially when competitors are shipping improvements. Then again, shipping half-baked AI features isn't exactly winning either.
+The <a href="https://infeeds.com/tags/technology">technology</a> landscape is moving fast enough that waiting on features can feel risky, especially when competitors are shipping improvements. Then again, shipping half-baked AI features isn't exactly winning either.
 
 The Reminders app did get an "Urgent" section for high-priority tasks with more aggressive alerts. Ambient Music is now accessible via widgets instead of just the Control Center. These aren't revolutionary, but they're the kinds of refinements that actually improve your day-to-day experience.
 
-The beta is available now, with the full public release expected sometime in March or April. Whether iOS 26.4 ends up being the update that finally justifies all the <a href="https://infeeds.com/tags/?tag=business">business</a> Apple's been doing around AI integration, or just another solid incremental update, probably depends on how much you actually use these features versus how much they sit unused on your phone like most new OS additions.
+The beta is available now, with the full public release expected sometime in March or April. Whether iOS 26.4 ends up being the update that finally justifies all the <a href="https://infeeds.com/tags/business">business</a> Apple's been doing around AI integration, or just another solid incremental update, probably depends on how much you actually use these features versus how much they sit unused on your phone like most new OS additions.

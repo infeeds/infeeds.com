@@ -24,7 +24,7 @@ By this week, things were stabilizing. Jalisco's schools were set to reopen. Bus
 
 California Governor Gavin Newsom has been making waves touring the country and challenging Trump directly. He talks about "punching a bully back in the mouth," which is refreshingly blunt for a politician. But here's where it gets complicated: he's also meeting with right-wing figures like Steve Bannon and Ben Shapiro, which has drawn criticism from his own party.
 
-This tension reveals something important about modern <a href="https://infeeds.com/tags/?tag=politics">politics</a>. Newsom seems to understand that you can't just talk past your opponents. You have to engage them. But that approach makes people within your coalition uncomfortable. It forces uncomfortable questions about whether compromise is possible or whether we're just performing disagreement for the cameras.
+This tension reveals something important about modern <a href="https://infeeds.com/tags/politics">politics</a>. Newsom seems to understand that you can't just talk past your opponents. You have to engage them. But that approach makes people within your coalition uncomfortable. It forces uncomfortable questions about whether compromise is possible or whether we're just performing disagreement for the cameras.
 
 ## Retaliation Against Watchers
 

@@ -10,7 +10,7 @@ tags_color: '#1f78b4'
 
 Last year, when Bill Cronrath died after nearly 60 years of marriage, his widow Pam faced a familiar grief. What she did next was anything but ordinary. According to BBC reporting, she spent somewhere between $20,000 and $30,000 to create a hologram of her late husband so he could appear at his own memorial service.
 
-If that sounds like something out of a sci-fi thriller, the reality was more human. Pam, 78, lives in rural Washington and describes herself as a tech enthusiast. She'd seen hologram <a href="https://infeeds.com/tags/?tag=technology">technology</a> used in a medical conference years earlier and couldn't shake the idea: what if the same technique could let people say goodbye?
+If that sounds like something out of a sci-fi thriller, the reality was more human. Pam, 78, lives in rural Washington and describes herself as a tech enthusiast. She'd seen hologram <a href="https://infeeds.com/tags/technology">technology</a> used in a medical conference years earlier and couldn't shake the idea: what if the same technique could let people say goodbye?
 
 The journey from idea to execution wasn't clean. She wanted it done quickly and cheaply. Neither happened. Finding companies willing to work on a rural memorial service proved difficult. When she finally connected with Proto Hologram and Hyperreal, the scope ballooned. Her original $2,000 budget became something closer to 10 or 15 times that amount. But she went ahead anyway.
 

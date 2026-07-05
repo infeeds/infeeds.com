@@ -24,7 +24,7 @@ Sunny Hostin of "The View" offered a different lens on Thursday's episode. "If y
 
 What's interesting here isn't whether you agree with Musk's perspective on the film. What's worth examining is the mechanics of how this plays out. A billionaire with enormous reach uses his platform to criticize a casting choice, a conservative commentator amplifies it, and suddenly the conversation becomes about who gets to define what stories should look like and who gets to tell them.
 
-The <a href="https://infeeds.com/tags/?tag=technology">Technology</a> that Musk helped pioneer has given him outsized influence over cultural conversations. A few posts on X can shape narratives, prompt think pieces, and create pressure on studios. It's not censorship, exactly, but it's not nothing either.
+The <a href="https://infeeds.com/tags/technology">Technology</a> that Musk helped pioneer has given him outsized influence over cultural conversations. A few posts on X can shape narratives, prompt think pieces, and create pressure on studios. It's not censorship, exactly, but it's not nothing either.
 
 Universal Entertainment chose not to comment on Musk's criticism. Nyong'o also declined to respond. But others stepped in. Actor Alec Baldwin posted a photo of Nyong'o on Instagram with a caption directed at Musk: "Dear Elon… but she IS the most beautiful woman in the world…Alec." It was a simple counterpoint, one that sidestepped the entire historical and cultural debate to land on something more personal.
 

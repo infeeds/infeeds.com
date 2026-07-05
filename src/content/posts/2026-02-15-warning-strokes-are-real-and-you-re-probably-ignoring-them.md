@@ -50,7 +50,7 @@ So waiting around to see what happens is gambling with your brain. Not great odd
 
 If you notice any stroke symptoms, call emergency services immediately. Don't wait for them to go away. Don't convince yourself you're overreacting. Giglio recommended going straight to the nearest emergency room if you experience any abrupt neurological changes.
 
-Once you get there, Willey suggested something important: advocate for yourself loudly. Tell the medical staff you think you've had a stroke. Don't downplay it or hem and haw. [Health](https://infeeds.com/tags/?tag=health) emergencies require clear communication, and medical professionals need to understand the urgency of your situation.
+Once you get there, Willey suggested something important: advocate for yourself loudly. Tell the medical staff you think you've had a stroke. Don't downplay it or hem and haw. [Health](https://infeeds.com/tags/health) emergencies require clear communication, and medical professionals need to understand the urgency of your situation.
 
 If you absolutely can't bring yourself to go to the ER (though you really should), see your doctor or cardiologist immediately. And "immediately" doesn't mean next Tuesday when they have an opening. It means today. Remember that 48-hour window.
 
@@ -60,7 +60,7 @@ High cholesterol, uncontrolled diabetes, high blood pressure, certain heart cond
 
 Managing these conditions might mean lifestyle changes that sound boring and inconvenient. More exercise. Dietary changes. Quitting smoking. Taking medications consistently. But compared to the alternative of having a stroke, boring sounds pretty good.
 
-The CDC has guidelines for stroke prevention, and they're not exactly revolutionary. Eat better, move more, control your blood pressure, don't smoke. The [health](https://infeeds.com/tags/?tag=health) advice we all know we should follow but often don't until something forces our hand.
+The CDC has guidelines for stroke prevention, and they're not exactly revolutionary. Eat better, move more, control your blood pressure, don't smoke. The [health](https://infeeds.com/tags/health) advice we all know we should follow but often don't until something forces our hand.
 
 ## The Knowledge Gap That's Killing People
 

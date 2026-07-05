@@ -18,7 +18,7 @@ But the rumor mill has been working overtime, and we've got a pretty decent pict
 
 The iPhone 17e is supposedly making its debut, and it's being positioned as the budget option. It'll pack an A19 chip, which is the same one in the base iPhone 17, and might finally get MagSafe charging. That's nice and all, but here's the problem: Apple already has too many phones in the $600-800 range.
 
-The iPhone 16, the iPhone 17, and the existing 16e all cluster in that price bracket. If Apple drops the 17e at $599, what's the point? That's not a budget phone. That's just another mid-tier option in an already crowded lineup. The [Technology](https://infeeds.com/tags/?tag=technology) space is competitive enough without Apple cannibalizing its own products.
+The iPhone 16, the iPhone 17, and the existing 16e all cluster in that price bracket. If Apple drops the 17e at $599, what's the point? That's not a budget phone. That's just another mid-tier option in an already crowded lineup. The [Technology](https://infeeds.com/tags/technology) space is competitive enough without Apple cannibalizing its own products.
 
 And don't expect multiple cameras. This is Apple we're talking about. They'll strip out just enough features to make you wonder if you should've spent the extra hundred bucks.
 
@@ -34,7 +34,7 @@ Now we're getting somewhere. The MacBook Pro line has been stuck in an awkward s
 
 The rumors now point to both 14-inch and 16-inch MacBook Pros getting the M5 Pro and M5 Max treatment. That's what people have been waiting for. Video editors, developers, and anyone doing serious work on these laptops has been stuck on M4-based machines for months. This is the upgrade path that should've existed from day one.
 
-For those who don't need that much horsepower, there's supposedly a cheaper MacBook with an A18 Pro chip coming, plus an M5-powered MacBook Air. That Air update actually makes sense. The Air line is popular enough that a chip bump will matter to the [Business](https://infeeds.com/tags/?tag=business) crowd who want something portable but capable.
+For those who don't need that much horsepower, there's supposedly a cheaper MacBook with an A18 Pro chip coming, plus an M5-powered MacBook Air. That Air update actually makes sense. The Air line is popular enough that a chip bump will matter to the [Business](https://infeeds.com/tags/business) crowd who want something portable but capable.
 
 ## What's Actually Worth Your Money
 

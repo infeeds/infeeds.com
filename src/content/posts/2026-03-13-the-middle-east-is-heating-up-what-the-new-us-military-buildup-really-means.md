@@ -10,7 +10,7 @@ tags_color: '#1f78b4'
 
 The Trump administration just announced a major military escalation in the Middle East, and it's hard not to feel the temperature rising. The US is sending thousands more troops to the region, including an amphibious ready group led by the USS Tripoli, and officials are already talking about escorting oil tankers through the Strait of Hormuz. This isn't just saber-rattling anymore. This is the real deal.
 
-What started with strikes on Iran back on February 28th has snowballed into something far more serious. The killing of Supreme Leader Ayatollah Ali Khamenei marked a turning point, and now we're watching [geopolitics](https://infeeds.com/tags/?tag=geopolitics) play out in real time with genuine consequences for global stability.
+What started with strikes on Iran back on February 28th has snowballed into something far more serious. The killing of Supreme Leader Ayatollah Ali Khamenei marked a turning point, and now we're watching [geopolitics](https://infeeds.com/tags/geopolitics) play out in real time with genuine consequences for global stability.
 
 ## The Numbers Tell the Story
 

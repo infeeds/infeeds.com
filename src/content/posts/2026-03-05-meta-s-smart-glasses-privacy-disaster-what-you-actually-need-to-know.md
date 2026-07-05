@@ -44,9 +44,9 @@ A class-action lawsuit was filed against Meta and Luxottica (Ray-Ban's parent co
 
 The legal argument is simple and devastating. No reasonable person would interpret that slogan to mean "your intimate home videos will be viewed and catalogued by human workers in Kenya." Meta made privacy the centerpiece of its entire marketing campaign while deliberately obscuring how the product actually works. That's not just misleading. It's textbook consumer deception.
 
-The lawsuit is seeking damages, punitive penalties, and an injunction forcing Meta to change its business practices. Whether it succeeds or not, it's a clear signal that consumers are done accepting this kind of bait-and-switch on <a href="https://infeeds.com/tags/?tag=technology">technology</a> privacy.
+The lawsuit is seeking damages, punitive penalties, and an injunction forcing Meta to change its business practices. Whether it succeeds or not, it's a clear signal that consumers are done accepting this kind of bait-and-switch on <a href="https://infeeds.com/tags/technology">technology</a> privacy.
 
-## What This Means for the Broader <a href="https://infeeds.com/tags/?tag=business">Business</a> of Smart Glasses
+## What This Means for the Broader <a href="https://infeeds.com/tags/business">Business</a> of Smart Glasses
 
 This isn't just about Ray-Ban Meta anymore. It's about the entire premise of wearable devices that can constantly record your environment. As Meta reportedly plans to add facial recognition to these glasses as soon as this year, the privacy implications multiply exponentially.
 

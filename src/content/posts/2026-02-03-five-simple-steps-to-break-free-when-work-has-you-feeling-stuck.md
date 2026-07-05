@@ -24,7 +24,7 @@ The weird thing about our brains is they're really good at finding what we tell 
 
 ## Stop Waiting for the Finish Line to Feel Good
 
-One of the fastest ways to stay miserable is waiting until everything is perfect to celebrate anything. That's a recipe for never celebrating at all because nothing is ever truly finished in [business](https://infeeds.com/tags/?tag=business).
+One of the fastest ways to stay miserable is waiting until everything is perfect to celebrate anything. That's a recipe for never celebrating at all because nothing is ever truly finished in [business](https://infeeds.com/tags/business).
 
 Think about losing weight. If you needed to drop 50 pounds, would you really wait until you hit that exact number to acknowledge any progress? Of course not. You'd notice when you hit 10 pounds, 20 pounds. You'd probably also celebrate the behavior changes that got you there, like actually making it to the gym or cutting out the late-night junk food binges.
 

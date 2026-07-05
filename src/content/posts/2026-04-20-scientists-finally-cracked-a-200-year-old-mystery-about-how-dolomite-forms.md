@@ -36,7 +36,7 @@ Normally, electron beams in these microscopes just take pictures. But Kimura rea
 
 They placed a tiny dolomite crystal in a calcium-magnesium solution and pulsed the electron beam 4,000 times over two hours, mimicking those natural cycles of dissolution and regrowth. The crystal grew to about 100 nanometers, roughly 250,000 times smaller than an inch, building up around 300 layers. Every previous attempt had maxed out at five layers.
 
-## From Geology to [Technology](https://infeeds.com/tags/?tag=technology)
+## From Geology to [Technology](https://infeeds.com/tags/technology)
 
 Here's where it gets interesting beyond just academic satisfaction. Understanding how to grow defect-free materials quickly has immediate applications. Wenhao Sun, the corresponding author, put it plainly: "Our theory shows that you can grow defect-free materials quickly, if you periodically dissolve the defects away during growth."
 

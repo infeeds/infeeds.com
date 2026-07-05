@@ -18,9 +18,9 @@ The lifetime subscription angle is interesting in a market that's basically trai
 
 ## The Reality of Model Shopping
 
-Here's the thing about AI models that doesn't get talked about enough: they really do have different personalities. GPT might nail your creative brief while completely fumbling a technical explanation that Claude handles perfectly. Anyone working in [technology](https://infeeds.com/tags/?tag=technology) seriously has probably noticed this by now.
+Here's the thing about AI models that doesn't get talked about enough: they really do have different personalities. GPT might nail your creative brief while completely fumbling a technical explanation that Claude handles perfectly. Anyone working in [technology](https://infeeds.com/tags/technology) seriously has probably noticed this by now.
 
-But does that mean you need instant access to 25 of them? Maybe if you're running an agency or doing constant content production. For most small [business](https://infeeds.com/tags/?tag=business) owners, you probably settle into using two or three models regularly and forget the rest exist.
+But does that mean you need instant access to 25 of them? Maybe if you're running an agency or doing constant content production. For most small [business](https://infeeds.com/tags/business) owners, you probably settle into using two or three models regularly and forget the rest exist.
 
 The PDF and image chat features are practical additions. Uploading a contract and asking questions beats Control+F for complex documents. The Chrome extension is table stakes at this point since nobody wants to leave their browser workflow. Saved conversation history is useful until you have 500 conversations and can't find anything.
 
@@ -38,7 +38,7 @@ For teams running constant experiments, this could genuinely save money compared
 
 The proliferation of platforms like ChatPlayground signals something about where we are in the AI adoption curve. We're past the "wow, this is magic" phase and deep into the "which magic should I use" confusion stage. Aggregator platforms always emerge when a market gets too complicated for normal people to navigate.
 
-That's not necessarily bad. Consolidation has its place. But it's worth asking whether we're solving a real problem or creating a new category of tool that itself requires learning and maintenance. The [business](https://infeeds.com/tags/?tag=business) of simplifying AI might be just as complex as using AI directly.
+That's not necessarily bad. Consolidation has its place. But it's worth asking whether we're solving a real problem or creating a new category of tool that itself requires learning and maintenance. The [business](https://infeeds.com/tags/business) of simplifying AI might be just as complex as using AI directly.
 
 The lifetime pricing model also raises questions about sustainability. How does a company maintain access to 25+ premium AI models, each with their own API costs, on a one-time payment? Either the usage limits are more restrictive than advertised, the models aren't the full premium versions, or the business model involves eventually upselling you on something else.
 

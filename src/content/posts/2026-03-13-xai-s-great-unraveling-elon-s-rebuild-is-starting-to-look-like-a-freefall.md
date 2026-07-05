@@ -8,7 +8,7 @@ tags: [news, tech]
 tags_color: '#00ba65'
 ---
 
-xAI looked like it had everything going for it three years ago. Elon Musk, a star-studded founding team of 11, and the audacity to take on OpenAI and Anthropic in one of the most competitive spaces in <a href="https://infeeds.com/tags/?tag=technology">technology</a>. Now? Only two of those original co-founders are left standing.
+xAI looked like it had everything going for it three years ago. Elon Musk, a star-studded founding team of 11, and the audacity to take on OpenAI and Anthropic in one of the most competitive spaces in <a href="https://infeeds.com/tags/technology">technology</a>. Now? Only two of those original co-founders are left standing.
 
 This week, two more co-founders walked. Zihang Dai and Guodong Zhang departed after Musk complained that xAI's coding tools weren't cutting it against Claude Code and Codex. That's not just a personnel shuffle. That's a death knell for morale.
 
@@ -18,7 +18,7 @@ The thing about co-founders leaving is that it sends a signal. If the people who
 
 Musk's public explanation was blunt: xAI was "not built right first time around" and is being "rebuilt from the foundations up." Translation: we screwed up. At least he's honest about it.
 
-But honesty doesn't fix the immediate problem. Coding tools are where the real money lives in AI right now. This isn't some vanity metric. Companies will pay for AI that makes their developers faster. xAI's lag in this category is a <a href="https://infeeds.com/tags/?tag=business">business</a> problem, not a perception problem.
+But honesty doesn't fix the immediate problem. Coding tools are where the real money lives in AI right now. This isn't some vanity metric. Companies will pay for AI that makes their developers faster. xAI's lag in this category is a <a href="https://infeeds.com/tags/business">business</a> problem, not a perception problem.
 
 Musk promised they'd catch up by mid-year. That's a bold claim when you just lost two co-founders who presumably knew how to build this stuff.
 

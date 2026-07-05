@@ -30,7 +30,7 @@ These stories are funny on the surface, sure. But they also point to something w
 
 ## Why This Matters Beyond the Joke
 
-The gap between when someone dies and when the public learns about it is supposed to matter. Families deserve dignity. The people involved deserve the chance to control their own narrative, or at least have accurate information reported about them. When a major [news](https://infeeds.com/tags/?tag=news) outlet publishes an obituary by accident, it's not just embarrassing. It's a failure of basic editorial process.
+The gap between when someone dies and when the public learns about it is supposed to matter. Families deserve dignity. The people involved deserve the chance to control their own narrative, or at least have accurate information reported about them. When a major [news](https://infeeds.com/tags/news) outlet publishes an obituary by accident, it's not just embarrassing. It's a failure of basic editorial process.
 
 News organizations maintain pre-written obituaries for major public figures all the time. There are legitimate reasons for this. When someone passes away, having prepared material allows for faster, more comprehensive reporting. But that system only works if there's an actual death to report.
 

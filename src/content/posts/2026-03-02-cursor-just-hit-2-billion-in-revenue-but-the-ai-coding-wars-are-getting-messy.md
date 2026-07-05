@@ -28,7 +28,7 @@ The defections happening right now? They're mostly from the individual developer
 
 This isn't necessarily a failure for Cursor. It's actually a calculated trade-off. Enterprise deals are worth way more than a thousand individual subscriptions. One big contract from a Fortune 500 company probably replaces hundreds of fleeing indie devs in terms of revenue.
 
-But it does suggest that Cursor's <a href="https://infeeds.com/tags/?tag=technology">Technology</a> might not be objectively better anymore. It's just better for a specific customer segment that has deeper pockets and less flexibility.
+But it does suggest that Cursor's <a href="https://infeeds.com/tags/technology">Technology</a> might not be objectively better anymore. It's just better for a specific customer segment that has deeper pockets and less flexibility.
 
 ## The Crowded Playing Field
 
@@ -38,7 +38,7 @@ Cursor was valued at $29.3 billion after their $2.3 billion funding round in Nov
 
 ## The Real Story Isn't the Revenue Number
 
-The $2 billion figure is real, but it tells a story about corporate consolidation more than market dominance. Cursor succeeded because they understood that <a href="https://infeeds.com/tags/?tag=business">Business</a> logic trumps product purity. You can lose individual users if you're winning enterprise contracts.
+The $2 billion figure is real, but it tells a story about corporate consolidation more than market dominance. Cursor succeeded because they understood that <a href="https://infeeds.com/tags/business">Business</a> logic trumps product purity. You can lose individual users if you're winning enterprise contracts.
 
 Whether that strategy holds up when every competitor is doing the same thing? That's the question nobody can answer yet. The market for AI coding assistants is still young, still reshaping itself. Revenue growth in a crowded market doesn't always mean you've won. Sometimes it just means you've bought yourself more time to prove you belong.
 

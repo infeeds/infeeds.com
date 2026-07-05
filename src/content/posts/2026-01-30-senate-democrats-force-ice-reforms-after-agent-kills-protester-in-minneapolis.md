@@ -18,7 +18,7 @@ This wasn't the plan. The DHS funding bill was sailing toward passage with expec
 
 Senate Democrats don't usually agree on much. There's always someone breaking ranks, making some pragmatic calculation about their home state or their next election. But this time was different. The entire caucus stood together and said no more money for DHS without serious reforms to how ICE operates.
 
-The vote wasn't even close. 71-29 in favor of the temporary extension. The White House and Republican senators found themselves backed into a corner, forced into negotiations they clearly didn't want to have. The alternative was another government shutdown, which would have been the second in less than a year. Nobody wanted that kind of [political](https://infeeds.com/tags/?tag=politics) chaos.
+The vote wasn't even close. 71-29 in favor of the temporary extension. The White House and Republican senators found themselves backed into a corner, forced into negotiations they clearly didn't want to have. The alternative was another government shutdown, which would have been the second in less than a year. Nobody wanted that kind of [political](https://infeeds.com/tags/politics) chaos.
 
 DHS will technically be unfunded over the weekend until the House comes back Monday to vote on the stopgap measure. It's a weird limbo state that highlights just how unprecedented this move really is.
 
@@ -26,7 +26,7 @@ DHS will technically be unfunded over the weekend until the House comes back Mon
 
 Here's the thing that made this possible: the polling actually supported the Democrats' position. Senate Majority PAC, which leans Democratic, ran a survey that showed voters were overwhelmingly in favor of forcing reforms to ICE, even if it meant a partial shutdown. And crucially, voters would blame Republicans if the government stayed closed.
 
-That kind of [data](https://infeeds.com/tags/?tag=data) changes the calculation completely. Democrats weren't walking into a political trap. They had cover from their constituents, which is rare when you're talking about anything related to government shutdowns or law enforcement funding.
+That kind of [data](https://infeeds.com/tags/data) changes the calculation completely. Democrats weren't walking into a political trap. They had cover from their constituents, which is rare when you're talking about anything related to government shutdowns or law enforcement funding.
 
 The Trump administration got boxed in by basic political math. They could dig in and face a shutdown they'd get blamed for, or they could negotiate. They chose to negotiate.
 
@@ -36,4 +36,4 @@ Congress has two weeks to figure out what "guardrails around ICE" actually means
 
 The devil will be in the details. Are we talking about limiting detention bed counts? Restricting enforcement actions? Requiring more accountability for use of force? All of the above? The negotiations are going to be brutal, and there's no guarantee they'll reach an agreement before the two weeks run out.
 
-If they don't, DHS shuts down, and we're in uncharted territory. Federal law enforcement agencies don't typically just stop [operating](https://infeeds.com/tags/?tag=business) because of budget disputes. But that's exactly what Democrats are threatening if they don't get meaningful reforms. The death of Alex Pretti created a moment where the usual political calculations stopped mattering, at least for now.
+If they don't, DHS shuts down, and we're in uncharted territory. Federal law enforcement agencies don't typically just stop [operating](https://infeeds.com/tags/business) because of budget disputes. But that's exactly what Democrats are threatening if they don't get meaningful reforms. The death of Alex Pretti created a moment where the usual political calculations stopped mattering, at least for now.

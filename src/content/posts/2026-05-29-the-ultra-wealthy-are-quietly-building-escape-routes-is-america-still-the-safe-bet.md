@@ -8,7 +8,7 @@ tags: [news, business]
 tags_color: '#795548'
 ---
 
-Look, I've covered enough [business](https://infeeds.com/tags/?tag=business) news to know when something feels like a shift in the wind. This week, the New York Times dropped a story that made me sit up: Peter Thiel, the PayPal and Palantir cofounder, has been spending more time in Argentina. He's enrolled his kids in school there. Bought a home in one of Buenos Aires' ritziest neighborhoods.
+Look, I've covered enough [business](https://infeeds.com/tags/business) news to know when something feels like a shift in the wind. This week, the New York Times dropped a story that made me sit up: Peter Thiel, the PayPal and Palantir cofounder, has been spending more time in Argentina. He's enrolled his kids in school there. Bought a home in one of Buenos Aires' ritziest neighborhoods.
 
 Now, I get it. Thiel has always operated on a different wavelength. He's the guy who famously said he doesn't believe in the "singularity" but definitely thinks about extinction-level risks. So perhaps it's not totally shocking that he's eyeing exit strategies.
 

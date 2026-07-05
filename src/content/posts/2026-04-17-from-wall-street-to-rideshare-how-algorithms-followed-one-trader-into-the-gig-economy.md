@@ -26,7 +26,7 @@ Rising fuel costs have transformed the economics of rideshare driving. A fill-up
 
 Lewis has responded with the kinds of micro-optimizations that define precarious work: taking back roads instead of highways to save miles, rejecting rides that have poor return-trip economics, and watching every expense with the intensity of someone who can't absorb unexpected costs. He fills up six to seven times a week. That's not casual driving. That's the work of someone who has done the math and knows exactly how tight the margins have become.
 
-Here's where it gets interesting. Four years ago, when Russia invaded Ukraine and gas prices spiked, <a href="https://infeeds.com/tags/?tag=business">Uber and Lyft</a> responded by adding a gas surcharge to rides, charging passengers an extra $0.45 to $0.55 per trip. Lewis estimates that kind of pass-through would add about $80 to his weekly earnings. It would be enough to make a real difference.
+Here's where it gets interesting. Four years ago, when Russia invaded Ukraine and gas prices spiked, <a href="https://infeeds.com/tags/business">Uber and Lyft</a> responded by adding a gas surcharge to rides, charging passengers an extra $0.45 to $0.55 per trip. Lewis estimates that kind of pass-through would add about $80 to his weekly earnings. It would be enough to make a real difference.
 
 But this time around? The apps have offered cashback programs through partner apps or their own debit cards. Lewis doesn't use either. For someone living paycheck to paycheck on rideshare income, these solutions feel like they were designed by people who don't understand how people actually live.
 
@@ -40,4 +40,4 @@ And he's doing this on top of his actual job, which is driving people around saf
 
 "If you're driving a regular car that gets 25 to 30 miles per gallon, I don't see how this kind of work is profitable," Lewis said. He's not complaining. He's being honest about the arithmetic. When your expenses scale faster than your income, and the company controlling your access to work refuses to adjust compensation, you're not in a sustainable situation. You're in a triage situation.
 
-The question nobody in the <a href="https://infeeds.com/tags/?tag=technology">technology</a> industry seems particularly interested in answering is simple: What happens when an entire class of workers becomes too poor to afford the work they're doing?
+The question nobody in the <a href="https://infeeds.com/tags/technology">technology</a> industry seems particularly interested in answering is simple: What happens when an entire class of workers becomes too poor to afford the work they're doing?

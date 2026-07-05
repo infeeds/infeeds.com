@@ -36,7 +36,7 @@ The rebellion wasn't just internal. On social media, users started flooding Redd
 
 Within days, Claude had climbed to number one on the US Apple App Store's most-downloaded free apps list. It stayed there. Claude also topped the productivity apps category, relegating ChatGPT to second place. Google's Gemini and xAI's Grok weren't far behind, but the message was crystal clear: users were willing to switch.
 
-Activists even showed up outside OpenAI's Mission Bay headquarters in San Francisco calling for a "QuitGPT" movement. The anger went beyond just the Pentagon deal too, with some protesters voicing broader concerns about <a href="https://infeeds.com/tags/?tag=business">business</a> practices and political connections.
+Activists even showed up outside OpenAI's Mission Bay headquarters in San Francisco calling for a "QuitGPT" movement. The anger went beyond just the Pentagon deal too, with some protesters voicing broader concerns about <a href="https://infeeds.com/tags/business">business</a> practices and political connections.
 
 ## Sam Altman Goes Into Damage Control
 
@@ -48,7 +48,7 @@ Which, fair assessment.
 
 ## The Political Response Was Predictable
 
-California Democratic Rep. Sam Liccardo introduced an amendment to the Defense Production Act that would prohibit the Pentagon from retaliating against developers who institute safeguards on risky <a href="https://infeeds.com/tags/?tag=technology">technology</a>. It failed 16-25 in committee, but the message mattered: some lawmakers actually get why refusing a bad deal shouldn't come with consequences.
+California Democratic Rep. Sam Liccardo introduced an amendment to the Defense Production Act that would prohibit the Pentagon from retaliating against developers who institute safeguards on risky <a href="https://infeeds.com/tags/technology">technology</a>. It failed 16-25 in committee, but the message mattered: some lawmakers actually get why refusing a bad deal shouldn't come with consequences.
 
 Liccardo made the point brilliantly: "When the company that designs and builds the jet fighter tells us when to use the brakes, we should listen." The Pentagon apparently disagreed. Democratic Sen. Brian Schatz of Hawaii even jumped on X to announce he'd downloaded Claude, which is a subtle but pointed way for a politician to take a side.
 
@@ -58,6 +58,6 @@ The real story here isn't about whether AI should play a role in national securi
 
 Anthropic didn't win this round because they're perfect. They won because they slowed down and drew clear lines. And then they actually stuck to them publicly.
 
-Altman's frantic corrections after the fact probably helped contain the damage, but the clock doesn't rewind. Users who switched to Claude might stay there. Employees who watched their CEO move fast and break ethical guardrails have seen something they can't unsee. <a href="https://infeeds.com/tags/?tag=business">Business</a> momentum, it turns out, is easier to lose than to build.
+Altman's frantic corrections after the fact probably helped contain the damage, but the clock doesn't rewind. Users who switched to Claude might stay there. Employees who watched their CEO move fast and break ethical guardrails have seen something they can't unsee. <a href="https://infeeds.com/tags/business">Business</a> momentum, it turns out, is easier to lose than to build.
 
 The question now isn't whether OpenAI will recover from this specific controversy. It's whether the market will ever quite trust the company to slow down and think before the next major decision comes along.

@@ -42,7 +42,7 @@ Pitaka also offers the Aramid ProGuard for Pro models only. It's slightly thicke
 
 ## Screen Protectors Actually Matter
 
-The [<a href="https://infeeds.com/tags/?tag=technology">Technology</a> behind screen protection has improved, but tempered glass is still the baseline. Dbrand's tempered glass protectors come with two in the box, cleaning supplies, and a pull-tab application system. The installation tool is incredibly easy to use, and the protector extends further toward the edge than most competitors without feeling sharp.
+The [<a href="https://infeeds.com/tags/technology">Technology</a> behind screen protection has improved, but tempered glass is still the baseline. Dbrand's tempered glass protectors come with two in the box, cleaning supplies, and a pull-tab application system. The installation tool is incredibly easy to use, and the protector extends further toward the edge than most competitors without feeling sharp.
 
 Smartish's Tuff Sheet protector is similarly excellent. The application tool is nearly as good as Dbrand's, and you get two protectors for around $20. The curved edges don't feel sharp as your finger slides from the edge to the screen. Installation takes seconds if you're careful.
 

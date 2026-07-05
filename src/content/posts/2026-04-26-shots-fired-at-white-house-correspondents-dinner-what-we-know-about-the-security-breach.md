@@ -42,7 +42,7 @@ First Lady Melania Trump and all Cabinet members in attendance were reported to 
 
 Key details remain murky. Law enforcement has preliminary information but the full picture of how Allen infiltrated security, what his actual motivations were, and whether he had specific targets will likely take days or weeks to emerge. The discrepancies in early reporting about whether he was shot before subdual suggest the incident unfolded too fast for even trained personnel to fully process in real time.
 
-The [business](https://infeeds.com/tags/?tag=business) of high-security events in the nation's capital just became more complicated. If someone with three weapons could get that close at one of Washington's most attended annual gatherings, it raises hard questions about screening procedures, perimeter security, and threat assessment protocols.
+The [business](https://infeeds.com/tags/business) of high-security events in the nation's capital just became more complicated. If someone with three weapons could get that close at one of Washington's most attended annual gatherings, it raises hard questions about screening procedures, perimeter security, and threat assessment protocols.
 
 Trump praised the Secret Service and law enforcement for their quick action, and that response does appear to have prevented what could have been far worse. Still, the fact that this happened at all suggests vulnerabilities that won't be easy to address without making the dinner feel like an armed bunker rather than a celebration of press freedom.
 

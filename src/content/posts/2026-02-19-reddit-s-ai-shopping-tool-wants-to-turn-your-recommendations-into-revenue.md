@@ -22,13 +22,13 @@ When test users search for something like "best noise-canceling headphones" or "
 
 Reddit says this feature "surfaces top-recommended products directly from discussions" while keeping community perspectives central to the experience. The company launched Dynamic Product Ads last year, which already shows personalized product recommendations based on user interests, so this feels like the next logical step in their e-commerce push.
 
-The [technology](https://infeeds.com/tags/?tag=technology) mines actual conversations for product mentions rather than just serving up sponsored content, which at least maintains some connection to what makes Reddit useful in the first place. People genuinely do go there asking "what's the best [insert product category]" and trust the community's collective wisdom more than traditional advertising.
+The [technology](https://infeeds.com/tags/technology) mines actual conversations for product mentions rather than just serving up sponsored content, which at least maintains some connection to what makes Reddit useful in the first place. People genuinely do go there asking "what's the best [insert product category]" and trust the community's collective wisdom more than traditional advertising.
 
 ## Following the Shopping Feature Playbook
 
 Reddit is late to this party. TikTok and Instagram have had shopping features baked into their platforms for years. OpenAI rolled out "Instant Checkout" for ChatGPT last September, letting users buy from Etsy and Shopify without leaving their conversations.
 
-Every platform with eyeballs and engagement is trying to become a shopping destination. The [business](https://infeeds.com/tags/?tag=business) logic is straightforward: why send users to Amazon when you could capture that transaction yourself and take a cut?
+Every platform with eyeballs and engagement is trying to become a shopping destination. The [business](https://infeeds.com/tags/business) logic is straightforward: why send users to Amazon when you could capture that transaction yourself and take a cut?
 
 But Reddit's user base has always been different. The platform built its reputation on authentic discussions and community-driven content, not influencer marketing and sponsored posts. There's a real question about whether Reddit's audience will embrace shopping features or see them as another step toward the platform becoming just another ad-heavy social network.
 

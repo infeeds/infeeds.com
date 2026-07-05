@@ -30,7 +30,7 @@ The past week has produced some significant developments that might actually lea
 
 Whitney also reported that DNA from an SUV stopped by law enforcement on Friday is being tested. The timing there is interesting. The driver of that vehicle was apparently heading to a house that got raided by a SWAT team and the FBI that same night. That's not a coincidence.
 
-You don't roll up with SWAT and federal agents unless you think you're onto something big. The [news](https://infeeds.com/tags/?tag=news) coverage has been intense, with every outlet trying to piece together what's actually happening behind the scenes.
+You don't roll up with SWAT and federal agents unless you think you're onto something big. The [news](https://infeeds.com/tags/news) coverage has been intense, with every outlet trying to piece together what's actually happening behind the scenes.
 
 ## The Information War
 
@@ -40,4 +40,4 @@ Maybe they think announcing it's a burglary gone wrong would spook the suspects 
 
 The one piece of potentially good news in all this? Whitney says investigators believe Nancy Guthrie "could be alive." After more than two weeks missing, that's something. But it also raises questions about why someone would keep an elderly woman alive this long if it really was just a burglary that went sideways.
 
-The disconnect between what a decorated journalist is reporting from inside sources and what officials are saying publicly tells you everything about how chaotic this investigation has become. Someone knows what really happened that night, and right now they're the only ones who can say whether this was a targeted [crime](https://infeeds.com/tags/?tag=entertainment) or just terrible luck that spiraled out of control.
+The disconnect between what a decorated journalist is reporting from inside sources and what officials are saying publicly tells you everything about how chaotic this investigation has become. Someone knows what really happened that night, and right now they're the only ones who can say whether this was a targeted [crime](https://infeeds.com/tags/entertainment) or just terrible luck that spiraled out of control.

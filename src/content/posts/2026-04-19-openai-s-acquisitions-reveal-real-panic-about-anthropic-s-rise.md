@@ -28,7 +28,7 @@ The Hiro acquisition suggests OpenAI knows exactly where the growth is and wants
 
 Then there's TBPN. A daily business talk show. Acquired by an AI company. Allegedly keeping editorial independence, which, as O'Kane astutely noted, isn't an "incantation that just works" when the people running the show now report to marketing and communications.
 
-This acquisition is damage control wrapped in Silicon Valley euphemism. OpenAI's reputation has taken heavy hits recently. According to reporting from The New Yorker, there's been significant scrutiny on the company's practices and direction. Public sentiment matters in [technology](https://infeeds.com/tags/?tag=technology), and OpenAI's has been deteriorating.
+This acquisition is damage control wrapped in Silicon Valley euphemism. OpenAI's reputation has taken heavy hits recently. According to reporting from The New Yorker, there's been significant scrutiny on the company's practices and direction. Public sentiment matters in [technology](https://infeeds.com/tags/technology), and OpenAI's has been deteriorating.
 
 Buying a media operation is a way of saying: we need to control the conversation because the conversation is getting away from us. It's not a business decision. It's a PR decision dressed up as one.
 
@@ -36,7 +36,7 @@ Buying a media operation is a way of saying: we need to control the conversation
 
 Here's what makes both moves genuinely interesting: they exist in direct response to Anthropic's momentum. Nobody wants to say it outright, but there's a competitive panic happening. OpenAI didn't used to move like this. They used to be the company that could afford to be patient, to let ChatGPT just exist and own the space.
 
-Anthropic changed that. The company has built a reputation for enterprise reliability and a product that developers actually want to reach for. That's not a fluke or a temporary moment. That's a [business](https://infeeds.com/tags/?tag=business) gaining real traction in the high-value segment where AI money actually lives.
+Anthropic changed that. The company has built a reputation for enterprise reliability and a product that developers actually want to reach for. That's not a fluke or a temporary moment. That's a [business](https://infeeds.com/tags/business) gaining real traction in the high-value segment where AI money actually lives.
 
 OpenAI's acquisitions suggest they're playing catch-up now, which is wild to say about the company that seemed unassailable just months ago. The Hiro deal is essentially saying: we need a consumer revenue stream because we can't sustain on enterprise alone. The TBPN deal is saying: the narrative is slipping and we need to grab it back.
 

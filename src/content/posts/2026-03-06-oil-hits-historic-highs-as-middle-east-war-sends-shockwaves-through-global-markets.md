@@ -16,7 +16,7 @@ West Texas Intermediate crude jumped 35.63% for the week, while Brent crude clim
 
 ## The Real Problem: The Strait of Hormuz
 
-Here's what's actually terrifying global <a href="https://infeeds.com/tags/?tag=business">business</a> leaders right now. The Strait of Hormuz, which handles a massive chunk of the world's oil shipments, has essentially ground to a halt. Traffic through this critical waterway is near standstill because of escalating tensions between Iran and the United States.
+Here's what's actually terrifying global <a href="https://infeeds.com/tags/business">business</a> leaders right now. The Strait of Hormuz, which handles a massive chunk of the world's oil shipments, has essentially ground to a halt. Traffic through this critical waterway is near standstill because of escalating tensions between Iran and the United States.
 
 Qatar's energy minister Saad al-Kaabi didn't mince words when speaking to The Financial Times. He warned that crude could spike to $150 per barrel in the coming weeks if tankers can't navigate through the Strait. Think about that for a second. At those prices, he said it could literally "bring down the economies of the world."
 
@@ -26,7 +26,7 @@ That's not hyperbole. That's a direct quote from someone who knows the energy se
 
 The theoretical threat became very real very quickly. Iraq has already shut down 1.5 million barrels per day of production. Kuwait, running out of storage space, started cutting production too. JPMorgan analysts estimate that production cuts could balloon to 6 million barrels per day by next week if the Strait remains blocked.
 
-This is where things get interesting. The <a href="https://infeeds.com/tags/?tag=business">business</a> community started shifting from pricing pure geopolitical risk to dealing with actual operational disruption. Natasha Kaneva from JPMorgan put it perfectly in a Friday note to clients: "The market is shifting from pricing pure geopolitical risk to grappling with tangible operational disruption."
+This is where things get interesting. The <a href="https://infeeds.com/tags/business">business</a> community started shifting from pricing pure geopolitical risk to dealing with actual operational disruption. Natasha Kaneva from JPMorgan put it perfectly in a Friday note to clients: "The market is shifting from pricing pure geopolitical risk to grappling with tangible operational disruption."
 
 Translation? This isn't just fear anymore. This is real supply destruction happening right now.
 

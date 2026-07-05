@@ -20,7 +20,7 @@ The stock performance tells you everything you need to know about the challenge 
 
 Walmart's John Furner basically inherited a well-oiled machine that's firing on all cylinders. The company just crossed the trillion-dollar market cap threshold in early February. They even switched their stock listing from the NYSE to the Nasdaq, basically saying "hey, we're a tech company now" to anyone paying attention.
 
-And honestly? They kind of are. Walmart's been aggressively pushing into AI and digital commerce in ways that would make Amazon sweat a little. They've cut deals with both ChatGPT and Google's Gemini to make shopping easier. Their e-commerce [business](https://infeeds.com/tags/?tag=business) posted its first profitable quarter globally back in May. Home deliveries are growing, the ads business is printing money, and their third-party marketplace keeps expanding.
+And honestly? They kind of are. Walmart's been aggressively pushing into AI and digital commerce in ways that would make Amazon sweat a little. They've cut deals with both ChatGPT and Google's Gemini to make shopping easier. Their e-commerce [business](https://infeeds.com/tags/business) posted its first profitable quarter globally back in May. Home deliveries are growing, the ads business is printing money, and their third-party marketplace keeps expanding.
 
 Neil Saunders from GlobalData put it perfectly: Furner's job is to "keep the ship steady and see what he can do to add to the speed." Not a bad problem to have.
 
@@ -32,7 +32,7 @@ Here's something wild to consider. When Walmart reports earnings Thursday, we mi
 
 Walmart's been fighting back by using its massive store footprint as a weapon. Those locations aren't just places to buy stuff anymore, they're fulfillment centers for online orders, grocery pickup spots, and delivery hubs. Amazon tried to bolt on grocery stores with Amazon Fresh and Go, but just announced they're shuttering most of them and converting some to Whole Foods. That strategy clearly didn't work.
 
-The [technology](https://infeeds.com/tags/?tag=technology) battle between these giants is fascinating because it's not just about having the best app or the fastest delivery. It's about fundamentally reimagining what retail even means. Furner sent a memo to employees talking about how AI is "helping reduce friction in our work, simplify decisions, improve inventory flow." That's not marketing speak, that's the future of how these massive operations will actually function.
+The [technology](https://infeeds.com/tags/technology) battle between these giants is fascinating because it's not just about having the best app or the fastest delivery. It's about fundamentally reimagining what retail even means. Furner sent a memo to employees talking about how AI is "helping reduce friction in our work, simplify decisions, improve inventory flow." That's not marketing speak, that's the future of how these massive operations will actually function.
 
 ## Target's Comeback Playbook Starts Now
 

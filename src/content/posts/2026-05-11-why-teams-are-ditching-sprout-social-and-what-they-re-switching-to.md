@@ -46,7 +46,7 @@ The gap between mid-market tools and true enterprise platforms is wider than the
 
 This is where most teams stumble. They shop by feature list instead of by problem. A platform looks impressive until you realize it doesn't solve anything you actually care about.
 
-Start by separating must-haves from nice-to-haves. Do you genuinely need enterprise governance, or are you just assuming you do? Is social listening essential, or would basic monitoring suffice? How many users are you actually planning to support over the next twelve to eighteen months? Will the platform integrate with your existing [technology](https://infeeds.com/tags/?tag=technology) stack, or is it going to create friction?
+Start by separating must-haves from nice-to-haves. Do you genuinely need enterprise governance, or are you just assuming you do? Is social listening essential, or would basic monitoring suffice? How many users are you actually planning to support over the next twelve to eighteen months? Will the platform integrate with your existing [technology](https://infeeds.com/tags/technology) stack, or is it going to create friction?
 
 Then model the total cost of ownership at your projected team size. A platform that looks affordable for three users gets expensive fast at fifteen.
 
@@ -56,6 +56,6 @@ And actually use the free trial. Not for an afternoon. Use it long enough to int
 
 ## The Broader Picture
 
-The shift away from Sprout Social isn't about the platform being bad. It's about [business](https://infeeds.com/tags/?tag=business) needs evolving faster than pricing structures. It's about teams discovering that they don't actually need everything Sprout Social offers, or that they need something Sprout Social doesn't. It's about recognizing that the social media management market is now mature enough to support real specialization.
+The shift away from Sprout Social isn't about the platform being bad. It's about [business](https://infeeds.com/tags/business) needs evolving faster than pricing structures. It's about teams discovering that they don't actually need everything Sprout Social offers, or that they need something Sprout Social doesn't. It's about recognizing that the social media management market is now mature enough to support real specialization.
 
 The question isn't whether Sprout Social is worth switching from. The question is whether the platform you're paying for right now still matches the problems you're trying to solve. If it doesn't, the alternatives have never been clearer or more varied. The harder part is being honest about what you actually need rather than what you think you should want.

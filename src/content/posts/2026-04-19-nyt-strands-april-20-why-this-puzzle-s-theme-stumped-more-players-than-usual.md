@@ -16,7 +16,7 @@ The spangram for today's puzzle is CATCHTHELIGHT, which winds across the board s
 
 The toughest category in today's puzzle was marine-related terms. BALEEN, the filter-feeding structure found in certain whale species, tripped up plenty of solvers. So did RIGHT, which refers to right whales, a species most people know exists but don't necessarily think about when solving puzzles. BIGEYE and SKIPJACK, both types of fish, fell into that same zone of plausible but obscure.
 
-This isn't the first time Strands has leaned into niche <a href="https://infeeds.com/tags/?tag=technology">technology</a> and knowledge categories. The puzzle's creators seem to have a soft spot for ocean-related themes, which makes sense when you consider how many players appreciate a challenge that rewards general curiosity.
+This isn't the first time Strands has leaned into niche <a href="https://infeeds.com/tags/technology">technology</a> and knowledge categories. The puzzle's creators seem to have a soft spot for ocean-related themes, which makes sense when you consider how many players appreciate a challenge that rewards general curiosity.
 
 ## The Dated Slang Problem
 

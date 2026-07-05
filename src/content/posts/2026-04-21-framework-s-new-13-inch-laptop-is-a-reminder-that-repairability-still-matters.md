@@ -10,7 +10,7 @@ tags_color: '#ff5722'
 
 Framework, the company that's quietly become the voice of the anti-disposable laptop movement, just announced the Laptop 13 Pro. On the surface, it's a solid hardware refresh: better battery life, a touchscreen, and Intel's latest processors swapped in for AMD's chips. But the real story here is that Framework is betting hard that people actually care about owning what they buy.
 
-At an event in San Francisco, CEO Nirav Patel opened with a joke about Framework building AI. The punchline? They're absolutely not. "That industry is fighting for you to own nothing, and they own everything," Patel said. "We're fighting for a future where you can own everything and be free." It's a pointed jab at the broader <a href="https://infeeds.com/tags/?tag=technology">Technology</a> industry's trajectory toward locked-down devices and eternal subscriptions.
+At an event in San Francisco, CEO Nirav Patel opened with a joke about Framework building AI. The punchline? They're absolutely not. "That industry is fighting for you to own nothing, and they own everything," Patel said. "We're fighting for a future where you can own everything and be free." It's a pointed jab at the broader <a href="https://infeeds.com/tags/technology">Technology</a> industry's trajectory toward locked-down devices and eternal subscriptions.
 
 The 13 Pro starts at $1,199 for a DIY Edition (you assemble it yourself) and $1,499 for pre-built configurations. Framework says shipping kicks off in June.
 
@@ -24,7 +24,7 @@ You're also getting a haptic touchpad, Dolby Atmos speakers, and an aluminum cha
 
 ## Repairability Isn't Just Marketing
 
-Here's where Framework actually differentiates itself: the 13 Pro is built for you to crack it open and fix it. Four Thunderbolt 4 interfaces let you choose which ports you want (USB-C, HDMI, etc.) and where you put them. More importantly, Framework designed this machine with cross-generation compatibility in mind. Owners of the original Framework 13 will be able to swap the new mainboard, display, or battery into their existing laptop. That's the kind of thing that shouldn't be revolutionary but genuinely is in <a href="https://infeeds.com/tags/?tag=business">Business</a> as usual.
+Here's where Framework actually differentiates itself: the 13 Pro is built for you to crack it open and fix it. Four Thunderbolt 4 interfaces let you choose which ports you want (USB-C, HDMI, etc.) and where you put them. More importantly, Framework designed this machine with cross-generation compatibility in mind. Owners of the original Framework 13 will be able to swap the new mainboard, display, or battery into their existing laptop. That's the kind of thing that shouldn't be revolutionary but genuinely is in <a href="https://infeeds.com/tags/business">Business</a> as usual.
 
 This philosophy isn't new to Framework, but it's worth emphasizing because it genuinely flies in the face of how the laptop industry operates. Most manufacturers make upgrading or repairing your own machine either impossible or prohibitively difficult. Framework's entire existence is built on saying no to that model.
 

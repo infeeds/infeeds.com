@@ -16,7 +16,7 @@ It's a telling sign of where consumer interest really lies. But here's where it 
 
 The numbers are undeniable. When Google rolled out Gemini's Nano Banana image model last August, the app saw 22+ million additional downloads in the 28 days that followed. That's a 4x spike in activity. ChatGPT's GPT-4o image model in March generated over 12 million incremental installs in the same timeframe, roughly 4.5 times what it saw from its GPT-4o, GPT-4.5, and GPT-5 model releases combined.
 
-Even Meta AI's Vibes video feed, which launched in September 2025, added an estimated 2.6 million downloads in its first month. The pattern is clear: if you want people to download your [Technology](https://infeeds.com/tags/?tag=technology) app, give them a shiny new way to generate images.
+Even Meta AI's Vibes video feed, which launched in September 2025, added an estimated 2.6 million downloads in its first month. The pattern is clear: if you want people to download your [Technology](https://infeeds.com/tags/technology) app, give them a shiny new way to generate images.
 
 These releases clearly tap into something people want to try immediately. They're tangible, visual, immediately gratifying. A new language model might sound impressive in a press release, but a new image generator? That's something you can actually play with right now.
 
@@ -36,7 +36,7 @@ Appfigures looked at DeepSeek R1 as well, but it doesn't fit neatly into the ima
 
 DeepSeek went from relative obscurity to household name overnight, not because of visual content, but because the tech industry realized it had achieved powerful AI capabilities at a fraction of the cost everyone assumed was necessary. Curiosity, not features, drove those downloads.
 
-It's a reminder that sometimes the story isn't about what the app does, but about what it means. DeepSeek's moment was [Business](https://infeeds.com/tags/?tag=business) news wrapped in a technical achievement. That kind of narrative momentum is harder to manufacture than releasing new features.
+It's a reminder that sometimes the story isn't about what the app does, but about what it means. DeepSeek's moment was [Business](https://infeeds.com/tags/business) news wrapped in a technical achievement. That kind of narrative momentum is harder to manufacture than releasing new features.
 
 ## What This Actually Means
 

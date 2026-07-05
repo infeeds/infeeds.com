@@ -34,7 +34,7 @@ For regular posts with images, stick to square or landscape formats. The 1:1 and
 
 Facebook image sizes differ between desktop and mobile viewing. Since users bounce between both constantly, you need to optimize for the lowest common denominator or accept that your content will look different depending on where someone sees it.
 
-This gets even messier when you consider [business](https://infeeds.com/tags/?tag=business) pages versus personal profiles, ads versus organic posts, and feed placement versus Stories. There's no one-size-fits-all solution here.
+This gets even messier when you consider [business](https://infeeds.com/tags/business) pages versus personal profiles, ads versus organic posts, and feed placement versus Stories. There's no one-size-fits-all solution here.
 
 The general rule? Go with 1080 x 1350 pixels for vertical feed posts, 1080 x 1080 pixels for squares, and 1080 x 1920 pixels for full-screen formats. These dimensions work across most placements without looking too terrible anywhere.
 
@@ -60,7 +60,7 @@ A width of 1080 pixels has become the most common baseline across platforms. The
 
 But "standard" is misleading because every platform still has its quirks. Instagram crops differently than Facebook. LinkedIn prefers different dimensions than X. What works perfectly on one network might look terrible on another.
 
-This is where things get annoying for anyone managing [business](https://infeeds.com/tags/?tag=business) accounts across multiple platforms. You either create separate images for each network or accept some compromise in quality somewhere.
+This is where things get annoying for anyone managing [business](https://infeeds.com/tags/business) accounts across multiple platforms. You either create separate images for each network or accept some compromise in quality somewhere.
 
 ## Tools Can Help But Aren't Magic
 

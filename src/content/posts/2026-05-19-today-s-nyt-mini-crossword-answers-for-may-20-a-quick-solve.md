@@ -32,7 +32,7 @@ A straightforward definition clue, and one of those reliable fill-words that cro
 
 Answer: SKYPE
 
-This is where [Technology](https://infeeds.com/tags/?tag=technology) history intersects with your puzzle. Skype was a major player in video calling and messaging long before Google launched Hangouts and eventually moved toward Meet. The clue works because both services competed for the same digital communication space, even if the timeline has shifted considerably since then.
+This is where [Technology](https://infeeds.com/tags/technology) history intersects with your puzzle. Skype was a major player in video calling and messaging long before Google launched Hangouts and eventually moved toward Meet. The clue works because both services competed for the same digital communication space, even if the timeline has shifted considerably since then.
 
 **2D: "Signature products of Napa Valley"**
 

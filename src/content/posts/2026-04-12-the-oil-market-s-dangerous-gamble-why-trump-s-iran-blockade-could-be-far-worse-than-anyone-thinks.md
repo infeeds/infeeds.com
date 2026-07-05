@@ -42,7 +42,7 @@ The math here is brutal: there simply isn't enough spare global oil supply to of
 
 Don Johnson, chief economist at wealth management firm Macro Edge Advisory Group, called a renewed escalation scenario "the largest supply shock with nothing even coming close." He warned that boots on the ground could arrive within weeks, and suggested keeping an eye on the Red Sea as another potential flashpoint.
 
-## What This Means for <a href="https://infeeds.com/tags/?tag=business">Business</a> and Markets
+## What This Means for <a href="https://infeeds.com/tags/business">Business</a> and Markets
 
 Charu Chanana, chief investment strategist at Saxo Markets, told Bloomberg that "the talks ending without a deal is a setback. For markets, this means the relief trade is likely to fade. Oil may see fresh gains, risk sentiment takes a hit again, and Hormuz is likely to remain a live choke-point risk even if it is not fully shut."
 

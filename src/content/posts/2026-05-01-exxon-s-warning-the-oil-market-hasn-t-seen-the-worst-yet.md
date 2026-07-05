@@ -30,7 +30,7 @@ Exxon itself faces meaningful pressure. The company projects a 750,000 barrel-pe
 
 What's striking here isn't Woods' analysis but rather the market's apparent indifference to it. Oil futures have been a rollercoaster, spiking on escalation fears and crashing on peace hopes. Yet the underlying price level suggests investors still believe this situation will resolve without severe supply constraints. History suggests otherwise.
 
-The gap between what's happened (oil up 57% since the war started) and what hasn't fully happened yet (true market-wide absorption of sustained disruption) points to a reckoning ahead. For context on similar <a href="https://infeeds.com/tags/?tag=business">business</a> and energy market dynamics, broader market conditions have shown this kind of lag before.
+The gap between what's happened (oil up 57% since the war started) and what hasn't fully happened yet (true market-wide absorption of sustained disruption) points to a reckoning ahead. For context on similar <a href="https://infeeds.com/tags/business">business</a> and energy market dynamics, broader market conditions have shown this kind of lag before.
 
 Exxon's stock, notably, hasn't benefited from the oil rally. Shares are essentially flat since the conflict began, despite crude's 57% surge. That suggests either investors don't believe Woods' warning about worse-to-come pricing, or they think Exxon's operational challenges will offset any revenue gains from higher oil prices.
 

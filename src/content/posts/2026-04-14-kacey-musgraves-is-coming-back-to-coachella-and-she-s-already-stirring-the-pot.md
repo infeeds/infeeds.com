@@ -24,6 +24,6 @@ That's not throwaway artist speak. She's actually articulating something worth e
 
 On the same day she announced Coachella, Musgraves also reminded everyone she's not afraid to punch up. She called out President Donald Trump for posting what appeared to be an AI-generated image of himself as Jesus healing the sick. Her response was characteristically sharp: she recreated the exact same image but with Dolly Parton as the Christ figure and herself as the patient needing healing.
 
-It's funny, it's pointed, and it says something about where we are culturally that a country star's subtweet becomes its own kind of news cycle. But that's Musgraves' lane. She's always been willing to say things that matter to her, whether it's about social [issues related to Entertainment](https://infeeds.com/tags/?tag=entertainment) or just the state of the world.
+It's funny, it's pointed, and it says something about where we are culturally that a country star's subtweet becomes its own kind of news cycle. But that's Musgraves' lane. She's always been willing to say things that matter to her, whether it's about social [issues related to Entertainment](https://infeeds.com/tags/entertainment) or just the state of the world.
 
 The Coachella set might be short, but if her recent output is any indication, she'll make every minute count. Whether she dips into this new album material or revisits past work, watching Musgraves command a desert stage has always been worth your time. The real question is what she'll do next to surprise us.

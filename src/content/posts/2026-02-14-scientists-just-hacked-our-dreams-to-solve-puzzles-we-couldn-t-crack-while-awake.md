@@ -30,7 +30,7 @@ The success rate tells the story. Puzzles that showed up in dreams got solved 42
 
 Twelve out of twenty participants had dreams that referenced the cued puzzles more often than the ones that weren't cued. Those same people bumped their puzzle-solving success rate from 20% to 40% after sleeping. Not bad for a night's work while unconscious.
 
-Of course, scientists being scientists, they're careful not to claim dreams directly cause better problem solving. Maybe people were just more curious about certain puzzles, and that curiosity drove both the dreaming and the improved performance. But even with that caveat, being able to steer someone's dreams toward specific problems is huge progress in understanding how sleep affects [creativity](https://infeeds.com/tags/?tag=science) and thinking.
+Of course, scientists being scientists, they're careful not to claim dreams directly cause better problem solving. Maybe people were just more curious about certain puzzles, and that curiosity drove both the dreaming and the improved performance. But even with that caveat, being able to steer someone's dreams toward specific problems is huge progress in understanding how sleep affects [creativity](https://infeeds.com/tags/science) and thinking.
 
 ## Why This Actually Matters
 
@@ -42,7 +42,7 @@ Karen Konkoly, the lead author, said she was surprised by how strongly the audio
 
 ## Where This Goes Next
 
-The research team wants to push this further. They're planning to use these dream manipulation techniques to study emotional regulation and [learning](https://infeeds.com/tags/?tag=news) processes. If dreams really do help with problem solving, creativity, and managing emotions, that changes how we should think about sleep as part of mental health.
+The research team wants to push this further. They're planning to use these dream manipulation techniques to study emotional regulation and [learning](https://infeeds.com/tags/news) processes. If dreams really do help with problem solving, creativity, and managing emotions, that changes how we should think about sleep as part of mental health.
 
 Right now most people treat sleep like an annoying biological requirement that gets in the way of productivity. We chug coffee, brag about pulling all-nighters, and generally act like consciousness is the only state worth caring about. But if your sleeping brain is actually working through problems in ways your waking brain can't, maybe that eight hours isn't wasted time after all.
 

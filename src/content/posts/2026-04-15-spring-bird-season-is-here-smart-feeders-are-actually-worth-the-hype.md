@@ -16,7 +16,7 @@ The problem is that most of us miss it. We glance out the window at the right mo
 
 Spring isn't just a nice time of year for birds. It's their busiest season. Migratory species are returning from months away, local birds are nesting and hunting with purpose, and the whole ecosystem is basically running at maximum capacity. If you've ever wanted to actually observe bird behavior instead of just seeing birds exist, spring is your window.
 
-The catch is that real bird watching requires patience and attention. You need to sit outside, watch closely, and hope something interesting happens. Most people don't have that kind of free time, which is probably why bird feeders with cameras have become an actual category of [technology](https://infeeds.com/tags/?tag=technology).
+The catch is that real bird watching requires patience and attention. You need to sit outside, watch closely, and hope something interesting happens. Most people don't have that kind of free time, which is probably why bird feeders with cameras have become an actual category of [technology](https://infeeds.com/tags/technology).
 
 ## Smart Feeders Aren't Just for Bird Nerds
 

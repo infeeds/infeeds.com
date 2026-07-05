@@ -24,7 +24,7 @@ But here's where it gets interesting, and where most people get it wrong. Sankar
 
 Think about that for a second. We live in a culture obsessed with fixing our flaws. LinkedIn is filled with people documenting their "growth journeys." Self-help books promise transformation. Yet Sankar's point is radically different. Some things aren't meant to be fixed. Some weaknesses aren't obstacles to overcome. They're just part of who you are, and the smart move is to recognize them and steer clear.
 
-Palantir, which operates in the <a href="https://infeeds.com/tags/?tag=business">business</a> of defense technology, has apparently built this philosophy into its DNA. After 20 years with the company, Sankar clearly practices what he preaches.
+Palantir, which operates in the <a href="https://infeeds.com/tags/business">business</a> of defense technology, has apparently built this philosophy into its DNA. After 20 years with the company, Sankar clearly practices what he preaches.
 
 ## Creating Space for Honest Mistakes
 
@@ -32,7 +32,7 @@ The conversation took another turn when Sankar revealed something deeply human. 
 
 "I sheepishly went into Alex and was just completely honest," he said. "He was also in pain as he internalized what this was going to mean. But he valued the fact that I wouldn't try to hide it."
 
-This is where culture and <a href="https://infeeds.com/tags/?tag=technology">technology</a> intersect in ways that matter. You can have all the brilliant engineers in the world, but if they're too scared to admit mistakes, you're essentially flying blind. Sankar recognized that the discovery of your kryptonite usually happens when you're exposed to it. When you fail. When you mess up.
+This is where culture and <a href="https://infeeds.com/tags/technology">technology</a> intersect in ways that matter. You can have all the brilliant engineers in the world, but if they're too scared to admit mistakes, you're essentially flying blind. Sankar recognized that the discovery of your kryptonite usually happens when you're exposed to it. When you fail. When you mess up.
 
 The only way to create an environment where people actually identify their limitations? Make it safe to fail.
 

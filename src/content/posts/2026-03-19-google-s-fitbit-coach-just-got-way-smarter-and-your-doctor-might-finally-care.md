@@ -10,7 +10,7 @@ tags_color: '#2196f3'
 
 For years, fitness trackers have been excellent at collecting data. They know when you run, how many steps you took, and whether you slept like garbage last night. The problem? All that information just sits there, largely meaningless unless you actually know what to do with it.
 
-Google's betting that Fitbit's AI Coach can finally bridge that gap. This week at its annual health event, the company announced a bunch of updates that suggest it's taking a different approach to wearable <a href="https://infeeds.com/tags/?tag=technology">technology</a> than most competitors. Instead of just tracking numbers, Coach is trying to understand the complete picture of your health.
+Google's betting that Fitbit's AI Coach can finally bridge that gap. This week at its annual health event, the company announced a bunch of updates that suggest it's taking a different approach to wearable <a href="https://infeeds.com/tags/technology">technology</a> than most competitors. Instead of just tracking numbers, Coach is trying to understand the complete picture of your health.
 
 ## Sleep Data Just Got 15% More Accurate
 
@@ -32,7 +32,7 @@ But here's the catch that privacy experts keep hammering home: uploading medical
 
 Google's also letting Fitbit users connect continuous glucose monitors through Health Connect. If you're using a Dexcom or Abbott Lingo, you'll be able to ask Coach how your meals and workouts actually affect your glucose levels.
 
-This is where <a href="https://infeeds.com/tags/?tag=business">business</a> strategy becomes apparent. Google's investing heavily in health research around insulin resistance, hypertension, and AI in virtual care settings. These aren't random topics. They're breadcrumbs showing where the company wants to take Fitbit next.
+This is where <a href="https://infeeds.com/tags/business">business</a> strategy becomes apparent. Google's investing heavily in health research around insulin resistance, hypertension, and AI in virtual care settings. These aren't random topics. They're breadcrumbs showing where the company wants to take Fitbit next.
 
 The glucose monitor integration feels inevitable in retrospect. If Coach already has your sleep data, workout history, and medical records, why not throw glucose into the mix? The more data it has, the more useful it becomes.
 

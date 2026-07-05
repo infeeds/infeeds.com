@@ -13,7 +13,7 @@ Apple turned 50 this week, and there's something disarming about that milestone.
 
 That's not just a business achievement. That's cultural dominance.
 
-But here's where it gets interesting: the company that remade <a href="https://infeeds.com/tags/?tag=technology">technology</a> in its image feels fundamentally different than it did a decade ago. The question isn't whether Apple succeeded. It's whether we're witnessing the end of an era where Apple actually changed how we think about technology, versus simply refining what already exists.
+But here's where it gets interesting: the company that remade <a href="https://infeeds.com/tags/technology">technology</a> in its image feels fundamentally different than it did a decade ago. The question isn't whether Apple succeeded. It's whether we're witnessing the end of an era where Apple actually changed how we think about technology, versus simply refining what already exists.
 
 ## The Dream They Sold
 
@@ -45,7 +45,7 @@ The difference between the Watch and the Vision Pro tells you everything about w
 
 ## The Failures That Teach You Something
 
-Not all of Apple's misses are recent. The Lisa, released in 1983 at nearly $10,000, featured a graphical user interface and mouse years before competitors caught up. Groundbreaking technology. Total commercial failure. Paolo Pescatore, a <a href="https://infeeds.com/tags/?tag=technology">technology</a> analyst, explained it plainly: "being ahead of the curve is not enough if the product is poorly positioned."
+Not all of Apple's misses are recent. The Lisa, released in 1983 at nearly $10,000, featured a graphical user interface and mouse years before competitors caught up. Groundbreaking technology. Total commercial failure. Paolo Pescatore, a <a href="https://infeeds.com/tags/technology">technology</a> analyst, explained it plainly: "being ahead of the curve is not enough if the product is poorly positioned."
 
 Apple learned. The Macintosh arrived a year later at $2,495, and while still expensive, it found an audience.
 

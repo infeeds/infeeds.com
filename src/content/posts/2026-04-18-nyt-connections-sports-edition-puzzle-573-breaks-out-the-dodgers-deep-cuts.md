@@ -16,7 +16,7 @@ The yellow group sets the tone with relative ease. All four answers represent AL
 
 Things get slightly trickier in the green category, which plays with the first words of football position titles. The answers here are defensive, running, tight, and wide. It's a clever construction that rewards players who can think beyond the positions themselves and see the linguistic pattern connecting them. This one separates casual fans from people who've actually spent time parsing football terminology.
 
-The blue category pivots to international soccer with Premier League managers: Emery, Guardiola, Moyes, and Slot. This is where the puzzle starts demanding real [technology](https://infeeds.com/tags/?tag=technology)-adjacent knowledge, assuming you're keeping up with modern football management trends. Guardiola and Moyes are household names in sports circles, but Slot represents a newer generation of elite managers. It's a solid mix of established and current figures.
+The blue category pivots to international soccer with Premier League managers: Emery, Guardiola, Moyes, and Slot. This is where the puzzle starts demanding real [technology](https://infeeds.com/tags/technology)-adjacent knowledge, assuming you're keeping up with modern football management trends. Guardiola and Moyes are household names in sports circles, but Slot represents a newer generation of elite managers. It's a solid mix of established and current figures.
 
 ## The Dodgers Deep Dive
 

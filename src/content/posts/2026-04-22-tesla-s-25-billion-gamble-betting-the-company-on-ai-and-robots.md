@@ -24,7 +24,7 @@ The Fremont, California factory will transition away from Model S and Model X pr
 
 Back in January, Tesla had already signaled that capex would exceed $20 billion in 2026. The additional $5 billion bump suggests that the ambition has grown even larger than initially planned. Musk frames this as necessary. "With 2026 we're going to be substantially increasing our investments in the future. So you should expect to see significant, a very significant increase in capital expenditures, but I think well justified for a substantially increased future revenue stream."
 
-He's not wrong that Tesla is in company. Amazon has projected $200 billion in capital expenditures for 2026 across AI, chips, robotics, and satellites. Google is spending $175 billion to $185 billion, nearly doubling its 2025 capex of $91.4 billion. Big [Technology](https://infeeds.com/tags/?tag=technology) companies are all-in on AI infrastructure right now.
+He's not wrong that Tesla is in company. Amazon has projected $200 billion in capital expenditures for 2026 across AI, chips, robotics, and satellites. Google is spending $175 billion to $185 billion, nearly doubling its 2025 capex of $91.4 billion. Big [Technology](https://infeeds.com/tags/technology) companies are all-in on AI infrastructure right now.
 
 But Tesla isn't just a tech company. It's a car company that's trying to become a robotics company, and that's a harder transformation to fund while maintaining investor confidence.
 
@@ -34,7 +34,7 @@ Here's the uncomfortable part for shareholders: Tesla is going to burn cash. Tan
 
 "While this may seem like a lot, and we will have the impact of negative free cash flow for the rest of the year, we believe this is the right strategy to position the company for the next era," he said.
 
-That's a gamble dressed up as strategy. It depends entirely on whether Tesla's bets on Optimus, AI, and autonomous vehicles actually pay off. If they do, this capex is a bargain. If they don't, it's a cautionary tale about a company that lost focus on its core [business](https://infeeds.com/tags/?tag=business).
+That's a gamble dressed up as strategy. It depends entirely on whether Tesla's bets on Optimus, AI, and autonomous vehicles actually pay off. If they do, this capex is a bargain. If they don't, it's a cautionary tale about a company that lost focus on its core [business](https://infeeds.com/tags/business).
 
 ## The Real Test
 

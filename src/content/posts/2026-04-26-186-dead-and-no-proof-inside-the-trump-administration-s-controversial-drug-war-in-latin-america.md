@@ -30,7 +30,7 @@ But the boat strikes weren't part of any public debate. There was no Congression
 
 Critics have questioned the overall legality of these strikes, according to the AP. That's a polite way of saying some people think they might be illegal. International law has rules about proportionality, civilian protection, and the burden of proof before military action. Whether those rules are being followed here remains unclear because the military hasn't made its evidence public.
 
-There's also a [political](https://infeeds.com/tags/?tag=politics) dimension worth considering. When you build up massive military infrastructure in a region, you create institutional pressure to use it. When you justify that use based on unverified claims, you're essentially asking the public to trust the system to police itself. History suggests that's not always reliable.
+There's also a [political](https://infeeds.com/tags/politics) dimension worth considering. When you build up massive military infrastructure in a region, you create institutional pressure to use it. When you justify that use based on unverified claims, you're essentially asking the public to trust the system to police itself. History suggests that's not always reliable.
 
 ## What This Means for Working People
 

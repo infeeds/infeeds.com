@@ -18,7 +18,7 @@ David and Nilay don't dance around it. They dive straight into why The Verge cho
 
 The conversation shifts to Tim Cook, Apple's CEO, who attended a screening of the Melania documentary at the White House. There's a photo. There's Brett Ratner in it. And there's a whole lot of backlash that followed.
 
-It's a fascinating case study in corporate [business](https://infeeds.com/tags/?tag=business) strategy meeting real-world politics. How mad are we allowed to be at Cook? How much does this kind of thing matter in the long run? The hosts dig into what it means when tech leaders choose proximity to power over taking a stand, and whether that calculus has changed in recent years.
+It's a fascinating case study in corporate [business](https://infeeds.com/tags/business) strategy meeting real-world politics. How mad are we allowed to be at Cook? How much does this kind of thing matter in the long run? The hosts dig into what it means when tech leaders choose proximity to power over taking a stand, and whether that calculus has changed in recent years.
 
 The question isn't just about Cook, though. It's about all the CEOs quietly capitulating, the ones making calculations about access and influence while their employees and customers watch. And it's about how those choices shape legacies. Will Cook be remembered as the guy who grew Apple's services revenue, or the guy who showed up to smile for photos when it mattered?
 
@@ -26,7 +26,7 @@ The question isn't just about Cook, though. It's about all the CEOs quietly capi
 
 After the heavy lifting, the show pivots to gadgets. Samsung's Z Trifold comes up, specifically its outrageous price tag and the fact that Samsung didn't bother sending out review units before launch. When a company skips the review circuit, it's usually not because they're bursting with confidence about the product.
 
-The hosts also touch on Google's Aluminium OS, whatever Moltbot is calling itself this week, and other bits of [technology](https://infeeds.com/tags/?tag=technology) news that feels almost quaint compared to the opening segment. There's something about discussing folding phones after talking about federal occupations that puts everything in perspective.
+The hosts also touch on Google's Aluminium OS, whatever Moltbot is calling itself this week, and other bits of [technology](https://infeeds.com/tags/technology) news that feels almost quaint compared to the opening segment. There's something about discussing folding phones after talking about federal occupations that puts everything in perspective.
 
 ## Lightning Round Chaos
 

@@ -76,11 +76,11 @@ AI had become the perfect hiding place for that fear. He could pour out unfilter
 
 But here's what his nervous system actually needed. Not more perfectly worded sentences. It needed to know his real, messy self was allowed to exist in front of actual people, not just in private chat logs.
 
-The <a href="https://infeeds.com/tags/?tag=technology">technology</a> wasn't the villain here. But it had become an accomplice to emotional avoidance.
+The <a href="https://infeeds.com/tags/technology">technology</a> wasn't the villain here. But it had become an accomplice to emotional avoidance.
 
 ## What Changed When He Started Noticing
 
-Amatus didn't delete every AI app and move to a cabin. He still works in a world where <a href="https://infeeds.com/tags/?tag=business">business</a> runs on technology. He still uses these tools.
+Amatus didn't delete every AI app and move to a cabin. He still works in a world where <a href="https://infeeds.com/tags/business">business</a> runs on technology. He still uses these tools.
 
 But he made himself a rule: "I will use technology to support my humanity, not replace it."
 

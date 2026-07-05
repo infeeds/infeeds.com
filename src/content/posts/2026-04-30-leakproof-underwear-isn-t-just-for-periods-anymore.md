@@ -34,4 +34,4 @@ This matters because it speaks to something bigger than product innovation. It's
 
 Of course, regular bladder leakage warrants a conversation with your doctor. But for the everyday situations most people face, having options that don't require you to sacrifice comfort or discretion changes the calculus entirely.
 
-The real question isn't whether this technology works. The reviews and the 40% discount suggest it does. The question is why it took this long for the [health](https://infeeds.com/tags/?tag=health) industry to take everyday incontinence seriously enough to create something people actually want to wear.
+The real question isn't whether this technology works. The reviews and the 40% discount suggest it does. The question is why it took this long for the [health](https://infeeds.com/tags/health) industry to take everyday incontinence seriously enough to create something people actually want to wear.

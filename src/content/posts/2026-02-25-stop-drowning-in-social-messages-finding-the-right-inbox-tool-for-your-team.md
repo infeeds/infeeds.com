@@ -58,7 +58,7 @@ This is where most businesses actually live. You've got a team of maybe two to f
 
 Agorapulse has a free tier with basic features if you want to test the waters, though it's capped at 100 messages per month. The paid plans are reasonably priced, but there's a message limit (5,000 for the entry level) that might become a problem as you grow. Integration with Salesforce and HubSpot is nice if you're already using those platforms.
 
-SocialPilot is straightforward and does the job without overwhelming you with features. One limitation worth knowing: it doesn't support X (Twitter), so if that's critical to your [business](https://infeeds.com/tags/?tag=business) strategy, this isn't the tool for you.
+SocialPilot is straightforward and does the job without overwhelming you with features. One limitation worth knowing: it doesn't support X (Twitter), so if that's critical to your [business](https://infeeds.com/tags/business) strategy, this isn't the tool for you.
 
 NapoleonCat stands out because it includes app store and Google Business Profile reviews alongside social messages. If you care about reviews on those platforms, that's actually valuable. It also handles both organic and paid TikTok content, which is rare and useful if TikTok is part of your strategy. You can build customer profiles without needing a separate CRM, which is practical for lean teams.
 

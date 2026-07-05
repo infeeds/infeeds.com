@@ -32,7 +32,7 @@ This is where things get uncomfortable. The inflammation cascade triggered by po
 
 Dr. Dale Bredesen, a neuroscience researcher specializing in neurodegenerative diseases, identifies two major drivers of Alzheimer's: reduced energetics (meaning poor blood flow, oxygen saturation, and mitochondrial function) and increased inflammation from pathogens, toxins, and metabolic disease. "Diet and environmental factors impact both energetics and inflammation by multiple mechanisms," Bredesen said, "and therefore play key roles in both Alzheimer's and treating cognitive decline."
 
-The [health](https://infeeds.com/tags/?tag=health) implications are profound. You're not just choosing a snack. You're choosing whether to feed your brain or starve it.
+The [health](https://infeeds.com/tags/health) implications are profound. You're not just choosing a snack. You're choosing whether to feed your brain or starve it.
 
 ## The Foods That Actually Work
 

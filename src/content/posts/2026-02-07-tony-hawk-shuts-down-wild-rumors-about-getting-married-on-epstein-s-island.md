@@ -18,7 +18,7 @@ Tony Hawk is officially done with the internet's nonsense. The skateboarding leg
 
 This whole mess traces back to recently released FBI files under the Epstein Files Transparency Act. An email from October 2024 mentioned an alleged trafficking victim who claimed she was taken to Epstein's island at age 13. In that same email, she reportedly said "Tony Hawk got married on the island" during one of her visits there.
 
-The Department of Justice dropped these files as part of a transparency push, and naturally, the [entertainment](https://infeeds.com/tags/?tag=entertainment) world went into overdrive. But here's the thing about documents like these: they contain allegations and claims that aren't automatically verified facts.
+The Department of Justice dropped these files as part of a transparency push, and naturally, the [entertainment](https://infeeds.com/tags/entertainment) world went into overdrive. But here's the thing about documents like these: they contain allegations and claims that aren't automatically verified facts.
 
 ## The Real Wedding Locations
 
@@ -30,7 +30,7 @@ The skateboarder was pretty emphatic about this point. He's never met Jeffrey Ep
 
 There is one weird coincidence that probably threw gasoline on this fire. A photographer at Hawk's 2006 wedding in Fiji was named Mark Epstein. Same name as Jeffrey Epstein's younger brother. You can see how people might connect dots that shouldn't be connected.
 
-But plot twist: this Mark Epstein is just an accomplished action sports photographer from Wyoming who has absolutely zero relation to the convicted sex trafficker. Wrong guy, same name. It happens. But in the age of social media and [news](https://infeeds.com/tags/?tag=news) moving at lightning speed, nuance gets lost pretty quickly.
+But plot twist: this Mark Epstein is just an accomplished action sports photographer from Wyoming who has absolutely zero relation to the convicted sex trafficker. Wrong guy, same name. It happens. But in the age of social media and [news](https://infeeds.com/tags/news) moving at lightning speed, nuance gets lost pretty quickly.
 
 ## When Misinformation Spreads Like Wildfire
 

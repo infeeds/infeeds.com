@@ -30,7 +30,7 @@ Christina Koch, the mission specialist who fixed it, laughed about her new title
 
 The team got it working again. The fan just needed to be primed and warmed up after sitting unused for so long. It's mundane and it's essential, which pretty much sums up why this mission matters.
 
-## [Technology](https://infeeds.com/tags/?tag=technology) Testing in Real Time
+## [Technology](https://infeeds.com/tags/technology) Testing in Real Time
 
 The astronauts have already been testing things beyond the life support systems. Victor Glover manually flew the Orion spacecraft, conducting proximity demonstrations with the Interim Cryogenic Propulsion Stage. He was practicing docking maneuvers that future missions will actually need to execute with lunar landers. The lessons learned here directly inform how the next missions will operate.
 

@@ -32,7 +32,7 @@ Then there's Denver and Los Angeles, somehow managing just 3 and 2 minutes respe
 
 ## What You Can Actually Do
 
-Check your [airport's website for live TSA wait times](https://infeeds.com/tags/?tag=business). Most major hubs now post them in real time. Download the MyTSA mobile app, though fair warning: the TSA isn't actively updating it during the shutdown, so it might feed you outdated information.
+Check your [airport's website for live TSA wait times](https://infeeds.com/tags/business). Most major hubs now post them in real time. Download the MyTSA mobile app, though fair warning: the TSA isn't actively updating it during the shutdown, so it might feed you outdated information.
 
 The safest bet is arriving three hours early. Yeah, it sucks. But it beats missing your flight entirely.
 

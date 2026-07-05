@@ -22,7 +22,7 @@ I just stared. My mind went completely blank.
 
 ## The Bathroom Floor Revelation Nobody Talks About
 
-A few days before that appointment, I'd hit what I can only describe as rock bottom with a tile floor. After another sleepless night, I found myself sitting on my bathroom floor at 3 AM, every part of my body screaming, wondering if this was just what [lifestyle](https://infeeds.com/tags/?tag=lifestyle) meant now. A never-ending rotation of things I couldn't do, foods I couldn't eat, pieces of myself I kept losing.
+A few days before that appointment, I'd hit what I can only describe as rock bottom with a tile floor. After another sleepless night, I found myself sitting on my bathroom floor at 3 AM, every part of my body screaming, wondering if this was just what [lifestyle](https://infeeds.com/tags/lifestyle) meant now. A never-ending rotation of things I couldn't do, foods I couldn't eat, pieces of myself I kept losing.
 
 The scary part wasn't the physical pain. It was the growing sense that I was disappearing into the role of "sick patient" and forgetting there was ever anyone else underneath.
 
@@ -52,7 +52,7 @@ Joy literally changes your body's internal chemistry. It lowers cortisol, suppor
 
 Why isn't this front and center in treatment plans? Why do we spend so much time talking about what to eliminate and so little time discussing what to cultivate? The medical model is obsessed with fighting disease, but healing requires something softer too.
 
-I'm not saying joy replaces medication or proper medical care. I'm saying it belongs in the conversation alongside everything else, and the fact that it's usually absent says something troubling about how we approach [health](https://infeeds.com/tags/?tag=health) in general.
+I'm not saying joy replaces medication or proper medical care. I'm saying it belongs in the conversation alongside everything else, and the fact that it's usually absent says something troubling about how we approach [health](https://infeeds.com/tags/health) in general.
 
 ## When Your Body Stops Being The Enemy
 

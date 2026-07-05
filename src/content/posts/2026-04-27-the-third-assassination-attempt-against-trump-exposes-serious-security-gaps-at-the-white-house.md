@@ -12,7 +12,7 @@ Cole Tomas Allen walked into the Washington Hilton on Saturday night with a semi
 
 The 31-year-old California resident didn't resist arrest. At his Monday court appearance in Washington DC, according to BBC reporting, he appeared calm and answered questions from the judge in soft, measured tones: "yes, your honour" or "no, your honour." He stated his age, mentioned his master's degree, and stood quietly while three US marshals flanked him. His composure was almost unsettling given what he allegedly tried to do.
 
-The facts of the case are straightforward, but what they reveal about [security](https://infeeds.com/tags/?tag=security) at major events is anything but reassuring.
+The facts of the case are straightforward, but what they reveal about [security](https://infeeds.com/tags/security) at major events is anything but reassuring.
 
 ## How Did He Get This Far?
 

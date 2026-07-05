@@ -28,7 +28,7 @@ That statement captures something important: voters don't really care about ideo
 
 ## The Squeeze Is Real
 
-This all circles back to the lived reality for working Americans. While Washington debates economic indicators and wealthy interests hedge their positions, actual people are feeling the weight of rising costs and instability. <a href="https://infeeds.com/tags/?tag=health">Health</a> care isn't an abstract policy debate for most households. It's a monthly calculation about whether medication, doctor visits, or hospital care will bankrupt them.
+This all circles back to the lived reality for working Americans. While Washington debates economic indicators and wealthy interests hedge their positions, actual people are feeling the weight of rising costs and instability. <a href="https://infeeds.com/tags/health">Health</a> care isn't an abstract policy debate for most households. It's a monthly calculation about whether medication, doctor visits, or hospital care will bankrupt them.
 
 That's why Walz's point resonates. Democrats could theoretically take back both chambers of Congress in the midterms and the White House in 2028. But if they do, and if they treat those victories as ends in themselves rather than mandates for change, they'll face the same voter fatigue that seems to cycle through every few years.
 

@@ -38,9 +38,9 @@ Stock markets are telling different stories depending on where you look. Britain
 
 The message from global markets is fractured. Some regions are absorbing the shock better than others, but nobody is celebrating.
 
-## When <a href="https://infeeds.com/tags/?tag=business">Business</a> Tries to Move Forward Anyway
+## When <a href="https://infeeds.com/tags/business">Business</a> Tries to Move Forward Anyway
 
-Despite the geopolitical turbulence, major <a href="https://infeeds.com/tags/?tag=business">business</a> deals are still happening. McCormick shares jumped 3 percent on speculation it will absorb Unilever's food division. Sysco announced a $29 billion acquisition of Jetro Restaurant Depot on Monday. The deal machines keep grinding because that's what they do, but these transactions feel oddly tone-deaf when the underlying economic foundation is cracking.
+Despite the geopolitical turbulence, major <a href="https://infeeds.com/tags/business">business</a> deals are still happening. McCormick shares jumped 3 percent on speculation it will absorb Unilever's food division. Sysco announced a $29 billion acquisition of Jetro Restaurant Depot on Monday. The deal machines keep grinding because that's what they do, but these transactions feel oddly tone-deaf when the underlying economic foundation is cracking.
 
 Gold prices climbed 0.6 percent to $4,584.10 an ounce, and silver surged 3.7 percent to $73.17 per ounce. When precious metals rally during geopolitical stress, it's investors whispering that they're nervous about what comes next.
 

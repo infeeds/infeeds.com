@@ -26,7 +26,7 @@ Against this backdrop, HSBC is simultaneously executing a major restructuring. T
 
 This is worth paying attention to. Cost-cutting during uncertain economic times usually means one of two things: either the bank is getting leaner and more efficient, or it's bracing for tougher conditions ahead. HSBC's actions suggest it's preparing for both. The bank isn't waiting for problems to compound before acting.
 
-Operating expenses rose 8% in the quarter, driven by inflation, forex impacts, higher planned spending, and performance-related pay. That's the cost of doing <a href="https://infeeds.com/tags/?tag=business">business</a> in a complex global environment, but it also means revenue growth has to stay ahead of cost inflation just to maintain profitability.
+Operating expenses rose 8% in the quarter, driven by inflation, forex impacts, higher planned spending, and performance-related pay. That's the cost of doing <a href="https://infeeds.com/tags/business">business</a> in a complex global environment, but it also means revenue growth has to stay ahead of cost inflation just to maintain profitability.
 
 ## The Dividend Question
 

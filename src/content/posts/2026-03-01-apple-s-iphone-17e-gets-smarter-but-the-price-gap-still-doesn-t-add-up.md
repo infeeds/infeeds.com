@@ -24,7 +24,7 @@ The problem isn't what the iPhone 17e has. It's what it doesn't have compared to
 
 Two hundred dollars. That's the gap between a notched display running at 60Hz and a Dynamic Island with 120Hz refresh rates. That's the gap between cropping a 2x telephoto from a single sensor and having actual optical zoom. When you think about it that way, the 17e suddenly feels like a tough sell for anyone with even a little flexibility in their budget.
 
-The storage and chip improvements do make it a stronger proposition than the [technology](https://infeeds.com/tags/?tag=technology) that came before it. The $699 iPhone 16, which lacked ProMotion and only came with 128GB, feels genuinely outdated by comparison. If you were sitting on that model, the 17e at $599 with double the storage is worth considering.
+The storage and chip improvements do make it a stronger proposition than the [technology](https://infeeds.com/tags/technology) that came before it. The $699 iPhone 16, which lacked ProMotion and only came with 128GB, feels genuinely outdated by comparison. If you were sitting on that model, the 17e at $599 with double the storage is worth considering.
 
 ## The Bigger Picture
 

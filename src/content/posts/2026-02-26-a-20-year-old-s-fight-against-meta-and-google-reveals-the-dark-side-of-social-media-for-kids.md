@@ -26,7 +26,7 @@ The anxiety and depression came around the same time. So did the self-harm. By t
 
 Meta's defense has been fairly predictable. Their lawyers point to family issues, to a difficult relationship with her mother, to anything that doesn't involve their product. But here's what's interesting: Kaley's mother says most of their arguments weren't about normal teenage stuff. They were about her iPhone use. About time spent online.
 
-Meta wants to argue that <a href="https://infeeds.com/tags/?tag=technology">technology</a> isn't the problem. That family dysfunction is. Maybe both things are true. But when you look at the timeline, when you see a healthy child become unhealthy right after gaining access to platforms with no age verification and algorithmic systems designed to maximize engagement, it gets harder to play that game.
+Meta wants to argue that <a href="https://infeeds.com/tags/technology">technology</a> isn't the problem. That family dysfunction is. Maybe both things are true. But when you look at the timeline, when you see a healthy child become unhealthy right after gaining access to platforms with no age verification and algorithmic systems designed to maximize engagement, it gets harder to play that game.
 
 ## The First Real Reckoning
 

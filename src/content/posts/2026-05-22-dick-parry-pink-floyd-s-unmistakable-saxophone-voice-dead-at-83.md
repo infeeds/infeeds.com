@@ -28,4 +28,4 @@ After Pink Floyd's classic period wound down, Parry maintained those connections
 
 The thing about session musicians and supporting players is that their contributions often outlive the circumstances that created them. Parry's saxophone will continue playing through countless speakers, headphones, and concert venues long after his death. Millions of people who've never heard his name will feel his presence in those songs, and that's its own kind of immortality.
 
-That's perhaps more lasting than we usually acknowledge when we think about <a href="https://infeeds.com/tags/?tag=entertainment">entertainment</a> legacies. The frontman gets the spotlight, but the collaborators shape what we actually hear and remember.
+That's perhaps more lasting than we usually acknowledge when we think about <a href="https://infeeds.com/tags/entertainment">entertainment</a> legacies. The frontman gets the spotlight, but the collaborators shape what we actually hear and remember.

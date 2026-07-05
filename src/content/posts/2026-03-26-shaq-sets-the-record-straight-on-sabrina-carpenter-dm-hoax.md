@@ -16,7 +16,7 @@ On a recent episode of "The Big Podcast," the NBA legend sat down with rapper Ji
 
 O'Neal couldn't resist reading the fraudulent messages aloud, and yeah, they're cringe-worthy. The fake Shaq allegedly wrote things like "Damn, baby, I would keep your farts in a cologne bottle and spray it on me every day." Then there's this gem: "I can't be horny and want some of that snow bunny kitty for myself."
 
-The whole exchange is so absurd that it becomes clear within seconds that this isn't real. Yet here we are, discussing it because enough people believed it to make it go viral. That's the state of [entertainment](https://infeeds.com/tags/?tag=entertainment) coverage now. Fake messages. Doctored images. And everyone sharing it like gospel.
+The whole exchange is so absurd that it becomes clear within seconds that this isn't real. Yet here we are, discussing it because enough people believed it to make it go viral. That's the state of [entertainment](https://infeeds.com/tags/entertainment) coverage now. Fake messages. Doctored images. And everyone sharing it like gospel.
 
 O'Neal's response was perfect though. "First of all, ladies, the Diesel got way more game than that," he said, referring to his self-appointed nickname. The man knows how to handle himself.
 

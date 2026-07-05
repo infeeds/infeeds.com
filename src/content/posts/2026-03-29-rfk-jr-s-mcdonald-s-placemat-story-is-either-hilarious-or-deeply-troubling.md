@@ -22,7 +22,7 @@ The speed of this conversion would be impressive if it weren't so transparent.
 
 Social media had a field day, and honestly, they deserved to. One user pointed out that this story has "North Korean level hero worship" energy. Another tweeted, "Of all the things that never happened, this never happened the most!" Someone else challenged a reporter to ask Trump to recreate this feat live on camera. The replies kept coming, each one more skeptical than the last.
 
-## The Problem With a [News](https://infeeds.com/tags/?tag=news) Cycle Built on Fan Fiction
+## The Problem With a [News](https://infeeds.com/tags/news) Cycle Built on Fan Fiction
 
 What's actually frustrating about this whole thing isn't just that the story sounds made up. It's that we've reached a point where a high-ranking government official feels comfortable inventing an anecdote to make his boss look good at a political rally.
 
@@ -36,6 +36,6 @@ Meanwhile, the actual economy continues to squeeze working Americans. Costs are 
 
 A guy drawing a map on a placemat doesn't fix rent. It doesn't lower grocery bills. It doesn't address the very real squeeze that's being felt in kitchens and bank accounts across the country.
 
-The conversation we're having matters because it reflects something deeper: when leaders feel comfortable making up stories instead of addressing real problems, when [political](https://infeeds.com/tags/?tag=politics) theater becomes more important than tangible solutions, that's when you know something has fundamentally shifted in how we operate.
+The conversation we're having matters because it reflects something deeper: when leaders feel comfortable making up stories instead of addressing real problems, when [political](https://infeeds.com/tags/politics) theater becomes more important than tangible solutions, that's when you know something has fundamentally shifted in how we operate.
 
 Kennedy's placemat tale is funny on the surface. But underneath, it's a reminder that we've created a system where loyalty and narrative matter more than competence or honesty. The question isn't whether Trump drew a map on a McDonald's placemat. The question is why we're expected to celebrate basic competence as revolutionary.

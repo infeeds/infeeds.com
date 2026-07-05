@@ -20,7 +20,7 @@ Michael blamed the investors' short-term thinking. "They wanted to preserve thei
 
 You have to wonder what keeps people up at night more: being wrong about something, or being right but silenced. Kalanick has stayed oddly active in the space. Just recently he unveiled Atoms, a robotics company he'd been developing quietly for years. He's also the largest investor in Pronto, an autonomous vehicle startup, and is apparently moving toward acquiring it outright. The man clearly never let go of the dream, even if he had to build it elsewhere.
 
-But Michael's gotten pulled into different wars. The interview, recorded before things fully exploded, captures him defending the Department of Defense's ongoing dispute with Anthropic over access to large language models. And this is where things get genuinely interesting from a <a href="https://infeeds.com/tags/?tag=technology">technology</a> policy perspective.
+But Michael's gotten pulled into different wars. The interview, recorded before things fully exploded, captures him defending the Department of Defense's ongoing dispute with Anthropic over access to large language models. And this is where things get genuinely interesting from a <a href="https://infeeds.com/tags/technology">technology</a> policy perspective.
 
 ## When the Pentagon Meets Silicon Valley Values
 
@@ -38,7 +38,7 @@ The dispute has since escalated dramatically. Defense Secretary Pete Hegseth lab
 
 Anthropic fired back Friday with sworn declarations claiming the government's case rests on technical misunderstandings and allegations never raised during months of prior negotiations. Thiyagu Ramasamy, Anthropic's head of public sector, directly challenged claims that the company could interfere with military operations by disabling or altering its models.
 
-A hearing is scheduled for Tuesday in San Francisco. This isn't just corporate theater anymore. This is <a href="https://infeeds.com/tags/?tag=business">business</a> bleeding into geopolitical strategy, with real infrastructure and real military capability hanging in the balance.
+A hearing is scheduled for Tuesday in San Francisco. This isn't just corporate theater anymore. This is <a href="https://infeeds.com/tags/business">business</a> bleeding into geopolitical strategy, with real infrastructure and real military capability hanging in the balance.
 
 What strikes you most about this situation isn't any single fact but the collision of incompatible worldviews. Michael's asking why a company wouldn't want to help its country win wars. Anthropic's asking why it should surrender control over its own technology. One side sees patriotic obligation. The other sees corporate autonomy. Both probably think they're right.
 

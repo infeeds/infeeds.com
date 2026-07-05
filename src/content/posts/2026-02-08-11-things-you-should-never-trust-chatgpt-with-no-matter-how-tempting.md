@@ -20,7 +20,7 @@ So let's talk about where ChatGPT absolutely should not be your go-to source, no
 
 I'll admit it. I've typed my symptoms into ChatGPT out of pure curiosity. The results? Terrifying. A headache became a potential brain tumor. A cough turned into pneumonia or worse. I even entered information about a lump on my chest, and ChatGPT helpfully suggested cancer as a possibility. Spoiler: it was a lipoma, a harmless fatty deposit that one in every 1,000 people gets. My actual doctor told me that after an examination, something ChatGPT can't do from behind a screen.
 
-Look, there are some decent uses for AI in healthcare prep. You can draft questions for your next appointment, break down confusing medical jargon, or organize a symptom timeline. That's helpful. But diagnosing yourself? Absolutely not. ChatGPT can't order labs, read your vitals, or carry malpractice insurance. It's a [Technology](https://infeeds.com/tags/?tag=technology) tool, not a licensed physician.
+Look, there are some decent uses for AI in healthcare prep. You can draft questions for your next appointment, break down confusing medical jargon, or organize a symptom timeline. That's helpful. But diagnosing yourself? Absolutely not. ChatGPT can't order labs, read your vitals, or carry malpractice insurance. It's a [Technology](https://infeeds.com/tags/technology) tool, not a licensed physician.
 
 ## Mental Health Crises Need Real Humans
 
@@ -58,7 +58,7 @@ Turnitin and similar detectors are getting better every semester. Professors can
 
 Since OpenAI rolled out ChatGPT Search in late 2024 and opened it to everyone in February 2025, the chatbot can now fetch fresh web pages, stock quotes, gas prices, and sports scores with clickable citations. That's a step forward.
 
-But it won't stream continual updates on its own. Every refresh needs a new prompt. When speed is critical, live data feeds, official press releases, [news](https://infeeds.com/tags/?tag=news) sites, push alerts, and streaming coverage are still your best bet.
+But it won't stream continual updates on its own. Every refresh needs a new prompt. When speed is critical, live data feeds, official press releases, [news](https://infeeds.com/tags/news) sites, push alerts, and streaming coverage are still your best bet.
 
 ## Sports Betting Is Already Risky Enough
 

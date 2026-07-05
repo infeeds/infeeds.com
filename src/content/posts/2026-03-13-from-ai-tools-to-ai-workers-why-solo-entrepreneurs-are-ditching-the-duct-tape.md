@@ -36,7 +36,7 @@ And if you're tired of setting up the same workflows manually every single time,
 
 Here's what most people miss about this transition. The technology getting better is obvious. Of course AI agents are smarter than they were six months ago. That's expected.
 
-The real shift is about how entrepreneurs think about delegation. For years, we've been trained to see AI as tools. Assistants. Things we use. But this new generation of <a href="https://infeeds.com/tags/?tag=technology">technology</a> is forcing a mental reset.
+The real shift is about how entrepreneurs think about delegation. For years, we've been trained to see AI as tools. Assistants. Things we use. But this new generation of <a href="https://infeeds.com/tags/technology">technology</a> is forcing a mental reset.
 
 You're not using an AI agent. You're deploying an AI worker.
 
@@ -46,7 +46,7 @@ Solo entrepreneurs are catching onto this faster than anyone else because they h
 
 ## Why This Matters for Business
 
-The <a href="https://infeeds.com/tags/?tag=business">business</a> world isn't ready for how fast this is moving. Companies are still having meetings about AI strategy while solo founders are already three steps ahead, running complex operations with a fraction of the overhead.
+The <a href="https://infeeds.com/tags/business">business</a> world isn't ready for how fast this is moving. Companies are still having meetings about AI strategy while solo founders are already three steps ahead, running complex operations with a fraction of the overhead.
 
 The question isn't whether this technology works anymore. It clearly does. The question is whether the people using it will actually make the leap from thinking like an operator to thinking like a manager. Because managing AI workers requires a different mindset than managing tools.
 

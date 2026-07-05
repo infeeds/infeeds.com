@@ -26,7 +26,7 @@ It's no secret that Trump's relationship with Europe has been complicated. His d
 
 Spain represents a interesting case study in this dynamic. They're NATO members. They're important allies. But they're also independent nations with their own priorities, their own budgets, and their own opinions about how the world should work.
 
-The Fallas festival burning isn't some random act of rebellion. It's a reflection of genuine [political disagreement](https://infeeds.com/tags/?tag=politics). The Spanish public, or at least a significant portion of it, disagrees with Trump's direction on major issues. And in a country with a rich tradition of political satire and public expression, burning effigies is just another way to voice that dissent.
+The Fallas festival burning isn't some random act of rebellion. It's a reflection of genuine [political disagreement](https://infeeds.com/tags/politics). The Spanish public, or at least a significant portion of it, disagrees with Trump's direction on major issues. And in a country with a rich tradition of political satire and public expression, burning effigies is just another way to voice that dissent.
 
 ## The Broader Picture
 

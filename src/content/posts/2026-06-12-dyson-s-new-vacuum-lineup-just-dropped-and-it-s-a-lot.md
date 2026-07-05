@@ -16,7 +16,7 @@ This month, the company officially unveiled the rest of its 2026 cordless lineup
 
 The headliner here is the V16 Piston Animal, priced at $980. Dyson is calling this their most powerful cordless vacuum yet, and they've got the numbers to back that up: 315 air-watts of suction from a new Hyperdymium 900-watt motor. That's a meaningful jump from previous generations.
 
-What makes this interesting isn't just the raw power, though. The new All Floor Cones Sense cleaner head is designed to actually detect floor type and adjust automatically—similar in spirit to what we've seen from other smart cleaning tech in the [Technology](https://infeeds.com/tags/?tag=technology) space. The conical brush bars even borrow design language from the PencilVac Fluffycones, so there's clearly some family DNA happening here.
+What makes this interesting isn't just the raw power, though. The new All Floor Cones Sense cleaner head is designed to actually detect floor type and adjust automatically—similar in spirit to what we've seen from other smart cleaning tech in the [Technology](https://infeeds.com/tags/technology) space. The conical brush bars even borrow design language from the PencilVac Fluffycones, so there's clearly some family DNA happening here.
 
 There's also a compressed debris bin that supposedly holds up to 30 days of gunk, and a new emptying mechanism that pushes debris out rather than requiring you to tilt and shake the whole thing. Dyson has promised a self-emptying dock for this model, but it's not available yet—something to keep in mind if you're thinking about going hands-free.
 

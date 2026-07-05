@@ -12,9 +12,9 @@ There's a familiar frustration playing out in boardrooms across the country righ
 
 The numbers tell the story. According to Slingshot's Digital Work Trends Report, 86% of C-suite executives believe AI usage is required in their company operations. But only 49% of middle managers are actually reinforcing that expectation with their teams. That's not a gap. That's a chasm.
 
-The result? For most employees, [AI in business](https://infeeds.com/tags/?tag=business) still feels optional. Disconnected from how they're actually evaluated. Something executives care about, not something they need to care about.
+The result? For most employees, [AI in business](https://infeeds.com/tags/business) still feels optional. Disconnected from how they're actually evaluated. Something executives care about, not something they need to care about.
 
-This isn't a [technology](https://infeeds.com/tags/?tag=technology) problem. It's an execution problem. And it reveals something uncomfortable: having the right tools doesn't matter if nobody knows how to use them or why they should bother.
+This isn't a [technology](https://infeeds.com/tags/technology) problem. It's an execution problem. And it reveals something uncomfortable: having the right tools doesn't matter if nobody knows how to use them or why they should bother.
 
 ## The Middle Manager Bottleneck
 

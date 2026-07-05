@@ -14,7 +14,7 @@ Your brand's online reputation isn't something that happens to you anymore. It's
 
 The problem isn't that brand safety is complicated. It's that people treat it like a checkbox. Launch a campaign, cross your fingers, hope nothing bad happens. That approach stopped working years ago.
 
-When marketing moves faster and relies more on automation, the risks multiply. You're less in control of where your ads appear, what content sits next to your message, and who's interacting with your brand. That's the reality of [business](https://infeeds.com/tags/?tag=business) in 2026.
+When marketing moves faster and relies more on automation, the risks multiply. You're less in control of where your ads appear, what content sits next to your message, and who's interacting with your brand. That's the reality of [business](https://infeeds.com/tags/business) in 2026.
 
 ## What Brand Safety Actually Means
 

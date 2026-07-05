@@ -16,7 +16,7 @@ The numbers are frankly ridiculous. Meta, Amazon, Google, and Microsoft could co
 
 ## The Biggest Infrastructure Buildout Ever
 
-Huang described what's happening as "the largest infrastructure buildout in human history." That's quite a claim, but when you look at the scale of investment, it's hard to argue. He says demand for computing power is "sky high" and that [Technology](https://infeeds.com/tags/?tag=technology) companies can use that power to make serious money.
+Huang described what's happening as "the largest infrastructure buildout in human history." That's quite a claim, but when you look at the scale of investment, it's hard to argue. He says demand for computing power is "sky high" and that [Technology](https://infeeds.com/tags/technology) companies can use that power to make serious money.
 
 His pitch basically boils down to this: buy more chips, make more money. He pointed to Meta shifting from CPU-based recommendation systems to generative AI systems powered by his hardware. Amazon Web Services will supposedly transform product recommendations through AI. Microsoft's enterprise software gets smarter. Everyone wins, especially Nvidia.
 
@@ -26,8 +26,8 @@ The interesting part is Huang's claim about AI labs like OpenAI and Anthropic. H
 
 Here's what caught my attention: Huang claims even six-year-old chips like the A100 are still being rented out. Every GPU Nvidia has ever sold is apparently generating revenue for someone right now. That speaks to sustained demand, sure, but it also raises questions about whether the newest, most expensive chips are actually necessary for everything being labeled "AI."
 
-The [business](https://infeeds.com/tags/?tag=business) model he's describing depends entirely on AI companies continuing to generate profits from their services. If people keep paying for AI and the AI companies keep making money, then they'll "keep on doubling, doubling, doubling, doubling" according to Huang. That's a lot of doubling that needs to happen for a $660 billion bet to pay off.
+The [business](https://infeeds.com/tags/business) model he's describing depends entirely on AI companies continuing to generate profits from their services. If people keep paying for AI and the AI companies keep making money, then they'll "keep on doubling, doubling, doubling, doubling" according to Huang. That's a lot of doubling that needs to happen for a $660 billion bet to pay off.
 
 Wall Street's mixed reaction tells you everything you need to know about investor confidence. Some companies got rewarded for their AI spending plans while others got hammered. The market isn't convinced everyone placing these massive infrastructure bets will see returns justify the expense.
 
-What happens when the doubling stops, or when it turns out that six-year-old chips work just fine for most AI applications that actually make [money](https://infeeds.com/tags/?tag=business)?
+What happens when the doubling stops, or when it turns out that six-year-old chips work just fine for most AI applications that actually make [money](https://infeeds.com/tags/business)?

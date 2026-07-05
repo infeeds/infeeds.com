@@ -20,7 +20,7 @@ Cook's tenure was, by almost any measure, extraordinary. Revenue quadrupled to o
 
 Cook also rebuilt Apple's reputation on privacy. His 2016 standoff with the FBI over an encrypted iPhone, his push for stronger privacy protections globally, and his public positioning around user data became part of the company's brand identity. Whether you buy it or not, Cook made privacy a competitive advantage in the market's eyes.
 
-What's less talked about: Cook was also a master at <a href="https://infeeds.com/tags/?tag=business">Business</a> politics. His August meeting with Donald Trump to tout a $600 billion U.S. investment commitment, his careful cultivation of relationships across governments, his ability to navigate the Trump administration's tariff threats. These aren't flashy skills, but they matter enormously when your supply chain spans Asia and your company relies on imports.
+What's less talked about: Cook was also a master at <a href="https://infeeds.com/tags/business">Business</a> politics. His August meeting with Donald Trump to tout a $600 billion U.S. investment commitment, his careful cultivation of relationships across governments, his ability to navigate the Trump administration's tariff threats. These aren't flashy skills, but they matter enormously when your supply chain spans Asia and your company relies on imports.
 
 ## The Ternus Question
 
@@ -38,7 +38,7 @@ Beyond internal challenges, Ternus is stepping into a genuinely messy external e
 
 Cook handled these dynamics with a combination of operational excellence and political savvy. Ternus will need both. But he's primarily known as a hardware guy, not a dealmaker or operations wizard in the Cook mold. Whether he can navigate geopolitical waters as effectively remains unclear.
 
-## What About <a href="https://infeeds.com/tags/?tag=technology">Technology</a>?
+## What About <a href="https://infeeds.com/tags/technology">Technology</a>?
 
 To his credit, Ternus isn't walking in blind. He's been at Apple long enough to understand its culture and decision-making processes. The company is also promoting Johny Srouji to chief hardware officer, which keeps continuity in the hardware engineering function that's critical to Apple's competitive advantage.
 

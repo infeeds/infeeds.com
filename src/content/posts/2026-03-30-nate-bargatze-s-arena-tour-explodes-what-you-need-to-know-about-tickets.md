@@ -32,4 +32,4 @@ If you're planning to buy, understand that resale markets move differently depen
 
 There's also a strategic element here. Most people wait until closer to the date to buy, which means earlier purchases sometimes offer better availability, even if pricing isn't dramatically lower. It's the classic ticketing gamble: buy now with more choice, or wait and risk paying premium prices when selection is limited.
 
-The real takeaway is that this level of <a href="https://infeeds.com/tags/?tag=business">business</a> success for a stand-up comedian reflects something genuinely interesting about modern entertainment. Bargatze built an audience large enough and loyal enough to fill arenas without ironic distance or celebrity guest spots. That's not luck.
+The real takeaway is that this level of <a href="https://infeeds.com/tags/business">business</a> success for a stand-up comedian reflects something genuinely interesting about modern entertainment. Bargatze built an audience large enough and loyal enough to fill arenas without ironic distance or celebrity guest spots. That's not luck.

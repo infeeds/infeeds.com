@@ -16,7 +16,7 @@ The story, reported by TechCrunch, shows us what happens when two of the world's
 
 Flipkart entered quick commerce relatively late compared to homegrown rivals like Blinkit, Swiggy, and Zepto. But the Walmart-owned e-commerce giant has already crossed 800 dark stores and is planning to double that by the end of 2026. That's not just scaling, that's a statement.
 
-The company's strategy reveals something telling about how large <a href="https://infeeds.com/tags/?tag=business">business</a> entities think differently. According to Satish Meena, founder of consumer insights firm Datum Intelligence, "Flipkart has this Walmart DNA. Walmart's DNA is always about expanding the total addressable opportunity to dominate by expanding the market."
+The company's strategy reveals something telling about how large <a href="https://infeeds.com/tags/business">business</a> entities think differently. According to Satish Meena, founder of consumer insights firm Datum Intelligence, "Flipkart has this Walmart DNA. Walmart's DNA is always about expanding the total addressable opportunity to dominate by expanding the market."
 
 Translation: While Blinkit focuses on becoming unbeatable in the top 10 cities with plans to reach 3,000 dark stores, Flipkart is looking at towns most competitors haven't bothered with. About 25-30% of its quick commerce orders already come from small towns, which is remarkable for a business model built around speed and efficiency.
 
@@ -44,7 +44,7 @@ This is what happens when the game shifts from "can we build this?" to "who has 
 
 Quick commerce is "no longer in a startup phase" according to Ankur Bisen, senior partner at Technopak Advisors. "It has become a big players' game."
 
-That shift matters because it changes the rules. Startups compete on speed, innovation, and ruthlessness. Large <a href="https://infeeds.com/tags/?tag=technology">technology</a> and retail companies compete on capital, logistics networks, and the ability to absorb losses while waiting for unit economics to improve.
+That shift matters because it changes the rules. Startups compete on speed, innovation, and ruthlessness. Large <a href="https://infeeds.com/tags/technology">technology</a> and retail companies compete on capital, logistics networks, and the ability to absorb losses while waiting for unit economics to improve.
 
 The sector could see consolidation soon. When companies are fighting for the same customers in discount-heavy markets with limited differentiation, only those with deep pockets and strategic patience tend to survive long term.
 

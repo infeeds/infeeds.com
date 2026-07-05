@@ -36,7 +36,7 @@ The point isn't just that bad people steal things. It's that once a government-g
 
 If you're using an iPhone with iOS 17.2.1 or older, congratulations, you're potentially vulnerable to Coruna. But panicking won't help much. What matters is updating your device the moment Apple releases patches. Apple hasn't publicly disclosed the specific vulnerabilities yet, but they will need to at some point.
 
-The bigger issue is what this tells us about the relationship between <a href="https://infeeds.com/tags/?tag=technology">Technology</a> and national security. Governments want to build powerful hacking tools. Private companies want to sell surveillance solutions. But once those tools exist, they become targets. They leak. They spread. They get used by people for whom they were never intended.
+The bigger issue is what this tells us about the relationship between <a href="https://infeeds.com/tags/technology">Technology</a> and national security. Governments want to build powerful hacking tools. Private companies want to sell surveillance solutions. But once those tools exist, they become targets. They leak. They spread. They get used by people for whom they were never intended.
 
 The Coruna case is particularly interesting because it reveals something uncomfortable about how exploitation works. These aren't tools that were carelessly left behind. They were actively proliferated through multiple threat actors. Someone moved them from one set of hands to another, probably more than once. That suggests coordination or at least organized markets for this kind of thing.
 

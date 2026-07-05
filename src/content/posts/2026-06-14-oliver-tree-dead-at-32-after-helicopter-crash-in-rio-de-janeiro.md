@@ -20,8 +20,8 @@ What I always respected about Tree was his refusal to fit into any box. His seco
 
 The 2022 album was followed by Alone in a Crowd in 2023, and earlier this year Tree went back to his independent roots, releasing his fourth album Love You Madly Hate You Badly through his own Alien Boy Records. In May, he announced his first world tour, with the South American leg kicking off May 30 in Mexico and wrapping up with his final concert on June 6 in Sao Paulo.
 
-For more updates on this story and other entertainment news, check out Infeeds' [entertainment](https://infeeds.com/tags/?tag=entertainment) section.
+For more updates on this story and other entertainment news, check out Infeeds' [entertainment](https://infeeds.com/tags/entertainment) section.
 
 It's a strange thing to say about someone you never met, but Oliver Tree felt like a friend in a way. His music was weird and wonderful and occasionally heartbreaking, and there's a whole generation of listeners who grew up with his songs as the soundtrack to their own unconventional journeys. The world feels a little less interesting without him in it.
 
-Latest developments on this breaking story are available through Infeeds' [news](https://infeeds.com/tags/?tag=news) coverage.
+Latest developments on this breaking story are available through Infeeds' [news](https://infeeds.com/tags/news) coverage.

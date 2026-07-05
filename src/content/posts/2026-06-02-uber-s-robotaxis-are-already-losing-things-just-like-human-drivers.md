@@ -8,7 +8,7 @@ tags: [news, tech]
 tags_color: '#00ba65'
 ---
 
-Uber's annual Lost & Found Index has been one of those oddly delightful traditions in [Technology](https://infeeds.com/tags/?tag=technology) — a quirky anthropological record of what millions of riders leave behind in their rush to get from point A to point B. For a decade, the company has catalogued everything from smartphones and laptops to the more eyebrow-raising items like live fish, a toboggan, and a single Louboutin shoe. It's the kind of stuff that makes you wonder about the lives of strangers in a way that no other data really can.
+Uber's annual Lost & Found Index has been one of those oddly delightful traditions in [Technology](https://infeeds.com/tags/technology) — a quirky anthropological record of what millions of riders leave behind in their rush to get from point A to point B. For a decade, the company has catalogued everything from smartphones and laptops to the more eyebrow-raising items like live fish, a toboggan, and a single Louboutin shoe. It's the kind of stuff that makes you wonder about the lives of strangers in a way that no other data really can.
 
 This year, there's a new player in the lost-and-found game: robotaxis.
 

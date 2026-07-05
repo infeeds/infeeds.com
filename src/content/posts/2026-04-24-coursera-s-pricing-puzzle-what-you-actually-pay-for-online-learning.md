@@ -36,7 +36,7 @@ Coursera also offers MasterTrack programs, which exist in a weird middle space. 
 
 ## The Real Question: What's Actually Worth Paying For?
 
-This is where having a clear head matters. [Business](https://infeeds.com/tags/?tag=business) education has become highly competitive, and credentials matter, but not all credentials matter equally. A certificate from Google or Microsoft in a field like cybersecurity carries real weight. A completion certificate from a less-recognized course? Less so.
+This is where having a clear head matters. [Business](https://infeeds.com/tags/business) education has become highly competitive, and credentials matter, but not all credentials matter equally. A certificate from Google or Microsoft in a field like cybersecurity carries real weight. A completion certificate from a less-recognized course? Less so.
 
 The best strategy depends on your goal. If you're trying to build portfolio work in fields like design or programming, some courses are structured specifically for that. In other cases, a university-backed certificate or specialization might serve you better. Free courses work fine for exploration and skill-building, but they won't help your resume.
 

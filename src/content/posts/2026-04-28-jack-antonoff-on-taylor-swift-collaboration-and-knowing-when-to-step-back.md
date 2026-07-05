@@ -40,7 +40,7 @@ It's worth noting that this song was created outside of her work with Antonoff, 
 
 ## When Collaboration Means Knowing Your Limits
 
-In [entertainment](https://infeeds.com/tags/?tag=entertainment), we've become obsessed with loyalty metrics. If an artist works repeatedly with a producer, that's treated as proof of their bond. If they don't, it's treated as scandal. But Antonoff's candor suggests a more mature approach: real creative partnership might actually mean respecting when someone needs to work elsewhere.
+In [entertainment](https://infeeds.com/tags/entertainment), we've become obsessed with loyalty metrics. If an artist works repeatedly with a producer, that's treated as proof of their bond. If they don't, it's treated as scandal. But Antonoff's candor suggests a more mature approach: real creative partnership might actually mean respecting when someone needs to work elsewhere.
 
 This doesn't diminish what he and Swift have built together. If anything, his willingness to step back and her willingness to explore other sounds makes their collaboration feel less like obligation and more like genuine creative choice. Every time they do work together going forward, it'll be because they actually want to, not because it's expected.
 

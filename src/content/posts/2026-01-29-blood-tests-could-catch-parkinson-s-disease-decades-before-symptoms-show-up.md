@@ -30,7 +30,7 @@ Using machine learning and advanced analytical methods, the team found a distinc
 
 Think about that for a second. The biological signature shows up, does its thing, and then disappears as the disease progresses. It's like the disease leaves a temporary calling card.
 
-"This means that we have found an important window of opportunity in which the disease can be detected before motor symptoms caused by nerve damage in the brain appear," says Annikka Polster, Assistant Professor at Chalmers who led the study. The fact that these patterns vanish later also makes them interesting targets for future treatments focused on [science](https://infeeds.com/tags/?tag=science) and understanding early disease mechanisms.
+"This means that we have found an important window of opportunity in which the disease can be detected before motor symptoms caused by nerve damage in the brain appear," says Annikka Polster, Assistant Professor at Chalmers who led the study. The fact that these patterns vanish later also makes them interesting targets for future treatments focused on [science](https://infeeds.com/tags/science) and understanding early disease mechanisms.
 
 ## Blood Tests vs. Everything Else
 
@@ -40,7 +40,7 @@ Blood tests are different. They're cheap, accessible, and people are already use
 
 "In our study, we highlighted biomarkers that likely reflect some of the early biology of the disease and showed they can be measured in blood," Polster explains. "This paves the way for broad screening tests via blood samples: a cost-effective, easily accessible method."
 
-The team estimates that within five years, these blood tests could start being tested in actual healthcare settings. That's not a guarantee they'll work at scale, but it's a realistic timeline for moving from lab to clinic. And long term, this research might help develop treatments that slow or even prevent the disease from progressing, incorporating advances in [technology](https://infeeds.com/tags/?tag=technology) and medical diagnostics.
+The team estimates that within five years, these blood tests could start being tested in actual healthcare settings. That's not a guarantee they'll work at scale, but it's a realistic timeline for moving from lab to clinic. And long term, this research might help develop treatments that slow or even prevent the disease from progressing, incorporating advances in [technology](https://infeeds.com/tags/technology) and medical diagnostics.
 
 ## Drug Repurposing on the Table
 

@@ -10,7 +10,7 @@ tags_color: '#1f78b4'
 
 The Satoshi Nakamoto identity guessing game just got another chapter, and honestly, it's starting to feel less like detective work and more like a collective fever dream.
 
-According to BBC reporting, Adam Back, a prominent [Technology](https://infeeds.com/tags/?tag=technology) developer and Bitcoin figure, has flatly denied claims made in a New York Times investigation that named him as the mysterious inventor of Bitcoin. Back took to X to push back on what he calls "confirmation bias," arguing that journalist John Carreyrou's lengthy piece cherry-picks similarities while ignoring contradictions.
+According to BBC reporting, Adam Back, a prominent [Technology](https://infeeds.com/tags/technology) developer and Bitcoin figure, has flatly denied claims made in a New York Times investigation that named him as the mysterious inventor of Bitcoin. Back took to X to push back on what he calls "confirmation bias," arguing that journalist John Carreyrou's lengthy piece cherry-picks similarities while ignoring contradictions.
 
 Here's the thing though: this isn't Back's first rodeo with the Satoshi accusation. The man has been named before. Yet each time, the theory seems to collapse under basic scrutiny, and each time, we all move on to the next candidate like some sort of never-ending true crime podcast episode.
 

@@ -66,7 +66,7 @@ The data said yes. Employers were increasingly comfortable with online credentia
 
 But here's where most analysis stops and judgment takes over. Data can't predict how faculty would adapt. It can't measure cultural resistance or organizational capacity to sustain innovation. That requires institutional knowledge, experience, and honest assessment of your own team's bandwidth.
 
-Use data to validate opportunity. Then pair it with your deepest understanding of what your organization can actually pull off. Let <a href="https://infeeds.com/tags/?tag=business">business</a> intuition and mission clarity make the final call.
+Use data to validate opportunity. Then pair it with your deepest understanding of what your organization can actually pull off. Let <a href="https://infeeds.com/tags/business">business</a> intuition and mission clarity make the final call.
 
 ## The Calculated Risk Is Still a Risk
 

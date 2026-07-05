@@ -30,7 +30,7 @@ But creators don't want simplicity. They want reach. They want money. They want 
 
 James Poulter, founder of digital transformation consultancy ThreePoint Labs, nailed this in his comments to Business Insider. "They set themselves out as the unfiltered, unedited, no-algorithm-in-sight social platform, but it's exactly what breaks the moment creators start treating it as a monetization channel," Poulter said. "Creators optimize for engagement, and then authenticity goes out the window, and you end up with a slightly less polished Instagram."
 
-That's not hyperbole. It's how these things work. Put money in the game, and people start gaming it. They'll figure out the optimal times to post. They'll curate what they share. They'll optimize their "raw" content for engagement. The very thing that made BeReal appealing gets sacrificed on the altar of <a href="https://infeeds.com/tags/?tag=business">business</a>.
+That's not hyperbole. It's how these things work. Put money in the game, and people start gaming it. They'll figure out the optimal times to post. They'll curate what they share. They'll optimize their "raw" content for engagement. The very thing that made BeReal appealing gets sacrificed on the altar of <a href="https://infeeds.com/tags/business">business</a>.
 
 Poulter also noted that BeReal would need to build more formal creator-brand matching mechanisms with transparent rates if it wants serious buy-in. Right now, the company is kind of hoping things work out organically. That's not going to cut it when TikTok is offering creators millions and YouTube has decades of sophisticated creator infrastructure.
 

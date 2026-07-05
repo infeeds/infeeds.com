@@ -28,7 +28,7 @@ Microsoft's angle is that they're positioning themselves as the thinking partner
 
 ## Apple's Partnership Gamble
 
-Apple versus Tesla is where <a href="https://infeeds.com/tags/?tag=technology">Technology</a> philosophy clashes with ambition. Apple's playing it steady, trying to catch up through partnerships and careful product integration. Tesla's literally restructuring its entire business around AI and robotaxis, betting everything on a vision that hasn't fully materialized yet.
+Apple versus Tesla is where <a href="https://infeeds.com/tags/technology">Technology</a> philosophy clashes with ambition. Apple's playing it steady, trying to catch up through partnerships and careful product integration. Tesla's literally restructuring its entire business around AI and robotaxis, betting everything on a vision that hasn't fully materialized yet.
 
 One plays defense, the other swings for the fences. One has a track record of perfect execution, the other has a track record of wild promises. For a 10-year hold, which bet actually appeals to you?
 
@@ -36,7 +36,7 @@ One plays defense, the other swings for the fences. One has a track record of pe
 
 Alphabet versus Meta is where things get genuinely messy. Both companies are essentially pivoting their entire ad empires to compete in AI. Alphabet got late to the party, Meta escaped the metaverse money pit and found religion in generative AI. The difference? Alphabet's diversified across search, cloud, hardware, and more. Meta is basically a pure-play AI stock masquerading as an advertising company.
 
-<a href="https://infeeds.com/tags/?tag=business">Business</a> models matter. Diversification matters. But so does focus when you're betting on an existential shift like AI. This bracket matchup might tell you more about your investment philosophy than anything else.
+<a href="https://infeeds.com/tags/business">Business</a> models matter. Diversification matters. But so does focus when you're betting on an existential shift like AI. This bracket matchup might tell you more about your investment philosophy than anything else.
 
 ## Why This Matters More Than You Think
 

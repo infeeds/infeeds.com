@@ -30,7 +30,7 @@ Then there's the San Francisco power outage incident from last December that som
 
 Read that carefully. They're saying the software wasn't decisive enough. That's code for the cars didn't know what to do and basically gave up.
 
-These aren't edge cases anymore. When you're dealing with blocked ambulances, school bus violations, gridlock-causing stalls, and an active federal investigation, you're looking at a [technology](https://infeeds.com/tags/?tag=technology) platform that isn't ready for the unpredictable chaos of real city life. Cities aren't controlled environments. They're messy, dangerous, and full of situations that require judgment calls, not just pre-programmed responses.
+These aren't edge cases anymore. When you're dealing with blocked ambulances, school bus violations, gridlock-causing stalls, and an active federal investigation, you're looking at a [technology](https://infeeds.com/tags/technology) platform that isn't ready for the unpredictable chaos of real city life. Cities aren't controlled environments. They're messy, dangerous, and full of situations that require judgment calls, not just pre-programmed responses.
 
 ## What's Waymo Actually Saying?
 
@@ -38,6 +38,6 @@ Here's what's striking: Waymo has been almost silent on most of these incidents.
 
 For a company that has positioned itself as the leader in autonomous driving, the communication strategy feels defensive rather than transparent. And that matters, especially when public safety is involved.
 
-The bigger question isn't whether Waymo will fix these specific bugs. Of course they will. Eventually. The real question is whether the entire approach to [autonomous vehicles](https://infeeds.com/tags/?tag=technology) in dense urban environments has been too optimistic. Maybe the gap between a self-driving car that works 99% of the time and one that works 99.99% of the time isn't just an engineering challenge. Maybe it's a philosophical one about whether machines should be making split-second decisions in situations where human judgment has always been essential.
+The bigger question isn't whether Waymo will fix these specific bugs. Of course they will. Eventually. The real question is whether the entire approach to [autonomous vehicles](https://infeeds.com/tags/technology) in dense urban environments has been too optimistic. Maybe the gap between a self-driving car that works 99% of the time and one that works 99.99% of the time isn't just an engineering challenge. Maybe it's a philosophical one about whether machines should be making split-second decisions in situations where human judgment has always been essential.
 
 Waymo is expanding to new cities while simultaneously dealing with these escalating safety concerns. It's a strange time to be scaling up operations when your current deployments are under federal investigation and blocking ambulances during emergencies. The company clearly believes its technology is ready for that next level. But after watching a robotaxi become an obstacle to saving lives, it's hard not to wonder if they're moving faster than the technology can actually keep up with.

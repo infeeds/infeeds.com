@@ -36,7 +36,7 @@ This isn't about adding these foods to your diet and expecting miracles. It's ab
 
 ## Sleep, Exercise, and Everything Else
 
-Diet is only part of the equation. According to research presented at the [health](https://infeeds.com/tags/?tag=health) level, adequate sleep is critical because the brain literally repairs itself during sleep. Exercise matters tremendously. Continuous cognitive engagement throughout life also protects against decline.
+Diet is only part of the equation. According to research presented at the [health](https://infeeds.com/tags/health) level, adequate sleep is critical because the brain literally repairs itself during sleep. Exercise matters tremendously. Continuous cognitive engagement throughout life also protects against decline.
 
 The point is less about finding a magic food and more about understanding that your brain operates within systems. Poor sleep undermines the benefits of eating blueberries. A sedentary lifestyle negates the omega-3s from salmon. These factors don't work in isolation.
 

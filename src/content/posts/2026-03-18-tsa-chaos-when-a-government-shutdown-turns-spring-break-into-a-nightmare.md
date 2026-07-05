@@ -34,7 +34,7 @@ Look, the practical advice is straightforward: arrive early. Like, really early.
 
 If you want to check wait times before heading to the airport, most major hubs post them live on their websites. Atlanta, Houston, JFK, Newark, Philadelphia, Dallas-Fort Worth, and Denver all offer this service. The MyTSA mobile app also provides estimated wait times based on checkpoint data, though the TSA itself admits the app might not be getting updated regularly since the agency isn't actively managing systems during the shutdown.
 
-<a href="https://infeeds.com/tags/?tag=business">Business</a> as usual has clearly broken down here. This isn't about efficiency or optimization anymore. It's about whether the basic infrastructure of air travel can function when the people running it aren't being paid.
+<a href="https://infeeds.com/tags/business">Business</a> as usual has clearly broken down here. This isn't about efficiency or optimization anymore. It's about whether the basic infrastructure of air travel can function when the people running it aren't being paid.
 
 Some airports have taken matters into their own hands, asking the public for food, gift cards, and supplies to support TSA staff. That shouldn't be necessary in the world's largest economy, but desperation has a way of making people creative.
 

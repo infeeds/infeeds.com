@@ -58,7 +58,7 @@ That explanation strains credulity. Glands don't migrate. Surgeons get lost in a
 
 ## The Question Nobody Wants to Ask
 
-This case raises an uncomfortable question about <a href="https://infeeds.com/tags/?tag=health">healthcare</a> systems and accountability. How does a surgeon make the same category of catastrophic error twice? More pressingly, why was Shaknovsky still operating after the 2023 incident?
+This case raises an uncomfortable question about <a href="https://infeeds.com/tags/health">healthcare</a> systems and accountability. How does a surgeon make the same category of catastrophic error twice? More pressingly, why was Shaknovsky still operating after the 2023 incident?
 
 State Surgeon General Joseph Ladapo ordered an emergency suspension of Shaknovsky's license in September 2024, months after Bryan's death. The action came after the state health department investigation. But the lag between the catastrophic error and the license suspension represents a window during which other patients could have been at risk.
 
@@ -70,6 +70,6 @@ Bryan's widow, according to NBC News reporting, told the network: "He would want
 
 It's a devastating statement from someone trying to extract meaning from an essentially meaningless tragedy. A man died 800 miles from home after traveling for a procedure he didn't initially want, at the hands of a surgeon who appears to have made fundamental errors about basic anatomy during a high-pressure moment in an understaffed operating room late in the evening.
 
-The <a href="https://infeeds.com/tags/?tag=justice">justice system</a> can hold Shaknovsky accountable. It can send him to prison. It can suspend his license permanently. But none of that brings back William Bryan or reverses the trauma inflicted on his widow and family.
+The <a href="https://infeeds.com/tags/justice">justice system</a> can hold Shaknovsky accountable. It can send him to prison. It can suspend his license permanently. But none of that brings back William Bryan or reverses the trauma inflicted on his widow and family.
 
 What remains is a question that lingers after every preventable medical catastrophe: what systemic failures allowed this to happen in the first place?

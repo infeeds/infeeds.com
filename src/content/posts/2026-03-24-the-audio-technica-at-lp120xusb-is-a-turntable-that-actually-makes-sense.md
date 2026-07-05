@@ -10,7 +10,7 @@ tags_color: '#ff5722'
 
 There's something refreshing about a turntable that doesn't overcomplicate things. The Audio-Technica AT-LP120XUSB sits in this sweet spot where it actually delivers on what it promises, without the pretentious nonsense that surrounds vinyl these days.
 
-At around $398 on Amazon right now (down from $449), this is the kind of turntable that works whether you're dusting off records from your parents' collection or genuinely falling down the rabbit hole of vinyl collecting. It's not trying to be a lifestyle statement. It's just a solid piece of [technology](https://infeeds.com/tags/?tag=technology) that does what it's supposed to do.
+At around $398 on Amazon right now (down from $449), this is the kind of turntable that works whether you're dusting off records from your parents' collection or genuinely falling down the rabbit hole of vinyl collecting. It's not trying to be a lifestyle statement. It's just a solid piece of [technology](https://infeeds.com/tags/technology) that does what it's supposed to do.
 
 ## Built-In Smarts That Actually Matter
 

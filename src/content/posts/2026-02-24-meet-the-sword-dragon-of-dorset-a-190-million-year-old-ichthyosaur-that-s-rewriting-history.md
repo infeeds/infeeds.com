@@ -24,7 +24,7 @@ The Xiphodracon specimen, discovered near Golden Cap in 2001 by collector Chris 
 
 ## Why This Skeleton Matters So Much
 
-The Pliensbachian period, roughly spanning 193 to 184 million years ago, represents one of the most dramatic transition periods in ichthyosaur <a href="https://infeeds.com/tags/?tag=science">evolution</a>. Before this time and after it, ichthyosaur species were completely different from each other. Totally distinct populations. Yet the overall ecological role they played remained surprisingly similar.
+The Pliensbachian period, roughly spanning 193 to 184 million years ago, represents one of the most dramatic transition periods in ichthyosaur <a href="https://infeeds.com/tags/science">evolution</a>. Before this time and after it, ichthyosaur species were completely different from each other. Totally distinct populations. Yet the overall ecological role they played remained surprisingly similar.
 
 Think of it like watching a massive cast change in a play where the plot stays the same. Scientists have long known this shift happened, but pinpointing exactly when and finding transitional evidence has been maddeningly difficult. Xiphodracon appears to be that missing puzzle piece.
 
@@ -44,7 +44,7 @@ Beyond the evolutionary significance, Xiphodracon displays several anatomical tr
 
 The naming itself reflects how paleontologists approach their work. "Xipho" comes from the Greek word for sword, referencing that elongated snout. "Dracon" means dragon, which has been the informal term for ichthyosaurs for over 200 years. It's a name that captures both the creature's distinctive features and its place in our cultural imagination.
 
-The research, led by an international team and published in the journal <a href="https://infeeds.com/tags/?tag=science">Papers in Palaeontology</a>, represents years of meticulous study. What's fascinating is that the specimen remained essentially unknown to the scientific community for so long, tucked away in the Royal Ontario Museum's collection.
+The research, led by an international team and published in the journal <a href="https://infeeds.com/tags/science">Papers in Palaeontology</a>, represents years of meticulous study. What's fascinating is that the specimen remained essentially unknown to the scientific community for so long, tucked away in the Royal Ontario Museum's collection.
 
 The fossil is expected to go on public display in Toronto eventually, which means people will finally get to see what 190 million years of history looks like when perfectly preserved in three dimensions.
 

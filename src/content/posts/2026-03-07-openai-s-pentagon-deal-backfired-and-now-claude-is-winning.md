@@ -10,7 +10,7 @@ tags: [news, business]
 tags_color: '#795548'
 ---
 
-When Sam Altman announced OpenAI's Pentagon deal on February 28, he probably thought he was securing a major win for the company. A high-profile government contract with the U.S. Department of Defense. A sign of legitimacy and trust. Instead, he walked straight into one of the messiest PR disasters in recent <a href="https://infeeds.com/tags/?tag=business">business</a> history.
+When Sam Altman announced OpenAI's Pentagon deal on February 28, he probably thought he was securing a major win for the company. A high-profile government contract with the U.S. Department of Defense. A sign of legitimacy and trust. Instead, he walked straight into one of the messiest PR disasters in recent <a href="https://infeeds.com/tags/business">business</a> history.
 
 The backlash started immediately. Not just from activists or internet trolls, but from OpenAI's own employees. From millions of users. From the company's direct competitor, who had already said no.
 
@@ -40,7 +40,7 @@ Meanwhile, activists gathered outside OpenAI's Mission Bay headquarters in San F
 
 To his credit, Altman didn't ignore the problem. He fielded questions publicly on X the next day and admitted something important: "the process was definitely rushed, and the optics don't look good."
 
-He followed up with an internal memo on March 2 (later shared publicly) acknowledging the mistakes. He said OpenAI would revise the contract to include clearer safeguards against mass domestic surveillance. He added explicit prohibitions on using their <a href="https://infeeds.com/tags/?tag=technology">technology</a> on commercially acquired data, which wasn't covered in the original terms.
+He followed up with an internal memo on March 2 (later shared publicly) acknowledging the mistakes. He said OpenAI would revise the contract to include clearer safeguards against mass domestic surveillance. He added explicit prohibitions on using their <a href="https://infeeds.com/tags/technology">technology</a> on commercially acquired data, which wasn't covered in the original terms.
 
 "I shouldn't have rushed to get the deal out," Altman wrote. "It just looked opportunistic and sloppy."
 
@@ -50,7 +50,7 @@ But here's the thing about rushing and then apologizing: the damage was already 
 
 ## The Political Angle
 
-Rep. Sam Liccardo, a California Democrat, actually introduced an amendment to the Defense Production Act that would prohibit the Pentagon from retaliating against AI developers for instituting safeguards on risky <a href="https://infeeds.com/tags/?tag=technology">technology</a>. It failed 16-25 in the House Financial Services Committee. But his metaphor was perfect: "When the company that designs and builds the jet fighter tells us when to use the brakes, we should listen."
+Rep. Sam Liccardo, a California Democrat, actually introduced an amendment to the Defense Production Act that would prohibit the Pentagon from retaliating against AI developers for instituting safeguards on risky <a href="https://infeeds.com/tags/technology">technology</a>. It failed 16-25 in the House Financial Services Committee. But his metaphor was perfect: "When the company that designs and builds the jet fighter tells us when to use the brakes, we should listen."
 
 The Pentagon didn't listen. OpenAI, initially, didn't either. Anthropic did.
 

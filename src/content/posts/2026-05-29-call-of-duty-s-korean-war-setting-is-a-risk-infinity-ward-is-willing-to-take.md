@@ -20,7 +20,7 @@ The trailer focuses on young South Korean conscripts on what seems like a routin
 
 Infinity Ward is positioning this as a return to the "military authenticity" that made the Modern Warfare name famous. The studio has also announced some significant gameplay overhauls — revamped movement mechanics, more interactive environments, an overhauled DMZ extraction mode, and a new "Frontlines" system meant to make battles feel more dynamic.
 
-This is big news in the [Technology](https://infeeds.com/tags/?tag=technology) space, where gaming headlines tend to dominate the conversation around cultural moments.
+This is big news in the [Technology](https://infeeds.com/tags/technology) space, where gaming headlines tend to dominate the conversation around cultural moments.
 
 ## The Korean Reaction Is More Nuanced Than Headlines Suggest
 

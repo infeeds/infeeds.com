@@ -18,7 +18,7 @@ What if there was a better way? What if you could own your productivity tools ou
 
 The economics of subscriptions are brutal when you're trying to bootstrap. A solopreneur using Microsoft 365 spends $1,200 over ten years. A small team of five people? That's $6,000. And that's just one tool.
 
-Most entrepreneurs don't do the math until they're already locked in. You sign up, it feels cheap at first, and then suddenly you're renewing without thinking twice. Multiply that across five or six different services and you're looking at serious overhead that has absolutely nothing to do with actually growing your <a href="https://infeeds.com/tags/?tag=business">business</a>.
+Most entrepreneurs don't do the math until they're already locked in. You sign up, it feels cheap at first, and then suddenly you're renewing without thinking twice. Multiply that across five or six different services and you're looking at serious overhead that has absolutely nothing to do with actually growing your <a href="https://infeeds.com/tags/business">business</a>.
 
 The problem isn't that subscriptions are bad. It's that they're designed to be invisible. They're small enough not to hurt, but consistent enough to drain resources over time.
 
@@ -38,7 +38,7 @@ Now, the laptop itself comes as an "open box" Surface SE. That phrase freaks peo
 
 At 2.4 pounds with 16 hours of battery life, the Surface SE is built for entrepreneurs who actually move around. You can work from a coffee shop, a co-working space, or your client's office without the device feeling like a brick in your backpack. The specs aren't powerhouse-level (Intel Celeron N4120, 8GB RAM, 128GB storage), but for document editing, web browsing, video calls, and light multitasking, it handles everything you'd throw at it.
 
-If you're doing graphic design or video editing, yeah, you need something beefier. But for running most of a bootstrapped <a href="https://infeeds.com/tags/?tag=business">business</a>? This does the job.
+If you're doing graphic design or video editing, yeah, you need something beefier. But for running most of a bootstrapped <a href="https://infeeds.com/tags/business">business</a>? This does the job.
 
 ## The Math That Actually Works
 

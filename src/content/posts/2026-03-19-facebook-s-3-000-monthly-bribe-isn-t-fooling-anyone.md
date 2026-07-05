@@ -26,7 +26,7 @@ Here's the uncomfortable truth: throwing money at creators doesn't fix audience 
 
 ## The Money Doesn't Add Up
 
-For established creators with million-plus followers across <a href="https://infeeds.com/tags/?tag=technology">technology</a> platforms, $3,000 a month is frankly insulting. Most creators at that level are earning significantly more through brand deals, YouTube's revenue share, Patreon memberships, or direct sponsorships. Two hundred dollars per video doesn't even cover production costs for professional creators.
+For established creators with million-plus followers across <a href="https://infeeds.com/tags/technology">technology</a> platforms, $3,000 a month is frankly insulting. Most creators at that level are earning significantly more through brand deals, YouTube's revenue share, Patreon memberships, or direct sponsorships. Two hundred dollars per video doesn't even cover production costs for professional creators.
 
 "That doesn't even cover production costs for some creators. So it makes no sense for me," Schwarzenberger said bluntly. He's right. If you're paying editors, cameramen, and sound engineers, $200 per video leaves you underwater before you even start.
 

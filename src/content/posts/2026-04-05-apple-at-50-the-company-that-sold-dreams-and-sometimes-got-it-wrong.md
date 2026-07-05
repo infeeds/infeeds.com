@@ -8,7 +8,7 @@ tags: [news, tech]
 tags_color: '#1f78b4'
 ---
 
-Apple just turned 50, and the company that started in a San Francisco garage with two Steves and a dream has become... well, complicated. Nearly one in three people on the planet owns something with an Apple logo on it. That's staggering. But here's the thing nobody likes to admit: the company that revolutionized how we think about [technology](https://infeeds.com/tags/?tag=technology) is also increasingly just refining what it already invented instead of inventing the future.
+Apple just turned 50, and the company that started in a San Francisco garage with two Steves and a dream has become... well, complicated. Nearly one in three people on the planet owns something with an Apple logo on it. That's staggering. But here's the thing nobody likes to admit: the company that revolutionized how we think about [technology](https://infeeds.com/tags/technology) is also increasingly just refining what it already invented instead of inventing the future.
 
 According to BBC reporting, Emma Wall from Hargreaves Lansdown argues that Apple's dominance came from selling more than just products. "They sold a dream," she said. The real innovation wasn't just the hardware. It was understanding that branding mattered as much as what was inside the box. That insight, almost banal now, felt genuinely radical when Apple was building it.
 
@@ -20,7 +20,7 @@ The iPod wasn't the first portable music player. That matters because it means A
 
 The iPhone in 2007 wasn't revolutionary because nobody had made a touchscreen phone before. They had. What made it revolutionary was marketing so gorgeous it made people think of the device as an object of desire rather than a gadget. Steve Jobs held up that first model and called it "an iPod, a phone, and an internet communicator. These are not three separate devices, this is one device." It was a simple reframing that felt profound. Now, more than 200 million iPhones sell annually. According to market research firm CCS Insight, the iPhone is the "Hotel California of smartphones" once you're in, you're unlikely to leave for Android.
 
-The Apple Watch, which launched in 2015 after Jobs had already passed, showed that Cook could still swing for the fences. The company aimed to make the best watch in the world. Revenue speaks: roughly $15 billion annually. That's enough that if Apple Watch were its own [business](https://infeeds.com/tags/?tag=business), it would rank among America's top 250 to 300 companies. More tellingly, it now sells more units per year than the entire Swiss watch industry. The wearable also pioneered health tech features like ECG monitoring and fall detection, which means it's quietly become one of the drivers of how technology actually improves people's lives.
+The Apple Watch, which launched in 2015 after Jobs had already passed, showed that Cook could still swing for the fences. The company aimed to make the best watch in the world. Revenue speaks: roughly $15 billion annually. That's enough that if Apple Watch were its own [business](https://infeeds.com/tags/business), it would rank among America's top 250 to 300 companies. More tellingly, it now sells more units per year than the entire Swiss watch industry. The wearable also pioneered health tech features like ECG monitoring and fall detection, which means it's quietly become one of the drivers of how technology actually improves people's lives.
 
 ## When Apple Completely Whiffed
 

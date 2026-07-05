@@ -36,7 +36,7 @@ According to BBC reporting, the UK has seen a troubling surge in attacks targeti
 
 Yet there's also a thornier question lurking here. How much can a single platform realistically moderate when its very business model incentivizes engagement, sometimes at the expense of safety? A 24-hour review window sounds impressive until you realise that's still 24 hours during which harmful content remains live, potentially spreading and radicalising.
 
-The <a href="https://infeeds.com/tags/?tag=technology">Technology</a> industry's relationship with regulation remains contentious. Platforms often treat compliance as a box to tick rather than a genuine commitment to change. Whether X will be different remains to be seen.
+The <a href="https://infeeds.com/tags/technology">Technology</a> industry's relationship with regulation remains contentious. Platforms often treat compliance as a box to tick rather than a genuine commitment to change. Whether X will be different remains to be seen.
 
 ## What We're Watching
 

@@ -21,7 +21,7 @@ The technology behind this performance isn't magic, but it feels close. Japanese
 
 What happened in Amsterdam is part of something bigger. Scientists and technologists are increasingly exploring how to restore agency and identity to people whose bodies are betraying them. It's not just performance art. It's a fundamental question about what we lose when disease takes our bodies and how we might reclaim pieces of ourselves through technology.
 
-Neuralink made headlines when Noland Arbaugh, the first human to receive one of Elon Musk's brain chip implants, told the BBC it allowed him to play video games again. Meanwhile, Yvonne Johnson, a 58-year-old living with MND, recently said that AI voice tools helped her regain part of her identity. These aren't isolated experiments. They're markers of a shift in how we think about disability and <a href="https://infeeds.com/tags/?tag=technology">technology</a>.
+Neuralink made headlines when Noland Arbaugh, the first human to receive one of Elon Musk's brain chip implants, told the BBC it allowed him to play video games again. Meanwhile, Yvonne Johnson, a 58-year-old living with MND, recently said that AI voice tools helped her regain part of her identity. These aren't isolated experiments. They're markers of a shift in how we think about disability and <a href="https://infeeds.com/tags/technology">technology</a>.
 
 Olson acknowledges the learning curve. The technology demands intense focus. "You have to isolate your muscles and the noise around you and really focus inward," she said in her BBC interview. It's demanding work. But the payoff, for her, was worth it: a sense of freedom and expression that ALS had stolen.
 

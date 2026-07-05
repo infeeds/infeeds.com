@@ -31,7 +31,7 @@ The research team zeroed in on two cellular processes that seem to go haywire ea
 
 The other process is the cellular stress response. Think of it as your cells switching into emergency mode, redirecting energy away from normal operations toward survival and defense mechanisms.
 
-Using machine learning and advanced analytical methods (classic [Technology](https://infeeds.com/tags/?tag=technology) at work here), the team found a distinct pattern of gene activity. This pattern only appeared in people during the early phase of Parkinson's disease. It wasn't present in healthy people, and here's where it gets really interesting: it also wasn't there in patients who had already developed motor symptoms.
+Using machine learning and advanced analytical methods (classic [Technology](https://infeeds.com/tags/technology) at work here), the team found a distinct pattern of gene activity. This pattern only appeared in people during the early phase of Parkinson's disease. It wasn't present in healthy people, and here's where it gets really interesting: it also wasn't there in patients who had already developed motor symptoms.
 
 ## The Window That Could Change Everything
 
@@ -41,7 +41,7 @@ Scientists have tried brain imaging and spinal fluid analysis before, searching 
 
 But a blood test? That's a different story entirely.
 
-Blood tests are cheap, accessible, and nobody really minds getting their blood drawn at an annual checkup. The researchers believe that within five years, these early detection blood tests could start being tested in actual healthcare settings. Not approved necessarily, but tested. That's fast for [science](https://infeeds.com/tags/?tag=science) and medical research.
+Blood tests are cheap, accessible, and nobody really minds getting their blood drawn at an annual checkup. The researchers believe that within five years, these early detection blood tests could start being tested in actual healthcare settings. Not approved necessarily, but tested. That's fast for [science](https://infeeds.com/tags/science) and medical research.
 
 ## Beyond Just Finding It Early
 

@@ -40,7 +40,7 @@ Here's where things get complicated though. Canada announced these investments, 
 
 Innospace found this out recently. Their first Hanbit-Nano rocket failed after 33 seconds due to a combustion chamber rupture caused by insufficient compression during reassembly. It's a fixable problem, but it's also exactly the kind of setback that tests whether companies and their backers stay committed or bail.
 
-For <a href="https://infeeds.com/tags/?tag=business">business</a> purposes, this matters enormously. Failed test flights are expensive and demoralizing. Innospace is planning to return to the pad in Q3 of this year, but that requires confidence from their Korean government backers. Not every nation has the appetite for that kind of risk tolerance.
+For <a href="https://infeeds.com/tags/business">business</a> purposes, this matters enormously. Failed test flights are expensive and demoralizing. Innospace is planning to return to the pad in Q3 of this year, but that requires confidence from their Korean government backers. Not every nation has the appetite for that kind of risk tolerance.
 
 ## What About the Established Players?
 

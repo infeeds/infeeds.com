@@ -22,7 +22,7 @@ Traditional Medicare operates on a simple, dumb principle: it reimburses clinici
 
 ACCESS, which stands for Advancing Chronic Care with Effective, Scalable Solutions, changes that. It's a 10-year program covering diabetes, hypertension, chronic kidney disease, obesity, depression, and anxiety. Organizations that participate get predictable monthly payments for managing qualifying conditions, but they only earn the full amount when patients actually hit measurable health goals.
 
-That's not revolutionary in tech or [business](https://infeeds.com/tags/?tag=business) generally. Outcome-based payment is standard. But in healthcare, a world where regulations have historically strangled innovation, it's transformative. "It's a payment model transformation," Batlivala said. "You just couldn't do this before."
+That's not revolutionary in tech or [business](https://infeeds.com/tags/business) generally. Outcome-based payment is standard. But in healthcare, a world where regulations have historically strangled innovation, it's transformative. "It's a payment model transformation," Batlivala said. "You just couldn't do this before."
 
 The first cohort of 150 participants spans the usual suspects: AI doctor startups, virtual nutrition therapy providers, connected device companies, even wearable makers like Whoop. But Batlivala, characteristically, isn't impressed across the board. "I'm a big fan of wearables, but for a senior who's struggling with food insecurity, I don't know how much Whoop is going to be able to do," he said.
 
@@ -56,4 +56,4 @@ That's either visionary or a warning sign, depending on your perspective. Maybe 
 
 Pair Team says it has partnerships giving it access to roughly 500,000 potential patients. It wants to reach a million within three years. Healthcare investors have been watching closely. Digital health funding hit its highest Q1 total since the pandemic this year, with AI companies capturing the bulk of it.
 
-But ACCESS itself has barely registered outside health tech trade press. Most of Silicon Valley still doesn't know it exists. That might change fast, or it might not. Sometimes the most important [technology](https://infeeds.com/tags/?tag=technology) innovations happen quietly, in the places nobody's looking.
+But ACCESS itself has barely registered outside health tech trade press. Most of Silicon Valley still doesn't know it exists. That might change fast, or it might not. Sometimes the most important [technology](https://infeeds.com/tags/technology) innovations happen quietly, in the places nobody's looking.

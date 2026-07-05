@@ -62,7 +62,7 @@ The J.P. Morgan Healthcare Conferences have recently featured longevity and prev
 
 ## What This Means for Builders
 
-For founders and VCs working in <a href="https://infeeds.com/tags/?tag=business">business</a> models tied to health, longevity, wellness, or consumer technology, this represents a rare convergence of scale, impact, and capital availability.
+For founders and VCs working in <a href="https://infeeds.com/tags/business">business</a> models tied to health, longevity, wellness, or consumer technology, this represents a rare convergence of scale, impact, and capital availability.
 
 The opportunity isn't just about extending life anymore. It's about redefining how those added years are lived. That's a fundamentally different challenge than what the traditional healthcare or wellness industries have tackled. It requires thinking about quality, functionality, and sustained performance over decades, not just treating disease.
 

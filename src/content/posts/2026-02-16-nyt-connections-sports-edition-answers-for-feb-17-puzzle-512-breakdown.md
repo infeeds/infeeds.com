@@ -12,7 +12,7 @@ tags_color: '#2196f3'
 
 The New York Times keeps expanding its puzzle empire, and honestly, Connections: Sports Edition is one of the better additions. Unlike the regular Connections that sometimes feels like it's pulling categories out of thin air, the sports version has a rhythm to it. Today's puzzle 512 for February 17 is a solid example of what makes this game tick.
 
-If you're here, you're probably stuck or just want to check your work before committing. No judgment either way. The puzzle lives on The Athletic's platform, not the main NYT Games app, which still feels like an odd decision for something owned by The Times. But that's [technology](https://infeeds.com/tags/?tag=technology) companies for you, keeping things siloed when they don't need to be.
+If you're here, you're probably stuck or just want to check your work before committing. No judgment either way. The puzzle lives on The Athletic's platform, not the main NYT Games app, which still feels like an odd decision for something owned by The Times. But that's [technology](https://infeeds.com/tags/technology) companies for you, keeping things siloed when they don't need to be.
 
 ## The Easy Entry Point
 
@@ -22,7 +22,7 @@ The thing about this category is that it requires just enough general sports kno
 
 ## When Geography Meets Sports
 
-Green takes us to DC schools: American, George Washington, Georgetown, and Howard. This is where Connections: Sports Edition separates itself from regular word [games](https://infeeds.com/tags/?tag=news). You need to know these aren't just universities, they're Division I athletic programs with real weight in college sports.
+Green takes us to DC schools: American, George Washington, Georgetown, and Howard. This is where Connections: Sports Edition separates itself from regular word [games](https://infeeds.com/tags/news). You need to know these aren't just universities, they're Division I athletic programs with real weight in college sports.
 
 Georgetown especially carries name recognition thanks to their basketball program. The Hoyas have been a March Madness staple for decades. Howard's been making noise recently too, particularly after their upset over Harvard that broke the internet a few years back.
 

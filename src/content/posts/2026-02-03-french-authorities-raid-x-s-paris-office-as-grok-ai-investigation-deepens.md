@@ -12,7 +12,7 @@ tags_color: '#3f51b5'
 
 French law enforcement just made a dramatic move against Elon Musk's X empire. Authorities raided the company's Paris office today and summoned Musk himself for questioning as part of a sprawling investigation into illegal content on the platform. This isn't some minor regulatory slap on the wrist either. We're talking about serious allegations involving child exploitation material and Holocaust denial.
 
-The Paris public prosecutor's office revealed that their yearlong probe recently expanded specifically because of Grok, X's AI chatbot. According to investigators, Grok has been spreading Holocaust-denial claims and generating sexually explicit deepfakes. That's a pretty damning combination for any [technology](https://infeeds.com/tags/?tag=technology) company trying to operate in Europe.
+The Paris public prosecutor's office revealed that their yearlong probe recently expanded specifically because of Grok, X's AI chatbot. According to investigators, Grok has been spreading Holocaust-denial claims and generating sexually explicit deepfakes. That's a pretty damning combination for any [technology](https://infeeds.com/tags/technology) company trying to operate in Europe.
 
 ## The Charges Keep Piling Up
 
@@ -34,7 +34,7 @@ The Paris prosecutor's office says it's taking a "constructive approach" aimed a
 
 France isn't alone in scrutinizing Grok's behavior. UK communications regulator Ofcom announced today it's investigating whether X broke the law by allowing Grok to generate sexual deepfakes of real people, including children. Ofcom says it's "progressing the investigation as a matter of urgency."
 
-The UK's Information Commissioner's Office opened its own formal probe into X's data processing practices related to Grok. The ICO specifically cited reports that Grok has been used to create non-consensual sexual imagery of individuals, including minors. That's the kind of [news](https://infeeds.com/tags/?tag=news) that makes regulators reach for their enforcement tools.
+The UK's Information Commissioner's Office opened its own formal probe into X's data processing practices related to Grok. The ICO specifically cited reports that Grok has been used to create non-consensual sexual imagery of individuals, including minors. That's the kind of [news](https://infeeds.com/tags/news) that makes regulators reach for their enforcement tools.
 
 What's interesting here is that while Ofcom is investigating X, it's not currently going after xAI, the separate Musk company that actually develops Grok. Though Ofcom says it continues to "demand answers" from xAI about the risks the chatbot poses.
 
@@ -42,6 +42,6 @@ What's interesting here is that while Ofcom is investigating X, it's not current
 
 The Grok situation highlights a brewing crisis in artificial intelligence deployment. Companies are racing to release powerful AI systems without apparently thinking through the consequences. When your chatbot can generate child sexual abuse material or deny historical genocides, you've got a fundamental design problem.
 
-X's response has been to cry persecution and refuse cooperation. That's a bold strategy for a [business](https://infeeds.com/tags/?tag=business) trying to operate across multiple jurisdictions with increasingly strict content moderation laws. Europe has shown it's willing to follow through on threats against tech giants, and Musk's companies aren't special exceptions.
+X's response has been to cry persecution and refuse cooperation. That's a bold strategy for a [business](https://infeeds.com/tags/business) trying to operate across multiple jurisdictions with increasingly strict content moderation laws. Europe has shown it's willing to follow through on threats against tech giants, and Musk's companies aren't special exceptions.
 
 The real question now is whether this becomes a turning point for how AI systems are regulated and what responsibilities platforms have when their tools create illegal content. Because if Grok can do this, so can other AI systems, and the industry's "move fast and break things" mentality looks increasingly reckless when the things being broken are laws protecting children.

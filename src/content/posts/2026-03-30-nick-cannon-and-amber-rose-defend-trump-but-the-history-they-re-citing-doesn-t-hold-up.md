@@ -24,7 +24,7 @@ The historical sleight of hand here is real, and it's worth naming.
 
 Where Rose and Cannon's argument becomes more contemporary is when they move away from history and talk about Trump directly. Rose said she felt Trump and his supporters "don't care if you're Black, white, gay or straight. It's all love." She pointed to Trump's appointment of Alice Johnson, a Black woman, as pardon czar, as evidence that Trump isn't racist.
 
-Anecdotal experience and symbolic appointments are legitimate things people can point to. But they're also incomplete measures of a person's or party's actual [politics](https://infeeds.com/tags/?tag=politics). One pardon or one appointment doesn't settle the broader question of how policies actually affect different communities. That's not cynicism. That's just how complex political analysis works.
+Anecdotal experience and symbolic appointments are legitimate things people can point to. But they're also incomplete measures of a person's or party's actual [politics](https://infeeds.com/tags/politics). One pardon or one appointment doesn't settle the broader question of how policies actually affect different communities. That's not cynicism. That's just how complex political analysis works.
 
 ## The Shift That Deserves Attention
 

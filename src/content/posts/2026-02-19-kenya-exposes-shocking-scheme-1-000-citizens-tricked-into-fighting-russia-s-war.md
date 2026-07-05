@@ -22,13 +22,13 @@ What makes this whole situation even more disturbing is how systematic it was. T
 
 The Russian Embassy in Nairobi has predictably denied everything. In a statement released Thursday, they claimed they never issued visas to anyone intending to fight in Ukraine. But here's where their denial gets interesting. They added that Russia "does not preclude citizens of foreign countries from voluntarily enlisting in the armed forces." That's quite the carefully worded statement, isn't it?
 
-Returnees have shared harrowing stories of signing contracts written entirely in Russian, a language most didn't understand. They were then given minimal or zero military training before being thrust into active combat zones. This isn't voluntary enlistment. This is exploitation dressed up in [business](https://infeeds.com/tags/?tag=business) suits and false promises.
+Returnees have shared harrowing stories of signing contracts written entirely in Russian, a language most didn't understand. They were then given minimal or zero military training before being thrust into active combat zones. This isn't voluntary enlistment. This is exploitation dressed up in [business](https://infeeds.com/tags/business) suits and false promises.
 
 ## Families Left in Limbo
 
 For weeks now, desperate families across Kenya have been pleading with their government to bring their loved ones home. Some are stranded in Russia, others are reportedly being held as prisoners of war in Ukraine. The emotional toll on these families is immeasurable as they navigate a bureaucratic nightmare spanning three countries.
 
-Kenya's foreign ministry acknowledged the problem earlier but only issued vague warnings urging citizens to be careful. That's not exactly the forceful response you'd expect when your citizens are being used as cannon fodder in someone else's [war](https://infeeds.com/tags/?tag=news).
+Kenya's foreign ministry acknowledged the problem earlier but only issued vague warnings urging citizens to be careful. That's not exactly the forceful response you'd expect when your citizens are being used as cannon fodder in someone else's [war](https://infeeds.com/tags/news).
 
 Two recruiters were arrested last year, though they've been released on bail and are awaiting trial. Ichung'wah has gone further, warning that any Kenyan embassy officials in Moscow found complicit in this scheme will be held accountable. But accountability after the fact does little for the families who've already lost loved ones.
 

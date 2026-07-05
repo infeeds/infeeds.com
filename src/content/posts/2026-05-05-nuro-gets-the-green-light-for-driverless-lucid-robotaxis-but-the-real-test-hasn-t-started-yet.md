@@ -30,7 +30,7 @@ For now, Nuro and Uber are still operating with a safety driver in the seat. Las
 
 ## Uber is Betting Bigger
 
-The interesting angle here is how much Uber has escalated its commitment to this particular vision. When the [Technology](https://infeeds.com/tags/?tag=technology) partnership was announced back in July 2025, Uber said it would invest $300 million in Lucid and purchase 20,000 robotaxi-ready Gravity vehicles.
+The interesting angle here is how much Uber has escalated its commitment to this particular vision. When the [Technology](https://infeeds.com/tags/technology) partnership was announced back in July 2025, Uber said it would invest $300 million in Lucid and purchase 20,000 robotaxi-ready Gravity vehicles.
 
 That commitment has since nearly doubled. Uber is now investing $500 million and committing to a minimum of 35,000 robotaxis. The deal structure changed too. Instead of just Gravity SUVs, the order now includes at least 10,000 Gravity vehicles and 25,000 EVs built on Lucid's upcoming mid-size platform, all equipped with Nuro's autonomous system.
 
@@ -48,6 +48,6 @@ There's a caveat worth highlighting though: those operations might not be fully 
 
 That's probably wise. The autonomous vehicle industry has a long history of overpromising on timelines.
 
-What we're watching right now is whether this particular constellation of [Business](https://infeeds.com/tags/?tag=business) partnerships and regulatory approvals can actually move in concert. Nuro has the tech. Lucid has the vehicles. Uber has the money and the user base. Nvidia has the silicon. California has the frameworks for approval.
+What we're watching right now is whether this particular constellation of [Business](https://infeeds.com/tags/business) partnerships and regulatory approvals can actually move in concert. Nuro has the tech. Lucid has the vehicles. Uber has the money and the user base. Nvidia has the silicon. California has the frameworks for approval.
 
 The question is whether they can all dance together long enough to actually get driverless robotaxis on the road at scale, or whether this becomes another example of how hard it is to turn autonomous vehicle promises into actual operations.

@@ -16,7 +16,7 @@ The lawsuit paints a pretty damning picture. According to Los Angeles County cou
 
 ## Age Verification Isn't Enough
 
-Roblox did introduce age-verification software for certain features, which sounds good on paper. But LA County argues it's basically window dressing. The real issue, according to the lawsuit, is how the platform itself is structured. The way <a href="https://infeeds.com/tags/?tag=technology">technology</a> is designed on Roblox, combined with its monetization practices and safety architecture, allegedly creates an environment where minors are vulnerable.
+Roblox did introduce age-verification software for certain features, which sounds good on paper. But LA County argues it's basically window dressing. The real issue, according to the lawsuit, is how the platform itself is structured. The way <a href="https://infeeds.com/tags/technology">technology</a> is designed on Roblox, combined with its monetization practices and safety architecture, allegedly creates an environment where minors are vulnerable.
 
 What gets me is that Roblox has been marketing itself as a safe platform for younger players. The lawsuit calls this "false, misleading and unlawful." So you've got a company that's promoting itself as kid-friendly while simultaneously not doing enough to actually make it kid-friendly. That's the deceptive part.
 
@@ -24,7 +24,7 @@ The company's response? They're disputing the allegations and saying they'll def
 
 ## The Bigger Picture
 
-This isn't happening in a vacuum. Roblox joins a growing list of <a href="https://infeeds.com/tags/?tag=business">business</a> platforms facing heat over how they handle young users. Meta is currently on trial in Los Angeles over social media addiction. TikTok faces similar scrutiny. Even countries like Australia have taken the nuclear option, banning social media for children entirely, though notably Roblox didn't make that particular ban.
+This isn't happening in a vacuum. Roblox joins a growing list of <a href="https://infeeds.com/tags/business">business</a> platforms facing heat over how they handle young users. Meta is currently on trial in Los Angeles over social media addiction. TikTok faces similar scrutiny. Even countries like Australia have taken the nuclear option, banning social media for children entirely, though notably Roblox didn't make that particular ban.
 
 Discord and YouTube have followed Roblox's lead in introducing age-verification tools, which suggests the industry is slowly acknowledging the problem exists. But slower acknowledgment and actual systemic change are two very different things.
 

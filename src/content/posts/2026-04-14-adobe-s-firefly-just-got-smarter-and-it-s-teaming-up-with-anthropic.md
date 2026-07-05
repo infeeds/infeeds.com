@@ -26,7 +26,7 @@ Anthropic declined to comment, so we don't have their full thinking on this part
 
 The connector that brings Firefly to Claude will roll out in the coming weeks, though Adobe hasn't pinned down an exact date yet. The Firefly assistant itself is launching as a public beta later this month, so early adopters will get their hands on it soon.
 
-Beyond the Anthropic integration, Adobe is pushing other [technology](/tags/?tag=technology) updates. Firefly's video editor is getting better audio processing, advanced coloring options, and tighter integration with Adobe Stock. The image editing suite is getting upgrades too. Adobe is also adding new Kling models, versions 3.0 and 3.0 Omni, to the 30-plus outside AI models creators can already access through Firefly.
+Beyond the Anthropic integration, Adobe is pushing other [technology](/tags/technology) updates. Firefly's video editor is getting better audio processing, advanced coloring options, and tighter integration with Adobe Stock. The image editing suite is getting upgrades too. Adobe is also adding new Kling models, versions 3.0 and 3.0 Omni, to the 30-plus outside AI models creators can already access through Firefly.
 
 It's the kind of incremental but steady product cadence that keeps customers engaged. Nothing revolutionary in any single update, but the cumulative effect is a platform that's getting harder to leave once you're invested in it.
 

@@ -32,7 +32,7 @@ OpenAI's official response was measured. "There is no place in our democracy for
 
 Acting Attorney General Todd Blanche put it plainly: "Violence cannot be the norm for expressing disagreement, be it with politics or a technology or any other matter."
 
-## Why This Matters for [Technology](https://infeeds.com/tags/?tag=technology) Discourse
+## Why This Matters for [Technology](https://infeeds.com/tags/technology) Discourse
 
 The AI debate has become increasingly polarized. On one side, you have evangelists convinced artificial intelligence will solve humanity's greatest challenges. On the other, you have critics ranging from thoughtful ethicists to doomsayers convinced we're building our own obsolescence or worse. Most people fall somewhere in between, skeptical but engaged.
 
@@ -46,6 +46,6 @@ Moreno-Gama faces state charges for attempted murder along with federal felony c
 
 San Francisco District Attorney Brooke Jenkins said at a Monday press conference that she was "grateful that Mr Altman, his family, and his employees were uninjured."
 
-The legal case seems straightforward. The broader question is harder to answer: how do you preserve legitimate criticism of powerful [technology](https://infeeds.com/tags/?tag=technology) leaders and companies while stamping out the rhetoric that can inspire violence?
+The legal case seems straightforward. The broader question is harder to answer: how do you preserve legitimate criticism of powerful [technology](https://infeeds.com/tags/technology) leaders and companies while stamping out the rhetoric that can inspire violence?
 
 There's no perfect answer. But there's a clear line between saying "I think this company's approach to AI is reckless" and providing the ideological justification for someone to show up with kerosene and incendiary devices. One is democracy. The other is terrorism dressed in the language of principle.

@@ -48,6 +48,6 @@ Standard vacuums lack sealed HEPA filtration, which means they release fine part
 
 The financial calculation is interesting too. Investing in a quality HEPA vacuum might seem expensive initially, but consider how much you're already spending on air purifiers, HVAC filters, and allergy medications while using an ineffective vacuum. It's like taking an antibiotic while also eating contaminated food and expecting results.
 
-The upgrade to a [health-focused approach](https://infeeds.com/tags/?tag=health) to home cleaning changes the game for people with sensitivities. It's not just about allergies either. Anyone living with asthma, respiratory sensitivity, or smoke exposure benefits from proper HEPA filtration systems.
+The upgrade to a [health-focused approach](https://infeeds.com/tags/health) to home cleaning changes the game for people with sensitivities. It's not just about allergies either. Anyone living with asthma, respiratory sensitivity, or smoke exposure benefits from proper HEPA filtration systems.
 
 The question isn't really whether you can afford a good HEPA vacuum. It's whether you can afford not to have one when you're already managing allergies and air quality in your home.

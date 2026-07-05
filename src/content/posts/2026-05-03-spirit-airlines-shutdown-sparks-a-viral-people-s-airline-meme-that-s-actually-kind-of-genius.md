@@ -20,7 +20,7 @@ Here's the thing about internet-scale crowdfunding movements: they work because 
 
 The pledges aren't binding. The money isn't real in any legal sense. Starting an actual airline costs billions. Peterson knows all of this. He even posted another video recruiting aviation lawyers and PR people with a simple one-word request: "Help?"
 
-It's the kind of moment that reveals something about both internet culture and our relationship with [business](https://infeeds.com/tags/?tag=business). We're cynical enough to recognize hype but hopeful enough to signal-boost ideas anyway. We want to believe that collective action can bypass the usual gatekeepers, even when the rational part of our brains understands it probably won't.
+It's the kind of moment that reveals something about both internet culture and our relationship with [business](https://infeeds.com/tags/business). We're cynical enough to recognize hype but hopeful enough to signal-boost ideas anyway. We want to believe that collective action can bypass the usual gatekeepers, even when the rational part of our brains understands it probably won't.
 
 ## The Real Problem Spirit Solved
 
@@ -28,6 +28,6 @@ What makes Peterson's joke land is that Spirit had a genuine market function. It
 
 The vacuum Spirit left behind wasn't just about empty seat capacity. It was about access. And that mattered enough to 36,000 people that they showed up to a crashed website and committed to a bit that probably won't go anywhere.
 
-Whether this morphs into something with actual staying power or dissolves back into the internet remains unclear. But the fact that it got this far says something interesting about where we are with [technology](https://infeeds.com/tags/?tag=technology), community organizing, and what happens when someone is willing to ask the question everyone's thinking: what if we just did it ourselves?
+Whether this morphs into something with actual staying power or dissolves back into the internet remains unclear. But the fact that it got this far says something interesting about where we are with [technology](https://infeeds.com/tags/technology), community organizing, and what happens when someone is willing to ask the question everyone's thinking: what if we just did it ourselves?
 
 The real question isn't whether Spirit 2.0 becomes a functional airline. It's whether movements like this reveal cracks in how we allocate resources that might get harder to ignore when they go viral.

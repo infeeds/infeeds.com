@@ -28,7 +28,7 @@ The total death toll from the three-day offensive reached at least 6,000, but th
 
 What makes el-Fasher particularly horrific is how targeted it all was. The RSF and their allied Arab militias, the Janjaweed, went after specific ethnic groups. Women and girls from the African Zaghawa non-Arab tribes were systematically raped and gang-raped, accused of supporting the Sudanese military.
 
-Sexual violence wasn't just something that happened in the chaos. It was a weapon of [war](https://infeeds.com/tags/?tag=world). UN High Commissioner Volker Türk, who visited Sudan last month, said survivors' testimonies showed how rape "was systematically used as a weapon of war."
+Sexual violence wasn't just something that happened in the chaos. It was a weapon of [war](https://infeeds.com/tags/world). UN High Commissioner Volker Türk, who visited Sudan last month, said survivors' testimonies showed how rape "was systematically used as a weapon of war."
 
 People trying to escape were abducted and held for ransom. The report documents at least 10 detention facilities run by the RSF in el-Fasher alone. Thousands remain missing and unaccounted for.
 
@@ -38,7 +38,7 @@ This pattern isn't new for the RSF. They did the same thing at the Zamzam camp f
 
 Sudan's conflict started when a power struggle between the RSF's Gen. Mohammed Hamdan Dagalo and the Sudanese military exploded into open fighting across the capital Khartoum and beyond. That was April 2023. We're now approaching year three, and most people couldn't tell you it's happening.
 
-The war has created what the UN calls the world's largest [humanitarian](https://infeeds.com/tags/?tag=humanitarian) crisis. Parts of the country have been pushed into famine. The International Criminal Court is investigating war crimes and crimes against humanity. The Biden administration accused the RSF of genocide.
+The war has created what the UN calls the world's largest [humanitarian](https://infeeds.com/tags/humanitarian) crisis. Parts of the country have been pushed into famine. The International Criminal Court is investigating war crimes and crimes against humanity. The Biden administration accused the RSF of genocide.
 
 And yet el-Fasher barely made headlines when it fell.
 
@@ -50,6 +50,6 @@ The UN says there are "reasonable grounds" to believe the RSF and their allied m
 
 He's right, but that accountability seems about as likely as international attention on Sudan improving. The pattern is depressingly familiar: atrocities happen, reports get written, officials make statements, and nothing changes on the ground.
 
-The RSF has been operating with effective impunity throughout this war. They've besieged cities, starved populations, targeted ethnic groups, weaponized sexual violence, and turned hospitals into detention centers. The [international](https://infeeds.com/tags/?tag=world) response has been statements and reports.
+The RSF has been operating with effective impunity throughout this war. They've besieged cities, starved populations, targeted ethnic groups, weaponized sexual violence, and turned hospitals into detention centers. The [international](https://infeeds.com/tags/world) response has been statements and reports.
 
 Meanwhile, thousands more remain detained in el-Fasher. Thousands more are missing. And the RSF continues to control the city where over 6,000 people were killed in three days while the world looked away, if it looked at all.

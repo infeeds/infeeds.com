@@ -24,7 +24,7 @@ The Israeli Defense Forces responded with their standard talking points about ta
 
 What's particularly striking about this story is what happened in its aftermath. Hassan pulled a yellow Hezbollah scarf from his pocket and wrapped it around his neck. "Even if we were not militarily affiliated before," he declared, "from today, we are the soldiers of Hezbollah and proud of it."
 
-This is the real cost of these operations, the part that [military strategists](https://infeeds.com/tags/?tag=military) don't always account for in their assessments. You don't radicalize people by convincing them with better arguments. You radicalize them by destroying their homes and killing their families.
+This is the real cost of these operations, the part that [military strategists](https://infeeds.com/tags/military) don't always account for in their assessments. You don't radicalize people by convincing them with better arguments. You radicalize them by destroying their homes and killing their families.
 
 A Syrian refugee woman living nearby captured another dimension of this tragedy. She relied on the family's shop for credit, hoping to repay them after the conflict ended. Now the shop is rubble. The family is dead. Her small economic lifeline, fragile as it was, has vanished.
 

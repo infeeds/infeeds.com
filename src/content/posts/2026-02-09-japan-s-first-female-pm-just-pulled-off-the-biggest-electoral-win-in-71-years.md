@@ -22,7 +22,7 @@ A two-thirds majority isn't just impressive on paper. It's the magic number that
 
 Japan's pacifist constitution has been the LDP's white whale since day one. The party has wanted to revise it for seven decades, and now Takaichi has the parliamentary muscle to actually make it happen. She's already said she'll push for a referendum on the issue, which would be absolutely massive for a country that's maintained its post-war identity around non-militarism.
 
-The markets reacted immediately. Japan's Nikkei hit record highs, bond yields climbed, and the Yen took a rollercoaster ride. Investors clearly think something significant is about to shift in Japanese [politics](https://infeeds.com/tags/?tag=politics) and [business](https://infeeds.com/tags/?tag=business) policy.
+The markets reacted immediately. Japan's Nikkei hit record highs, bond yields climbed, and the Yen took a rollercoaster ride. Investors clearly think something significant is about to shift in Japanese [politics](https://infeeds.com/tags/politics) and [business](https://infeeds.com/tags/business) policy.
 
 ## What She's Actually Planning To Do
 

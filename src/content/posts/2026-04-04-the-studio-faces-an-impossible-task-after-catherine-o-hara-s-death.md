@@ -24,7 +24,7 @@ That last sentence carries weight. They're not pretending everything is fine. Th
 
 Season 2 began shooting in January and has continued its momentum since, with production continuing through events like the Venice Film Festival. According to Variety, O'Hara didn't film any scenes before her death, which means the entire season needed reworking mid-production. That's not a luxury rewrite. That's a rebuild under pressure.
 
-The slate of guest stars speaks to the ambition of what they're trying to accomplish: Madonna, Julia Garner, Michael Keaton, and Donald Glover are among those set to appear as themselves. There's even buzz that the season will touch on the long-gestating Madonna biopic that would have starred Garner. These are the kinds of [entertainment](https://infeeds.com/tags/?tag=entertainment) industry moments that "The Studio" was built to capture.
+The slate of guest stars speaks to the ambition of what they're trying to accomplish: Madonna, Julia Garner, Michael Keaton, and Donald Glover are among those set to appear as themselves. There's even buzz that the season will touch on the long-gestating Madonna biopic that would have starred Garner. These are the kinds of [entertainment](https://infeeds.com/tags/entertainment) industry moments that "The Studio" was built to capture.
 
 But those moments will now unfold in a show that's fundamentally different from what was originally envisioned.
 

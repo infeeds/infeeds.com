@@ -20,7 +20,7 @@ Landing Boo Radley in To Kill a Mockingbird as your film debut is either incredi
 
 The collaboration with Horton Foote continued throughout his career, and it's telling that a playwright of Foote's caliber kept coming back to Duvall. Tomorrow is virtually unknown today, but it showcases Duvall doing what he did best: disappearing completely into someone else's skin. This New York actor became a Mississippi sharecropper so convincingly that you forget you're watching a performance at all.
 
-His work in M*A*S*H as Frank Burns showed another side. He could be funny, pathetic, and infuriating all at once. Robert Altman's chaotic filming style meant actors had to stay present and real, and Duvall thrived in that [environment](https://infeeds.com/tags/?tag=entertainment).
+His work in M*A*S*H as Frank Burns showed another side. He could be funny, pathetic, and infuriating all at once. Robert Altman's chaotic filming style meant actors had to stay present and real, and Duvall thrived in that [environment](https://infeeds.com/tags/entertainment).
 
 ## Playing Men at Their Breaking Points
 
@@ -40,7 +40,7 @@ Colors paired him with Sean Penn and let him play the weathered cop who's seen i
 
 ## The Apostle Shows What He Could Do Unleashed
 
-When Duvall wrote, directed, financed, and starred in The Apostle, he proved he understood American spirituality better than most filmmakers ever will. Pentecostal preachers aren't common subjects in [Hollywood](https://infeeds.com/tags/?tag=news), probably because coastal writers don't know what to do with genuine faith.
+When Duvall wrote, directed, financed, and starred in The Apostle, he proved he understood American spirituality better than most filmmakers ever will. Pentecostal preachers aren't common subjects in [Hollywood](https://infeeds.com/tags/news), probably because coastal writers don't know what to do with genuine faith.
 
 But Duvall grew up around this stuff. He knew the rhythms, the cadences, the way a good preacher can make you believe anything for those few minutes they've got you. The Apostle E.F. is a murderer and a saint, sometimes in the same scene. He's running from the law and trying to save souls. Only Duvall could have pulled off that contradiction.
 

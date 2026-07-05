@@ -16,7 +16,7 @@ Let that sink in for a moment. A document designed to help judges understand sci
 
 ## When Facts Become "Contested"
 
-The Federal Judicial Center exists to educate judges on complex topics that show up in courtrooms. Their "Reference Manual on Scientific Evidence" covers everything from DNA identification to statistical analysis. It's meant to be a trusted resource when [Technology](https://infeeds.com/tags/?tag=technology) and science intersect with the legal system.
+The Federal Judicial Center exists to educate judges on complex topics that show up in courtrooms. Their "Reference Manual on Scientific Evidence" covers everything from DNA identification to statistical analysis. It's meant to be a trusted resource when [Technology](https://infeeds.com/tags/technology) and science intersect with the legal system.
 
 The fourth edition, released in December, included a chapter on climate science written by Columbia University experts. It stated things like human activities have "unequivocally warmed the climate" and that researchers are "virtually certain" about ocean acidification. You know, the scientific consensus that's been established through decades of research.
 
@@ -34,10 +34,10 @@ And the Federal Judicial Center folded. The chapter is gone. Justice Elena Kagan
 
 This isn't just about one reference manual. It's about whether scientific consensus matters when it becomes politically inconvenient. The manual still treats other scientific facts as facts without controversy. Nobody's demanding they remove chapters on DNA evidence or chemical exposures as "contested."
 
-The attorneys general's argument essentially says that ignorance-based lawsuits should determine what judges learn about [science](https://infeeds.com/tags/?tag=science). If someone files a suit based on rejecting established science, then educational materials for judges must pretend that science is uncertain.
+The attorneys general's argument essentially says that ignorance-based lawsuits should determine what judges learn about [science](https://infeeds.com/tags/science). If someone files a suit based on rejecting established science, then educational materials for judges must pretend that science is uncertain.
 
 This creates a perverse incentive. Want to muddy the waters on any scientific topic? Just file enough lawsuits challenging it, and suddenly educational institutions have to treat your willful ignorance as a legitimate viewpoint worthy of equal consideration.
 
-The Federal Judicial Center could have stood behind the work it commissioned from experts and the National Academies of Science. Instead, they chose the path of least political resistance, leaving judges without crucial reference material on one of the most significant [issues](https://infeeds.com/tags/?tag=news) likely to appear in courtrooms for decades to come.
+The Federal Judicial Center could have stood behind the work it commissioned from experts and the National Academies of Science. Instead, they chose the path of least political resistance, leaving judges without crucial reference material on one of the most significant [issues](https://infeeds.com/tags/news) likely to appear in courtrooms for decades to come.
 
 Now when climate cases reach the courts, judges will have to navigate complex scientific questions without the very resource that was created to help them understand the evidence. All because someone decided that treating facts as facts was somehow taking sides.

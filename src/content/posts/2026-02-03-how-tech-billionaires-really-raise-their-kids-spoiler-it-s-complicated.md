@@ -20,7 +20,7 @@ Sam Altman, the guy literally running OpenAI, has been refreshingly honest about
 
 But Altman draws a line. He doesn't want his kid forming a best-friend relationship with AI. Fair enough. Though it's worth noting that this concern is coming from the person whose company is actively working to make AI more engaging and personable.
 
-He also dropped nearly two grand on a smart crib that bounces babies before they even start fussing. The most human part of his parenting advice? Stock up on burp rags. Even [technology](https://infeeds.com/tags/?tag=technology) billionaires can't escape baby spit-up.
+He also dropped nearly two grand on a smart crib that bounces babies before they even start fussing. The most human part of his parenting advice? Stock up on burp rags. Even [technology](https://infeeds.com/tags/technology) billionaires can't escape baby spit-up.
 
 ## The Screen Time Paradox
 
@@ -48,7 +48,7 @@ This is either admirably focused on building competence or wildly irresponsible 
 
 Reddit cofounder Alexis Ohanian takes a more measured approach, though he's also "wholeheartedly" on board with his seven-year-old using AI daily. He had ChatGPT turn his childhood pencil sketches into full-color illustrations for her. Meanwhile, Snap CEO Evan Spiegel limited his then-seven-year-old to an hour and a half of screen time per week back in 2018.
 
-The [business](https://infeeds.com/tags/?tag=business) of parenting in Silicon Valley seems to involve a constant negotiation between embracing the future you're building and protecting your kids from it.
+The [business](https://infeeds.com/tags/business) of parenting in Silicon Valley seems to involve a constant negotiation between embracing the future you're building and protecting your kids from it.
 
 ## What Actually Matters
 

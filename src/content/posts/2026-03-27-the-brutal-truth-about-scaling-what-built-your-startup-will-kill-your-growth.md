@@ -40,7 +40,7 @@ We eventually sold to a Fortune 500 buyer at a 17x EBITDA multiple. The sale its
 
 ## Finding Your Real X-Factor
 
-Years later, I was running a different <a href="https://infeeds.com/tags/?tag=business">business</a> and we were struggling to break into the U.S. market. Progress was glacial. We were about to lose a massive contract. The announcement was two days away. We'd been told we'd lost.
+Years later, I was running a different <a href="https://infeeds.com/tags/business">business</a> and we were struggling to break into the U.S. market. Progress was glacial. We were about to lose a massive contract. The announcement was two days away. We'd been told we'd lost.
 
 So we drove to Atlanta to pitch a mid-level executive. Everything was on the line. I remember pulling up in his tiny two-seat electric car and sitting in the back trunk on the way to lunch. When everything is collapsing, you do whatever it takes.
 

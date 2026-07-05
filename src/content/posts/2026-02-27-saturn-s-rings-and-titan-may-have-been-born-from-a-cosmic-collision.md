@@ -56,7 +56,7 @@ This destabilization would have pushed inner moons into more stretched orbits, m
 
 ## What's Next
 
-Here's where <a href="https://infeeds.com/tags/?tag=science">science</a> gets genuinely exciting. NASA's Dragonfly mission is scheduled to arrive at Titan in 2034. This nuclear-powered octocopter will study Titan's surface geology and chemistry in unprecedented detail.
+Here's where <a href="https://infeeds.com/tags/science">science</a> gets genuinely exciting. NASA's Dragonfly mission is scheduled to arrive at Titan in 2034. This nuclear-powered octocopter will study Titan's surface geology and chemistry in unprecedented detail.
 
 If Dragonfly finds evidence of large-scale resurfacing or other signs of a massive collision roughly 500 million years ago, it would essentially confirm this entire theory. The mission could finally answer one of the most compelling questions about our solar system's history.
 

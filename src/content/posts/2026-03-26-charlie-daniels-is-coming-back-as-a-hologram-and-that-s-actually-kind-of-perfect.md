@@ -16,7 +16,7 @@ The timing here is particularly fitting, though. Daniels wasn't just a musician 
 
 ## When Technology Meets Legacy
 
-[Technology](https://infeeds.com/tags/?tag=technology) like this raises real questions about what we're actually preserving when we resurrect an artist's image. Are we honoring their memory or commodifying it? Is there a difference? Daniels recorded "The Devil Went Down to Georgia" back in 1979, and people still want to hear it. The man himself recorded it countless times over his lifetime. Does it matter if it's coming from pixels on a screen instead of the artist breathing actual air on stage?
+[Technology](https://infeeds.com/tags/technology) like this raises real questions about what we're actually preserving when we resurrect an artist's image. Are we honoring their memory or commodifying it? Is there a difference? Daniels recorded "The Devil Went Down to Georgia" back in 1979, and people still want to hear it. The man himself recorded it countless times over his lifetime. Does it matter if it's coming from pixels on a screen instead of the artist breathing actual air on stage?
 
 For Aaron Tippin and Eric Lee Beddingfield, the live country singers also performing that day, the hologram probably feels like both a gift and a strange competitor. They get to perform alongside a legend. That's cool. But they're also sharing a bill with someone who can't forget a lyric or have an off night.
 

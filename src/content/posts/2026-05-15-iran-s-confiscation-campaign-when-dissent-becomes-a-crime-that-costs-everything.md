@@ -28,7 +28,7 @@ What makes this particularly troubling is how it operates within a system that c
 
 That veneer of legality matters because it makes the practice harder to challenge internationally. A government can point to legal proceedings and argue that justice is being done. Critics were charged. Courts ruled. Property was transferred. The fact that the entire system is designed to criminalize political speech becomes a secondary concern in the official narrative.
 
-But look at [news](https://infeeds.com/tags/?tag=news) coverage of these cases, and a pattern emerges. The charges often relate directly to political activity. The trials lack the independence that actual legal systems require. The outcomes feel predetermined.
+But look at [news](https://infeeds.com/tags/news) coverage of these cases, and a pattern emerges. The charges often relate directly to political activity. The trials lack the independence that actual legal systems require. The outcomes feel predetermined.
 
 ## Who Pays the Price
 

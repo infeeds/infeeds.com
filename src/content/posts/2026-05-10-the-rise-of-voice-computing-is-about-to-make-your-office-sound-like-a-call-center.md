@@ -24,10 +24,10 @@ These aren't edge cases. They're glimpses of a real friction point that nobody s
 
 ## Normalize This, and We Normalize Everything
 
-The counterargument comes from Wispr founder Tanay Kothari, who insists this will eventually feel "normal," just like staring at your phone for hours now feels completely unremarkable. He's probably right about the normalization piece. We've normalized a lot of weird behavior in the name of [Technology](https://infeeds.com/tags/?tag=technology) adoption.
+The counterargument comes from Wispr founder Tanay Kothari, who insists this will eventually feel "normal," just like staring at your phone for hours now feels completely unremarkable. He's probably right about the normalization piece. We've normalized a lot of weird behavior in the name of [Technology](https://infeeds.com/tags/technology) adoption.
 
 But there's a difference between individual quirks becoming socially acceptable and transforming the acoustic environment of shared workspaces. Slack notifications are annoying. A room full of people constantly dictating to their machines? That's a different beast entirely.
 
-The [Business](https://infeeds.com/tags/?tag=business) case for voice computing is compelling. The social friction it creates is equally real. We're headed toward a world where either offices become soundproof pods for remote-style work, or we collectively decide that background murmuring is just part of the deal. Neither option is particularly appealing.
+The [Business](https://infeeds.com/tags/business) case for voice computing is compelling. The social friction it creates is equally real. We're headed toward a world where either offices become soundproof pods for remote-style work, or we collectively decide that background murmuring is just part of the deal. Neither option is particularly appealing.
 
 What's most interesting is that nobody in this conversation seems particularly eager to address the elephant in the room: we might be optimizing for individual productivity while actively degrading the quality of shared work environments. The question isn't whether this technology will become normal. It's whether we actually want to live in the office it creates.

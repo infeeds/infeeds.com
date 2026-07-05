@@ -14,7 +14,7 @@ Musk, with a net worth exceeding three-quarters of a trillion dollars, is accust
 
 ## A Judge Built for Big Tech Battles
 
-Gonzalez Rogers didn't stumble into her position. Appointed to the federal bench in Oakland, California, by President Barack Obama in 2011, she's developed a reputation as both fair and absolutely uncompromising. Her resume reads like a highlight reel of the most complicated tech litigation in America. She's handled the Epic Games antitrust case against Apple, overseen consolidated social media addiction lawsuits against Meta, Snap, TikTok, and Google, and now she's managing what may be the most high-profile feud in [Technology](https://infeeds.com/tags/?tag=technology) right now.
+Gonzalez Rogers didn't stumble into her position. Appointed to the federal bench in Oakland, California, by President Barack Obama in 2011, she's developed a reputation as both fair and absolutely uncompromising. Her resume reads like a highlight reel of the most complicated tech litigation in America. She's handled the Epic Games antitrust case against Apple, overseen consolidated social media addiction lawsuits against Meta, Snap, TikTok, and Google, and now she's managing what may be the most high-profile feud in [Technology](https://infeeds.com/tags/technology) right now.
 
 Veteran courtroom artist Vicki Behringer, who has covered multiple cases before Gonzalez Rogers, told the BBC something revealing: "It does make an interesting juxtaposition. He's the wealthiest man in the world. He's used to being on top. She's definitely on top now. She's in charge."
 
@@ -22,7 +22,7 @@ That observation captures something fundamental about how this trial is actually
 
 ## The Art of Running a Tight Ship
 
-Her courtroom operates with precision that borders on militaristic. Proceedings start at 08:00 sharp. No exceptions. There's no lunch break, just two 20-minute respites. She thanks jurors routinely for their service and their attention, acknowledging the burden of sitting through a complex [Business](https://infeeds.com/tags/?tag=business) case that most people would find utterly exhausting.
+Her courtroom operates with precision that borders on militaristic. Proceedings start at 08:00 sharp. No exceptions. There's no lunch break, just two 20-minute respites. She thanks jurors routinely for their service and their attention, acknowledging the burden of sitting through a complex [Business](https://infeeds.com/tags/business) case that most people would find utterly exhausting.
 
 But don't mistake her politeness for softness. When Musk posted disparaging comments about OpenAI on X during the trial's first week, including calling Sam Altman "Scam Altman," Gonzalez Rogers asked him directly: "How can we get this done without you making things worse outside the courtroom?" She extended the same demand to Altman and Brockman. Not a request. A directive.
 

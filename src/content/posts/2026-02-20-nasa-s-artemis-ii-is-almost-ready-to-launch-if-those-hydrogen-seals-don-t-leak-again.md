@@ -34,7 +34,7 @@ The real test will come when NASA actually fuels the rocket for launch. Teflon s
 
 Meanwhile, the four astronauts who will actually fly this thing are already in medical quarantine. Commander Reid Wiseman, pilot Victor Glover, and mission specialists Christina Koch and Jeremy Hansen entered their standard two-week preflight quarantine on Friday at NASA's Johnson Space Center in Houston. They'll head to Florida about a week before launch to strap in for what will be the first crewed lunar mission since 1972.
 
-The stakes for this <a href="https://infeeds.com/tags/?tag=technology">Technology</a> achievement go beyond just taking some photos near the Moon. Artemis II is the precursor to actual lunar landings at the south pole, which NASA is targeting for 2028. If this mission works smoothly, it proves that the SLS rocket and Orion spacecraft are ready for the real job. If something goes wrong, well, that's a whole different conversation about timelines and budgets and whether NASA can actually pull this off.
+The stakes for this <a href="https://infeeds.com/tags/technology">Technology</a> achievement go beyond just taking some photos near the Moon. Artemis II is the precursor to actual lunar landings at the south pole, which NASA is targeting for 2028. If this mission works smoothly, it proves that the SLS rocket and Orion spacecraft are ready for the real job. If something goes wrong, well, that's a whole different conversation about timelines and budgets and whether NASA can actually pull this off.
 
 ## What Happens If March Doesn't Work Out
 

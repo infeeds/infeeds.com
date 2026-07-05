@@ -51,7 +51,7 @@ const currentUrl = `${siteUrl}${getCleanSlug(entry.id)}/`;
             <div class="post__tags">
               {data.tags.map((tag: string) => (
                 <a 
-                  href={`/tags/?tag=${tag.toLowerCase()}`} 
+                  href={`/tags/${tag.toLowerCase()}`} 
                   class="post__tag"
                   style={data.tags_color ? { backgroundColor: data.tags_color, color: '#fff' } : {}}
                 >

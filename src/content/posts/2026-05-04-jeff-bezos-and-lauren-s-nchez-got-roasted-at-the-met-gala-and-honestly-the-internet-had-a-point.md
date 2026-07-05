@@ -34,6 +34,6 @@ The anger wasn't just about a dress or a social media appearance. It was about w
 
 There was one telling detail in all of this. While Sánchez Bezos graced the red carpet in her designer gown, Bezos himself reportedly skipped the red carpet entirely and snuck into the event. Whether calculated or coincidental, it suggested the couple was well aware they'd face significant heat. Maybe they underestimated just how much the internet was ready to fight back.
 
-The irony, of course, is that the Met Gala's entire premise relies on the participation of the wealthy and famous. But in 2026, that equation is becoming harder to justify when ordinary people are watching billionaires drop $10 million on fashion credibility while the rest of the world struggles with <a href="https://infeeds.com/tags/?tag=business">business</a> as usual inequality.
+The irony, of course, is that the Met Gala's entire premise relies on the participation of the wealthy and famous. But in 2026, that equation is becoming harder to justify when ordinary people are watching billionaires drop $10 million on fashion credibility while the rest of the world struggles with <a href="https://infeeds.com/tags/business">business</a> as usual inequality.
 
 Money might be able to buy you a seat at the table. But it can't buy you the respect of a room that's finally tired of pretending the table isn't broken.

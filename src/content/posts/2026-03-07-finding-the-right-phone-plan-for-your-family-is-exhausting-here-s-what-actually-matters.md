@@ -48,7 +48,7 @@ The place you live and the places you spend time matter way more than national s
 
 ## Perks Are Nice But Don't Blind You to the Price
 
-T-Mobile's [technology](https://infeeds.com/tags/?tag=technology) lately has been to throw in perks like Netflix, AAA membership, and discounts on hotels. It sounds great. Free Netflix, right?
+T-Mobile's [technology](https://infeeds.com/tags/technology) lately has been to throw in perks like Netflix, AAA membership, and discounts on hotels. It sounds great. Free Netflix, right?
 
 Except you're not getting it for free. You're paying for it in your monthly bill. Sometimes it's a good deal. Sometimes you're paying $15 extra per month for a Netflix subscription you could get for $7 if you bought it directly. The math matters.
 

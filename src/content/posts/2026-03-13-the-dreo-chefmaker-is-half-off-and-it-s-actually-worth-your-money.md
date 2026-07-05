@@ -22,7 +22,7 @@ The probe cooker aspect is where things get genuinely clever. You set your targe
 
 Dreo's running a spring sale with 44 percent off the Chefmaker. That brings the price down to around $200 if you enter the code SPCHEFMAKER at checkout. This is legitimately the lowest price this device has ever hit, according to WIRED's testing.
 
-The timing probably isn't random. Dreo's been [hinting at a second-generation model called the Chefmaker 2](https://infeeds.com/tags/?tag=technology), which will apparently have AI-guided recipes built in. When companies start aggressively cutting prices on their current models, it's usually because something new is coming down the pipeline. But that doesn't make this deal any less real.
+The timing probably isn't random. Dreo's been [hinting at a second-generation model called the Chefmaker 2](https://infeeds.com/tags/technology), which will apparently have AI-guided recipes built in. When companies start aggressively cutting prices on their current models, it's usually because something new is coming down the pipeline. But that doesn't make this deal any less real.
 
 ## The Catch
 
@@ -30,6 +30,6 @@ Here's where I have to be honest. The probe cooking function keeps temperatures 
 
 ## Other Things Worth Looking At
 
-If you're already on Dreo's site, there are a couple other pieces worth considering. Their space heaters and fans keep showing up in [various tech](https://infeeds.com/tags/?tag=tech) roundups. The Wall-Mounted Heater 517S is the kind of thing that actually improves winter mornings, especially if you're someone who dreads getting out of a warm bed to enter a freezing bathroom. There's also a bundle deal on the 519 tower fan and 511S table fan if you're trying to keep things moving.
+If you're already on Dreo's site, there are a couple other pieces worth considering. Their space heaters and fans keep showing up in [various tech](https://infeeds.com/tags/tech) roundups. The Wall-Mounted Heater 517S is the kind of thing that actually improves winter mornings, especially if you're someone who dreads getting out of a warm bed to enter a freezing bathroom. There's also a bundle deal on the 519 tower fan and 511S table fan if you're trying to keep things moving.
 
 The real question isn't whether you need another kitchen gadget. It's whether you actually care enough about cooking meat properly that you'd want a device that almost guarantees results. If you do, the price right now is hard to argue with.

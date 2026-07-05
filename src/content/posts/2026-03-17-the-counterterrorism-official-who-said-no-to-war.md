@@ -18,7 +18,7 @@ Kent's core argument is straightforward: Iran posed no imminent threat to Americ
 
 The White House fired back immediately. Press Secretary Karoline Leavitt called the suggestion that Trump made decisions based on foreign influence "insulting and laughable," insisting instead that the president had "strong and compelling evidence" Iran would attack first. 
 
-But here's where it gets interesting. Trump himself dismissed Kent as "weak on security" while simultaneously admitting the resignation made him think it was "a good thing" Kent left. That's... not exactly the sound of a confident <a href="https://infeeds.com/tags/?tag=politics">administration</a> standing on solid ground.
+But here's where it gets interesting. Trump himself dismissed Kent as "weak on security" while simultaneously admitting the resignation made him think it was "a good thing" Kent left. That's... not exactly the sound of a confident <a href="https://infeeds.com/tags/politics">administration</a> standing on solid ground.
 
 ## A Pattern of Quiet Exits
 
@@ -36,6 +36,6 @@ Kent's letter suggests that the last answer is closer to the truth than we might
 
 The administration's response doesn't really address that core accusation. They just keep saying they had evidence. But if your own counterterrorism chief disagreed, where's the public case for what you saw that he missed?
 
-Maybe the real story here isn't about one man's resignation. Maybe it's about what happens when career professionals who've spent lifetimes in <a href="https://infeeds.com/tags/?tag=politics">government</a> realize they can't stay silent anymore, even when it means walking away from power and prestige. Maybe it's about what Kent is willing to sacrifice because he thinks someone needs to say that the emperor has no clothes.
+Maybe the real story here isn't about one man's resignation. Maybe it's about what happens when career professionals who've spent lifetimes in <a href="https://infeeds.com/tags/politics">government</a> realize they can't stay silent anymore, even when it means walking away from power and prestige. Maybe it's about what Kent is willing to sacrifice because he thinks someone needs to say that the emperor has no clothes.
 
 The question now is whether anyone in Washington is actually listening, or if Kent's warnings will just become another noise in the endless static of political theater.

@@ -24,7 +24,7 @@ Let's be honest about what's happening here. Takaichi isn't just another politic
 
 But scroll past the viral moments and you'll find some genuinely concerning policy positions. Takaichi has pushed hard to toughen immigration rules, review foreign ownership of Japanese land, and crack down on tax and health insurance non-payments by foreign nationals. In a country where only 3% of the population are foreign nationals, critics argue she's manufacturing division where it doesn't really exist.
 
-The relationship with China is another pressure point that deserves attention. Japan and China are massive trading partners, yet Takaichi suggested last November that Japan might intervene militarily if China invaded Taiwan. That's not exactly the kind of statement that calms [business](https://infeeds.com/tags/?tag=business) leaders worried about economic stability in the region.
+The relationship with China is another pressure point that deserves attention. Japan and China are massive trading partners, yet Takaichi suggested last November that Japan might intervene militarily if China invaded Taiwan. That's not exactly the kind of statement that calms [business](https://infeeds.com/tags/business) leaders worried about economic stability in the region.
 
 ## The Economic Reality Check
 

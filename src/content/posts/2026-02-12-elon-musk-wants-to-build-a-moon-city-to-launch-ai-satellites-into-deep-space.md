@@ -10,7 +10,7 @@ tags: [news, tech]
 tags_color: '#00ba65'
 ---
 
-"Join xAI if the idea of mass drivers on the Moon appeals to you." That's how Elon Musk is recruiting employees now, apparently. Not with promises of achieving AGI or disrupting the [Technology](https://infeeds.com/tags/?tag=technology) industry, but with visions of a lunar city manufacturing AI satellites and yeeting them into deep space via a giant maglev train.
+"Join xAI if the idea of mass drivers on the Moon appeals to you." That's how Elon Musk is recruiting employees now, apparently. Not with promises of achieving AGI or disrupting the [Technology](https://infeeds.com/tags/technology) industry, but with visions of a lunar city manufacturing AI satellites and yeeting them into deep space via a giant maglev train.
 
 This recruitment pitch comes on the heels of xAI's merger with SpaceX and a wave of executive departures that would make any HR department nervous. But Musk being Musk, he's doubling down on the science fiction.
 
@@ -34,7 +34,7 @@ The slide describing all this appeared at the end of his presentation deck, in t
 
 ## The Business Case for Orbital Computing
 
-Look, there might actually be some [Business](https://infeeds.com/tags/?tag=business) logic buried in here somewhere. If data center costs on Earth keep climbing and demand keeps exploding, orbital computing could theoretically make sense by the 2030s. Some experts think it's possible.
+Look, there might actually be some [Business](https://infeeds.com/tags/business) logic buried in here somewhere. If data center costs on Earth keep climbing and demand keeps exploding, orbital computing could theoretically make sense by the 2030s. Some experts think it's possible.
 
 But manufacturing satellites on the moon? That requires a completely different universe of assumptions. You need dramatically cheaper space access, which is the whole reason these technologies might work in the first place. You need to get raw materials to the moon. You need that "self-sustaining city" Musk keeps mentioning. You need scientists and startups experimenting with building precision chips in space to actually succeed at scale.
 

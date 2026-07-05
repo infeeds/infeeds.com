@@ -46,7 +46,7 @@ That's where most founder stories end. The IPO is the finish line. Scaringe trea
 
 Since the Rivian IPO, Scaringe has launched two new companies and is raising capital at a pace that makes venture capitalists scramble to keep up. Mind Robotics raised $115 million in its first year, then $500 million in March, then $400 million this week. Also has climbed from a $105 million seed round to over $300 million, with DoorDash among its backers.
 
-The broader [tech](https://infeeds.com/tags/?tag=technology) landscape is supposed to have gotten harder for startups. Capital is more selective. The EV sector specifically is in contraction mode. Rivian's market cap has cratered to $18.2 billion, a stark reminder that even once-celebrated companies face brutal realities.
+The broader [tech](https://infeeds.com/tags/technology) landscape is supposed to have gotten harder for startups. Capital is more selective. The EV sector specifically is in contraction mode. Rivian's market cap has cratered to $18.2 billion, a stark reminder that even once-celebrated companies face brutal realities.
 
 Yet Scaringe keeps winning. Investors keep showing up to his funding rounds.
 

@@ -24,7 +24,7 @@ Illinois state law is even stricter. The state only permits DNA collection from 
 
 ## How the DNA Act Became a Tool for Mass Surveillance
 
-The DNA Act was amended in 2006 to permit collection from anyone arrested for any crime, regardless of severity. What Congress likely didn't anticipate was how <a href="https://infeeds.com/tags/?tag=technology">technology</a> would outpace the law. DNA analysis has become vastly more sophisticated since then, capable of extracting information Congress never intended to authorize. Yet the statute hasn't been updated accordingly.
+The DNA Act was amended in 2006 to permit collection from anyone arrested for any crime, regardless of severity. What Congress likely didn't anticipate was how <a href="https://infeeds.com/tags/technology">technology</a> would outpace the law. DNA analysis has become vastly more sophisticated since then, capable of extracting information Congress never intended to authorize. Yet the statute hasn't been updated accordingly.
 
 The protesters allege that privacy impact assessments, which serve as internal checks against civil rights violations, have been dismantled. In 2026, zero assessments have been reported, down from eight in 2025 and 24 in 2024.
 

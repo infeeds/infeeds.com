@@ -20,7 +20,7 @@ The amendment to the Crime and Policing Bill treats intimate image abuse with th
 
 Under the new rules, victims would only need to flag an image once instead of contacting every single platform separately. Tech companies would then be responsible for blocking those images from being re-uploaded. This shift puts the responsibility where it belongs, on the platforms profiting from user-generated content rather than on traumatized individuals trying to scrub their images from the internet.
 
-Janaya Walker from the End Violence Against Women Coalition called it right when she said this "rightly places the responsibility on tech companies to act." Women, girls, and LGBT people are disproportionately affected by this kind of abuse. A parliamentary report from May 2025 showed a 20.9% increase in intimate image abuse reports in 2024 alone. The numbers keep climbing while [Technology](https://infeeds.com/tags/?tag=technology) companies have been moving at a glacial pace.
+Janaya Walker from the End Violence Against Women Coalition called it right when she said this "rightly places the responsibility on tech companies to act." Women, girls, and LGBT people are disproportionately affected by this kind of abuse. A parliamentary report from May 2025 showed a 20.9% increase in intimate image abuse reports in 2024 alone. The numbers keep climbing while [Technology](https://infeeds.com/tags/technology) companies have been moving at a glacial pace.
 
 Young men and boys face their own nightmare version of this through sextortion schemes, where criminals threaten to share intimate images unless they pay up. It's a different flavor of the same horror, and it's driving some victims to desperation.
 
@@ -30,14 +30,14 @@ Technology Secretary Liz Kendall says "the days of tech firms having a free pass
 
 The 10% global sales fine is significant though. For a company like Meta or X, that could mean billions of dollars. That's the kind of number that gets discussed in boardrooms and actually changes company behavior. But the devil is in the details of how aggressively these fines get applied when companies inevitably miss deadlines or find loopholes.
 
-This announcement follows the government's standoff with X in January over AI tool Grok generating non-consensual images of real women. That eventually got shut down, and legislation in February made deepfake images illegal in the UK. The government is clearly trying to close gaps as fast as [technology](https://infeeds.com/tags/?tag=technology) creates new ways to abuse people.
+This announcement follows the government's standoff with X in January over AI tool Grok generating non-consensual images of real women. That eventually got shut down, and legislation in February made deepfake images illegal in the UK. The government is clearly trying to close gaps as fast as [technology](https://infeeds.com/tags/technology) creates new ways to abuse people.
 
 ## The Rogue Website Problem
 
 One interesting piece of this proposal is guidance for internet service providers to block access to sites hosting illegal content. This targets websites that currently slip through the cracks of the Online Safety Act. These are often offshore operations that ignore takedown requests and have no UK presence to regulate.
 
-It's a tricky balance though. Website blocking sounds straightforward until you start thinking about who decides what gets blocked and how that power might expand over time. The UK already has a complicated relationship with [internet](https://infeeds.com/tags/?tag=technology) censorship, and any new blocking mechanism needs serious safeguards to prevent mission creep.
+It's a tricky balance though. Website blocking sounds straightforward until you start thinking about who decides what gets blocked and how that power might expand over time. The UK already has a complicated relationship with [internet](https://infeeds.com/tags/technology) censorship, and any new blocking mechanism needs serious safeguards to prevent mission creep.
 
 The 48-hour timeframe is aggressive but necessary. Every hour an intimate image stays online causes additional harm. It gets shared more widely, saved by more people, and becomes harder to contain. Forty-eight hours isn't generous, it's the bare minimum for preventing catastrophic spread while giving platforms time to verify reports and avoid abuse of the system.
 
-What's interesting is how this forces tech companies to invest in better content moderation infrastructure. They've spent years insisting they can't possibly monitor everything, yet somehow they manage when threatened with real consequences. Maybe the question was never about capability but about [business](https://infeeds.com/tags/?tag=business) priorities and profit margins all along.
+What's interesting is how this forces tech companies to invest in better content moderation infrastructure. They've spent years insisting they can't possibly monitor everything, yet somehow they manage when threatened with real consequences. Maybe the question was never about capability but about [business](https://infeeds.com/tags/business) priorities and profit margins all along.

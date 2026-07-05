@@ -34,9 +34,9 @@ This extreme reliance on stock holdings rather than liquid cash is worth noting.
 
 ## Tech Titans Have Completely Dominated the Rich List
 
-Here's something that might surprise you. Back in 2015, only two of the world's top 10 richest people were from the tech world. Now? It's seven, including the entire top six. The global rich list has been completely reshaped by [Technology](https://infeeds.com/tags/?tag=technology) titans over the last decade.
+Here's something that might surprise you. Back in 2015, only two of the world's top 10 richest people were from the tech world. Now? It's seven, including the entire top six. The global rich list has been completely reshaped by [Technology](https://infeeds.com/tags/technology) titans over the last decade.
 
-This marks a fundamental shift. Historically, the world's wealthiest individuals earned fortunes in sectors like finance and manufacturing. Today, [Business](https://infeeds.com/tags/?tag=business) looks completely different.
+This marks a fundamental shift. Historically, the world's wealthiest individuals earned fortunes in sectors like finance and manufacturing. Today, [Business](https://infeeds.com/tags/business) looks completely different.
 
 SpaceX founder Elon Musk once said he gave the company "less than a 10% chance of succeeding at all" when it first started. It's now going public with the largest IPO ever, and the public sale is expected to cement his place as the world's first trillionaire.
 

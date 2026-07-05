@@ -42,7 +42,7 @@ You've got until May 26 to have your say, and the government plans to respond in
 
 This whole debate sits within a broader reckoning with how social media companies operate. In February, the EU told TikTok it needed to ditch its "addictive design" or face heavy fines. Meanwhile, a landmark trial is underway in California examining whether Instagram and YouTube are messing with kids' mental health.
 
-<a href="https://infeeds.com/tags/?tag=technology">Technology</a> companies have been given a relatively free pass for years to optimize their platforms for engagement without worrying too much about the psychological impact on young users. That era feels like it's ending.
+<a href="https://infeeds.com/tags/technology">Technology</a> companies have been given a relatively free pass for years to optimize their platforms for engagement without worrying too much about the psychological impact on young users. That era feels like it's ending.
 
 The real question isn't whether we should have this conversation – we absolutely should. It's whether a ban is actually the solution, or whether the real work lies in forcing platforms to design responsibly and enforcing the rules we already have.
 

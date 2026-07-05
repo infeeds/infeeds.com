@@ -22,7 +22,7 @@ That doesn't mean North Korea was behind the Drift hack. We don't know who did t
 
 ## A Pattern, Not an Exception
 
-This is the thing that should bother anyone paying attention to [crypto and technology](https://infeeds.com/tags/?tag=technology) more broadly. Major hacks happen with such regularity in decentralized finance that they've become almost expected. The industry talks endlessly about innovation, decentralization, and removing intermediaries. But removing intermediaries also means removing a lot of the security infrastructure that traditional [finance](https://infeeds.com/tags/?tag=business) built over decades.
+This is the thing that should bother anyone paying attention to [crypto and technology](https://infeeds.com/tags/technology) more broadly. Major hacks happen with such regularity in decentralized finance that they've become almost expected. The industry talks endlessly about innovation, decentralization, and removing intermediaries. But removing intermediaries also means removing a lot of the security infrastructure that traditional [finance](https://infeeds.com/tags/business) built over decades.
 
 Drift suspended withdrawals and deposits to "contain the incident." That's responsible. It's also the kind of move that feels like it shouldn't be necessary on a platform built on immutability and permanence. You're supposed to own your own assets. You're supposed to be in control. When something goes wrong, you're not supposed to be locked out of your own money while a company figures out what happened.
 

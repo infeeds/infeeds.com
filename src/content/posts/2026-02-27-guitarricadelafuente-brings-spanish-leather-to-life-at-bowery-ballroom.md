@@ -24,9 +24,9 @@ Before the main event, opener Whalebone had already warmed up the crowd, creatin
 
 ## The Sound That Bridges Folk and Pop
 
-What makes Guitarricadelafuente's approach so compelling is how he refuses to fit neatly into one box. His voice carries folk techniques but lands with pop sensibilities. He wasn't trying to prove anything technical or flashy. Instead, he let songs from throughout his discography speak for themselves, with a particular focus on material from Spanish Leather, which made Rolling Stone's [Best Albums of 2025](https://infeeds.com/tags/?tag=entertainment).
+What makes Guitarricadelafuente's approach so compelling is how he refuses to fit neatly into one box. His voice carries folk techniques but lands with pop sensibilities. He wasn't trying to prove anything technical or flashy. Instead, he let songs from throughout his discography speak for themselves, with a particular focus on material from Spanish Leather, which made Rolling Stone's [Best Albums of 2025](https://infeeds.com/tags/entertainment).
 
-The [entertainment](https://infeeds.com/tags/?tag=entertainment) space has a lot of artists right now, but there aren't many doing what he's doing with such honesty. He brought a full band onstage with him, and they locked in immediately. You could feel the chemistry between the musicians.
+The [entertainment](https://infeeds.com/tags/entertainment) space has a lot of artists right now, but there aren't many doing what he's doing with such honesty. He brought a full band onstage with him, and they locked in immediately. You could feel the chemistry between the musicians.
 
 ## When Private Becomes Public
 

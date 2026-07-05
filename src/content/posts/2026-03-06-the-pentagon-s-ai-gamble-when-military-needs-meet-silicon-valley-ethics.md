@@ -30,7 +30,7 @@ Except the PR risk turned out to be massive.
 
 Within days of the news breaking, ChatGPT uninstalls surged. We're not talking about a small bump. A 295% spike is the kind of number that gets attention in San Francisco. People started voting with their feet, or more accurately, with their delete buttons.
 
-This reveals something important about how <a href="https://infeeds.com/tags/?tag=technology">technology</a> companies are perceived right now. Users don't just care about functionality anymore. They care about values. They care about how companies operate behind the scenes.
+This reveals something important about how <a href="https://infeeds.com/tags/technology">technology</a> companies are perceived right now. Users don't just care about functionality anymore. They care about values. They care about how companies operate behind the scenes.
 
 OpenAI's bet was that the military contract represented strategic positioning and revenue. What they didn't fully account for was that their user base might have different opinions about military AI applications. A lot of people, it turns out, do.
 

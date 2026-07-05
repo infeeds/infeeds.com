@@ -12,7 +12,7 @@ The private credit boom is hitting a wall. Ares Strategic Income Fund just joine
 
 Picture this: investors tried to cash out more than 11% of their shares in a single quarter. That's $1.2 billion in redemption requests flooding in. The fund's response? Cap payouts at a measly 5%. In other words, if you wanted your money out, you're getting roughly 43% of what you asked for, spread across whoever else is waiting in line.
 
-This isn't some small blip. This is a systemic warning sign that something's off in the [business](https://infeeds.com/tags/?tag=business) of private credit.
+This isn't some small blip. This is a systemic warning sign that something's off in the [business](https://infeeds.com/tags/business) of private credit.
 
 ## When the Money Stops Flowing In
 

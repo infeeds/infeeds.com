@@ -30,7 +30,7 @@ Being everywhere doesn't make you more successful. It makes you exhausted and me
 
 The right platforms are the ones your audience actually uses. If they're not on Pinterest, you don't need to be either. People use different platforms for different reasons, and they don't want to see the same brands following them everywhere like a digital stalker.
 
-You'll get better results focusing on two or three platforms and doing them well than scrambling to maintain a presence on seven platforms you barely understand. This is especially true for [business](https://infeeds.com/tags/?tag=business) owners wearing multiple hats.
+You'll get better results focusing on two or three platforms and doing them well than scrambling to maintain a presence on seven platforms you barely understand. This is especially true for [business](https://infeeds.com/tags/business) owners wearing multiple hats.
 
 ## Test Everything, Then Test It Again
 
@@ -150,7 +150,7 @@ Staying involved in conversations matters too. The algorithm now rewards brands 
 
 ## Stop Measuring Success By Vanity Metrics
 
-Likes and follower counts feel good, but they don't necessarily drive [business](https://infeeds.com/tags/?tag=business) results. Focus on metrics that align with your actual goals, whether that's website traffic, lead generation, or customer retention.
+Likes and follower counts feel good, but they don't necessarily drive [business](https://infeeds.com/tags/business) results. Focus on metrics that align with your actual goals, whether that's website traffic, lead generation, or customer retention.
 
 This is especially important for B2B companies where the sales cycle is longer. A post might not generate immediate leads but still play a crucial role in nurturing prospects through the funnel.
 

@@ -18,7 +18,7 @@ But here's something actually interesting: Samsung is teasing a privacy display 
 
 Let's address the elephant in the room. The S26 lineup will reportedly run on Qualcomm's Snapdragon Elite Gen 5 processor in the U.S. and China, while everyone else gets Samsung's own Exynos 2600. This two-tier system has been annoying customers for years, and while Samsung claims the gap is narrowing, it's still frustrating that where you live determines which version of a flagship phone you get.
 
-The <a href="https://infeeds.com/tags/?tag=technology">Technology</a> community has been vocal about this for ages. Snapdragon chips have consistently outperformed Exynos processors in benchmarks and thermal management. Sure, maybe the difference is getting smaller, but "less bad" isn't exactly the rallying cry Samsung should be going for with phones that cost over a thousand bucks.
+The <a href="https://infeeds.com/tags/technology">Technology</a> community has been vocal about this for ages. Snapdragon chips have consistently outperformed Exynos processors in benchmarks and thermal management. Sure, maybe the difference is getting smaller, but "less bad" isn't exactly the rallying cry Samsung should be going for with phones that cost over a thousand bucks.
 
 ## Battery Life and the Earbuds Nobody Asked For
 
@@ -32,4 +32,4 @@ Samsung is dangling a $30 promotional credit for anyone who pre-registers intere
 
 The event kicks off at 10 AM PT on February 25, streaming live on Samsung's website and YouTube channel. Expect the usual polished presentation about how AI will change your life and make your morning coffee taste better or whatever they're promising these days.
 
-What's really interesting is how much of this feels incremental rather than revolutionary, with <a href="https://infeeds.com/tags/?tag=business">Business</a> pressures pushing annual releases even when there's not much groundbreaking to show. The privacy display feature might be the most genuinely useful addition here, assuming it works as advertised and doesn't drain your battery trying to selectively hide parts of your screen from specific viewing angles.
+What's really interesting is how much of this feels incremental rather than revolutionary, with <a href="https://infeeds.com/tags/business">Business</a> pressures pushing annual releases even when there's not much groundbreaking to show. The privacy display feature might be the most genuinely useful addition here, assuming it works as advertised and doesn't drain your battery trying to selectively hide parts of your screen from specific viewing angles.

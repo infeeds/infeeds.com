@@ -30,7 +30,7 @@ It's like hiring a burglar to teach your security team how burglars work, then h
 
 ## The Government Got Involved, And Things Got Messy
 
-This is where <a href="https://infeeds.com/tags/?tag=technology">technology</a> policy stops being abstract and starts getting uncomfortable. The US Department of Defense labeled Anthropic a "supply chain risk" after the company refused to let its systems be used for autonomous weapons or mass surveillance.
+This is where <a href="https://infeeds.com/tags/technology">technology</a> policy stops being abstract and starts getting uncomfortable. The US Department of Defense labeled Anthropic a "supply chain risk" after the company refused to let its systems be used for autonomous weapons or mass surveillance.
 
 That's the same designation they gave to Huawei. Think about that one for a minute.
 

@@ -18,7 +18,7 @@ If you're trying to follow along at home, good luck. The rules have changed mult
 
 Here's what sparked all this drama. Verizon recently updated its device unlocking policy for postpaid customers, adding a 35-day waiting period after you pay off your phone's remaining balance. This applies whether you pay online, through the Verizon app, over the phone, or at an authorized retailer. Basically, every payment method except walking into an actual Verizon corporate store.
 
-The company says this is all about fraud prevention, which sure, that's a legitimate concern in the [technology](https://infeeds.com/tags/?tag=technology) industry. But it's hard not to notice how convenient it is that this "anti-fraud" measure also happens to make it harder for customers to switch carriers. Pay off your phone and want to jump to T-Mobile? Cool, wait 35 days first.
+The company says this is all about fraud prevention, which sure, that's a legitimate concern in the [technology](https://infeeds.com/tags/technology) industry. But it's hard not to notice how convenient it is that this "anti-fraud" measure also happens to make it harder for customers to switch carriers. Pay off your phone and want to jump to T-Mobile? Cool, wait 35 days first.
 
 The only ways to get immediate unlocking right now are paying at a Verizon corporate store (because apparently their in-store systems can magically validate transactions that their website can't) or paying off your installment plan on schedule through autopay. If you're halfway through one of those lovely 36-month payment plans and decide to pay it off early? Enjoy your waiting period.
 
@@ -36,7 +36,7 @@ The confusion isn't just about when things will change. It's about what the rule
 
 As of today, Verizon updated the policy yet again and changed the effective date to February 18. This new version talks about requiring a "secure payment method" for immediate unlocking but conveniently doesn't define what that means in the policy itself. You have to dig through a separate FAQ to discover it basically means "pay at a corporate store."
 
-This is the kind of thing that happens when [business](https://infeeds.com/tags/?tag=business) decisions get made without proper coordination across teams. The left hand doesn't know what the right hand is doing, and customers are stuck in the middle trying to figure out what rules actually apply to them.
+This is the kind of thing that happens when [business](https://infeeds.com/tags/business) decisions get made without proper coordination across teams. The left hand doesn't know what the right hand is doing, and customers are stuck in the middle trying to figure out what rules actually apply to them.
 
 ## How We Got Here
 
@@ -50,7 +50,7 @@ The irony is that Verizon's competitors aren't even this restrictive. AT&T unloc
 
 Let's be real about what's happening here. Verizon got permission to lock phones longer and immediately started making it harder for customers to leave. The "fraud prevention" angle might have some merit, but it's awfully convenient that the most fraud-prone payment methods somehow include their own website and app.
 
-The constant policy changes and inconsistent information across different pages suggest this rollout wasn't properly thought through. Either that or someone decided to be deliberately vague about the restrictions while testing how much pushback they'd get. Neither scenario reflects well on Verizon's [technology](https://infeeds.com/tags/?tag=technology) operations or customer service priorities.
+The constant policy changes and inconsistent information across different pages suggest this rollout wasn't properly thought through. Either that or someone decided to be deliberately vague about the restrictions while testing how much pushback they'd get. Neither scenario reflects well on Verizon's [technology](https://infeeds.com/tags/technology) operations or customer service priorities.
 
 For prepaid customers, things are even worse. Verizon requires a full year of paid service before unlocking, which matches T-Mobile's prepaid policy but is twice as long as AT&T's six-month requirement. If you're on prepaid and need to switch carriers for any reason, you're basically stuck.
 

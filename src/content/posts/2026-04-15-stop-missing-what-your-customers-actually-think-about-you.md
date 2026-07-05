@@ -34,7 +34,7 @@ Take what happened when headlines surfaced about a fast-casual chain's CEO alleg
 
 Tracking mentions over time also establishes a baseline. You can see when customer sentiment spikes in either direction. You can spot patterns in what frustrates your audience or what delights them. You can identify common questions that point to gaps in your customer education. You can even catch product improvement ideas buried in casual complaints.
 
-There's also the competitive angle. What hashtags are driving engagement for your rivals? What campaigns resonated with audiences that could work for your brand? What mistakes did they make so you don't repeat them? <a href="https://infeeds.com/tags/?tag=business">Business</a> strategy used to rely on quarterly reports and market research. Now it can be informed by real-time social conversation.
+There's also the competitive angle. What hashtags are driving engagement for your rivals? What campaigns resonated with audiences that could work for your brand? What mistakes did they make so you don't repeat them? <a href="https://infeeds.com/tags/business">Business</a> strategy used to rely on quarterly reports and market research. Now it can be informed by real-time social conversation.
 
 ## The Manual Approach Doesn't Scale
 

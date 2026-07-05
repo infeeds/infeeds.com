@@ -14,7 +14,7 @@ It's mid-February and I'm staring at my reflection wondering when these forehead
 
 Enter Bryan Johnson, the fintech founder turned longevity prophet who thinks he's cracked the code on living forever. His latest offering? A cool $1 million annually to learn his "exact protocol" for reversing aging. He's calling it "Immortals" because subtlety is dead, even if Johnson hopes he won't be.
 
-This is the same guy who got botox injections in his genitals and literally transfused blood from his teenage son into his veins. But sure, let's trust his judgment on life extension. When have [Technology](https://infeeds.com/tags/?tag=technology) billionaires ever steered us wrong?
+This is the same guy who got botox injections in his genitals and literally transfused blood from his teenage son into his veins. But sure, let's trust his judgment on life extension. When have [Technology](https://infeeds.com/tags/technology) billionaires ever steered us wrong?
 
 ## The Million Dollar Question
 
@@ -32,7 +32,7 @@ John Hering, who's bankrolled Elon Musk to the tune of billions, co-founded Biog
 
 Then there's Fountain Life, which has raised $108 million for its "ultimate longevity program" at $21,500 per year. Johnson's program costs exponentially more, but remember, scarcity drives demand. Only three spots! And if you're not quite ready for seven figures, there's a mysterious "supported tier" for a mere $60,000.
 
-The [Business](https://infeeds.com/tags/?tag=business) model is brilliant in its simplicity. Sell hope to people who have enough money to believe they can buy their way out of humanity's oldest certainty.
+The [Business](https://infeeds.com/tags/business) model is brilliant in its simplicity. Sell hope to people who have enough money to believe they can buy their way out of humanity's oldest certainty.
 
 ## The Immortality Complex
 
@@ -40,7 +40,7 @@ There's nothing inherently wrong with wanting to live healthier or longer. Exerc
 
 But guys like Johnson have turned longevity into performance art. He's not just suggesting we all take our vitamins and go for walks. He's built an entire identity around consuming one hundred pills daily and eating mostly boiled vegetables while documenting every bodily function for content.
 
-To his credit, Johnson isn't forcing anyone to follow his extreme regimen. He's just making it very easy for wealthy people to hand over massive amounts of money for access to his "secrets." The [tech](https://infeeds.com/tags/?tag=technology) elite have always been good at monetizing fear and aspiration.
+To his credit, Johnson isn't forcing anyone to follow his extreme regimen. He's just making it very easy for wealthy people to hand over massive amounts of money for access to his "secrets." The [tech](https://infeeds.com/tags/technology) elite have always been good at monetizing fear and aspiration.
 
 This is the same ecosystem where Elon Musk casually suggests we shouldn't bother saving for retirement because artificial general intelligence will create such economic abundance that poverty becomes obsolete. Why plan for old age when you can either become immortal or live in a post-scarcity utopia? Pick your sci-fi fantasy.
 

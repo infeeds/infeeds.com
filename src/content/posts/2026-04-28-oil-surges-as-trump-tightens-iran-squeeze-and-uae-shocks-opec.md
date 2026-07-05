@@ -30,7 +30,7 @@ Strategists at Dutch bank ING noted in a research note that the departure repres
 
 Yet here's the thing: in the near term, the UAE leaving OPEC is almost a sideshow. The real story remains the Middle East crisis and whether oil will actually flow through the Strait of Hormuz again anytime soon. As ING's strategists put it, "the biggest driver for oil prices remains developments in the Persian Gulf and the timing of a resumption in oil flows through the Strait of Hormuz."
 
-## What This Means for <a href="https://infeeds.com/tags/?tag=business">Business</a> and Markets
+## What This Means for <a href="https://infeeds.com/tags/business">Business</a> and Markets
 
 The price action reflects an uncomfortable truth: markets hate uncertainty, but they hate supply shocks even more. Right now, we have both.
 

@@ -20,13 +20,13 @@ Kickoff is scheduled for 4:30 p.m. GMT on Sunday, February 8th. For viewers in N
 
 If you're in the US, Peacock has exclusive rights to this match. You'll need either a Premium subscription at $11 monthly or Premium Plus at $17 monthly to catch the action. The price increases are still fresh, and honestly, it's getting harder to justify yet another streaming subscription just to watch football. But if you're following the Premier League closely, there's no way around it.
 
-The [Technology](https://infeeds.com/tags/?tag=technology) behind streaming has made watching football more accessible than ever, though it's also created this fragmented landscape where you need multiple subscriptions to follow your team throughout the season.
+The [Technology](https://infeeds.com/tags/technology) behind streaming has made watching football more accessible than ever, though it's also created this fragmented landscape where you need multiple subscriptions to follow your team throughout the season.
 
 ## Watching from the UK
 
 Sky Sports holds the broadcasting rights in the UK, specifically on the Sky Sports Main Event channel. Existing Sky Sports subscribers can use the Sky Go app to stream on their devices. If you've cut the cord, Now offers a standalone option with day passes at £15 or monthly memberships starting at £35.
 
-The pricing structure for [streaming services](https://infeeds.com/tags/?tag=business) has become increasingly complex, and UK viewers are stuck with some of the highest costs for sports content in the world. It's frustrating when you just want to watch your team play without breaking the bank.
+The pricing structure for [streaming services](https://infeeds.com/tags/business) has become increasingly complex, and UK viewers are stuck with some of the highest costs for sports content in the world. It's frustrating when you just want to watch your team play without breaking the bank.
 
 ## Canadian Viewers Need Fubo
 

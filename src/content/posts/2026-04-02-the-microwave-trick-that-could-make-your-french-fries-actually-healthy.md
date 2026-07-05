@@ -29,7 +29,7 @@ Most of the traditional frying process happens under negative pressure, which is
 
 ## Where Microwaves Enter the Picture
 
-This is where the [Technology](https://infeeds.com/tags/?tag=technology) gets genuinely clever. Conventional ovens heat from the outside in. Microwave ovens work backwards, sending waves through the entire material that oscillate water molecules and generate heat from the inside out.
+This is where the [Technology](https://infeeds.com/tags/technology) gets genuinely clever. Conventional ovens heat from the outside in. Microwave ovens work backwards, sending waves through the entire material that oscillate water molecules and generate heat from the inside out.
 
 That internal heating creates something crucial: more vapor formation. More steam means higher internal pressure. Higher pressure means oil stays out.
 
@@ -51,7 +51,7 @@ It's elegant in its simplicity. And it's practical too. Takhar points out that e
 
 The research, published across two peer-reviewed papers and supported by USDA funding, offers something that's become increasingly rare: a genuine technological solution to a genuine problem that doesn't require consumers to compromise.
 
-But here's what's worth considering: if we can engineer healthier fried food, will we? Or will [Business](https://infeeds.com/tags/?tag=business) interests prioritize maximizing oil content for flavor and cost savings over adopting marginally more expensive hybrid frying methods?
+But here's what's worth considering: if we can engineer healthier fried food, will we? Or will [Business](https://infeeds.com/tags/business) interests prioritize maximizing oil content for flavor and cost savings over adopting marginally more expensive hybrid frying methods?
 
 The technology exists. The science works. The real question isn't whether we can make fried food less destructive to our health. It's whether the industry actually wants to.
 

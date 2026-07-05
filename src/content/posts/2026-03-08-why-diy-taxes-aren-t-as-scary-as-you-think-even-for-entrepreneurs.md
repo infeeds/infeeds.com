@@ -14,7 +14,7 @@ Let's be honest. Most entrepreneurs would rather deal with a client meltdown tha
 
 But here's the thing: you don't necessarily need to hire someone else to handle it.
 
-I'm not saying taxes are fun. They're not. But the barrier to entry for doing them yourself isn't as high as you might think, especially if you're already comfortable juggling multiple responsibilities as part of your [business](https://infeeds.com/tags/?tag=business) operations.
+I'm not saying taxes are fun. They're not. But the barrier to entry for doing them yourself isn't as high as you might think, especially if you're already comfortable juggling multiple responsibilities as part of your [business](https://infeeds.com/tags/business) operations.
 
 ## The Entrepreneurial Tax Problem
 

@@ -14,7 +14,7 @@ Every so often, a fossil emerges that makes you wonder what else we've been miss
 
 Researchers have just identified it as Xiphodracon goldencapensis, a brand new species of ichthyosaur that's earning the nickname "Sword Dragon of Dorset." The skeleton was discovered near Golden Cap on England's famous Jurassic Coast by collector Chris Moore, and it's absolutely spectacular. We're talking near-perfect three-dimensional preservation here, which is genuinely rare for fossils this old.
 
-What makes this find so significant isn't just that it's a new species. It's that this creature appears to be the missing link in a puzzle that's been frustrating <a href="https://infeeds.com/tags/?tag=science">paleontologists</a> for decades.
+What makes this find so significant isn't just that it's a new species. It's that this creature appears to be the missing link in a puzzle that's been frustrating <a href="https://infeeds.com/tags/science">paleontologists</a> for decades.
 
 ## The Gap That Needed Filling
 

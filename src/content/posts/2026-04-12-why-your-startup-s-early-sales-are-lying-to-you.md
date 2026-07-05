@@ -56,7 +56,7 @@ If you can't answer those questions confidently, you don't have a commercializat
 
 ## The Long Game
 
-Building a [business](https://infeeds.com/tags/?tag=business) that scales is slower, harder work than closing the next deal. It requires defining your market logic before you accelerate. It requires resisting the urge to chase every opportunity that walks through the door. It requires prioritizing clarity over speed.
+Building a [business](https://infeeds.com/tags/business) that scales is slower, harder work than closing the next deal. It requires defining your market logic before you accelerate. It requires resisting the urge to chase every opportunity that walks through the door. It requires prioritizing clarity over speed.
 
 But when commercialization is clear, sales become repeatable, scalable, and sustainable. You're not relying on founder hustle or personal relationships. You're operating a system. That system produces not just more sales, but better ones. Customers who stick around. Retention curves that actually work. Unit economics that make sense.
 

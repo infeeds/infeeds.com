@@ -20,7 +20,7 @@ Güven allegedly raised $7 million during Kalder's seed round in April 2024, and
 
 Here's the problem. Most of those brands were either on heavily discounted pilot programs or had no relationship with Kalder whatsoever. Some companies probably learned they were "clients" when the DOJ came knocking.
 
-The alleged fraud goes deeper than inflated client lists. Prosecutors claim Güven maintained two separate sets of financial books. One showed the real numbers, the disappointing ones that most early-stage [technology](https://infeeds.com/tags/?tag=technology) startups deal with. The other set had the fantasy numbers that made investors want to write checks.
+The alleged fraud goes deeper than inflated client lists. Prosecutors claim Güven maintained two separate sets of financial books. One showed the real numbers, the disappointing ones that most early-stage [technology](https://infeeds.com/tags/technology) startups deal with. The other set had the fantasy numbers that made investors want to write checks.
 
 ## The Pattern Continues
 
@@ -28,7 +28,7 @@ Sam Bankman-Fried is serving 25 years. Charlie Javice from Frank sold her startu
 
 And now Güven joins this illustrious group. The Forbes 30 Under 30 curse strikes again.
 
-What's particularly brazen about this case is the visa fraud allegation. The DOJ claims Güven used forged documents and lies about Kalder to obtain an O-1 visa, which is reserved for individuals with "extraordinary ability." Getting into the country on false pretenses to run a potentially fraudulent [business](https://infeeds.com/tags/?tag=business) operation shows a level of commitment to the bit that's almost impressive.
+What's particularly brazen about this case is the visa fraud allegation. The DOJ claims Güven used forged documents and lies about Kalder to obtain an O-1 visa, which is reserved for individuals with "extraordinary ability." Getting into the country on false pretenses to run a potentially fraudulent [business](https://infeeds.com/tags/business) operation shows a level of commitment to the bit that's almost impressive.
 
 ## When Everyone Looks Successful
 

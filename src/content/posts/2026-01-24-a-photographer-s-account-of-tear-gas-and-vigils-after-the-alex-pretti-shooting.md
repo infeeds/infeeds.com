@@ -28,9 +28,9 @@ The canisters make a distinctive sound when they go off, Garcia explains. They p
 
 Here's where the story takes an interesting turn that speaks to both resilience and tragedy. The community was ready. Not because they wanted to be, but because they'd been through this before with George Floyd's murder in 2020.
 
-Gregory Bovino, the head of US Border Patrol stationed in Minneapolis, apparently acknowledged this himself. He said community members there are "really prepared," which is a strange thing to have to say about civilians facing down [technology](https://infeeds.com/tags/?tag=technology) designed for crowd control and chemical weapons.
+Gregory Bovino, the head of US Border Patrol stationed in Minneapolis, apparently acknowledged this himself. He said community members there are "really prepared," which is a strange thing to have to say about civilians facing down [technology](https://infeeds.com/tags/technology) designed for crowd control and chemical weapons.
 
-People Garcia talked to said things like "I had my respirator ready from 2020." They'd simply restocked their supplies: decon wipes, first aid kits, safety equipment. It's become part of the [business](https://infeeds.com/tags/?tag=business) of protesting in Minneapolis, if you can call it that. Tables were set up at every event Garcia attended, offering food, water, and hand warmers. Especially important when temperatures weren't expected to climb above zero degrees.
+People Garcia talked to said things like "I had my respirator ready from 2020." They'd simply restocked their supplies: decon wipes, first aid kits, safety equipment. It's become part of the [business](https://infeeds.com/tags/business) of protesting in Minneapolis, if you can call it that. Tables were set up at every event Garcia attended, offering food, water, and hand warmers. Especially important when temperatures weren't expected to climb above zero degrees.
 
 What does it say about a place when its residents have to maintain protest gear the way other people maintain emergency preparedness kits?
 
@@ -42,6 +42,6 @@ Community members started building a makeshift vigil right there at the spot whe
 
 Garcia's account captures something raw about how communities process violence and state response in real time. There's no time to plan or organize in any formal sense. People just know what to do because they've had to do it before. They know where to find their respirators, how to set up mutual aid stations, how to create a memorial out of whatever materials are at hand.
 
-The tear gas burns your eyes and mouth, causes nausea, leaves some people with burning sensations on their skin. One reporter told Garcia his neck was burning badly enough that he needed decon wipes. This is the experience of documenting [news](https://infeeds.com/tags/?tag=news) in America in 2026, where the tools of war get deployed on city streets and both journalists and citizens have learned to expect it.
+The tear gas burns your eyes and mouth, causes nausea, leaves some people with burning sensations on their skin. One reporter told Garcia his neck was burning badly enough that he needed decon wipes. This is the experience of documenting [news](https://infeeds.com/tags/news) in America in 2026, where the tools of war get deployed on city streets and both journalists and citizens have learned to expect it.
 
 It's hard to know what's more disturbing: that this happened, or that everyone was so well-prepared for it to happen again.

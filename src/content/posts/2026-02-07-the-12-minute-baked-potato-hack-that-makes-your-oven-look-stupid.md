@@ -26,7 +26,7 @@ Here's what you do. Poke holes in your potato with a fork, throw it in the micro
 
 Then immediately transfer it to your air fryer set at 400°F for another 4 to 5 minutes. This is where the magic happens. The circulating hot air transforms that damp exterior into a legitimately crispy, salty shell that shatters when you bite into it.
 
-Total time? Twelve minutes from raw potato to something that tastes like you actually tried. This is the kind of [Technology](https://infeeds.com/tags/?tag=technology) shortcut that makes you wonder why anyone still does things the old way.
+Total time? Twelve minutes from raw potato to something that tastes like you actually tried. This is the kind of [Technology](https://infeeds.com/tags/technology) shortcut that makes you wonder why anyone still does things the old way.
 
 ## It's Not Cheating, It's Smart
 
@@ -36,6 +36,6 @@ The texture you get from this hybrid method rivals anything you'd pay $8 for at 
 
 This isn't some complicated recipe that requires perfect timing or special equipment. You probably already have both appliances. The only thing stopping you is habit, and that's a terrible reason to waste an hour of your evening.
 
-If you're already exploring ways to optimize your [kitchen](https://infeeds.com/tags/?tag=lifestyle) routine, this method fits perfectly into that mindset. The same logic applies to reheating leftovers or cooking other dense vegetables. Speed doesn't have to mean sacrificing quality when you understand how different appliances work together.
+If you're already exploring ways to optimize your [kitchen](https://infeeds.com/tags/lifestyle) routine, this method fits perfectly into that mindset. The same logic applies to reheating leftovers or cooking other dense vegetables. Speed doesn't have to mean sacrificing quality when you understand how different appliances work together.
 
 Stop acting like your oven timer is some kind of badge of honor and start treating your time like it actually matters.

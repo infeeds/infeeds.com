@@ -22,7 +22,7 @@ The newer versions of PrEP showed potential for minor weight gain in some studie
 
 "For many patients, the substantial reduction in HIV transmission risk will outweigh the potential concern about weight gain," Dapkins said, emphasizing that this should be discussed thoughtfully between patient and clinician.
 
-So here's the thing: medical professionals agree the panic is overblown. The side effects people are worried about either don't exist or are negligible. Yet the panic itself reveals something darker about where [health](https://infeeds.com/tags/?tag=health) culture sits in certain corners of gay life right now.
+So here's the thing: medical professionals agree the panic is overblown. The side effects people are worried about either don't exist or are negligible. Yet the panic itself reveals something darker about where [health](https://infeeds.com/tags/health) culture sits in certain corners of gay life right now.
 
 ## When Aesthetics Override Everything Else
 

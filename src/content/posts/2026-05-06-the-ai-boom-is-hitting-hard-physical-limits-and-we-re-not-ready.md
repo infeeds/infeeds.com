@@ -43,7 +43,7 @@ Her startup, Logical Intelligence, is built on energy-based models—a class of 
 
 Her largest model runs to 200 million parameters compared to the hundreds of billions in leading LLMs, and she claims it runs thousands of times faster. More importantly, it's designed to update knowledge as data changes rather than requiring complete retraining. For domains like chip design and robotics where systems need to grasp physical rules rather than linguistic patterns, she argues EBMs are the natural fit. "When you drive a car, you're not searching for patterns in any language. You look around you, understand the rules about the world around you, and make a decision."
 
-It's a compelling argument, especially now that the AI field is beginning to ask whether [technology](https://infeeds.com/tags/?tag=technology) built on scale alone is sustainable. The consensus is cracking.
+It's a compelling argument, especially now that the AI field is beginning to ask whether [technology](https://infeeds.com/tags/technology) built on scale alone is sustainable. The consensus is cracking.
 
 ## The New Business Model: Agents, Not Tools
 
@@ -61,7 +61,7 @@ Fouquet framed the competitive landscape differently than most silicon valley op
 
 China's AI progress is real. DeepSeek's release earlier this year sent something close to panic through parts of the industry. But that progress is constrained below the model layer. Without access to EUV lithography, Chinese chipmakers cannot manufacture the most advanced semiconductors. Models built on older hardware operate at a compounding disadvantage no matter how sophisticated the software becomes. "Today, in the United States, you have the data, you have the computing access, you have the chips, you have the talent. China does a very good job on the top of the stack, but is lacking some elements below," Fouquet said.
 
-It's a revealing asymmetry. The U.S. doesn't just lead in [business](https://infeeds.com/tags/?tag=business) and [technology](https://infeeds.com/tags/?tag=technology). It controls the physical layer that everyone else depends on.
+It's a revealing asymmetry. The U.S. doesn't just lead in [business](https://infeeds.com/tags/business) and [technology](https://infeeds.com/tags/technology). It controls the physical layer that everyone else depends on.
 
 ## The Question Everyone Avoids
 

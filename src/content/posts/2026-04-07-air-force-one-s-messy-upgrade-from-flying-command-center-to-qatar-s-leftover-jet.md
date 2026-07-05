@@ -12,7 +12,7 @@ For decades, Air Force One has been the ultimate symbol of American power. It's 
 
 Then Donald Trump decided to throw that entire playbook out the window.
 
-In May 2025, Trump accepted a Boeing 747-8 jet that had been donated by the Qatari royal family. Not built for him. Not designed for him. A repurposed luxury business jet from the Middle East, retrofitted on the fly (literally) to serve as Air Force One. It's the kind of move that perfectly captures Trump's approach to <a href="https://infeeds.com/tags/?tag=business">business</a>: why wait for the careful, methodical process when you can grab something shiny and available right now?
+In May 2025, Trump accepted a Boeing 747-8 jet that had been donated by the Qatari royal family. Not built for him. Not designed for him. A repurposed luxury business jet from the Middle East, retrofitted on the fly (literally) to serve as Air Force One. It's the kind of move that perfectly captures Trump's approach to <a href="https://infeeds.com/tags/business">business</a>: why wait for the careful, methodical process when you can grab something shiny and available right now?
 
 Except nothing about this has been shiny or quick.
 
@@ -50,7 +50,7 @@ The Qatari jet is different. It's a shortcut that assumes you can retrofit luxur
 
 Meanwhile, the original Boeing 747-8 Air Force One planes that were supposed to debut in 2027 are still stuck in development. Trump has pressured Boeing repeatedly to speed up the process. Biden had selected a baby-blue color scheme for those planes. Trump wanted red, white, and navy blue. The project keeps hitting delays that have already cost Boeing more than $2 billion.
 
-So now the US government is essentially running two competing Air Force One upgrade projects. The Boeing planes that don't exist yet. The Qatari plane that keeps returning to base with electrical issues. This isn't efficiency. It's <a href="https://infeeds.com/tags/?tag=business">business</a> as usual, which is to say it's a lot of money being spent while everyone waits to see what actually works.
+So now the US government is essentially running two competing Air Force One upgrade projects. The Boeing planes that don't exist yet. The Qatari plane that keeps returning to base with electrical issues. This isn't efficiency. It's <a href="https://infeeds.com/tags/business">business</a> as usual, which is to say it's a lot of money being spent while everyone waits to see what actually works.
 
 ## What This Says About Presidential Decision-Making
 

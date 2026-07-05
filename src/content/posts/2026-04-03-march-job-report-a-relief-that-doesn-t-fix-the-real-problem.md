@@ -36,7 +36,7 @@ For workers, that's real. Inflation may be cooling, but wage growth sliding belo
 
 ## What The Fed Does Next
 
-The Federal Reserve now faces a familiar balancing act. Inflation sits well above their 2% target, and they've been watching this [business](https://infeeds.com/tags/?tag=business) report closely to gauge whether rate cuts might be warranted. Following the March jobs data, futures markets showed virtually no probability of a move at the April 28-29 Federal Open Market Committee meeting. The odds of the Fed staying on hold through the end of the year? 77.5%, according to CME Group's FedWatch tool.
+The Federal Reserve now faces a familiar balancing act. Inflation sits well above their 2% target, and they've been watching this [business](https://infeeds.com/tags/business) report closely to gauge whether rate cuts might be warranted. Following the March jobs data, futures markets showed virtually no probability of a move at the April 28-29 Federal Open Market Committee meeting. The odds of the Fed staying on hold through the end of the year? 77.5%, according to CME Group's FedWatch tool.
 
 That's a long time to hold steady. Policymakers are taking a patient approach, though a vocal minority has argued for preemptive rate cuts to head off labor market weakness. With energy prices surging amid geopolitical tension and inflation still elevated, the consensus leans toward caution.
 

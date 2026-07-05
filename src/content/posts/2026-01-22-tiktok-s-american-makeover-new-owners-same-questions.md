@@ -16,7 +16,7 @@ So TikTok didn't die. It got a makeover instead.
 
 After a year of legal gymnastics and that brief moment when the app actually vanished from US app stores, TikTok is now technically American. Well, sort of. The app you're still scrolling at 2 AM is now owned by something called TikTok USDS Joint Venture LLC, a corporate entity that sounds like it was named by a committee of lawyers who hate vowels.
 
-ByteDance kept 19.9 percent. Everything else got divvied up among an investment consortium that reads like a who's who of [tech](https://infeeds.com/tags/?tag=technology) and finance heavy hitters. Silver Lake, Oracle, and Abu Dhabi's MGX each grabbed 15 percent stakes as "managing investors." Then there's Michael Dell's family office, a chunk going to Susquehanna International Group, and a handful of other firms with enough capital to make this whole thing happen.
+ByteDance kept 19.9 percent. Everything else got divvied up among an investment consortium that reads like a who's who of [tech](https://infeeds.com/tags/technology) and finance heavy hitters. Silver Lake, Oracle, and Abu Dhabi's MGX each grabbed 15 percent stakes as "managing investors." Then there's Michael Dell's family office, a chunk going to Susquehanna International Group, and a handful of other firms with enough capital to make this whole thing happen.
 
 ## The Numbers Game Nobody's Talking About
 
@@ -32,7 +32,7 @@ The new board has seven members, including Shou Zi Chew, who's still TikTok's US
 
 This creates a weird split personality situation. ByteDance's US entities still handle "global product interoperability" and commercial stuff like e-commerce, advertising, and marketing. The joint venture handles data security, content moderation, and trust and safety. Try explaining that structure at a party.
 
-The whole thing hinges on this concept of "interoperability" that lets US users still feel like they're part of global TikTok. American creators can still blow up internationally. [Businesses](https://infeeds.com/tags/?tag=business) can still run global campaigns. But your data supposedly stays here, and the algorithm learns from American scrolling habits instead of whatever ByteDance was doing before.
+The whole thing hinges on this concept of "interoperability" that lets US users still feel like they're part of global TikTok. American creators can still blow up internationally. [Businesses](https://infeeds.com/tags/business) can still run global campaigns. But your data supposedly stays here, and the algorithm learns from American scrolling habits instead of whatever ByteDance was doing before.
 
 ## The Real Question Everyone's Avoiding
 
@@ -42,7 +42,7 @@ The divest-or-ban law that Biden signed in 2024 was about national security conc
 
 Oracle's involvement is supposed to be the security blanket here. They're the "Trusted Security Partner" reviewing source code and making sure nothing sketchy happens in the background. But Oracle is also a commercial partner with skin in the game. They're hosting the infrastructure, they're part of the consortium. It's not exactly an arms-length audit relationship.
 
-The [technology](https://infeeds.com/tags/?tag=technology) behind content recommendation algorithms isn't simple either. Retraining it on US data sounds good, but algorithms are black boxes built on years of development and optimization. You can't just swap out the training data and call it a completely new system. The architecture, the design choices, the fundamental approach to engagement, that's all still there.
+The [technology](https://infeeds.com/tags/technology) behind content recommendation algorithms isn't simple either. Retraining it on US data sounds good, but algorithms are black boxes built on years of development and optimization. You can't just swap out the training data and call it a completely new system. The architecture, the design choices, the fundamental approach to engagement, that's all still there.
 
 What happens when the joint venture's trust and safety team disagrees with ByteDance's global team about what content is acceptable? Who wins that fight? The press release doesn't say, probably because nobody wants to think about it yet.
 

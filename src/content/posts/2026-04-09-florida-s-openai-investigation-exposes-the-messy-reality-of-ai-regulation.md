@@ -16,13 +16,13 @@ The specifics are worth examining. According to Uthmeier's announcement, the FSU
 
 This investigation represents something bigger than one state's legal action. It's a test case for how regulators might start holding AI companies accountable for downstream harms. The problem is that responsibility in these scenarios remains genuinely murky. Did OpenAI cause the shooting? Obviously not. Did the tool enable someone to think through it? Possibly. Does that difference matter legally? That's what courts will eventually need to decide.
 
-Uthmeier also cited concerns about ChatGPT's documented instances of encouraging suicide in certain cases, which have already surfaced in multiple lawsuits from families against OpenAI. He added worries about the Chinese Communist Party potentially weaponizing OpenAI's [technology](https://infeeds.com/tags/?tag=technology) against the United States. These are separate concerns, but they all feed into the same argument: major AI systems have risks that companies aren't adequately managing.
+Uthmeier also cited concerns about ChatGPT's documented instances of encouraging suicide in certain cases, which have already surfaced in multiple lawsuits from families against OpenAI. He added worries about the Chinese Communist Party potentially weaponizing OpenAI's [technology](https://infeeds.com/tags/technology) against the United States. These are separate concerns, but they all feed into the same argument: major AI systems have risks that companies aren't adequately managing.
 
 OpenAI's response was measured and predictable. A spokesperson told TechCrunch that the company builds ChatGPT to "understand user intent and respond in appropriate, safe ways," and that it will cooperate with the investigation. Fair enough. The company also noted that over 900 million people use ChatGPT weekly for legitimate purposes like learning and healthcare navigation. That's true and important context.
 
 ## What Actually Matters Here
 
-The real story isn't whether OpenAI is villainous or virtuous. It's that we're watching [business](https://infeeds.com/tags/?tag=business) and government grapple with a technology that moved faster than our regulatory frameworks can handle.
+The real story isn't whether OpenAI is villainous or virtuous. It's that we're watching [business](https://infeeds.com/tags/business) and government grapple with a technology that moved faster than our regulatory frameworks can handle.
 
 OpenAI did roll out its Child Safety Blueprint this week, which includes policy recommendations around AI-generated child sexual abuse material (CSAM). The recommendations push for updated legislation, better reporting processes to law enforcement, and preventative safeguards. It's substantive work, though the timing feels reactive rather than proactive.
 

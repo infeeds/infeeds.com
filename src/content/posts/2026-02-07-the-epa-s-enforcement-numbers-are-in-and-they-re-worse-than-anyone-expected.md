@@ -30,7 +30,7 @@ Here's a perfect example of what happens when enforcement takes a back seat. An 
 
 Then in 2023, the plant exploded. One worker went to the hospital. The Houston Ship Channel shut down temporarily. A fire burned for an hour.
 
-The "efficient" approach created a backlog that [regulators](https://infeeds.com/tags/?tag=business) are still trying to untangle. TCEQ eventually fined INEOS $2.3 million for violations between 2016 and 2021, but that's closing the barn door after the horses have already burned down the barn.
+The "efficient" approach created a backlog that [regulators](https://infeeds.com/tags/business) are still trying to untangle. TCEQ eventually fined INEOS $2.3 million for violations between 2016 and 2021, but that's closing the barn door after the horses have already burned down the barn.
 
 ## The Numbers Keep Getting Worse
 
@@ -50,7 +50,7 @@ The lack of lawsuits, weak penalties, and vanishing enforcement staff all point 
 
 Three different nonprofit groups have now documented the same trend using different datasets. Public Employees for Environmental Responsibility, Earthjustice, and now the Environmental Integrity Project all found enforcement cratering. This isn't a coincidence or a statistical blip.
 
-The Trump administration declared an "energy emergency" on day one and has been systematically favorable to fossil fuel companies ever since. Streamlining [industry](https://infeeds.com/tags/?tag=business) activities sounds great until you realize it means letting more pollution slide.
+The Trump administration declared an "energy emergency" on day one and has been systematically favorable to fossil fuel companies ever since. Streamlining [industry](https://infeeds.com/tags/business) activities sounds great until you realize it means letting more pollution slide.
 
 ## The Long Game
 

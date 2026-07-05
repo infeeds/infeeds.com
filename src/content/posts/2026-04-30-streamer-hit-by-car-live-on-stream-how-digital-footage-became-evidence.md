@@ -20,7 +20,7 @@ He'd already survived one serious car accident just six months prior, which had 
 
 ## When Documentation Becomes Testimony
 
-Here's where [Technology](https://infeeds.com/tags/?tag=technology) intersects with something more grounded than most people realize. When police arrived on the scene, Thomas didn't fumble through a verbal account or rely on a bystander's fuzzy recollection. Instead, he showed officers the video clip his moderator had captured from the live stream. A real-time, timestamped record of exactly what happened.
+Here's where [Technology](https://infeeds.com/tags/technology) intersects with something more grounded than most people realize. When police arrived on the scene, Thomas didn't fumble through a verbal account or rely on a bystander's fuzzy recollection. Instead, he showed officers the video clip his moderator had captured from the live stream. A real-time, timestamped record of exactly what happened.
 
 This isn't sci-fi thinking anymore. Live streams, dash cams, and personal recordings have quietly become standard evidence in accident investigations. It shifts the entire dynamic of an accident report from "he said, she said" to verifiable footage. Thomas was fortunate in this regard. Not everyone broadcasting their life has that advantage at the exact moment they need it.
 

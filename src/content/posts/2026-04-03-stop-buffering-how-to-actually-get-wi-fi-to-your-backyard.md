@@ -30,7 +30,7 @@ If repositioning and mesh adjustments don't fix things, hardware upgrades become
 
 **Mesh systems beat single routers** for extending coverage across a home or yard. If you're currently stuck with an old ISP-provided router, switching to a modern mesh system alone could transform your coverage. Most routers list square-footage range estimates, though your home's construction will impact real-world performance.
 
-Wi-Fi extenders get a bad reputation in <a href="https://infeeds.com/tags/?tag=technology">technology</a> circles, and rightfully so in many cases. They can be clunky and unreliable. That said, they're sometimes the most cost-effective way to target a single problematic spot without a full system overhaul.
+Wi-Fi extenders get a bad reputation in <a href="https://infeeds.com/tags/technology">technology</a> circles, and rightfully so in many cases. They can be clunky and unreliable. That said, they're sometimes the most cost-effective way to target a single problematic spot without a full system overhaul.
 
 ## Going Outdoors
 

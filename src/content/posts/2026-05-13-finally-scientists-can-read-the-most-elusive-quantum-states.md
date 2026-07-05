@@ -30,7 +30,7 @@ Their breakthrough hinged on recognizing a special feature of W states called cy
 
 It's elegant in the way the best solutions often are: work with what the system naturally wants to do, rather than against it.
 
-To test the idea in practice, the team built a device for three photons using what they call "highly stable optical quantum circuits." Here's what matters: the system ran for extended periods without needing active control. In real [technology](https://infeeds.com/tags/?tag=technology) development, this is everything. It means the setup isn't so fragile that it requires constant lab adjustment. It means it could actually scale into something practical someday.
+To test the idea in practice, the team built a device for three photons using what they call "highly stable optical quantum circuits." Here's what matters: the system ran for extended periods without needing active control. In real [technology](https://infeeds.com/tags/technology) development, this is everything. It means the setup isn't so fragile that it requires constant lab adjustment. It means it could actually scale into something practical someday.
 
 The researchers fed three single photons into the device in carefully chosen polarization states. The device then distinguished between different kinds of three-photon W states, each representing specific nonclassical correlations among the photons. When researchers tested the fidelity of the measurement—the probability it gives the correct result when the input is a pure W state—it worked.
 

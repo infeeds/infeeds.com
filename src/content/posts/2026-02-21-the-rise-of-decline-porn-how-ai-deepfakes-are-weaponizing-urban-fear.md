@@ -30,7 +30,7 @@ RadialB claims he didn't intend for his "roadmen" characters to be a particular 
 
 Here's where things get really worrying. Once RadialB's videos started getting traction, copycat accounts popped up everywhere. Users from Israel to Brazil started re-sharing them, sometimes translating them into Arabic or other languages. Some accounts even pretended to be British news outlets, exclusively sharing either these AI-generated videos or other negative content about UK and US cities.
 
-The barrier to entry for this kind of [technology](https://infeeds.com/tags/?tag=technology) is lower than ever. AI image generators have become so good, so accessible, and so easy to use that anyone with a laptop can manufacture convincing fake footage in minutes. RadialB himself acknowledges this: "It hugely lowers the barrier for entry for anyone who wants to make fake stuff."
+The barrier to entry for this kind of [technology](https://infeeds.com/tags/technology) is lower than ever. AI image generators have become so good, so accessible, and so easy to use that anyone with a laptop can manufacture convincing fake footage in minutes. RadialB himself acknowledges this: "It hugely lowers the barrier for entry for anyone who wants to make fake stuff."
 
 What started as one person's idea has become a full ecosystem of grifters, engagement farmers, and international accounts all profiting off the same divisive narratives. They're not creating the decline porn trend. They're scaling it. They're monetizing it. They're weaponizing it.
 

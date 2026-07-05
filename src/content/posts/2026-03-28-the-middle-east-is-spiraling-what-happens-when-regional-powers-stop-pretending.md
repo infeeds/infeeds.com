@@ -42,7 +42,7 @@ The chaos isn't staying contained. Major airports across the region are shutting
 
 There's also a low-key battle happening inside Iraq between Iran-backed militias and the Iraqi government, which actually pays some of their salaries. Let that sink in for a second. The government is literally paying the militias that are fighting against state control. Kurdish leaders are getting targeted. It's like watching a country come apart at the seams in real time.
 
-Related to this broader <a href="https://infeeds.com/tags/?tag=geopolitics">geopolitics</a> situation, the stakes couldn't be higher for nations trying to maintain stability in their own regions.
+Related to this broader <a href="https://infeeds.com/tags/geopolitics">geopolitics</a> situation, the stakes couldn't be higher for nations trying to maintain stability in their own regions.
 
 ## The Real Question
 

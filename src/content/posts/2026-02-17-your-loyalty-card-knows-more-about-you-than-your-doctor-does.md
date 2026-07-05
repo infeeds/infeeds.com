@@ -14,7 +14,7 @@ That little keychain card promising you discounts at the grocery store? It's not
 
 They're not.
 
-For decades, we've been trained like Pavlov's dogs. Swipe here, save a dollar. Enter your phone number, get points. Buy ten, get one free. The whole system felt transactional and fair. You gave them repeat [business](https://infeeds.com/tags/?tag=business), they gave you savings.
+For decades, we've been trained like Pavlov's dogs. Swipe here, save a dollar. Enter your phone number, get points. Buy ten, get one free. The whole system felt transactional and fair. You gave them repeat [business](https://infeeds.com/tags/business), they gave you savings.
 
 But that's the surface story, the one designed to make everyone comfortable while something much bigger happens beneath.
 
@@ -40,7 +40,7 @@ This transformation didn't require permission or announcement. It just required 
 
 ## The Personalization Trap
 
-Entrepreneurs building [technology](https://infeeds.com/tags/?tag=technology) platforms today are told that personalization is everything. Know your customer. Meet them where they are. Deliver relevance at scale.
+Entrepreneurs building [technology](https://infeeds.com/tags/technology) platforms today are told that personalization is everything. Know your customer. Meet them where they are. Deliver relevance at scale.
 
 Nobody mentions that personalization is a two-way mirror.
 
@@ -76,7 +76,7 @@ That loss is hard to measure until it's gone, and then it's nearly impossible to
 
 ## The Model Nobody's Building Yet
 
-Here's what keeps me up at night. Every founder building a consumer [business](https://infeeds.com/tags/?tag=business) today faces a choice, even if they don't realize it.
+Here's what keeps me up at night. Every founder building a consumer [business](https://infeeds.com/tags/business) today faces a choice, even if they don't realize it.
 
 You can follow the incumbent model and quietly extract as much data as possible, hiding behind legal terms that nobody reads. Or you can intentionally redesign the relationship and build something fundamentally different.
 

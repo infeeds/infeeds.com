@@ -34,7 +34,7 @@ Use the KonMari method here: does it bring you joy? Does it fit your body well r
 
 ## Deal With It Immediately
 
-This is crucial and most people mess it up. Once you've sorted everything, don't let the donate bag sit in your hallway for three months. Take it to a [charity drop-off](https://infeeds.com/tags/?tag=news) right away. Throw the trash out immediately. Get items that need repair to a tailor or cleaner that same day.
+This is crucial and most people mess it up. Once you've sorted everything, don't let the donate bag sit in your hallway for three months. Take it to a [charity drop-off](https://infeeds.com/tags/news) right away. Throw the trash out immediately. Get items that need repair to a tailor or cleaner that same day.
 
 The longer you let these piles sit around, the more likely you are to second-guess your decisions and stuff things back into your closet. Momentum matters.
 

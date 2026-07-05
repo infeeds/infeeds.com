@@ -54,7 +54,7 @@ Joy literally changes your body's internal chemistry. It's not just a nice feeli
 
 I remember reading this and thinking: Why is nobody talking about this? Why do we only celebrate grit and toughness? Why is joy treated like a luxury you earn after you're already healed?
 
-The [lifestyle](https://infeeds.com/tags/?tag=lifestyle) industry loves to talk about wellness routines and self-care practices, but rarely does anyone mention joy as an active ingredient in healing. We're sold supplements and workout plans and meditation apps, but the conversation about finding delight in the middle of suffering? That's weirdly absent.
+The [lifestyle](https://infeeds.com/tags/lifestyle) industry loves to talk about wellness routines and self-care practices, but rarely does anyone mention joy as an active ingredient in healing. We're sold supplements and workout plans and meditation apps, but the conversation about finding delight in the middle of suffering? That's weirdly absent.
 
 ## The War I Didn't Know I Was Fighting
 
@@ -90,7 +90,7 @@ Maybe you can't hike or travel or exercise. But maybe you can sit in a patch of 
 
 One moment of joy a day is still momentum. One minute is still connection. You don't have to wait until you feel good to deserve access to joy. You're worthy of it simply because you're alive.
 
-The [health](https://infeeds.com/tags/?tag=health) conversation around chronic illness tends to focus exclusively on symptom management and medical intervention, but this misses the human experience entirely. We're not just bodies to be fixed. We're people trying to remember how to live while we heal.
+The [health](https://infeeds.com/tags/health) conversation around chronic illness tends to focus exclusively on symptom management and medical intervention, but this misses the human experience entirely. We're not just bodies to be fixed. We're people trying to remember how to live while we heal.
 
 ## Joy Deficiency Is Real
 

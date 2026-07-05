@@ -46,11 +46,11 @@ The delay proved fortunate. By the time Cerebras actually went public, OpenAI an
 
 ## The Numbers
 
-Benchmark bought roughly 80% of its current stake in the early rounds for about $18 million, according to various disclosures and Vishria's own comments. The remaining 20% cost around $250 million at later, pricier rounds. Total [Technology](https://infeeds.com/tags/?tag=technology) investment: approximately $270 million.
+Benchmark bought roughly 80% of its current stake in the early rounds for about $18 million, according to various disclosures and Vishria's own comments. The remaining 20% cost around $250 million at later, pricier rounds. Total [Technology](https://infeeds.com/tags/technology) investment: approximately $270 million.
 
 At the IPO's opening price of $185 per share, Benchmark's 17.6 million shares were worth $3.3 billion. By the end of the first day of trading, as the stock climbed above $300, that stake was worth over $5.3 billion. The firm can't sell any of those shares for six months due to standard lockup restrictions, but when that window opens, the return will be staggering.
 
-It's the kind of outcome that makes venture capital tick, and it's particularly remarkable coming from a firm that made its name by being ruthlessly selective about which [Business](https://infeeds.com/tags/?tag=business) investments it even considers. Benchmark is the firm that fires founders and makes major strategic bets, often concentrating capital in a small number of companies rather than diversifying across dozens of middle-tier prospects.
+It's the kind of outcome that makes venture capital tick, and it's particularly remarkable coming from a firm that made its name by being ruthlessly selective about which [Business](https://infeeds.com/tags/business) investments it even considers. Benchmark is the firm that fires founders and makes major strategic bets, often concentrating capital in a small number of companies rather than diversifying across dozens of middle-tier prospects.
 
 This win came because Vishria's assistant forced him to take a meeting he didn't want to take. When asked if that assistant would be getting a nice bonus, Vishria laughed and said, "I think she'll do well, very well."
 

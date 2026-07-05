@@ -30,7 +30,7 @@ Intel has also jumped in, recently rolling out its own Precompiled Shader Delive
 
 ## Why This Matters Now
 
-The shader compilation problem has lingered for years. Driver updates create new shader variants, and if a game hasn't precompiled them, your GPU has to do it on the fly when you load in. It's a technical debt that shouldn't require three separate [technology](https://infeeds.com/tags/?tag=technology) companies to solve, but here we are.
+The shader compilation problem has lingered for years. Driver updates create new shader variants, and if a game hasn't precompiled them, your GPU has to do it on the fly when you load in. It's a technical debt that shouldn't require three separate [technology](https://infeeds.com/tags/technology) companies to solve, but here we are.
 
 What's encouraging is the collaborative angle. Instead of each company building entirely proprietary solutions, there's momentum toward a unified standard through Microsoft's framework. That's the kind of industry alignment that actually benefits players.
 

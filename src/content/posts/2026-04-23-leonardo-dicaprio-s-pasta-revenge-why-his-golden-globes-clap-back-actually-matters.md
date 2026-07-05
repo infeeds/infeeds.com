@@ -22,7 +22,7 @@ Here's what makes this interesting: DiCaprio could have ignored her entirely. He
 
 That's not an accident. That's strategy wrapped in humor.
 
-In a [news](https://infeeds.com/tags/?tag=news) cycle where celebrities typically respond to criticism with silence or anger, DiCaprio's pasta gambit feels almost quaint. Graceful, even. It defuses tension without apologizing for anything. It acknowledges the joke without dignifying it with a defensive response. It's the closest thing to a power move in the world of [entertainment](https://infeeds.com/tags/?tag=entertainment) politics.
+In a [news](https://infeeds.com/tags/news) cycle where celebrities typically respond to criticism with silence or anger, DiCaprio's pasta gambit feels almost quaint. Graceful, even. It defuses tension without apologizing for anything. It acknowledges the joke without dignifying it with a defensive response. It's the closest thing to a power move in the world of [entertainment](https://infeeds.com/tags/entertainment) politics.
 
 ## When Roasting Gets Real
 

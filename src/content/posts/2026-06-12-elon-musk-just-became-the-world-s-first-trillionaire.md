@@ -28,7 +28,7 @@ That's a striking imbalance. The horizontal block representing his wealth is con
 
 ## The Tech Takeover of the Rich List
 
-This milestone also underscores how completely the global wealth rankings have shifted toward [Technology](https://infeeds.com/tags/?tag=technology) over the past decade. Back in 2015, only two of the world's top 10 richest people came from the tech sector. Today? Seven of the top ten are tech titans, and the entire top six is made up of people from our industry.
+This milestone also underscores how completely the global wealth rankings have shifted toward [Technology](https://infeeds.com/tags/technology) over the past decade. Back in 2015, only two of the world's top 10 richest people came from the tech sector. Today? Seven of the top ten are tech titans, and the entire top six is made up of people from our industry.
 
 That's a dramatic change from the era when fortunes were built in finance, manufacturing, and old-school industry. Now the world's wealthiest are the people building electric cars, rockets, social platforms, and brain-computer interfaces. Musk owns stakes in The Boring Company and Neuralink alongside his main holdings, further cementing his grip on multiple futuristic sectors.
 

@@ -46,7 +46,7 @@ Consider the alternative trajectory. A founder builds real expertise in a domain
 
 ## The Uncomfortable Truth About Attention
 
-<a href="https://infeeds.com/tags/?tag=business">Attention in the modern business</a> landscape is increasingly commoditized. Anyone with the right playbook, enough capital, or a clever algorithm hack can manufacture their way to scale. The difference between a flash-in-the-pan viral moment and a durable, high-margin business isn't the quality of your content hooks. It's whether your audience fundamentally believes what you say.
+<a href="https://infeeds.com/tags/business">Attention in the modern business</a> landscape is increasingly commoditized. Anyone with the right playbook, enough capital, or a clever algorithm hack can manufacture their way to scale. The difference between a flash-in-the-pan viral moment and a durable, high-margin business isn't the quality of your content hooks. It's whether your audience fundamentally believes what you say.
 
 Founders must stop treating their audience like a natural resource to be mined. Start treating them like partners in a long-term ecosystem. Every dollar made today either strengthens or weakens your authority for tomorrow. There's no neutral position. Every commercial decision is either compounding trust or compounding debt.
 

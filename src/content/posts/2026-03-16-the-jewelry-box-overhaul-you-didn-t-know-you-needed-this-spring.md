@@ -18,7 +18,7 @@ For decades, jewelry shopping meant one thing: pay premium prices for heritage n
 
 Brands like Quince changed that equation entirely. By cutting out the middleman and sourcing straight from manufacturers, they're offering solid gold jewelry starting at 50 bucks. That's not costume jewelry pricing. That's actual gold. The pieces hold up too. One editor tested Quince jewelry all summer, wearing pieces constantly in salt water and sun, and they came out fine.
 
-What's interesting about this shift in [business](https://infeeds.com/tags/?tag=business) isn't just the price drop, it's that consumers suddenly realized they'd been overpaying for branding. Once you've worn a piece from a direct-to-consumer brand for six months without it falling apart, you start questioning why anyone would ever pay three times as much for the heritage name equivalent.
+What's interesting about this shift in [business](https://infeeds.com/tags/business) isn't just the price drop, it's that consumers suddenly realized they'd been overpaying for branding. Once you've worn a piece from a direct-to-consumer brand for six months without it falling apart, you start questioning why anyone would ever pay three times as much for the heritage name equivalent.
 
 ## The Hypoallergenic Revolution Nobody Talks About
 

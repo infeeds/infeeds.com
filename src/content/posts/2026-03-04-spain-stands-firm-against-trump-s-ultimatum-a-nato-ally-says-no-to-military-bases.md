@@ -30,7 +30,7 @@ This is where things get interesting. The United States military had already rel
 
 Spanish Prime Minister Pedro Sánchez went on the offensive in his response, defending his government's position without even mentioning Trump by name. "No to breaking the international law that protects us all, especially the most defenseless, the civilian population," Sánchez said. He called for diplomatic solutions, not military escalation.
 
-## A Country Divided on [politics](https://infeeds.com/tags/?tag=politics)
+## A Country Divided on [politics](https://infeeds.com/tags/politics)
 
 Here's where it gets complicated. Spain's government is held together by a coalition of smaller parties, led by Sánchez's Socialist Party. But the opposition Conservative Popular Party? They're siding with the U.S. and Israel, publicly criticizing Sánchez for his refusal to cooperate.
 

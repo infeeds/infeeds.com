@@ -24,7 +24,7 @@ Here's the kicker: Microsoft apparently knew about this issue since January. Tha
 
 ## Why This Keeps Happening
 
-Nader Henein, an analyst at Gartner who focuses on data protection and AI governance, didn't mince words. He said "this sort of fumble is unavoidable" given how fast companies are rushing to roll out new AI features. The [Technology](https://infeeds.com/tags/?tag=technology) industry is in an all-out sprint right now, and quality control is taking a backseat.
+Nader Henein, an analyst at Gartner who focuses on data protection and AI governance, didn't mince words. He said "this sort of fumble is unavoidable" given how fast companies are rushing to roll out new AI features. The [Technology](https://infeeds.com/tags/technology) industry is in an all-out sprint right now, and quality control is taking a backseat.
 
 The pressure is immense. Every tech company is terrified of being left behind in the AI race, so they're shipping features faster than they can properly test them. Organizations trying to use these tools often don't have the governance frameworks in place to manage each new capability that gets dropped into their laps.
 
@@ -36,7 +36,7 @@ Professor Alan Woodward from the University of Surrey pointed out something cruc
 
 The bug notice also appeared on a support dashboard for NHS workers in England, with the root cause listed as a "code issue." That means healthcare workers in one of the world's largest health services potentially had their confidential communications processed by an AI that wasn't supposed to touch them.
 
-The NHS told the BBC that patient information wasn't exposed since the emails stayed with their creators. But that's cold comfort when you're talking about a system handling sensitive medical data and professional communications. The stakes are different when [Business](https://infeeds.com/tags/?tag=business) emails might contain patient details or confidential medical discussions.
+The NHS told the BBC that patient information wasn't exposed since the emails stayed with their creators. But that's cold comfort when you're talking about a system handling sensitive medical data and professional communications. The stakes are different when [Business](https://infeeds.com/tags/business) emails might contain patient details or confidential medical discussions.
 
 ## The Real Cost of Moving Fast and Breaking Things
 
@@ -44,7 +44,7 @@ This incident is a perfect example of what happens when Silicon Valley's "move f
 
 Microsoft 365 Copilot Chat is marketed specifically to enterprise customers who pay for stricter controls and security protections. These aren't free consumer products where users are the actual product. Organizations are paying real money for the promise of secure AI assistance.
 
-The fact that a "configuration issue" could bypass confidential labels and data loss prevention policies raises uncomfortable questions about how these [AI](https://infeeds.com/tags/?tag=ai) systems are architected in the first place. If a simple configuration problem can expose protected content, what else might go wrong?
+The fact that a "configuration issue" could bypass confidential labels and data loss prevention policies raises uncomfortable questions about how these [AI](https://infeeds.com/tags/ai) systems are architected in the first place. If a simple configuration problem can expose protected content, what else might go wrong?
 
 ## Nobody Wanted to Be the Downer
 

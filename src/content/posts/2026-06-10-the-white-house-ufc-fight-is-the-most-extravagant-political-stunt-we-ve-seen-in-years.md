@@ -30,7 +30,7 @@ The National Park Service pushed back hard in its court filing, detailing the ex
 
 That's quite a stretch from a federal agency tasked with protecting public lands.
 
-Look, I've covered enough [news](https://infeeds.com/tags/?tag=news) to know that political spectacles are nothing new. Presidents have always found ways to merge entertainment with the trappings of power. But there's something particularly jarring about this one. The scale, the expense, the sheer audacity of transforming the White House grounds into a sports arena — it feels less like a celebration of American democracy and more like a branding exercise.
+Look, I've covered enough [news](https://infeeds.com/tags/news) to know that political spectacles are nothing new. Presidents have always found ways to merge entertainment with the trappings of power. But there's something particularly jarring about this one. The scale, the expense, the sheer audacity of transforming the White House grounds into a sports arena — it feels less like a celebration of American democracy and more like a branding exercise.
 
 And let's talk about the athletes for a moment. The filing mentions fourteen fighters competing, and their preparation is brutal. Months of training, intense weight cutting in the final week that can include fasting, extreme sauna use, and hot Epsom salt baths. Some could be shaving as much as 20 pounds before weigh-ins. These are professional athletes giving everything for their sport, and now their careers intersect with a political event that could literally be shut down by a federal judge at the last minute.
 

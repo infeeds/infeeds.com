@@ -12,7 +12,7 @@ There's a particular kind of cruelty in being told your pain is normal. Not just
 
 Candice Guardino's story is one of those narratives that hits differently once you understand what was actually happening behind the scenes. At 34, she was backstage at a sold-out comedy show, doubled over in pain, injecting herself with IVF hormones into a stomach already bruised from weeks of treatment. The audience was sipping drinks, laughing, completely unaware that the performer about to take the stage was quietly praying her body would cooperate enough for her to stand upright under the lights.
 
-But this wasn't about a bad day. This was the culmination of nearly two decades of being gaslit by the <a href="https://infeeds.com/tags/?tag=health" target="_blank">medical</a> establishment.
+But this wasn't about a bad day. This was the culmination of nearly two decades of being gaslit by the <a href="https://infeeds.com/tags/health" target="_blank">medical</a> establishment.
 
 ## When Pain Gets Dismissed as Just Part of Being a Woman
 
@@ -50,7 +50,7 @@ She was lucky, though. Not because the medical system worked well. But because s
 
 What's infuriating about endometriosis isn't just the condition itself. It's the culture of silence around it. Women smile through meetings. They power through presentations. They perform comedy onstage while pain radiates through their bodies. The world doesn't see the heating pad, the injections, or the quiet tears in bathroom stalls.
 
-Studies on <a href="https://infeeds.com/tags/?tag=health" target="_blank">women's health</a> disparities show this pattern repeating endlessly. Women are more likely to have their pain attributed to psychological causes. Women are more likely to be prescribed sedatives instead of proper diagnostics. Women are more likely to wait significantly longer for a diagnosis than men presenting with similar symptoms.
+Studies on <a href="https://infeeds.com/tags/health" target="_blank">women's health</a> disparities show this pattern repeating endlessly. Women are more likely to have their pain attributed to psychological causes. Women are more likely to be prescribed sedatives instead of proper diagnostics. Women are more likely to wait significantly longer for a diagnosis than men presenting with similar symptoms.
 
 Guardino's path from teenager with "normal period pain" to woman in urgent need of major surgery wasn't an anomaly. It's the default experience for millions of women seeking answers within a system that simply wasn't built to listen to them.
 

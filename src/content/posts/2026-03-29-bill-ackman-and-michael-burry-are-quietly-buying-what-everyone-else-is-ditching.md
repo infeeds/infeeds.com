@@ -24,7 +24,7 @@ Ackman went further. He called Fannie and Freddie "stupidly cheap" and suggested
 
 When you're down 40% for the year, I guess "stupid" cheapness starts to look appealing.
 
-## Why This Matters for <a href="https://infeeds.com/tags/?tag=business">Business</a>
+## Why This Matters for <a href="https://infeeds.com/tags/business">Business</a>
 
 The stock market has a way of punishing things it's already decided are guilty. Fannie and Freddie carry the original sin of 2008. Institutional investors, retail traders, pension funds, everybody's still mad at them. That collective anger has kept these companies trading at valuations that would make a distressed asset look expensive.
 

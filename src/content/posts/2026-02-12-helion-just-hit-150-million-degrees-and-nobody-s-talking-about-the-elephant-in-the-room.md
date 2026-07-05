@@ -18,7 +18,7 @@ They've promised Microsoft electricity by 2028. That's not coming from Polaris, 
 
 The fusion space has become absurdly crowded with money. Inertia Enterprises just pulled in $450 million this week. Commonwealth Fusion Systems raised $863 million last summer with Google and Nvidia writing checks. Type One Energy is chasing $250 million. Helion itself grabbed $425 million last year from Sam Altman's group and SoftBank.
 
-All this cash is flooding into [Technology](https://infeeds.com/tags/?tag=technology) that might not produce grid power for another decade, despite what the press releases suggest. Most startups are targeting the early 2030s for actual electricity delivery. Helion is the outlier with that Microsoft contract, which makes their timeline either incredibly ambitious or incredibly risky depending on how generous you're feeling.
+All this cash is flooding into [Technology](https://infeeds.com/tags/technology) that might not produce grid power for another decade, despite what the press releases suggest. Most startups are targeting the early 2030s for actual electricity delivery. Helion is the outlier with that Microsoft contract, which makes their timeline either incredibly ambitious or incredibly risky depending on how generous you're feeling.
 
 What's interesting is how different everyone's approach actually is. Commonwealth uses a tokamak, that classic doughnut shape with massive magnets. They need plasma above 100 million degrees. Helion went with a field-reversed configuration that looks like an hourglass, and they need temperatures around 200 million degrees to hit their sweet spot.
 
@@ -38,7 +38,7 @@ The mechanics of Helion's reactor are genuinely wild. Fuel gets injected at both
 
 All of this happens in less than a millisecond. It's the kind of process that sounds simple when you describe it in a sentence but involves solving about a thousand engineering problems that would make most people quit and become accountants instead.
 
-Over the past year, Helion refined circuits in the reactor to boost electricity recovery. These are the kinds of incremental improvements that don't make headlines but actually matter for whether this whole thing can work as a [Business](https://infeeds.com/tags/?tag=business) instead of just a really expensive science experiment.
+Over the past year, Helion refined circuits in the reactor to boost electricity recovery. These are the kinds of incremental improvements that don't make headlines but actually matter for whether this whole thing can work as a [Business](https://infeeds.com/tags/business) instead of just a really expensive science experiment.
 
 Kirtley hinted that other fusion companies might eventually want to buy helium-3 from Helion once they realize direct electricity recovery is more efficient. It's an interesting pivot to think about becoming a fuel supplier to your competitors, but that's probably years away if it happens at all.
 

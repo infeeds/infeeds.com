@@ -40,6 +40,6 @@ The answer, he suggests, is velocity and trust. Nvidia has already shipped billi
 
 There's a real tension here worth acknowledging. Huang's optimism about a new $200 billion market feels earned given Nvidia's track record of execution. But the competitive dynamics in chip design are shifting. When your biggest customers are also your most capable competitors, claiming a monopoly on any new chip category gets harder to defend.
 
-Vera could absolutely become the standard for agentic [Technology](https://infeeds.com/tags/?tag=technology) stacks across the industry. Or it could become one option among many, with AWS, Google, and others carving out their own fiefdoms over time.
+Vera could absolutely become the standard for agentic [Technology](https://infeeds.com/tags/technology) stacks across the industry. Or it could become one option among many, with AWS, Google, and others carving out their own fiefdoms over time.
 
 The difference between those outcomes isn't billions. It's hundreds of billions. And that's probably why Wall Street remains anxious despite Nvidia's dominance. Dominance breeds the incentive to compete.

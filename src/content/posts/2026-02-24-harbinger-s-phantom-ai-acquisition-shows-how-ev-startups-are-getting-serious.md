@@ -28,7 +28,7 @@ This is where the acquisition actually makes sense beyond just chasing revenue. 
 
 Harris pointed out the obvious problem: these vehicles spend their time in neighborhoods delivering packages, backing up to loading docks, and navigating spaces packed with pedestrians and bicyclists. It's a high-risk environment, yet the industry has somehow normalized operating without basic safety tech.
 
-Phantom AI's driver assistance technology addresses exactly this gap. It's not about cutting-edge autonomous features from <a href="https://infeeds.com/tags/?tag=technology">Technology</a> developed in 2026. It's about bringing commodity safety features from a decade ago to a market segment that's been completely overlooked.
+Phantom AI's driver assistance technology addresses exactly this gap. It's not about cutting-edge autonomous features from <a href="https://infeeds.com/tags/technology">Technology</a> developed in 2026. It's about bringing commodity safety features from a decade ago to a market segment that's been completely overlooked.
 
 ## The Vertical Integration Play
 
@@ -36,13 +36,13 @@ Last month, Harbinger announced it would start selling battery packs for energy 
 
 This strategy makes sense when you're competing against established automakers with massive resources. By owning more of the stack, Harbinger can offer better integration, faster iteration, and potentially better margins. It's not a new playbook, but it's one that actually works when executed properly.
 
-The fact that Phantom AI's 30-person team, including leadership, will stay in Mountain View is worth noting too. This isn't a classic Silicon Valley acquisition where the acquired company gets absorbed and talent walks. Harbinger is keeping the team intact and independent, which suggests they're serious about nurturing this as a standalone <a href="https://infeeds.com/tags/?tag=business">Business</a> unit rather than just strip-mining the technology.
+The fact that Phantom AI's 30-person team, including leadership, will stay in Mountain View is worth noting too. This isn't a classic Silicon Valley acquisition where the acquired company gets absorbed and talent walks. Harbinger is keeping the team intact and independent, which suggests they're serious about nurturing this as a standalone <a href="https://infeeds.com/tags/business">Business</a> unit rather than just strip-mining the technology.
 
 ## What This Means for the EV Truck Space
 
 Every startup wants to be a unicorn, but most fail because they try to do too much too fast. Harbinger seems to be taking a different approach: dominate trucks first, then use that foothold to build out adjacent businesses. The $160 million funding round gives them the runway to make that work.
 
-The ZF Group deal is particularly telling. ZF doesn't partner with startups for fun or profit sharing. They partner when they think a company has real, defensible technology that their customers want. If this <a href="https://infeeds.com/tags/?tag=news">News</a> announcement lands well, expect other Tier 1 suppliers and OEMs to start knocking on Harbinger's door.
+The ZF Group deal is particularly telling. ZF doesn't partner with startups for fun or profit sharing. They partner when they think a company has real, defensible technology that their customers want. If this <a href="https://infeeds.com/tags/news">News</a> announcement lands well, expect other Tier 1 suppliers and OEMs to start knocking on Harbinger's door.
 
 There's still a ton of execution risk here. Software businesses require different expertise than hardware manufacturing, and Harbinger will need to prove it can manage both simultaneously. But at least they're trying to solve real problems in a market that desperately needs solutions rather than chasing hype.
 

@@ -30,7 +30,7 @@ Trump's rhetoric has been all over the place. Earlier on Wednesday, he posted on
 
 Iran, unsurprisingly, is denying Trump's ceasefire claim. The Islamic Republic said the waterway remains "decisively and dominantly under the control of the IRGC Navy" and that it won't reopen based on what it called the U.S. leader's "absurd displays."
 
-This is the pattern now. Both sides contradict each other constantly. Trump says talks are progressing; Iran says they're not. Trump signals military drawdown; then reports emerge that the U.S. is preparing to send thousands more troops. When the two most powerful voices in a conflict keep giving contradictory signals, markets price in the worst-case scenario. That worst case right now is a prolonged conflict that keeps the Strait closed and keeps <a href="https://infeeds.com/tags/?tag=business">Business</a> energy costs elevated.
+This is the pattern now. Both sides contradict each other constantly. Trump says talks are progressing; Iran says they're not. Trump signals military drawdown; then reports emerge that the U.S. is preparing to send thousands more troops. When the two most powerful voices in a conflict keep giving contradictory signals, markets price in the worst-case scenario. That worst case right now is a prolonged conflict that keeps the Strait closed and keeps <a href="https://infeeds.com/tags/business">Business</a> energy costs elevated.
 
 Oil at $110 isn't just a number. It ripples through everything else. It hits shipping costs, it affects inflation, it changes what companies will invest in. And it all traces back to the simple fact that nobody, including Trump himself, seems sure what happens next.
 

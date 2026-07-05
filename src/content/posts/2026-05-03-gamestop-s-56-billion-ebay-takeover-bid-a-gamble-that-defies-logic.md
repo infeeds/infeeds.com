@@ -18,7 +18,7 @@ But Cohen clearly thinks he's spotted something. He told the Wall Street Journal
 
 Here's where it gets interesting. GameStop has apparently accumulated around 5% of eBay's shares already, giving it enough skin in the game to push this narrative seriously. The company also secured a commitment letter from TD Bank for roughly $20 billion in debt financing, meaning Cohen didn't just float this idea over lunch.
 
-The <a href="https://infeeds.com/tags/?tag=technology">technology</a> and <a href="https://infeeds.com/tags/?tag=business">business</a> worlds love underdog stories, and Cohen has already lived one. He took GameStop from a struggling brick-and-mortar chain and kept it relevant, at least as a cultural symbol. Whether he can actually turn eBay into an Amazon killer is a different beast entirely.
+The <a href="https://infeeds.com/tags/technology">technology</a> and <a href="https://infeeds.com/tags/business">business</a> worlds love underdog stories, and Cohen has already lived one. He took GameStop from a struggling brick-and-mortar chain and kept it relevant, at least as a cultural symbol. Whether he can actually turn eBay into an Amazon killer is a different beast entirely.
 
 Amazon has built a moat that goes deeper than just marketplace mechanics. It's logistics, cloud infrastructure, brand loyalty, and customer habit all reinforced over decades. eBay's strength has always been in specific categories and the trust users place in its rating systems. Transforming one into the other isn't a pivot. It's basically starting over.
 

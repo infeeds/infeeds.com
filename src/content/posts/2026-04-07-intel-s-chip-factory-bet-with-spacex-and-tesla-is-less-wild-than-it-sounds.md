@@ -34,7 +34,7 @@ Intel's stock rose more than 3% on the news, trading around $52.28 at 2 p.m. ET.
 
 Still, the narrative shift is worth noting. If investors imagined Terafab as a greenfield venture with a uniquely SpaceX-Tesla engineering philosophy, that dream has probably evaporated. This is Intel's play. SpaceX and Tesla are along for the ride as customers.
 
-## What This Says About [Technology](https://infeeds.com/tags/?tag=technology) and [Business](https://infeeds.com/tags/?tag=business)
+## What This Says About [Technology](https://infeeds.com/tags/technology) and [Business](https://infeeds.com/tags/business)
 
 The broader takeaway here is less about disruption and more about specialization. SpaceX and Tesla are exceptional at what they do. But they're smart enough to recognize when they need someone else's expertise. Intel, once the undisputed king of U.S. silicon production, is still the best equipped to manufacture cutting-edge chips at scale, even if it's no longer calling the shots in chip design.
 

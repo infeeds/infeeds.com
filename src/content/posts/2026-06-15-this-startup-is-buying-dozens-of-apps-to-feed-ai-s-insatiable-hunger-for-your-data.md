@@ -38,6 +38,6 @@ Novaes sees a clear path to a billion monthly users. "You can create the next Te
 
 He's reportedly looking into an app that could make users' photo libraries available for AI training. Your vacation photos, your family snapshots, your random snapshots of receipts and documents. All fair game, theoretically, if you opt in.
 
-The [Technology](https://infeeds.com/tags/?tag=technology) implications are massive. As AI models get more sophisticated, they need more varied, more personal, more real-world data. The companies that can supply that data at scale are sitting on something valuable.
+The [Technology](https://infeeds.com/tags/technology) implications are massive. As AI models get more sophisticated, they need more varied, more personal, more real-world data. The companies that can supply that data at scale are sitting on something valuable.
 
-What remains to be seen is whether users will keep trading their data for rewards, or if the pendulum will swing toward privacy concerns that make this business model harder to sustain. For now, Mode is betting that convenience and compensation will win out. The [Business](https://infeeds.com/tags/?tag=business) of your data is only getting started.
+What remains to be seen is whether users will keep trading their data for rewards, or if the pendulum will swing toward privacy concerns that make this business model harder to sustain. For now, Mode is betting that convenience and compensation will win out. The [Business](https://infeeds.com/tags/business) of your data is only getting started.

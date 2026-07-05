@@ -50,7 +50,7 @@ Compression happens when dimensions are wrong. Your vibrant colors turn muddy. Y
 
 Empty space around your visuals makes your posts look abandoned. It signals to the algorithm that something isn't quite right, and algorithms are petty about that stuff.
 
-The compounding effect is what really gets you though. One slightly wrong image dimension isn't catastrophic. But fifty posts with varying levels of crop issues across your feed? That creates a perception that your <a href="https://infeeds.com/tags/?tag=business">business</a> doesn't have its act together.
+The compounding effect is what really gets you though. One slightly wrong image dimension isn't catastrophic. But fifty posts with varying levels of crop issues across your feed? That creates a perception that your <a href="https://infeeds.com/tags/business">business</a> doesn't have its act together.
 
 ## How Brands Actually Handle This at Scale
 

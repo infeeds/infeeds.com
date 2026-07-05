@@ -42,7 +42,7 @@ But here's where things get really interesting: he's adamantly against wet wipes
 
 This is where it gets genuinely concerning. Wet wipes don't just irritate the skin. They mess with the bacterial balance in that area. Your body has good bacteria and bad bacteria living in homeostasis, and wet wipes destroy that equilibrium.
 
-The result? Dermatitis, bacterial infections, and a cascade of problems that stem from having disrupted your body's natural [health](https://infeeds.com/tags/?tag=health) balance. It's like wiping out an entire ecosystem because you thought it needed a deep clean.
+The result? Dermatitis, bacterial infections, and a cascade of problems that stem from having disrupted your body's natural [health](https://infeeds.com/tags/health) balance. It's like wiping out an entire ecosystem because you thought it needed a deep clean.
 
 When you understand this, you start to realize that aggressive cleaning in general might be working against your body's interests rather than for them.
 

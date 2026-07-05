@@ -16,7 +16,7 @@ Eight people complained. The ASA agreed with them. The ad is now banned.
 
 Here's where it gets interesting. PixVideo's parent company, Saeta Tech, insists the tool doesn't actually let you remove clothing to create sexually explicit content. They have safeguards. Automated detection. All the responsible tech company stuff. But the ad? The ad totally made it look like you could do exactly that.
 
-This is the fundamental problem with how some <a href="https://infeeds.com/tags/?tag=technology">technology</a> companies handle marketing. There's a massive gap between what a product actually does and what an advertisement suggests it can do. The company gets to have it both ways: plausible deniability about the tool's purpose while still profiting from the implication that you can do something questionable.
+This is the fundamental problem with how some <a href="https://infeeds.com/tags/technology">technology</a> companies handle marketing. There's a massive gap between what a product actually does and what an advertisement suggests it can do. The company gets to have it both ways: plausible deniability about the tool's purpose while still profiting from the implication that you can do something questionable.
 
 The ASA called it out for what it was: an ad that condoned "digitally altering and exposing women's bodies without their consent."
 

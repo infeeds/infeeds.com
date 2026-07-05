@@ -10,7 +10,7 @@ tags: [news, entertainment]
 tags_color: '#a91e63'
 ---
 
-The death of Rev. Jesse Jackson at 84 has sent ripples through American [politics](https://infeeds.com/tags/?tag=politics) and the civil rights community. Barack Obama, the first Black president of the United States, took to social media Tuesday with a heartfelt tribute that acknowledged both the personal and professional debt he owes to the legendary activist.
+The death of Rev. Jesse Jackson at 84 has sent ripples through American [politics](https://infeeds.com/tags/politics) and the civil rights community. Barack Obama, the first Black president of the United States, took to social media Tuesday with a heartfelt tribute that acknowledged both the personal and professional debt he owes to the legendary activist.
 
 "We stood on his shoulders," Obama wrote, a simple phrase that carries the weight of decades of struggle and progress.
 
@@ -28,11 +28,11 @@ Barack Obama himself acknowledged something that has been a point of tension ove
 
 ## The Complicated Truth
 
-Here's where things get interesting. Friends of Jackson have long said he felt Obama didn't give him enough [credit](https://infeeds.com/tags/?tag=entertainment) for paving the way. It was a sore spot, a wound that never quite healed. Jackson's campaigns showed white America that a Black candidate could be taken seriously on the national stage. They built coalitions and proved that the "Rainbow Coalition" wasn't just a dream.
+Here's where things get interesting. Friends of Jackson have long said he felt Obama didn't give him enough [credit](https://infeeds.com/tags/entertainment) for paving the way. It was a sore spot, a wound that never quite healed. Jackson's campaigns showed white America that a Black candidate could be taken seriously on the national stage. They built coalitions and proved that the "Rainbow Coalition" wasn't just a dream.
 
 Obama's 2008 victory didn't happen in a vacuum. It happened because Jackson had already done the hard work of changing minds and expanding possibilities. The fact that this acknowledgment comes in a eulogy rather than during Jackson's lifetime speaks to the complicated nature of their relationship.
 
-Both men were proud. Both had earned the right to be. But sometimes ego and [politics](https://infeeds.com/tags/?tag=politics) get in the way of giving flowers to people while they can still smell them.
+Both men were proud. Both had earned the right to be. But sometimes ego and [politics](https://infeeds.com/tags/politics) get in the way of giving flowers to people while they can still smell them.
 
 ## What This Moment Means
 

@@ -32,7 +32,7 @@ The company is reactive, not proactive. It deploys fixes after problems surface 
 
 ## What This Means for the Broader Push
 
-Waymo isn't the only company betting on autonomous vehicles, but it's one of the most visible. When Waymo struggles with weather and school buses, it's not just a Waymo problem. It's a [technology](https://infeeds.com/tags/?tag=technology) problem, one that suggests the autonomous vehicle industry might be moving faster than its actual capabilities.
+Waymo isn't the only company betting on autonomous vehicles, but it's one of the most visible. When Waymo struggles with weather and school buses, it's not just a Waymo problem. It's a [technology](https://infeeds.com/tags/technology) problem, one that suggests the autonomous vehicle industry might be moving faster than its actual capabilities.
 
 The regulatory scrutiny is only going to intensify. NHTSA isn't sitting on the sidelines anymore. It's actively requesting documents, asking follow-up questions, and watching closely. That's what happens when a company's public-facing product keeps failing in ways that affect safety.
 

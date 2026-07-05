@@ -9,7 +9,7 @@ tags: [news, tech, business]
 tags_color: '#00ba65'
 ---
 
-Sometimes the best way to understand [technology](https://infeeds.com/tags/?tag=technology) companies is to watch what they fight over and who suddenly wants it.
+Sometimes the best way to understand [technology](https://infeeds.com/tags/technology) companies is to watch what they fight over and who suddenly wants it.
 
 Anthropic just announced Mythos, a new AI model designed to spot security vulnerabilities. Nothing unusual there. Except according to Bloomberg reporting, Treasury Secretary Scott Bessent and Federal Reserve Chair Jerome Powell called a meeting with bank executives this week specifically to encourage them to use it. JPMorgan Chase was the initial partner, but Goldman Sachs, Citigroup, Bank of America, and Morgan Stanley are now reportedly testing it too.
 
@@ -23,7 +23,7 @@ Anthropic is currently in court with the Trump administration. The Department of
 
 So now we have a situation where top government officials are actively recruiting financial institutions to adopt an Anthropic product while the same administration is suing the company over access restrictions. That's not just a mixed signal. That's a contradiction playing out in real time.
 
-The Financial Times adds another wrinkle: U.K. financial regulators are also concerned about the risks Mythos poses, suggesting this isn't just a U.S. [business](https://infeeds.com/tags/?tag=business) story but a broader governance question about what happens when powerful security tools proliferate.
+The Financial Times adds another wrinkle: U.K. financial regulators are also concerned about the risks Mythos poses, suggesting this isn't just a U.S. [business](https://infeeds.com/tags/business) story but a broader governance question about what happens when powerful security tools proliferate.
 
 ## What's Actually Happening Here
 

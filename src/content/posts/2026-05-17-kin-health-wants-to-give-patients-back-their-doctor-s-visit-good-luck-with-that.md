@@ -52,8 +52,8 @@ The ambition is clear: the company plans to bring in data from physicians' notes
 
 The funding round pulled in backing from Town Hall Ventures, Eniac Ventures, Flex Capital, Foundry Square Capital, Pear VC, and The Family Fund. More than 30 physicians also invested alongside the venture partners.
 
-That's a good sign. But it also illustrates the challenge. You can have great technology, [solid business](https://infeeds.com/tags/?tag=business) fundamentals, and physician backing. You can even have the right founding team with proven exits.
+That's a good sign. But it also illustrates the challenge. You can have great technology, [solid business](https://infeeds.com/tags/business) fundamentals, and physician backing. You can even have the right founding team with proven exits.
 
 What you can't easily solve is whether people will actually trust an AI system with their health information, and whether that system will be reliable enough to matter.
 
-The [technology](https://infeeds.com/tags/?tag=technology) here is real. The problem it's solving is real. But the healthcare industry's trust problem with AI? That's going to require more than a $9 million seed round to crack.
+The [technology](https://infeeds.com/tags/technology) here is real. The problem it's solving is real. But the healthcare industry's trust problem with AI? That's going to require more than a $9 million seed round to crack.

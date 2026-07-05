@@ -12,7 +12,7 @@ We've all been there. You start using ChatGPT for writing. Then you need images,
 
 The problem isn't that these tools don't work. They do. The problem is that we've created this fractured ecosystem where every task requires a different platform. It's exhausting. It's expensive. And honestly, it kills productivity instead of boosting it.
 
-This is the exact friction that <a href="https://infeeds.com/tags/?tag=technology">technology</a> companies say they're trying to solve. Whether they actually do is another story.
+This is the exact friction that <a href="https://infeeds.com/tags/technology">technology</a> companies say they're trying to solve. Whether they actually do is another story.
 
 ## When One Tool Isn't Enough (But Multiple Tools Are Worse)
 
@@ -44,7 +44,7 @@ That said, for teams or solopreneurs who need to move fast and don't require ind
 
 The current offer is a lifetime subscription for $85 (normally $549). That's a pretty aggressive discount, which raises an obvious question: how is this company making money? Lifetime deals usually signal one of two things. Either the company is confident they'll make up volume in upgrades and add-ons, or they're running a limited-time promotion to build initial user base.
 
-The <a href="https://infeeds.com/tags/?tag=business">business</a> model matters because it affects reliability. A company with unsustainable unit economics might not be around in five years, and paying for a "lifetime" subscription means nothing if the platform shuts down.
+The <a href="https://infeeds.com/tags/business">business</a> model matters because it affects reliability. A company with unsustainable unit economics might not be around in five years, and paying for a "lifetime" subscription means nothing if the platform shuts down.
 
 That's not an argument against trying the tool. It's just a reminder to think about what you're actually betting on when you buy into any "lifetime" deal.
 

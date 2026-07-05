@@ -34,7 +34,7 @@ Over his career, Taylor worked with everyone. Willie Nelson recorded "He Sits at
 
 When Taylor talked about his creative process, he was refreshingly honest about it. "I just try to let my spirit go some place, and then I try to catch up to it," he said during a Speaking Freely interview. "I just wanted to write stuff that made me feel something." That's the whole thing right there. Not calculated hits. Not chart strategy. Just authenticity chasing itself around a room until it landed on tape.
 
-Taylor's induction into the Songwriters Hall of Fame wasn't a surprise to anyone paying attention. His fingerprints are all over [rock and roll history](https://infeeds.com/tags/?tag=entertainment). From the Runaways to the Muppets to X, artists kept returning to his songs because they had staying power.
+Taylor's induction into the Songwriters Hall of Fame wasn't a surprise to anyone paying attention. His fingerprints are all over [rock and roll history](https://infeeds.com/tags/entertainment). From the Runaways to the Muppets to X, artists kept returning to his songs because they had staying power.
 
 In the end, what's remarkable about Chip Taylor isn't just that he wrote two immortal songs. It's that he understood something fundamental about music that most people never grasp: the power of space, the importance of emotion, and the way a simple chord progression can outlive the person who created it by decades, maybe centuries.
 

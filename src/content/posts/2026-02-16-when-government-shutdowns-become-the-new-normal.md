@@ -14,7 +14,7 @@ Three government shutdowns in three months. Let that sink in for a moment. The D
 
 This isn't some minor bureaucratic hiccup. We're talking about the agency responsible for border security, cybersecurity, disaster response, and a whole lot more. The kind of stuff that doesn't exactly pause for political theater.
 
-The pattern here is impossible to ignore. When failing to meet deadlines becomes routine, it stops being news and starts being policy. That's a terrifying shift in how we think about [government](https://infeeds.com/tags/?tag=politics) functionality.
+The pattern here is impossible to ignore. When failing to meet deadlines becomes routine, it stops being news and starts being policy. That's a terrifying shift in how we think about [government](https://infeeds.com/tags/politics) functionality.
 
 ## Negotiations in Geneva While Ice Melts
 
@@ -28,7 +28,7 @@ Here's a story that deserves way more attention than it's getting. The Lesotho F
 
 For decades, airborne health workers brought essential medical care to isolated villages. Then Trump's aid cuts in January 2025 pulled the rug out from under them. The service essentially collapsed overnight, leaving entire communities without reliable healthcare access.
 
-Now they're trying to rebuild with less money and less certainty. It's a masterclass in how [international](https://infeeds.com/tags/?tag=world) aid cuts ripple out in ways that policy papers never quite capture. Real people in real villages suddenly finding themselves on the wrong side of a budget spreadsheet.
+Now they're trying to rebuild with less money and less certainty. It's a masterclass in how [international](https://infeeds.com/tags/world) aid cuts ripple out in ways that policy papers never quite capture. Real people in real villages suddenly finding themselves on the wrong side of a budget spreadsheet.
 
 ## The Unexpected Ice Boating Renaissance
 
@@ -38,6 +38,6 @@ Ice boats move across frozen water on three narrow metal blades, essentially tur
 
 NPR's Frank Langfitt joined ice boaters on the Chesapeake Bay and got to captain one himself. His description makes it sound both terrifying and addictive. The boats have just one sail and you steer with a wooden tiller controlling the front blade. Simple in theory, breathless in practice.
 
-There's something refreshing about people gathering on frozen bays to sail vintage wooden boats for absolutely no reason except that the ice is there and the wind is blowing. No apps, no subscriptions, no venture capital. Just wind and ice and the kind of [community](https://infeeds.com/tags/?tag=lifestyle) that forms when people share something beautifully impractical.
+There's something refreshing about people gathering on frozen bays to sail vintage wooden boats for absolutely no reason except that the ice is there and the wind is blowing. No apps, no subscriptions, no venture capital. Just wind and ice and the kind of [community](https://infeeds.com/tags/lifestyle) that forms when people share something beautifully impractical.
 
 The contrast between Congress unable to meet basic funding deadlines and ice boaters thriving in a temporary frozen landscape feels almost too perfect. One group paralyzed by routine responsibilities, the other seizing an unexpected opportunity that might not come again for decades.

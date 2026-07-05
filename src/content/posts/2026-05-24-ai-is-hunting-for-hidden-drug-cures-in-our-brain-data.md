@@ -26,7 +26,7 @@ That's the human pressure underneath this scientific work. Drug discovery typica
 
 The Institute's process is remarkably sophisticated. Researchers gather iris scans, voice recordings, and blood samples from volunteers. They use these samples to cultivate stem cells into groups of brain cells called neurones. Then comes the algorithmic muscle: robots and computers powered by specialist machine learning algorithms test existing drugs on multiple batches of those neurones, looking for compounds that could convert a disease signature into a healthy one.
 
-Prof Siddarthan Chandran, the Institute's chief executive, told the BBC that this combination of [Technology](https://infeeds.com/tags/?tag=technology) and biology represents a sea change in research capability. "A combination of AI and new technologies mean we can now do things which would have been unbelievable when I was at medical school," he said.
+Prof Siddarthan Chandran, the Institute's chief executive, told the BBC that this combination of [Technology](https://infeeds.com/tags/technology) and biology represents a sea change in research capability. "A combination of AI and new technologies mean we can now do things which would have been unbelievable when I was at medical school," he said.
 
 The advantage of testing existing drugs is obvious. They've already cleared safety hurdles. Regulatory approval is simpler. Deployment is faster. In theory, this should accelerate the path from discovery to treatment by years.
 

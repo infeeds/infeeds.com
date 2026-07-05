@@ -18,7 +18,7 @@ This isn't some minor technical shuffle. It's the start of what could become a f
 
 ## Why Companies Do This (And Why It's Getting Harder Not To)
 
-If you're wondering why a <a href="https://infeeds.com/tags/?tag=technology">technology</a> company would voluntarily divide its own user base, the answer lives in the uncomfortable space between Beijing's demands and Washington's fears. Both governments are obsessed with data security and content moderation, and Chinese platforms operating globally have become regulatory piñatas.
+If you're wondering why a <a href="https://infeeds.com/tags/technology">technology</a> company would voluntarily divide its own user base, the answer lives in the uncomfortable space between Beijing's demands and Washington's fears. Both governments are obsessed with data security and content moderation, and Chinese platforms operating globally have become regulatory piñatas.
 
 ByteDance learned this lesson with TikTok. The company runs two separate ecosystems: the global TikTok and its domestic Chinese counterpart, Douyin. Tencent does something similar with WeChat and Weixin. Rednote is following the same playbook because, frankly, there's no other way for a Chinese platform to operate internationally without triggering alarm bells on both sides of the Pacific.
 
@@ -62,7 +62,7 @@ There's an ironic footnote to this story. About three years ago, Rednote tried a
 
 You'd think that failure would have taught Rednote something important: that the value of its platform lay in the massive Chinese content ecosystem that attracted international users in the first place. That users wanted to access the real thing, not a localized knockoff.
 
-But here's how the <a href="https://infeeds.com/tags/?tag=business">business</a> world actually works. Political and regulatory pressures almost always win over user experience. The failed regional apps didn't change the company's mind about the need for separation. They just convinced Rednote to be smarter about how it happens.
+But here's how the <a href="https://infeeds.com/tags/business">business</a> world actually works. Political and regulatory pressures almost always win over user experience. The failed regional apps didn't change the company's mind about the need for separation. They just convinced Rednote to be smarter about how it happens.
 
 ## The Waiting Game
 

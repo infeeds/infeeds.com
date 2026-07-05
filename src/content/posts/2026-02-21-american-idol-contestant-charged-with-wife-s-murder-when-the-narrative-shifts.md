@@ -44,6 +44,6 @@ What we're watching here is a collision between two powerful needs: the need to 
 
 The evidence that led to Caleb Flynn's arrest hasn't been made public yet. The staging of the crime scene that authorities mention in their charges suggests they believe they have a compelling case. But his attorney's concerns about speed and thoroughness are worth taking seriously, especially in a case where someone's life hangs in the balance.
 
-The real test will come as more details emerge and the case makes its way through the [criminal justice system](https://infeeds.com/tags/?tag=news). Will the evidence hold up? Will the investigation prove as thorough as police say? And most importantly, will the truth actually come out, whatever that truth might be?
+The real test will come as more details emerge and the case makes its way through the [criminal justice system](https://infeeds.com/tags/news). Will the evidence hold up? Will the investigation prove as thorough as police say? And most importantly, will the truth actually come out, whatever that truth might be?
 
 For now, we're left with contradictions. A man in a 911 call sounding terrified about his wife's death. A man in an arraignment video insisting he's not a risk. And a community mourning a woman who by all accounts made the world around her a little bit better. Sometimes the person we think we know isn't who they really are, and sometimes our instincts about people are dangerously wrong.

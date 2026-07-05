@@ -12,7 +12,7 @@ For years now, founders have been hammered with the same message: forget the bus
 
 The logic is sound enough. A business plan used to mean weeks locked in a room producing a bloated 40-page document designed to impress investors but read by almost nobody. So the advice to skip it and act instead? That felt like permission to escape analysis paralysis and actually do something meaningful.
 
-But here's what's happening now: entrepreneurship is messier than ever. Yes, things move faster. But founders are lost. They're reacting instead of thinking. Their [business](https://infeeds.com/tags/?tag=business) strategies feel random because, well, they are.
+But here's what's happening now: entrepreneurship is messier than ever. Yes, things move faster. But founders are lost. They're reacting instead of thinking. Their [business](https://infeeds.com/tags/business) strategies feel random because, well, they are.
 
 The gap between speed and direction has become a real problem.
 

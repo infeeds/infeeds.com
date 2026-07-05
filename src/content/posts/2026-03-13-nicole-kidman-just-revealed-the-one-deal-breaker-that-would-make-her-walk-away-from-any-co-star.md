@@ -30,7 +30,7 @@ She wasn't joking either. The actor added that "bad breath does not turn me on,"
 
 ## When Smell Becomes Love Language
 
-But it's not all about what turns Kidman off. She also revealed which [celebrity](/tags/?tag=entertainment) smells absolutely intoxicating to her. Spoiler alert: it's Rihanna.
+But it's not all about what turns Kidman off. She also revealed which [celebrity](/tags/entertainment) smells absolutely intoxicating to her. Spoiler alert: it's Rihanna.
 
 "Rihanna," she gushed without hesitation. "We don't need to unravel it or decipher it, just know it's all true. It's intoxicating, it is like, 'I will follow you around.'"
 

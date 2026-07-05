@@ -32,7 +32,7 @@ The reality is more nuanced though. Even with a registered trademark on his face
 
 This isn't really about stopping casual use. Popple noted that the trademark filing signals seriousness in a way that deters "opportunistic merchandising." More importantly, it gives Littler something concrete to license. When a brand wants to use his face legitimately, they're not negotiating with a void. They're negotiating with a registered trademark holder. That's leverage.
 
-Littler has already seen his image used on official darts merchandise and by major brands like KP Nuts. The trademark registration strengthens his position in those negotiations and creates a legal framework for future deals. It's smart [business](https://infeeds.com/tags/?tag=business) thinking dressed up in [technology](https://infeeds.com/tags/?tag=technology) language.
+Littler has already seen his image used on official darts merchandise and by major brands like KP Nuts. The trademark registration strengthens his position in those negotiations and creates a legal framework for future deals. It's smart [business](https://infeeds.com/tags/business) thinking dressed up in [technology](https://infeeds.com/tags/technology) language.
 
 The larger conversation here is uncomfortable because it exposes how far behind our legal systems are. We're living in an era where anyone with a laptop can create convincing fake media of public figures, yet the laws protecting those figures are essentially built for a world where copying someone's image meant hiring an artist or printing press.
 

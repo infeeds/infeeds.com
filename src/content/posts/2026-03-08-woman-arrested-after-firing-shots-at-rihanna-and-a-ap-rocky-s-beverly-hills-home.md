@@ -22,7 +22,7 @@ It's also unclear whether A$AP Rocky or their children were home during the shoo
 
 ## Celebrity Safety in the Spotlight
 
-This incident highlights a growing concern for high-profile figures in the [entertainment](https://infeeds.com/tags/?tag=entertainment) industry. Celebrities like Rihanna live their lives in the public eye, which unfortunately makes them targets for unstable individuals. The fact that this happened in broad daylight in one of LA's most secure neighborhoods is unsettling. If it can happen there, it can happen anywhere.
+This incident highlights a growing concern for high-profile figures in the [entertainment](https://infeeds.com/tags/entertainment) industry. Celebrities like Rihanna live their lives in the public eye, which unfortunately makes them targets for unstable individuals. The fact that this happened in broad daylight in one of LA's most secure neighborhoods is unsettling. If it can happen there, it can happen anywhere.
 
 Rihanna has built an empire beyond her music career, running Fenty Beauty and other ventures that keep her in constant public view. With that kind of visibility comes real danger. This isn't the first time a celebrity has faced security threats, and it certainly won't be the last.
 

@@ -38,7 +38,7 @@ Here's where most people stumbled today. Unless you're familiar with wax apples 
 
 The Mini Crossword sits in this perfect sweet spot. It's small enough to complete during your morning coffee but complex enough to feel rewarding. Unlike the full-sized crossword that can eat up your entire afternoon, the Mini demands just enough brainpower to feel productive without consuming your day.
 
-<a href="https://infeeds.com/tags/?tag=technology" style="text-decoration: underline;">Technology</a> has made these puzzles more accessible than ever. The New York Times app puts them right in your pocket, complete with hints and answer reveals if you get stuck. No more printing out grids or keeping a dictionary nearby.
+<a href="https://infeeds.com/tags/technology" style="text-decoration: underline;">Technology</a> has made these puzzles more accessible than ever. The New York Times app puts them right in your pocket, complete with hints and answer reveals if you get stuck. No more printing out grids or keeping a dictionary nearby.
 
 The Mini also has this sneaky educational component. You're learning random facts about history, pop culture, geography, and yes, obscure fruits from Asia. Your brain gets a workout whether you realize it or not.
 

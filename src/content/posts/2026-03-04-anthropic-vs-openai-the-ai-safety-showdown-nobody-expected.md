@@ -20,7 +20,7 @@ So what did OpenAI do? They said yes.
 
 Here's where it gets spicy. OpenAI claims their contract actually includes the same protections Anthropic wanted. Altman basically said, "Don't worry, the law currently says mass surveillance is illegal, so we made sure that's excluded." Which sounds great until you remember that laws change. What's illegal today could theoretically be legal tomorrow.
 
-Amodei was not impressed. In his memo to staff, he described OpenAI's messaging as gaslighting and called out how <a href="https://infeeds.com/tags/?tag=technology">technology</a> companies keep trying to have it both ways, appealing to both ethics-minded employees and profit-hungry shareholders simultaneously.
+Amodei was not impressed. In his memo to staff, he described OpenAI's messaging as gaslighting and called out how <a href="https://infeeds.com/tags/technology">technology</a> companies keep trying to have it both ways, appealing to both ethics-minded employees and profit-hungry shareholders simultaneously.
 
 "The main reason they accepted this and we did not is that they cared about placating employees, and we actually cared about preventing abuses," Amodei wrote. You can feel the frustration radiating off those sentences.
 
@@ -30,7 +30,7 @@ Here's what's wild: regular people actually care about this stuff. ChatGPT unins
 
 Amodei noticed. In his staff memo, he seemed genuinely surprised that the attempted spin wasn't working. "I think this attempted spin/gaslighting is not working very well on the general public or the media, where people mostly see OpenAI's deal as sketchy or suspicious, and see us as the heroes," he wrote. Anthropic is now number two in the App Store.
 
-The whole thing reveals something uncomfortable about <a href="https://infeeds.com/tags/?tag=business">business</a> in the AI era: you can't actually separate safety from PR anymore. Every decision gets parsed by everyone. Every line in a contract gets scrutinized. Every memo to staff eventually becomes public.
+The whole thing reveals something uncomfortable about <a href="https://infeeds.com/tags/business">business</a> in the AI era: you can't actually separate safety from PR anymore. Every decision gets parsed by everyone. Every line in a contract gets scrutinized. Every memo to staff eventually becomes public.
 
 ## What This Actually Means
 

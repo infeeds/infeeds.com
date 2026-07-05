@@ -8,7 +8,7 @@ tags: [news, tech, business]
 tags_color: '#ff5722'
 ---
 
-Palantir was supposed to be the good guys. Or at least, that's what employees told themselves when they signed up to work for the data analytics company founded with CIA seed funding in the post-9/11 era. The mission was clear: use cutting-edge [technology](https://infeeds.com/tags/?tag=technology) to make America safer while protecting civil liberties. For two decades, workers endured the awkward conversations about working for a company named after Tolkien's corrupting all-seeing ring. They made peace with the external criticism. But something shifted in the last year, and now even Palantir's own employees are asking uncomfortable questions about what they're actually building.
+Palantir was supposed to be the good guys. Or at least, that's what employees told themselves when they signed up to work for the data analytics company founded with CIA seed funding in the post-9/11 era. The mission was clear: use cutting-edge [technology](https://infeeds.com/tags/technology) to make America safer while protecting civil liberties. For two decades, workers endured the awkward conversations about working for a company named after Tolkien's corrupting all-seeing ring. They made peace with the external criticism. But something shifted in the last year, and now even Palantir's own employees are asking uncomfortable questions about what they're actually building.
 
 According to reporting from WIRED, current and former employees began sounding alarms last fall when Palantir's software became the technological backbone of Trump's immigration enforcement machinery. The company provided tools that identified, tracked, and helped deport immigrants on behalf of the Department of Homeland Security. One former employee described greeting another with a single question: "Are you tracking Palantir's descent into fascism?"
 
@@ -54,7 +54,7 @@ The company's official response has been defensive. A Palantir spokesperson told
 
 ## What Happens When the Mission Becomes the Problem?
 
-Palantir exists in a strange place right now. It's a [business](https://infeeds.com/tags/?tag=business) built on the assumption that surveillance tools in the right hands protect people. But what happens when the "right hands" start making decisions that employees find morally indefensible? You can't solve that problem with Slack channels or AMAs or philosophical interviews.
+Palantir exists in a strange place right now. It's a [business](https://infeeds.com/tags/business) built on the assumption that surveillance tools in the right hands protect people. But what happens when the "right hands" start making decisions that employees find morally indefensible? You can't solve that problem with Slack channels or AMAs or philosophical interviews.
 
 Some employees are staying and trying to change things from within. Others have left. But for the ones remaining, there's a creeping realization that the company they joined to prevent abuse might actually be enabling it. And their CEO has made clear he's not particularly interested in their concerns.
 

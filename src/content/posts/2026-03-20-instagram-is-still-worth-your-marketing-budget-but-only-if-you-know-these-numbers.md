@@ -46,7 +46,7 @@ The difference between guessing and knowing is social listening. Paying attentio
 
 ## Making Decisions Based on Real Data
 
-Before committing serious budget to Instagram, align it with your actual [business](https://infeeds.com/tags/?tag=business) goals. Reach and impressions build awareness, but link clicks and sales show real demand. Your metrics only matter if they connect back to something that moves your business forward.
+Before committing serious budget to Instagram, align it with your actual [business](https://infeeds.com/tags/business) goals. Reach and impressions build awareness, but link clicks and sales show real demand. Your metrics only matter if they connect back to something that moves your business forward.
 
 Set up a reporting rhythm. Most teams check their core metrics weekly, then dig deeper monthly or quarterly. That consistency helps you spot patterns. Maybe your audience comments way more on video than static posts. Maybe Reels consistently beat carousel posts. When you see those patterns emerging, you adjust your strategy accordingly.
 

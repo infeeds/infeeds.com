@@ -54,13 +54,13 @@ It's impressively durable. There's an IP68 rating for dust and water resistance,
 
 But here's the thing: it's heavy and awkward to use. It's also $1,799, which is a lot of money for a phone that doesn't actually have all the pro features of the Pixel 10 Pro. The cameras aren't as good, there's no vapor chamber cooling, and you don't get Pro Res Zoom or Video Boost. You're paying for the form factor more than anything else.
 
-If you genuinely want a folding phone and prefer Google's software, sure. But the <a href="https://infeeds.com/tags/?tag=technology">Technology</a> is just not there yet to justify the price when Samsung's Galaxy Z Fold7 exists and is actually thinner and easier to use.
+If you genuinely want a folding phone and prefer Google's software, sure. But the <a href="https://infeeds.com/tags/technology">Technology</a> is just not there yet to justify the price when Samsung's Galaxy Z Fold7 exists and is actually thinner and easier to use.
 
 ## The Old Guard Still Matters
 
 If you're the type who likes a deal, last year's Pixel phones are still excellent. The Pixel 9 series and 9a have the same Tensor G4 chip, similarly bright displays, and cameras that are only marginally different. The 9a has dropped as low as $349 in sales, and the regular 9 Pro dips below $600 frequently.
 
-The main sacrifices are the lack of Qi2 support, no 5X optical zoom on the regular 9, and you don't get access to some of the newest <a href="https://infeeds.com/tags/?tag=technology">software features</a> exclusive to the Pixel 10 series. But these are minor conveniences, not dealbreakers.
+The main sacrifices are the lack of Qi2 support, no 5X optical zoom on the regular 9, and you don't get access to some of the newest <a href="https://infeeds.com/tags/technology">software features</a> exclusive to the Pixel 10 series. But these are minor conveniences, not dealbreakers.
 
 ## A Word on Durability and Software Support
 

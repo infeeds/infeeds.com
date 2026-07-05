@@ -12,7 +12,7 @@ tags_color: '#ff9800'
 
 Your customer just messaged you on Instagram. Meanwhile, someone else left a comment on your Facebook post. Oh, and there's a DM on LinkedIn you missed three hours ago. Sound familiar?
 
-This is where most <a href="https://infeeds.com/tags/?tag=business">business</a> owners lose it. Managing messages across multiple social platforms feels like juggling flaming swords while riding a unicycle. A solid social inbox tool can change that, but only if you pick the right one.
+This is where most <a href="https://infeeds.com/tags/business">business</a> owners lose it. Managing messages across multiple social platforms feels like juggling flaming swords while riding a unicycle. A solid social inbox tool can change that, but only if you pick the right one.
 
 The catch? There are way too many options, and most aren't worth the money.
 

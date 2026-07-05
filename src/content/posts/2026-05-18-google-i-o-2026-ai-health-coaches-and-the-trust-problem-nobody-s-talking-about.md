@@ -26,7 +26,7 @@ Beyond health, Google is doubling down on making Gemini a genuinely capable assi
 
 The vision is compelling: AI agents that bridge the gap between simple requests and complex multi-app tasks. But Google has been vague about how this actually works in practice. The company showed a handful of examples but didn't clearly explain how Gemini Intelligence will handle the messy reality of jumping between different apps and services while remembering context.
 
-This is where [Technology](https://infeeds.com/tags/?tag=technology) roadmaps often diverge from real-world usability. The promise of AI agents has been circulating for years. Today at I/O, we'll finally get a sense of whether Google has actually cracked the problem or is still a few iterations away.
+This is where [Technology](https://infeeds.com/tags/technology) roadmaps often diverge from real-world usability. The promise of AI agents has been circulating for years. Today at I/O, we'll finally get a sense of whether Google has actually cracked the problem or is still a few iterations away.
 
 ## Googlebooks and the Chromebook Replacement
 

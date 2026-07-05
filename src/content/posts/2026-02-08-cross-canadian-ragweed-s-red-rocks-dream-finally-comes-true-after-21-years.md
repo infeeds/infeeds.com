@@ -18,7 +18,7 @@ This isn't just another tour date. When the band reunited in 2025 after a 15-yea
 
 ## A Second Chance They Won't Waste
 
-The reunion tour last year was a gamble that paid off in sold-out stadium shows. Canada knows lightning rarely strikes twice in the [entertainment](https://infeeds.com/tags/?tag=entertainment) world. "I told everybody, let's take advantage of our second chance, because we probably don't get a third one," he said.
+The reunion tour last year was a gamble that paid off in sold-out stadium shows. Canada knows lightning rarely strikes twice in the [entertainment](https://infeeds.com/tags/entertainment) world. "I told everybody, let's take advantage of our second chance, because we probably don't get a third one," he said.
 
 That urgency shows in how the band has approached 2026. They're not treating this like a nostalgia trip. They headlined the Houston Livestock Show and Rodeo in March, kicked off Mile 0 Fest in Key West with a Duval Street block party, and they're gearing up for multiple Boys From Oklahoma shows with Turnpike Troubadours.
 
@@ -28,7 +28,7 @@ The Athens, Georgia dates at Akins Ford Arena sold out so fast they added a seco
 
 Here's where the Red Rocks show gets really special. Instead of loading the bill with big-name acts from the Red Dirt and Americana scenes like their other stadium dates, this one's all about family. Canada's sons Dierks and Willy will open with their metalcore band Waves in April, alongside singer Elle Gorman. Grady Cross's son Slaid and nephew Colton Blake will perform with their Red Dirt outfit The Smokin' Oaks.
 
-"I'm probably gonna cry more that night than I did the first night in Stillwater," Canada said. You can't fake that kind of emotion. This isn't some calculated [business](https://infeeds.com/tags/?tag=business) move to create a viral moment. It's a dad getting to share the biggest stage of his career with his kids.
+"I'm probably gonna cry more that night than I did the first night in Stillwater," Canada said. You can't fake that kind of emotion. This isn't some calculated [business](https://infeeds.com/tags/business) move to create a viral moment. It's a dad getting to share the biggest stage of his career with his kids.
 
 The scale of these shows is still new territory for Ragweed. Unlike Turnpike Troubadours, who've been filling arenas consistently since their 2022 comeback, Ragweed built their reputation in clubs and at festivals before breaking up in 2010. Now they're playing stadiums like it's normal.
 

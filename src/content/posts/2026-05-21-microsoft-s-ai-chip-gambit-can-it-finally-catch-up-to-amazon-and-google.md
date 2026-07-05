@@ -8,7 +8,7 @@ tags: [news, business, technology]
 tags_color: '#4caf50'
 ---
 
-Microsoft is quietly making moves to reshape its <a href="https://infeeds.com/tags/?tag=business">business</a> in the AI infrastructure game. According to CNBC reporting, the company is in talks to supply its custom Maia AI chips to Anthropic, the AI startup behind the increasingly popular Claude assistant. It's a deal that would matter far more than the headline suggests.
+Microsoft is quietly making moves to reshape its <a href="https://infeeds.com/tags/business">business</a> in the AI infrastructure game. According to CNBC reporting, the company is in talks to supply its custom Maia AI chips to Anthropic, the AI startup behind the increasingly popular Claude assistant. It's a deal that would matter far more than the headline suggests.
 
 Here's why: Microsoft has been playing catch-up in the world of custom silicon. While Amazon Web Services and Google have been shipping their own AI chips to customers for years, Microsoft's Maia lineup has existed mostly in announcement form. The company rolled out Maia 200 in January but hasn't made it broadly available through Azure yet. This deal with Anthropic could be the breakthrough moment Microsoft needs.
 
@@ -22,7 +22,7 @@ So when Microsoft comes knocking with a chip that CEO Satya Nadella says offers 
 
 ## Why This Matters Beyond One Deal
 
-The <a href="https://infeeds.com/tags/?tag=technology">Technology</a> landscape is shifting. Custom chips are becoming the differentiator in cloud computing. Amazon proved that with Trainium. Google proved it with TPUs. For years, everyone just bought Nvidia GPUs and called it a day. Now the calculus has changed.
+The <a href="https://infeeds.com/tags/technology">Technology</a> landscape is shifting. Custom chips are becoming the differentiator in cloud computing. Amazon proved that with Trainium. Google proved it with TPUs. For years, everyone just bought Nvidia GPUs and called it a day. Now the calculus has changed.
 
 Microsoft's play here isn't just about winning Anthropic's business. It's about proving that Maia actually works in the real world, with a real customer at real scale. Anthropic's Claude is pulling serious traffic and serious compute demands. If Maia 200 can handle that load efficiently, it opens doors with other AI companies hungry for alternatives to paying Nvidia's premium.
 

@@ -36,7 +36,7 @@ Be social. Loneliness is bad for memory; staying connected is good for your brai
 
 ## The Unsexy Truth
 
-And here's the part nobody likes: treat the <a href="https://infeeds.com/tags/?tag=health">health</a> problems that increase heart disease risk, because those same factors—diabetes, high blood pressure, smoking, high cholesterol—also increase Alzheimer's risk. Work with your doctor to manage them.
+And here's the part nobody likes: treat the <a href="https://infeeds.com/tags/health">health</a> problems that increase heart disease risk, because those same factors—diabetes, high blood pressure, smoking, high cholesterol—also increase Alzheimer's risk. Work with your doctor to manage them.
 
 None of this is flashy. It won't trend on social media. It's the stuff we've heard a thousand times before, except now there's fresh data suggesting that starting in your 30s and 40s actually matters. The vitamin D research is interesting precisely because it hints at how early these protections need to start.
 

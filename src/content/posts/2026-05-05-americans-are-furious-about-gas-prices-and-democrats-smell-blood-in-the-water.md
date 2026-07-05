@@ -36,7 +36,7 @@ It's a reminder that Trump's influence within the Republican Party remains formi
 
 ## One Bright Spot: Professional Sports Gets a Win
 
-Meanwhile, in a corner of American culture where news is usually celebratory rather than cautionary, there's actually been a meaningful win. Minnesota Lynx star Napheesa Collier, vice president of the Women's National Basketball Players Association, helped secure a new [business](/tags/?tag=business) contract that dramatically increased players' share of WNBA revenues.
+Meanwhile, in a corner of American culture where news is usually celebratory rather than cautionary, there's actually been a meaningful win. Minnesota Lynx star Napheesa Collier, vice president of the Women's National Basketball Players Association, helped secure a new [business](/tags/business) contract that dramatically increased players' share of WNBA revenues.
 
 The numbers are genuinely striking. By 2026, the lowest-paid players in the league will earn more than the highest-paid players made in 2025. That kind of redistribution doesn't happen by accident. Collier publicly critiqued league management last year, and she made clear that her criticism was strategic, necessary groundwork before negotiations began. It worked. In an NPR interview with Morning Edition's Steve Inskeep, Collier discussed the new deal and her vision for the league's future.
 

@@ -8,7 +8,7 @@ tags: [news, business]
 tags_color: '#2b2b2b'
 ---
 
-If you thought paper checks were obsolete, think again. The data tells a different story, and it's one that most small <a href="https://infeeds.com/tags/?tag=business">business</a> owners have already figured out.
+If you thought paper checks were obsolete, think again. The data tells a different story, and it's one that most small <a href="https://infeeds.com/tags/business">business</a> owners have already figured out.
 
 According to a 2024 study from the Atlanta Federal Reserve, as much as 83% of small firms with up to $10 million in annual revenues still use paper checks. Another study by a payment processing firm found similar results at 75%. And Mineral Tree, a global payments processing company, reported that 57% of businesses paid more than one-quarter of their vendors via check in just the past 12 months.
 

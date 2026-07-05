@@ -28,7 +28,7 @@ Mandy Hill from the Publishers Association called this a victory over "self-inte
 
 Anthony Walker at Tech UK pointed out something uncomfortable: the UK is trying to lead the G7 in AI adoption while its competitors move ahead. You can't lead a race if you're still arguing about which direction to run.
 
-This isn't just about [technology](https://infeeds.com/tags/?tag=technology) policy wonkery either. Last year, some of Britain's biggest artists wanted an amendment to the Data Bill that would force tech companies to declare when they're using copyrighted material for AI training. It didn't pass. Sir Elton compared the whole thing to "theft on a high scale," and honestly, from a creator's perspective, you see why he'd feel that way.
+This isn't just about [technology](https://infeeds.com/tags/technology) policy wonkery either. Last year, some of Britain's biggest artists wanted an amendment to the Data Bill that would force tech companies to declare when they're using copyrighted material for AI training. It didn't pass. Sir Elton compared the whole thing to "theft on a high scale," and honestly, from a creator's perspective, you see why he'd feel that way.
 
 The government said it won't reform copyright laws "until we are confident they will meet our objectives." Which is polite for "we're kicking this down the road." But roads don't go on forever, and neither do artists' patience levels.
 
@@ -38,6 +38,6 @@ For now? Nothing concrete changes. Creators still can't be sure their work won't
 
 The real tension here is that you can't have it both ways without inventing some entirely new framework. Either AI companies need to negotiate licenses with creators before training, which is expensive and complicated. Or they use existing work with opt-outs that creators probably won't know about. Or you create some kind of collective licensing scheme that nobody's quite figured out yet.
 
-None of these options are popular with both sides, which is probably why the government has suddenly decided it has no preferred position. The honest answer is that [business](https://infeeds.com/tags/?tag=business) interests and creative interests are going to clash on this one no matter what, and someone's going to be unhappy.
+None of these options are popular with both sides, which is probably why the government has suddenly decided it has no preferred position. The honest answer is that [business](https://infeeds.com/tags/business) interests and creative interests are going to clash on this one no matter what, and someone's going to be unhappy.
 
 The government committed to getting this right, which is nice. But the question nobody's asking is whether getting it right is actually possible, or if we're just going to end up with whatever compromise nobody wanted in the first place.

@@ -8,7 +8,7 @@ tags: [news, tech, business]
 tags_color: '#00ba65'
 ---
 
-Glen Anderson has watched the private [Technology](https://infeeds.com/tags/?tag=technology) markets evolve for 16 years. When he started brokering trades in private company shares back in 2010, institutional investors focused on late-stage private companies could literally be counted on two hands. Today, there are thousands. As president of Rainmaker Securities, an investment bank facilitating roughly 1,000 private stock transactions, Anderson has one of the best views in the room right now. And what he's seeing in the secondary market is telling a story that's far more complicated than the AI hype might suggest.
+Glen Anderson has watched the private [Technology](https://infeeds.com/tags/technology) markets evolve for 16 years. When he started brokering trades in private company shares back in 2010, institutional investors focused on late-stage private companies could literally be counted on two hands. Today, there are thousands. As president of Rainmaker Securities, an investment bank facilitating roughly 1,000 private stock transactions, Anderson has one of the best views in the room right now. And what he's seeing in the secondary market is telling a story that's far more complicated than the AI hype might suggest.
 
 According to Bloomberg reporting, the narrative centers on three main characters: Anthropic, OpenAI, and SpaceX. But the dynamics between them have shifted in ways that reveal something deeper about how investors are starting to think about AI's future.
 

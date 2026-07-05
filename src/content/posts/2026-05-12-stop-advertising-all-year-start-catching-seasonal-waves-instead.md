@@ -8,7 +8,7 @@ tags: [news, business]
 tags_color: '#2b2b2b'
 ---
 
-There's a lie we tell ourselves in [business](https://infeeds.com/tags/?tag=business): if you stay visible all year, you'll stay top of mind. More ads, more posts, more constant noise equals more sales. So we spread our budget thin across 12 months, hoping something sticks.
+There's a lie we tell ourselves in [business](https://infeeds.com/tags/business): if you stay visible all year, you'll stay top of mind. More ads, more posts, more constant noise equals more sales. So we spread our budget thin across 12 months, hoping something sticks.
 
 It doesn't work that way. And once you see why, you can't unsee it.
 

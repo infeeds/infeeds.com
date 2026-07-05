@@ -32,7 +32,7 @@ Think about this for a second. Someone sat down and decided that "Packers" minus
 
 ## Why These Puzzles Actually Matter
 
-The fact that Connections: Sports Edition exists at all is interesting from a <a href="https://infeeds.com/tags/?tag=technology">technology</a> standpoint. The Athletic, which is owned by the New York Times, created this specialized version specifically for sports enthusiasts. It's not just a reskin of the regular Connections game. It's a deliberate strategy to build community around specific interests.
+The fact that Connections: Sports Edition exists at all is interesting from a <a href="https://infeeds.com/tags/technology">technology</a> standpoint. The Athletic, which is owned by the New York Times, created this specialized version specifically for sports enthusiasts. It's not just a reskin of the regular Connections game. It's a deliberate strategy to build community around specific interests.
 
 You can play it free online, or if you're already subscribed to The Athletic, it's just sitting there waiting for you in their app. The puzzle doesn't live in the NYT Games app where the regular version hangs out. It's a separate beast entirely, which means The Athletic is basically saying "Hey, if you care about sports and words, we've built something specifically for you."
 

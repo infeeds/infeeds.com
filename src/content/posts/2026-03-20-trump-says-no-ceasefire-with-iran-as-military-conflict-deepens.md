@@ -16,7 +16,7 @@ The comment reveals the Trump administration's confidence in its military positi
 
 ## The Economics Are Getting Messy
 
-But here's where things get complicated. While Trump talks about winding down military efforts in the Middle East, the real-world [business](https://infeeds.com/tags/?tag=business) implications are already hitting hard. Stock markets tumbled on Friday. Oil prices are climbing. The Strait of Hormuz, one of the world's most critical shipping lanes, remains effectively blocked by Iran.
+But here's where things get complicated. While Trump talks about winding down military efforts in the Middle East, the real-world [business](https://infeeds.com/tags/business) implications are already hitting hard. Stock markets tumbled on Friday. Oil prices are climbing. The Strait of Hormuz, one of the world's most critical shipping lanes, remains effectively blocked by Iran.
 
 That's a problem nobody can just talk away. Most energy shipments through that strait head to Asian markets, but the Dallas Fed released a report Friday noting that the economic fallout will ripple across the globe, including right back to American consumers and investors.
 

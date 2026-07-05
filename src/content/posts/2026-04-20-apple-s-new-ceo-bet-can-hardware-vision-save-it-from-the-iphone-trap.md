@@ -50,7 +50,7 @@ That's the trap. The systems that made Cook's Apple so efficient and profitable 
 
 ## What Actually Changes Now?
 
-Honestly, we don't know yet. Leadership transitions in [technology](https://infeeds.com/tags/?tag=technology) don't instantly rewire organizational DNA. Ternus has to manage the same board, the same investors expecting quarterly growth, the same market pressures that shaped Cook's cautious approach.
+Honestly, we don't know yet. Leadership transitions in [technology](https://infeeds.com/tags/technology) don't instantly rewire organizational DNA. Ternus has to manage the same board, the same investors expecting quarterly growth, the same market pressures that shaped Cook's cautious approach.
 
 But his background matters. He knows how products get built from the ground up, not just how they get manufactured at scale. He's worked under Steve Jobs and Tim Cook. He's lived through both eras of Apple. That's either preparation or burden, depending on whether the organization is actually ready to change.
 

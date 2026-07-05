@@ -10,7 +10,7 @@ tags: [news, tech]
 tags_color: '#ff5722'
 ---
 
-Mark Zuckerberg walked into a Los Angeles courtroom Wednesday morning flanked by Homeland Security officers, which is apparently what you need when you're worth billions and facing allegations that your [Technology](https://infeeds.com/tags/?tag=technology) platforms destroyed kids' mental health. The venue was packed. Everyone wanted to see the Meta CEO squirm under questioning about whether Instagram and Facebook were deliberately designed to hook children.
+Mark Zuckerberg walked into a Los Angeles courtroom Wednesday morning flanked by Homeland Security officers, which is apparently what you need when you're worth billions and facing allegations that your [Technology](https://infeeds.com/tags/technology) platforms destroyed kids' mental health. The venue was packed. Everyone wanted to see the Meta CEO squirm under questioning about whether Instagram and Facebook were deliberately designed to hook children.
 
 This wasn't some regulatory hearing where politicians get their five minutes of grandstanding. This was a real trial with a real plaintiff, a 20-year-old woman named Kaley who started using Instagram at age 9 and allegedly suffered severe psychological damage as a result. Her lawsuit is one of roughly 1,600 similar cases from families claiming social media addiction wrecked their children's lives.
 
@@ -30,7 +30,7 @@ The most absurd moment? When asked if he knew Karina Newton, Instagram's head of
 
 Lanier clearly anticipated Zuckerberg's evasiveness. He brought up the CEO's extensive media training early on, presenting documents about Meta's communication strategies that literally outline "what kind of answers to give" when testifying under oath. Zuckerberg acted confused about what Lanier was implying, which is rich coming from someone who told Joe Rogan last year that he controls Meta so completely he doesn't need to worry about the board firing him.
 
-Throughout the testimony, Zuckerberg repeatedly accused Lanier of "mischaracterizing" his statements. He'd point out when emails were old or when he wasn't directly CC'd on them, as if that somehow meant they weren't evidence of his company's [business](https://infeeds.com/tags/?tag=business) practices. The defense was basically "I'm too important to know about the actual operations of my company."
+Throughout the testimony, Zuckerberg repeatedly accused Lanier of "mischaracterizing" his statements. He'd point out when emails were old or when he wasn't directly CC'd on them, as if that somehow meant they weren't evidence of his company's [business](https://infeeds.com/tags/business) practices. The defense was basically "I'm too important to know about the actual operations of my company."
 
 But then Lanier pulled out the big guns. Seven people walked in carrying a billboard-sized display of hundreds of posts from Kaley's Instagram account. A visual representation of exactly how much time this young woman poured into the app starting at age 9. Zuckerberg blinked hard at it. When Lanier said Meta essentially owned those pictures, Zuck could only manage "I'm not sure that's accurate."
 

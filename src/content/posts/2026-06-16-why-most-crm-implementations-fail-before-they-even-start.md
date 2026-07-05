@@ -8,7 +8,7 @@ tags: [news, business]
 tags_color: '#2b2b2b'
 ---
 
-I've watched hundreds of companies stumble through [CRM](https://infeeds.com/tags/?tag=business) implementations over the past twelve years. The pattern is always the same. They get excited about a new tool, throw money at it, and then wonder why their team hates it and nothing improves.
+I've watched hundreds of companies stumble through [CRM](https://infeeds.com/tags/business) implementations over the past twelve years. The pattern is always the same. They get excited about a new tool, throw money at it, and then wonder why their team hates it and nothing improves.
 
 Here's the uncomfortable truth: the failure usually has nothing to do with the software itself.
 

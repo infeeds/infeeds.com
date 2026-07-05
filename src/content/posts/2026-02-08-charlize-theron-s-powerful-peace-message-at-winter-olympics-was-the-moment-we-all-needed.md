@@ -18,7 +18,7 @@ The South African-born actor came out just before the Olympic cauldron was lit t
 
 "Peace is not just the absence of conflict," Theron said, channeling Mandela's wisdom. "Peace is the creation of an environment where all can flourish, regardless of race, color, creed, religion, gender, class, caste, or any other social markers of difference."
 
-Let that sink in for a second. We live in a time where [news](https://infeeds.com/tags/?tag=news) cycles are dominated by division and conflict. Newsrooms are shrinking, and the stories that matter about community and humanity often get buried under sensationalism. So when someone with Theron's platform uses it to remind us of our common humanity, it actually means something.
+Let that sink in for a second. We live in a time where [news](https://infeeds.com/tags/news) cycles are dominated by division and conflict. Newsrooms are shrinking, and the stories that matter about community and humanity often get buried under sensationalism. So when someone with Theron's platform uses it to remind us of our common humanity, it actually means something.
 
 She even let out a rueful chuckle after saying "Today, this message seems more relevant than ever." Because yeah, we all felt that. The understatement of the century right there.
 
@@ -26,7 +26,7 @@ She even let out a rueful chuckle after saying "Today, this message seems more r
 
 What really got me was watching Theron choke up at the end. This wasn't some scripted Hollywood moment designed for applause. The woman was genuinely emotional about what she was saying. You could see it in her face, hear it in her voice.
 
-This is the same actor who won an Oscar for "Monster" and became an action star in films like "The Italian Job." But Friday night in Milan, where she once worked as a teen model, she returned not for glamour but for something bigger. She used her role in the [entertainment](https://infeeds.com/tags/?tag=entertainment) industry to amplify a message that transcends red carpets and box office numbers.
+This is the same actor who won an Oscar for "Monster" and became an action star in films like "The Italian Job." But Friday night in Milan, where she once worked as a teen model, she returned not for glamour but for something bigger. She used her role in the [entertainment](https://infeeds.com/tags/entertainment) industry to amplify a message that transcends red carpets and box office numbers.
 
 Theron has spent years turning her film career into real humanitarian work through organizations like Africa Outreach. This wasn't a publicity stunt. This was someone who actually cares using the biggest stage she could get.
 

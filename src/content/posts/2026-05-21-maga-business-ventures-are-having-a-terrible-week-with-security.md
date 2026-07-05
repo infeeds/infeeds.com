@@ -22,7 +22,7 @@ This wasn't some sophisticated, unpreventable attack. This was basic operational
 
 ## What This Pattern Tells Us
 
-One security breach is an incident. Two in a single week involving related [political](https://infeeds.com/tags/?tag=politics) figures starts to look like a trend. And the trend suggests that companies operating in this political space may not have the [technical](https://infeeds.com/tags/?tag=technology) infrastructure or expertise to handle basic cybersecurity.
+One security breach is an incident. Two in a single week involving related [political](https://infeeds.com/tags/politics) figures starts to look like a trend. And the trend suggests that companies operating in this political space may not have the [technical](https://infeeds.com/tags/technology) infrastructure or expertise to handle basic cybersecurity.
 
 That's not meant as partisan criticism. It's an observation about operational readiness. Any company handling customer data or accepting payments has a responsibility to secure that information. When multiple ventures fail at the same time, it points to either a shared weak link or a broader culture that doesn't prioritize these fundamentals.
 

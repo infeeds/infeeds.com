@@ -42,7 +42,7 @@ Here's where things get interesting for small teams and solo operators. A social
 
 You can repurpose one blog post into a Twitter thread, Instagram carousel, LinkedIn post, and TikTok script without manually rewriting each one from scratch. You can generate captions for five different platforms in minutes instead of hours. You can translate your entire content strategy into 30 languages for global campaigns.
 
-That's powerful for small [businesses](/tags/?tag=business). It's also changing what productivity looks like across the entire content industry.
+That's powerful for small [businesses](/tags/business). It's also changing what productivity looks like across the entire content industry.
 
 ## What Gets Lost When We're Not Careful
 
@@ -54,6 +54,6 @@ Treating AI like a magic solution will disappoint you. Treating it like a tool t
 
 ## Finding Your New Normal
 
-The [technology](/tags/?tag=technology) is here. It's not going away. The marketers and content creators who'll thrive are the ones who figure out what AI should handle and what they should personally defend. Relying on AI for everything is lazy. Ignoring it entirely is stubborn. The sweet spot is somewhere in between.
+The [technology](/tags/technology) is here. It's not going away. The marketers and content creators who'll thrive are the ones who figure out what AI should handle and what they should personally defend. Relying on AI for everything is lazy. Ignoring it entirely is stubborn. The sweet spot is somewhere in between.
 
 Your creativity doesn't become less valuable in a world where AI exists. It becomes more valuable because the bar for basic content creation just got lower, which means originality actually stands out now.

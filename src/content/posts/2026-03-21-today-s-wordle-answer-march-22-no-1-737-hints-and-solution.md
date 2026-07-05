@@ -26,7 +26,7 @@ Pretty solid word, right? It starts with B, which the article mentions is a lett
 
 There's something weirdly satisfying about these daily word games. They're not designed to frustrate you for hours like some puzzle games might. Instead, they hit that sweet spot of being challenging enough to feel rewarding when you nail it.
 
-If you want to get better at [Technology](https://infeeds.com/tags/?tag=technology) puzzles and word games in general, it helps to know which letters actually appear most frequently in English. The New York Times released some data on this, and it's genuinely useful. E, A, R, O, and T dominate. Start there, and you'll solve most puzzles way faster.
+If you want to get better at [Technology](https://infeeds.com/tags/technology) puzzles and word games in general, it helps to know which letters actually appear most frequently in English. The New York Times released some data on this, and it's genuinely useful. E, A, R, O, and T dominate. Start there, and you'll solve most puzzles way faster.
 
 Yesterday's answer was SLICK, which had some similar vibes but felt a bit more accessible. BASIL throws that first letter curveball that makes people hesitate.
 

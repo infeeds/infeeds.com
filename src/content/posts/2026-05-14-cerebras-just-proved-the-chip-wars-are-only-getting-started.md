@@ -16,9 +16,9 @@ But here's what makes this story interesting: it's not really about a spectacula
 
 ## When Foreign Investment Becomes a Regulatory Minefield
 
-A year ago, Cerebras looked dead in the water. The company had filed to go public in 2024, but the Committee on Foreign Investment in the United States (CFIUS) threw the process into endless review purgatory. The culprit was a major investment from Abu Dhabi-based Group 42, which spooked regulators worried about foreign capital flowing into sensitive [technology](/tags/?tag=technology) infrastructure.
+A year ago, Cerebras looked dead in the water. The company had filed to go public in 2024, but the Committee on Foreign Investment in the United States (CFIUS) threw the process into endless review purgatory. The culprit was a major investment from Abu Dhabi-based Group 42, which spooked regulators worried about foreign capital flowing into sensitive [technology](/tags/technology) infrastructure.
 
-The timing was particularly brutal because Group 42 wasn't just an investor. It was also Cerebras's largest customer, accounting for almost all of the company's revenues. For potential public market investors, that's a massive red flag. You're not looking at a diversified [business](/tags/?tag=business) with multiple revenue streams. You're looking at a dependency relationship. Throw CFIUS concerns into that mix and institutional investors ran for the exits.
+The timing was particularly brutal because Group 42 wasn't just an investor. It was also Cerebras's largest customer, accounting for almost all of the company's revenues. For potential public market investors, that's a massive red flag. You're not looking at a diversified [business](/tags/business) with multiple revenue streams. You're looking at a dependency relationship. Throw CFIUS concerns into that mix and institutional investors ran for the exits.
 
 So the IPO plans got shelved. Quietly. The kind of shelved where nobody talks about it anymore because it's too embarrassing.
 

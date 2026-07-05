@@ -34,7 +34,7 @@ When you destroy those kinds of relationships, you create vacuums. And in geopol
 
 Here's where the global dimensions of this crisis become really interesting. China has been carefully straddling the fence, offering statements critical of U.S. action while refusing to commit any real support to Iran.
 
-That's not hesitation. That's calculation. China buys over 80% of Iran's shipped oil and relies on Iranian military technology for various projects. Yet it's holding back from taking Iran's side more openly. Why? Because <a href="https://infeeds.com/tags/?tag=business">a weaker Iran might actually serve China's interests better</a>.
+That's not hesitation. That's calculation. China buys over 80% of Iran's shipped oil and relies on Iranian military technology for various projects. Yet it's holding back from taking Iran's side more openly. Why? Because <a href="https://infeeds.com/tags/business">a weaker Iran might actually serve China's interests better</a>.
 
 Think about it from Beijing's perspective: the weaker the Iranian regime becomes, whether through military pressure or internal collapse, the more dependent it becomes on Chinese support. That's not a loss. That's a strategic upgrade. Iran goes from being an independent actor to being economically and technologically tethered to Beijing.
 

@@ -12,7 +12,7 @@ Cedrik Sixtus got tired of the pretense. The Leipzig software developer noticed 
 
 His tool filters out over 4,700 suspected AI artists. It works by tracking unusually high release volumes, AI-style cover art, and external detection tools. Simple enough. Yet Spotify, the world's most popular streaming service, still won't do what Sixtus does for free.
 
-The gap between what listeners want and what [Technology](https://infeeds.com/tags/?tag=technology) companies deliver has rarely felt wider.
+The gap between what listeners want and what [Technology](https://infeeds.com/tags/technology) companies deliver has rarely felt wider.
 
 ## The Demand is Clear
 

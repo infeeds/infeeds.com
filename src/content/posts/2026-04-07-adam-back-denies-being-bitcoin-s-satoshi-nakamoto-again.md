@@ -12,7 +12,7 @@ Adam Back is not amused. The British Bitcoin developer and prominent figure in t
 
 The timing seems convenient, Back suggested. The Times' analysis pointed out that his online activity matched periods when Satoshi was most active, then vanished when Satoshi disappeared from Bitcoin forums. Back countered this on X by saying he "did a lot of yakking" during those exact times, essentially poking holes in a timeline that looked damning on paper but crumbles under scrutiny.
 
-What makes this moment particularly interesting is that Back has fielded this accusation before. The question of who Satoshi Nakamoto really is sits at the intersection of [technology](https://infeeds.com/tags/?tag=technology) obsession and [business](https://infeeds.com/tags/?tag=business) intrigue, drawing investigators, journalists, and amateur sleuths like moths to a flame. Yet despite years of detective work, the identity remains one of the internet's most enduring mysteries.
+What makes this moment particularly interesting is that Back has fielded this accusation before. The question of who Satoshi Nakamoto really is sits at the intersection of [technology](https://infeeds.com/tags/technology) obsession and [business](https://infeeds.com/tags/business) intrigue, drawing investigators, journalists, and amateur sleuths like moths to a flame. Yet despite years of detective work, the identity remains one of the internet's most enduring mysteries.
 
 ## The Stakes Are Astronomical
 

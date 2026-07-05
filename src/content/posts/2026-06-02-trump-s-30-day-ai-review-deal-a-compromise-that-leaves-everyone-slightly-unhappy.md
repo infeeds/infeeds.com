@@ -8,7 +8,7 @@ tags: [news, tech]
 tags_color: '#ff5722'
 ---
 
-The Trump administration just dropped a new AI executive order, and it's exactly as messy as you'd expect from a White House that can't quite decide how it feels about regulating [Technology](https://infeeds.com/tags/?tag=technology).
+The Trump administration just dropped a new AI executive order, and it's exactly as messy as you'd expect from a White House that can't quite decide how it feels about regulating [Technology](https://infeeds.com/tags/technology).
 
 According to reporting from WIRED, the president signed a scaled-back version of an order he had shelved less than two weeks ago after senior aides convinced him they couldn't keep kicking the can down the road on AI governance. The big change? The original 90-day advance review period that had AI companies collectively freaking out has been trimmed to just 30 days. That's the compromise that made this thing signable.
 

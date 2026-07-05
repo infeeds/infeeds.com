@@ -12,7 +12,7 @@ tags_color: '#4caf50'
 
 Nvidia is about to prove whether the AI boom's most powerful story can actually sustain itself. After the bell on Wednesday, the chip giant will report its fourth-quarter earnings, and this time around, Wall Street isn't just looking for another blowout quarter. They want to know if the company can hold the line on profitability while the entire industry's infrastructure costs are spiraling upward.
 
-The numbers on paper look predictable. Analysts expect revenue to hit roughly $60 billion, representing 68% growth from last year. That would extend Nvidia's frankly absurd streak to 11 straight quarters of growth above 55%. The <a href="https://infeeds.com/tags/?tag=business">business</a> has been riding the AI wave so hard that it barely looks real.
+The numbers on paper look predictable. Analysts expect revenue to hit roughly $60 billion, representing 68% growth from last year. That would extend Nvidia's frankly absurd streak to 11 straight quarters of growth above 55%. The <a href="https://infeeds.com/tags/business">business</a> has been riding the AI wave so hard that it barely looks real.
 
 But here's where things get interesting.
 
@@ -40,7 +40,7 @@ We already got some hints about what's coming when the four major tech giants re
 
 If you read between the lines of their guidance, what you see is companies that are still willing to spend heavily but also increasingly aware that the bill is getting serious. They're not pulling back yet, but the tone has shifted from "build it all, we need to move fast" to "build it strategically, we need to watch the returns."
 
-Nvidia needs to convince people that despite all this spending, the economics still work. That memory prices won't squeeze them. That the <a href="https://infeeds.com/tags/?tag=technology">technology</a> isn't commoditizing. That the next quarter's growth will still be north of 65%, pushing toward $72.6 billion.
+Nvidia needs to convince people that despite all this spending, the economics still work. That memory prices won't squeeze them. That the <a href="https://infeeds.com/tags/technology">technology</a> isn't commoditizing. That the next quarter's growth will still be north of 65%, pushing toward $72.6 billion.
 
 The real test isn't whether Nvidia beats estimates. It's whether management can convince anyone that this growth rate has years left in it, not quarters.
 

@@ -10,7 +10,7 @@ tags: [news, science]
 tags_color: '#1788b1'
 ---
 
-There's a frustrating paradox in modern <a href="https://infeeds.com/tags/?tag=science">science</a> that's been nagging researchers for years. Polyamines, naturally occurring molecules found in every living cell, seem to be anti-aging superstars. They activate cellular cleaning mechanisms, support longevity, and have earned the nickname "geroprotectors" for their potential to help us live longer, healthier lives.
+There's a frustrating paradox in modern <a href="https://infeeds.com/tags/science">science</a> that's been nagging researchers for years. Polyamines, naturally occurring molecules found in every living cell, seem to be anti-aging superstars. They activate cellular cleaning mechanisms, support longevity, and have earned the nickname "geroprotectors" for their potential to help us live longer, healthier lives.
 
 But here's where it gets weird. The same molecules show up in dangerously high levels inside cancer cells, where they accelerate tumor growth with alarming efficiency. So which is it? Are polyamines good or bad? The answer, it turns out, is infuriatingly complicated.
 

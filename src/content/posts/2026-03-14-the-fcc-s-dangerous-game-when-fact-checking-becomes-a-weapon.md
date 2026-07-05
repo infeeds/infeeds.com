@@ -30,7 +30,7 @@ Critics have been quick to point out this contradiction, and for good reason. It
 
 This isn't happening in a vacuum. The FCC has already been flexing its muscles in other ways. CBS pulled an interview with Texas state Rep. James Talarico from "The Late Show with Stephen Colbert" after legal teams worried about the "equal time" rule. The agency has also started suggesting that late-night comedy shows might not actually be exempt from equal time requirements, which is a pretty radical reinterpretation of rules that have been interpreted differently for years.
 
-It's a coordinated pattern of pressure, and <a href="https://infeeds.com/tags/?tag=business">business</a> outlets covering media companies are starting to track the implications. Former FCC officials and lawmakers have already sounded the alarm. They're warning that using regulatory authority to challenge editorial decisions is essentially asking the government to police newsrooms.
+It's a coordinated pattern of pressure, and <a href="https://infeeds.com/tags/business">business</a> outlets covering media companies are starting to track the implications. Former FCC officials and lawmakers have already sounded the alarm. They're warning that using regulatory authority to challenge editorial decisions is essentially asking the government to police newsrooms.
 
 ## The Dangerous Precedent
 

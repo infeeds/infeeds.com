@@ -28,9 +28,9 @@ Let that sink in for a moment. A reporter asks about accountability for sex traf
 
 This isn't new territory for Trump. The list of female journalists he's attacked keeps growing. He's berated a CNN reporter for asking what he deemed a "stupid question." He asked a CBS News White House correspondent if she was "a stupid person." And in perhaps the most degrading instance, he attacked a Bloomberg reporter with the words "Quiet, piggy."
 
-Notice the pattern here? These aren't just disagreements about [news](https://infeeds.com/tags/?tag=news) coverage or policy disputes. These are personal, often gendered attacks designed to humiliate and diminish. When male reporters ask difficult questions, they might get called "fake news." When women do it, they're told they have bad attitudes, questioned about their intelligence, or compared to animals.
+Notice the pattern here? These aren't just disagreements about [news](https://infeeds.com/tags/news) coverage or policy disputes. These are personal, often gendered attacks designed to humiliate and diminish. When male reporters ask difficult questions, they might get called "fake news." When women do it, they're told they have bad attitudes, questioned about their intelligence, or compared to animals.
 
-The defense is always the same. Trump claims his base "has never been stronger" and that people "couldn't be more thrilled" with his administration. He pivots to boasting about accomplishments. But the question remains unanswered. The reporter gets smeared. The [business](https://infeeds.com/tags/?tag=business) of holding power accountable gets harder.
+The defense is always the same. Trump claims his base "has never been stronger" and that people "couldn't be more thrilled" with his administration. He pivots to boasting about accomplishments. But the question remains unanswered. The reporter gets smeared. The [business](https://infeeds.com/tags/business) of holding power accountable gets harder.
 
 ## What This Means for Press Freedom
 

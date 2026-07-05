@@ -22,7 +22,7 @@ The creativity intensified when someone set the entire conversation to 2011-styl
 
 But the real gold came from one particular detail: when Murati casually referred to the newly appointed CEO, former Twitch executive Emmett Shear, as the "rando Twitch guy." The dismissiveness was so perfectly brutal that it demanded a response. Shear apparently delivered one with what observers described as pitch-perfect timing, though the details of his comeback didn't make it into the source material.
 
-## When <a href="https://infeeds.com/tags/?tag=business">Business</a> Drama Becomes Culture
+## When <a href="https://infeeds.com/tags/business">Business</a> Drama Becomes Culture
 
 Here's what's interesting about this moment. These texts aren't just corporate gossip anymore. They're exhibits in a federal court case about whether Musk was deceived into funding a nonprofit that later became a for-profit venture. The stakes are genuinely high, and the implications for Silicon Valley's accountability structure could matter.
 
@@ -30,6 +30,6 @@ Yet what actually captured public attention wasn't the legal framework or the fi
 
 Murati, notably, has since left OpenAI to start Thinking Machines Lab. She moved on. Altman stayed and eventually returned to his leadership role. But in these texts, frozen in time during one of tech's most chaotic moments, there's something universally resonant about powerlessness and the people who won't pretend difficult situations are anything other than what they are.
 
-The <a href="https://infeeds.com/tags/?tag=technology">Technology</a> industry loves to present itself as meritocratic and rational. These texts suggest otherwise. They show people making gut-wrenching decisions under pressure, communicating with more honesty than you'd typically expect in a professional setting, and getting memed into oblivion for it.
+The <a href="https://infeeds.com/tags/technology">Technology</a> industry loves to present itself as meritocratic and rational. These texts suggest otherwise. They show people making gut-wrenching decisions under pressure, communicating with more honesty than you'd typically expect in a professional setting, and getting memed into oblivion for it.
 
 The trial is expected to continue into next week. The memes, one suspects, will outlast the verdict.

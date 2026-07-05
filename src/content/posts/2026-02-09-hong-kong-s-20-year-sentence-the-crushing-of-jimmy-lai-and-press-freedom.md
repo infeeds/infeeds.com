@@ -18,7 +18,7 @@ Hong Kong's leader called the sentence "deeply gratifying." Let that sink in for
 
 Lai's journey reads like something out of a novel. He arrived in Hong Kong at 12 as a stowaway on a fishing boat, fleeing mainland China with nothing. He worked his way up from menial jobs to founding Giordano, building a multi-million dollar clothing empire. He had made it. He could have stayed quiet, enjoyed his wealth, and lived comfortably.
 
-But then came Tiananmen Square in 1989. The crackdown on pro-democracy protesters in Beijing changed everything for Lai. He couldn't unsee what the Chinese government was capable of doing to its own people. That's when he pivoted from [business](https://infeeds.com/tags/?tag=business) mogul to democracy activist, launching Apple Daily and Next magazine as weapons against authoritarianism.
+But then came Tiananmen Square in 1989. The crackdown on pro-democracy protesters in Beijing changed everything for Lai. He couldn't unsee what the Chinese government was capable of doing to its own people. That's when he pivoted from [business](https://infeeds.com/tags/business) mogul to democracy activist, launching Apple Daily and Next magazine as weapons against authoritarianism.
 
 "I got everything I have because of Hong Kong," he told the BBC in his last interview as a free man in 2020. "If this is payback time, this is my redemption."
 
@@ -38,7 +38,7 @@ Countries are "expressing concern." The UN human rights chief is "calling for re
 
 China's foreign ministry couldn't care less about international pressure. They call it an internal affair and insist the sentencing demonstrates Hong Kong's rule of law. It demonstrates something, alright. Just not rule of law.
 
-Rights groups are using words like "draconian" and "egregious." Jodie Ginsberg from the Committee to Protect Journalists called it "the final nail in the coffin for freedom of the press in Hong Kong." She's calling on the international community to step up pressure if we want [press freedom](https://infeeds.com/tags/?tag=news) respected anywhere in the world.
+Rights groups are using words like "draconian" and "egregious." Jodie Ginsberg from the Committee to Protect Journalists called it "the final nail in the coffin for freedom of the press in Hong Kong." She's calling on the international community to step up pressure if we want [press freedom](https://infeeds.com/tags/news) respected anywhere in the world.
 
 ## What This Really Means
 

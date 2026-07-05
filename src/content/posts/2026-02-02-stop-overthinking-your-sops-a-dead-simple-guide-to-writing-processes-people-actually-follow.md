@@ -16,7 +16,7 @@ If you're at that point, someone may have suggested an SOP to you.
 
 SOPs are easy to get stuck on. Either they get wildly overcomplicated and turn into a 40-page Google Doc no one reads, or they get put off indefinitely because things are changing fast, or you're intimidated to start.
 
-Here's the truth: SOPs are not about perfection. Done right, they are living documents that reduce decision fatigue and make your [business](https://infeeds.com/tags/?tag=business) easier to run, scale and step away from.
+Here's the truth: SOPs are not about perfection. Done right, they are living documents that reduce decision fatigue and make your [business](https://infeeds.com/tags/business) easier to run, scale and step away from.
 
 ## What SOPs Actually Are (And Aren't)
 
@@ -90,7 +90,7 @@ A great way to know if SOPs are in need of updating is to empower your team to l
 
 If you aren't convinced yet, let's talk about the payoff of well-written SOPs. They save time, sure, but also make delegation much easier, improve client experience, make onboarding more efficient and generally stabilize your operations.
 
-They also set your [business](https://infeeds.com/tags/?tag=business) up to be bought one day if that's a goal for you, as they are a clear signal of a well-run business and make it easy for a new owner to step in.
+They also set your [business](https://infeeds.com/tags/business) up to be bought one day if that's a goal for you, as they are a clear signal of a well-run business and make it easy for a new owner to step in.
 
 This scales significantly as your business grows as well, with ROI on SOPs being estimated at 60%+ for growing enterprises. Making that small investment along the way will result in big gains down the road.
 

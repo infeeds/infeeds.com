@@ -28,7 +28,7 @@ In April, Meta raised its 2026 capex guidance to as high as $145 billion from a 
 
 These are eye-watering figures. And investors are starting to ask hard questions about whether the spending will actually pay off.
 
-Here's the wrinkle: Wall Street has been treating these two [Technology](https://infeeds.com/tags/?tag=technology) companies very differently over the past year. Alphabet has a prospering cloud business that helps justify its hefty AI spending, and the market has rewarded it. Alphabet's stock is up more than 115% in the last twelve months, topping all of its megacap peers.
+Here's the wrinkle: Wall Street has been treating these two [Technology](https://infeeds.com/tags/technology) companies very differently over the past year. Alphabet has a prospering cloud business that helps justify its hefty AI spending, and the market has rewarded it. Alphabet's stock is up more than 115% in the last twelve months, topping all of its megacap peers.
 
 Meta? Its stock is down 13% over the same period, making it the worst performer in the bunch.
 

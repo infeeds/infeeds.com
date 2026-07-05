@@ -26,7 +26,7 @@ That's the real subtext. Beijing is playing a longer game than the headlines sug
 
 The differences between what Washington announced and what Beijing announced reveal cracks in the agreement itself. China indicated that reducing tariffs would be part of future plans. The US didn't mention duties at all in its readout. That's telling. It suggests the two sides may not be quite as aligned on the actual mechanics of trade as the press releases suggest.
 
-On <a href="https://infeeds.com/tags/?tag=business">Business</a> deals, both sides did agree to establish boards of trade and investment to facilitate ongoing discussions. That's useful infrastructure, but infrastructure isn't the same as actual progress.
+On <a href="https://infeeds.com/tags/business">Business</a> deals, both sides did agree to establish boards of trade and investment to facilitate ongoing discussions. That's useful infrastructure, but infrastructure isn't the same as actual progress.
 
 The Boeing airplane purchase is another example of selective framing. The US specified that China plans to buy 200 Boeing aircraft. Beijing's statement was vaguer, mentioning the aircraft purchase agreement while also noting that the US would ensure supply of engines and other parts. Context matters here: China has developed its own passenger airplane but still relies on foreign-made components. That dependency shapes the entire negotiation.
 

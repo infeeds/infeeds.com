@@ -26,7 +26,7 @@ I grabbed my things and left. But the damage was already done to my confidence i
 
 ## Why We Want to Believe
 
-The <a href="https://infeeds.com/tags/?tag=health">health</a> industry is flooded with alternatives to evidence-based medicine. Coffee enemas, Gerson therapy, black salve, alkaline diets, homeopathy, energy healing. They're marketed by doctors, chiropractors, and wellness influencers who speak with absolute certainty. None of them have peer-reviewed evidence backing them up. All of them prey on people who are vulnerable.
+The <a href="https://infeeds.com/tags/health">health</a> industry is flooded with alternatives to evidence-based medicine. Coffee enemas, Gerson therapy, black salve, alkaline diets, homeopathy, energy healing. They're marketed by doctors, chiropractors, and wellness influencers who speak with absolute certainty. None of them have peer-reviewed evidence backing them up. All of them prey on people who are vulnerable.
 
 And I get it. Cancer steals your agency. Your body feels like a traitor. Your treatment plan gets decided by strangers in white coats. When a charismatic practitioner offers you control, simplicity, and hope instead of statistics and side effects, that offer feels like oxygen to a drowning person.
 

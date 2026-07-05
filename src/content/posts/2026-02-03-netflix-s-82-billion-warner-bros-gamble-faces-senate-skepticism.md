@@ -12,7 +12,7 @@ tags_color: '#1f78b4'
 
 Netflix walked into a buzzsaw on Tuesday. The streaming giant's co-CEO Ted Sarandos faced a bipartisan firing squad of senators who weren't buying what he was selling about the proposed $82 billion Warner Bros Discovery acquisition.
 
-The hearing showed just how nervous Washington has become about concentration in the [entertainment industry](https://infeeds.com/tags/?tag=entertainment). Both Democrats and Republicans came armed with concerns about reduced competition, potential subscription price hikes, and the fate of movie theaters if this deal actually goes through.
+The hearing showed just how nervous Washington has become about concentration in the [entertainment industry](https://infeeds.com/tags/entertainment). Both Democrats and Republicans came armed with concerns about reduced competition, potential subscription price hikes, and the fate of movie theaters if this deal actually goes through.
 
 ## The Theater Question Nobody Asked For
 
@@ -26,7 +26,7 @@ Republican Senator Mike Lee raised a point that actually matters for regular peo
 
 The most eyebrow-raising moment came when Sarandos argued that YouTube should be considered a major Netflix competitor. "YouTube is not just cat videos anymore. YouTube is TV," he claimed, clearly trying to make the merger seem less monopolistic by expanding the definition of who they compete against.
 
-This argument feels desperate. Yes, people watch YouTube. Yes, it consumes time that might otherwise go to Netflix. But comparing curated, high-budget streaming [content](https://infeeds.com/tags/?tag=technology) to user-generated YouTube videos is like comparing a restaurant to a potluck dinner. They're not the same [business](https://infeeds.com/tags/?tag=business) model, and the senators seemed to recognize that.
+This argument feels desperate. Yes, people watch YouTube. Yes, it consumes time that might otherwise go to Netflix. But comparing curated, high-budget streaming [content](https://infeeds.com/tags/technology) to user-generated YouTube videos is like comparing a restaurant to a potluck dinner. They're not the same [business](https://infeeds.com/tags/business) model, and the senators seemed to recognize that.
 
 Senator Lee wasn't having it, and honestly, good for him. This kind of market redefinition is exactly how companies try to slip massive consolidation past regulators.
 

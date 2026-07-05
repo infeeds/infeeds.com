@@ -58,7 +58,7 @@ This requires resisting the urge to flatten all social performance into a single
 
 ## The Bigger Picture
 
-What's happening at Canva isn't just a <a href="https://infeeds.com/tags/?tag=business">business</a> success story. It's a philosophical shift about how scale and authenticity can coexist.
+What's happening at Canva isn't just a <a href="https://infeeds.com/tags/business">business</a> success story. It's a philosophical shift about how scale and authenticity can coexist.
 
 The instinct when you grow globally is to strip away the rough edges, to create a version of your brand that's palatable everywhere. Canva did the opposite. They leaned into the rough edges. They doubled down on specificity. They made bets on local culture that wouldn't have registered on a global dashboard.
 

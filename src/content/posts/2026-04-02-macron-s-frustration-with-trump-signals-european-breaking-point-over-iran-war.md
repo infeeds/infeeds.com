@@ -56,7 +56,7 @@ Iran responded to the strikes by closing the Strait of Hormuz, a critical waterw
 
 Macron pushed back hard against military action to reopen the strait, calling it "unrealistic" and dangerous. Such an operation would expose vessels and forces to coastal threats from Iran's Revolutionary Guards, who possess significant resources including ballistic missiles.
 
-According to [BBC reporting](https://infeeds.com/tags/?tag=news), Yvette Cooper argued that coordinated diplomatic and economic measures are required instead. This reflects a fundamental disagreement about what actually works in these situations.
+According to [BBC reporting](https://infeeds.com/tags/news), Yvette Cooper argued that coordinated diplomatic and economic measures are required instead. This reflects a fundamental disagreement about what actually works in these situations.
 
 Military solutions to strategic chokepoints often create more problems than they solve. You can force a strait open through military action, but maintaining that solution requires sustained presence and enormous risk. The diplomatic and economic approach might move slower, but it's the only path that doesn't end with permanent military entanglement.
 

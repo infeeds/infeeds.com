@@ -12,7 +12,7 @@ tags_color: '#1f78b4'
 
 You walk into a game shop, pull down a new AAA title, and nearly drop it when you see the price tag. Seventy quid. In the UK, that's become the new normal for big releases. But here's the thing: the gaming industry might have finally overplayed its hand.
 
-Back in 2025, Nintendo set what seemed like an audacious benchmark by pricing major Switch titles like Mario Kart World at £74.99. Not to be outdone, rumors swirled that Grand Theft Auto 6 could become the first game ever to hit the $100 mark. It sounds absurd until you remember that <a href="https://infeeds.com/tags/?tag=business">Business</a> always pushes boundaries, especially when they think they can get away with it.
+Back in 2025, Nintendo set what seemed like an audacious benchmark by pricing major Switch titles like Mario Kart World at £74.99. Not to be outdone, rumors swirled that Grand Theft Auto 6 could become the first game ever to hit the $100 mark. It sounds absurd until you remember that <a href="https://infeeds.com/tags/business">Business</a> always pushes boundaries, especially when they think they can get away with it.
 
 But something unexpected happened. While the big publishers kept raising prices, a strange shift occurred in the market.
 
@@ -54,6 +54,6 @@ The £70 price tag isn't guaranteed to mean quality. It's become a gamble. Somet
 
 Kepler Interactive's decision to price lower was about respecting players, sure, but it was also about standing out in a market drowning in choices. Garavaryan even mentioned they're working on a physical magazine in an era when everything is digital. "As people move away from the more physical, the more human touch, we want to find that as a place where we find comfort," he said.
 
-That's a strange thing to hear from a <a href="https://infeeds.com/tags/?tag=technology">Technology</a> company, but maybe it's the smartest thing anyone's said about the industry in years.
+That's a strange thing to hear from a <a href="https://infeeds.com/tags/technology">Technology</a> company, but maybe it's the smartest thing anyone's said about the industry in years.
 
 The real competition for your money isn't between games. It's for your attention, and your trust.

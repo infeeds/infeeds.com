@@ -28,7 +28,7 @@ If you're into this direction Zayn's heading, the Konnakol Tour is coming. The 3
 
 Here's what's wild though. Zayn isn't the only One Direction member putting out fresh material right now. In January, Louis Tomlinson dropped How Did I Get Here?, featuring the single "Imposter." Then there's Harry Styles, who just released Kiss All the Time, Disco, Occasionally earlier this month and performed on Saturday Night Live to support it.
 
-It's like [entertainment](https://infeeds.com/tags/?tag=entertainment) is having this moment where these guys are all releasing new work at basically the same time, but completely separately. No reunion. No coordinated rollout. Just four different artists doing their own thing.
+It's like [entertainment](https://infeeds.com/tags/entertainment) is having this moment where these guys are all releasing new work at basically the same time, but completely separately. No reunion. No coordinated rollout. Just four different artists doing their own thing.
 
 The contrast is actually fascinating. Each one sounds nothing like the others because they've all gone in completely different directions creatively. Zayn's exploring R&B and his cultural heritage. Harry's doing something experimental. Louis is doing his own thing. It's less "One Direction reunion energy" and more "we all grew up and here's what we actually want to make now."
 

@@ -32,6 +32,6 @@ Music is a universal language, which is probably why the New York Times chose it
 
 If you're completely lost, remember that any word of four letters or more that you find will count toward unlocking hints. You don't need to guess the theme words immediately. Just find whatever words you can see on the board, and let the puzzle guide you from there. Sometimes the path to the answer is winding around (pun intended) until something clicks.
 
-For more <a href="https://infeeds.com/tags/?tag=technology">Technology</a> and puzzle coverage, check out CNET's full NYT puzzle page where they keep track of everything from <a href="https://infeeds.com/tags/?tag=news">Wordle</a> to Connections to the Mini Crossword.
+For more <a href="https://infeeds.com/tags/technology">Technology</a> and puzzle coverage, check out CNET's full NYT puzzle page where they keep track of everything from <a href="https://infeeds.com/tags/news">Wordle</a> to Connections to the Mini Crossword.
 
 The real question isn't whether you'll solve today's puzzle. It's how long you'll resist looking at the answer before giving it a shot yourself.

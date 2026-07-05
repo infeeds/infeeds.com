@@ -40,7 +40,7 @@ The testimonial about "cooking freedom" after hating cooking your whole life rea
 
 But there's something appealing about the concept. Not needing to rely on recipes means not needing to plan every meal three days in advance. It means being able to look at random vegetables and protein and instinctively know what will work together. That's a skill worth having, regardless of whether you learn it from a coaching program or years of trial and error.
 
-The [lifestyle](https://infeeds.com/tags/?tag=lifestyle) wellness space is crowded with people promising to change your life for a monthly fee. Some deliver. Most don't. The ones that work usually aren't the ones with the flashiest marketing, they're the ones that make complicated things feel manageable.
+The [lifestyle](https://infeeds.com/tags/lifestyle) wellness space is crowded with people promising to change your life for a monthly fee. Some deliver. Most don't. The ones that work usually aren't the ones with the flashiest marketing, they're the ones that make complicated things feel manageable.
 
 Twenty-minute weekly Zoom calls sound doable. That's less time than most people spend deciding what to order for dinner. Whether those calls actually help you build sustainable habits or just become another thing you feel guilty about missing is the real question.
 
@@ -52,7 +52,7 @@ No wonder people just give up and order pizza.
 
 What's interesting about the gut health angle is that it's harder to argue against. Your digestive system either works well or it doesn't. You either feel good after eating or you don't. That's more concrete than abstract promises about preventing diseases decades from now.
 
-The [health](https://infeeds.com/tags/?tag=health) coaching industry has exploded because people are overwhelmed by conflicting information and craving someone to just tell them what to do. The good coaches don't pretend there's one perfect way to eat. They help you figure out what works for your body, your schedule, your preferences.
+The [health](https://infeeds.com/tags/health) coaching industry has exploded because people are overwhelmed by conflicting information and craving someone to just tell them what to do. The good coaches don't pretend there's one perfect way to eat. They help you figure out what works for your body, your schedule, your preferences.
 
 Jules Clancy being a food scientist adds credibility, though credentials don't always translate to practical advice that works in real kitchens with real time constraints. The fact that she's been around for years contributing to Tiny Buddha suggests she's not just another wellness guru who appeared yesterday with a get-healthy-quick scheme.
 

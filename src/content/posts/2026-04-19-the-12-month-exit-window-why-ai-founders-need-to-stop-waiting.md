@@ -30,7 +30,7 @@ That framing cuts through a lot of founder mythology. The story we tell ourselve
 
 ## Why Now Matters
 
-The AI wave has accelerated the timeline on this calculus. Unlike previous <a href="https://infeeds.com/tags/?tag=technology">technology</a> cycles that unfolded over years, foundation model capabilities are expanding month to month. A startup that owns a defensible slice of AI-powered payroll processing or customer support or data analysis knows that window is closing.
+The AI wave has accelerated the timeline on this calculus. Unlike previous <a href="https://infeeds.com/tags/technology">technology</a> cycles that unfolded over years, foundation model capabilities are expanding month to month. A startup that owns a defensible slice of AI-powered payroll processing or customer support or data analysis knows that window is closing.
 
 That's not doom. It's clarity. And clarity is worth more to a founder with optionality than another round of venture capital and another 18 months of grinding.
 

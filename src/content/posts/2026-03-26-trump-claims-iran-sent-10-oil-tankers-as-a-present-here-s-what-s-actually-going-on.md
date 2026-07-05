@@ -24,7 +24,7 @@ Iranian state media reported Wednesday that Tehran rejected the American ceasefi
 
 ## The Oil Problem Nobody's Really Solving
 
-Trump himself acknowledged the core issue during the meeting. Even if the U.S. succeeds militarily at 99%, that remaining 1% is still a problem. Because that 1% could be a missile hitting a billion-dollar ship. It's a vivid way to frame why naval chokepoints matter so much in modern warfare and <a href="https://infeeds.com/tags/?tag=business">business</a>.
+Trump himself acknowledged the core issue during the meeting. Even if the U.S. succeeds militarily at 99%, that remaining 1% is still a problem. Because that 1% could be a missile hitting a billion-dollar ship. It's a vivid way to frame why naval chokepoints matter so much in modern warfare and <a href="https://infeeds.com/tags/business">business</a>.
 
 The president seemed optimistic about cleanup happening "pretty quickly," but Defense Secretary Pete Hegseth admitted they're facing an unresolved challenge with Iran's ability to target shipping. They claim to be ahead of schedule on their military mission, expecting it to wrap up in four to six weeks instead of the original timeline.
 

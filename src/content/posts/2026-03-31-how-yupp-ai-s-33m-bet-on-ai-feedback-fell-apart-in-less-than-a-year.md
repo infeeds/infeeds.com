@@ -30,13 +30,13 @@ That last part is the kicker. Silicon Valley isn't building for humans anymore, 
 
 "The AI model capability landscape has changed dramatically in the last year alone and will continue to change quickly," Gupta wrote on X. "The future is not just models but agentic systems."
 
-## What This Really Says About [Technology](https://infeeds.com/tags/?tag=technology)
+## What This Really Says About [Technology](https://infeeds.com/tags/technology)
 
 Yupp's collapse is a case study in a particular kind of startup risk that doesn't get enough airtime. It's not about bad founders or shoddy execution. Gupta and co-founder Gilad Mishne are experienced builders with serious backing. The problem is that they built a business on an assumption that the pace of change would remain somewhat constant. It didn't.
 
 The AI industry isn't just moving fast. It's moving in directions that invalidate entire business models overnight. A company that made perfect sense in early 2024 became obsolete by late 2024. That's not failure in the traditional sense. It's being outpaced by the thing you were trying to commodify.
 
-The irony is sharp: Yupp raised from some of the smartest people in [technology](https://infeeds.com/tags/?tag=technology). Jeff Dean doesn't just invest in random startups. Neither does Chris Dixon. They saw something that looked like a real opportunity. And maybe it was, for about six months. But the AI capability landscape moved, and the business model didn't survive the shift.
+The irony is sharp: Yupp raised from some of the smartest people in [technology](https://infeeds.com/tags/technology). Jeff Dean doesn't just invest in random startups. Neither does Chris Dixon. They saw something that looked like a real opportunity. And maybe it was, for about six months. But the AI capability landscape moved, and the business model didn't survive the shift.
 
 Some of Yupp's employees are joining "a well-known AI company," according to Gupta. Others are looking elsewhere. The $33 million will be written off by investors who can afford it. The real question is whether this becomes a pattern or a one-off speed bump.
 

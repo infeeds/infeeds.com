@@ -26,7 +26,7 @@ Then came the song choice. "Born in the U.S.A." isn't just any anthem. It's a so
 
 Convincing Springsteen to participate wasn't exactly like calling a friend. Romero had been in touch with Jon Landau, Springsteen's longtime manager and confidant, over the years. But this was different. This was asking a legendary artist to attach his most recognizable song to an explicitly political campaign.
 
-The timing helped. Romero had been watching Springsteen speak truth to power at concerts across the country, including in Minneapolis in January. Here was one of the last titans of American <a href="https://infeeds.com/tags/?tag=entertainment">entertainment</a> standing up to the president while corporate America was caving and universities were getting "cudgeled and cowed," as Romero put it.
+The timing helped. Romero had been watching Springsteen speak truth to power at concerts across the country, including in Minneapolis in January. Here was one of the last titans of American <a href="https://infeeds.com/tags/entertainment">entertainment</a> standing up to the president while corporate America was caving and universities were getting "cudgeled and cowed," as Romero put it.
 
 After getting support from Richard Lovett at CAA, the pitch went to Landau. His enthusiasm opened doors at Sony Music and Sony Music Publishing. The executives understood the gravity of the moment. Everyone knew where Springsteen stood. The stars aligned because the moment demanded it.
 

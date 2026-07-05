@@ -12,9 +12,9 @@ Oracle just showed us what happens when a tech giant decides workers are disposa
 
 On March 31, the database behemoth fired somewhere between 20,000 and 30,000 employees via email. No warning. No meetings. Just a message telling people their roles were terminated immediately. One employee described the surreal moment of discovering their termination not from a human, but through a VPN rejection: "I went to go sign into the VPN, and the VPN was like, 'this user doesn't exist anymore.'" They then asked a friend to check Slack. Their account had already been deactivated.
 
-That's the efficiency of [technology](/tags/?tag=technology). That's also the cruelty of scale.
+That's the efficiency of [technology](/tags/technology). That's also the cruelty of scale.
 
-What happened next, though, tells you everything about how big [business](/tags/?tag=business) views its workforce when the market shifts.
+What happened next, though, tells you everything about how big [business](/tags/business) views its workforce when the market shifts.
 
 ## The Severance Package That Wasn't Really a Package
 

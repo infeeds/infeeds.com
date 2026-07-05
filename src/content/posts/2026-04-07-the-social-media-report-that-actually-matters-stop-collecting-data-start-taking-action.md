@@ -10,7 +10,7 @@ tags_color: '#ff9800'
 
 Most social media reports end up in the same place: a inbox folder labeled "archive," never to be seen again. You know the type. Thirty slides of metrics that nobody asked for, charts that prove nothing, and a vague sense that everyone involved wasted their time.
 
-The irony is that <a href="https://infeeds.com/tags/?tag=business">business</a> teams are drowning in social data. Every platform offers analytics. Every tool promises insights. Yet somehow, the data remains useless until someone figures out what it actually means.
+The irony is that <a href="https://infeeds.com/tags/business">business</a> teams are drowning in social data. Every platform offers analytics. Every tool promises insights. Yet somehow, the data remains useless until someone figures out what it actually means.
 
 A good social media report isn't a data dump. It's a translation. It takes raw numbers and converts them into something your team can actually act on, something that explains why your Instagram Reels got more traction than your carousel posts, or why your audience suddenly stopped engaging on Tuesday afternoons.
 

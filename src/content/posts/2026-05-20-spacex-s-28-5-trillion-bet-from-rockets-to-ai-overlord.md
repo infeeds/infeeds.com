@@ -42,7 +42,7 @@ SpaceX plans to begin launching V3 Starlink satellites on Starship in the second
 
 ## The Bet Everything Strategy
 
-What strikes you about reading this filing is how SpaceX is attempting to rebrand itself. It started as a [Business](https://infeeds.com/tags/?tag=business) dedicated to making rockets cheaper and more reliable. It became the world's dominant launch provider. Now it's trying to evolve into something bigger: an AI infrastructure company that happens to own rockets.
+What strikes you about reading this filing is how SpaceX is attempting to rebrand itself. It started as a [Business](https://infeeds.com/tags/business) dedicated to making rockets cheaper and more reliable. It became the world's dominant launch provider. Now it's trying to evolve into something bigger: an AI infrastructure company that happens to own rockets.
 
 That's not evolution. That's transformation. And transformations fail more often than they succeed, regardless of how much capital you throw at them or how visionary your CEO claims to be.
 

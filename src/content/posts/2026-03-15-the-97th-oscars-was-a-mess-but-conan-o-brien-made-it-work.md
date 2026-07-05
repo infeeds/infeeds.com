@@ -22,7 +22,7 @@ The scripted presenter bits were mostly painful. An extended sketch with Ewan Mc
 
 ## The Wins That Actually Mattered
 
-What saved the night from being a total wash was the historic stuff that happened anyway, regardless of production value. [Entertainment](https://infeeds.com/tags/?tag=entertainment) moments that actually meant something.
+What saved the night from being a total wash was the historic stuff that happened anyway, regardless of production value. [Entertainment](https://infeeds.com/tags/entertainment) moments that actually meant something.
 
 Autumn Durald Arkapaw won Best Cinematography and became the first woman ever to win in that category since the Academy started handing out awards in 1929. Let that sink in. Ninety-seven years. She gave a speech that was genuinely moving, asking all the women in the audience to stand up and acknowledging the shoulders she was standing on. It's the kind of moment that reminds you why the Oscars still matter, even when they're kind of a mess.
 

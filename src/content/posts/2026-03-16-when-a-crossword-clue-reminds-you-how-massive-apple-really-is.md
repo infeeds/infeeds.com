@@ -22,11 +22,11 @@ The crossword clue is doing something that financial news articles struggle with
 
 ## Why This Matters (More Than You'd Think)
 
-The <a href="https://infeeds.com/tags/?tag=technology">Technology</a> sector has fundamentally changed how we think about value. A decade ago, a $1 trillion market cap felt like a milestone we'd never reach. Now it's just... a starting point. And we keep adding trillions like we're running out of digits.
+The <a href="https://infeeds.com/tags/technology">Technology</a> sector has fundamentally changed how we think about value. A decade ago, a $1 trillion market cap felt like a milestone we'd never reach. Now it's just... a starting point. And we keep adding trillions like we're running out of digits.
 
 Look, I get that stock valuations and actual economic productivity are two different things. A company can be worth more on paper than it generates in real goods and services. That's capitalism doing its thing. But when a casual puzzle clue has to point out that one company's valuation exceeds the annual economic output of entire nations, it's worth sitting with that for a second.
 
-The clue isn't editorializing. It's just stating a fact. And yet somehow that fact feels more jarring in a crossword than it would in a business <a href="https://infeeds.com/tags/?tag=business">Business</a> section article.
+The clue isn't editorializing. It's just stating a fact. And yet somehow that fact feels more jarring in a crossword than it would in a business <a href="https://infeeds.com/tags/business">Business</a> section article.
 
 ## The Easy Distraction
 

@@ -12,7 +12,7 @@ tags_color: '#00ba65'
 
 Buying a used EV shouldn't be this complicated. You'd think in 2025 we'd have figured out how to make car shopping less miserable, but here we are, still dealing with the same friction that's plagued the industry for decades. A startup called Ever thinks it has the solution, and it just raised $31 million to prove it.
 
-The Series A round was led by Eclipse, with Ibex Investors, Lifeline Ventures, and JIMCO jumping in as co-investors. JIMCO is the investment arm of Saudi Arabia's Jameel family, who got in early on Rivian, so they know a thing or two about betting on electric vehicles. The pitch? Ever wants to be the first place you think of when buying or selling a used EV, powered by AI baked into every part of the [business](https://infeeds.com/tags/?tag=business).
+The Series A round was led by Eclipse, with Ibex Investors, Lifeline Ventures, and JIMCO jumping in as co-investors. JIMCO is the investment arm of Saudi Arabia's Jameel family, who got in early on Rivian, so they know a thing or two about betting on electric vehicles. The pitch? Ever wants to be the first place you think of when buying or selling a used EV, powered by AI baked into every part of the [business](https://infeeds.com/tags/business).
 
 ## The Tesla Approach to Car Retail
 
@@ -40,7 +40,7 @@ But early reviews have been all over the map. A Reddit thread from last year sho
 
 ## The EV Enthusiasm Problem
 
-Here's the elephant in the room. EV interest has cooled off in the United States. Sales are still growing, but not at the breakneck pace everyone predicted a few years ago. That's a real risk for a company betting its entire [technology](https://infeeds.com/tags/?tag=technology) stack on electric vehicles.
+Here's the elephant in the room. EV interest has cooled off in the United States. Sales are still growing, but not at the breakneck pace everyone predicted a few years ago. That's a real risk for a company betting its entire [technology](https://infeeds.com/tags/technology) stack on electric vehicles.
 
 Nyberg hasn't ruled out expanding to gas cars eventually, but for now he wants to stay laser-focused on EVs since there's no dedicated retailer serving that market. It's a calculated gamble. Either EVs bounce back and Ever is perfectly positioned, or the market stays sluggish and they're stuck in a shrinking niche.
 
@@ -52,4 +52,4 @@ The broader bet here isn't just about EVs. It's about digital car retail period.
 
 Behl thinks customers will keep gravitating toward better experiences, which means digital-first with all the friction removed. That's probably true. The question is whether Ever's ground-up AI approach is the right way to get there, or if they're just reinventing wheels that didn't need reinventing.
 
-Building everything from scratch is expensive. It's slow. And there's always a risk that all that custom [infrastructure](https://infeeds.com/tags/?tag=business) becomes technical debt when the market shifts. But maybe that's the price of admission if you want to actually fix something instead of just making it slightly less broken.
+Building everything from scratch is expensive. It's slow. And there's always a risk that all that custom [infrastructure](https://infeeds.com/tags/business) becomes technical debt when the market shifts. But maybe that's the price of admission if you want to actually fix something instead of just making it slightly less broken.

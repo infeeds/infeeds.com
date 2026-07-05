@@ -28,7 +28,7 @@ Anna Bixler, an audiologist and amplification program manager at Jefferson Balan
 
 This is the trap most of us fall into without realizing it. You're on the subway. Traffic noise surrounds you. Your podcast becomes inaudible, so you turn it up. Then you get home, take off your headphones, and you're listening at unsafe levels without even knowing it.
 
-The fix is elegantly simple: noise-canceling headphones. Bixler recommends them not because they're a luxury feature, but because they're a <a href="https://infeeds.com/tags/?tag=technology">technology</a> that actually protects your hearing. "That really, really helps a lot of people to keep their streaming volume to a much more minimal level," she explains. If you're not competing with external noise, you won't be tempted to crank the volume.
+The fix is elegantly simple: noise-canceling headphones. Bixler recommends them not because they're a luxury feature, but because they're a <a href="https://infeeds.com/tags/technology">technology</a> that actually protects your hearing. "That really, really helps a lot of people to keep their streaming volume to a much more minimal level," she explains. If you're not competing with external noise, you won't be tempted to crank the volume.
 
 ## The Permanent Cost
 

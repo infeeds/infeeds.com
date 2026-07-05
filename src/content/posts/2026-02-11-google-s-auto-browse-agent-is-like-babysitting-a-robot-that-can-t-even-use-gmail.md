@@ -28,7 +28,7 @@ Then came the real embarrassment. Auto Browse couldn't figure out how to use You
 
 ## The Gmail Disaster That Makes You Question Everything
 
-Here's where things went from amusing to genuinely concerning. The task was straightforward: scan a month of Gmail for PR emails and compile contact info into a Google Sheets spreadsheet. This should be easy for Google's [technology](https://infeeds.com/tags/?tag=technology), right?
+Here's where things went from amusing to genuinely concerning. The task was straightforward: scan a month of Gmail for PR emails and compile contact info into a Google Sheets spreadsheet. This should be easy for Google's [technology](https://infeeds.com/tags/technology), right?
 
 Wrong. So incredibly wrong.
 
@@ -50,12 +50,12 @@ Finally, the agent tackled scanning PlayStation Store deals to add discounted ga
 
 Across all these tests, Auto Browse averaged a 6.5 score. That's not terrible for preview software, but it highlights the fundamental problem with current AI agents. They're not actually autonomous.
 
-You can't just give Auto Browse a task and walk away. You have to watch it like a toddler at a playground. It needs nudging, re-prompting, and constant supervision to get things right. That defeats the entire purpose of having an agent do work for you. If you're spending 15 minutes monitoring a [business](https://infeeds.com/tags/?tag=business) task that takes 20 minutes to complete, you might as well just do it yourself.
+You can't just give Auto Browse a task and walk away. You have to watch it like a toddler at a playground. It needs nudging, re-prompting, and constant supervision to get things right. That defeats the entire purpose of having an agent do work for you. If you're spending 15 minutes monitoring a [business](https://infeeds.com/tags/business) task that takes 20 minutes to complete, you might as well just do it yourself.
 
 The failure to work properly with Google's own products is particularly damning. This isn't some obscure third-party service. We're talking about Gmail, Google Sheets, and YouTube Music. If Auto Browse can't reliably use tools from its own parent company, how is it supposed to handle the entire internet?
 
 Browser agents also seem fundamentally incapable of monitoring pages over time. Anything requiring more than a few minutes of waiting will probably fail or abort early. That's a significant limitation for tasks like tracking price changes, waiting for restocks, or monitoring live updates.
 
-Google says this feature will eventually roll out to non-paying users, which seems premature given its current state. It's genuinely fun to watch a browser navigate itself, opening tabs and clicking buttons with ghost-like precision. But entertainment value doesn't make it [useful](https://infeeds.com/tags/?tag=tech).
+Google says this feature will eventually roll out to non-paying users, which seems premature given its current state. It's genuinely fun to watch a browser navigate itself, opening tabs and clicking buttons with ghost-like precision. But entertainment value doesn't make it [useful](https://infeeds.com/tags/tech).
 
 The AI revolution promised agents that could handle our digital busywork while we focus on things that actually matter. What we got instead is a robot that needs constant babysitting and can't even read its creator's email correctly. Maybe the real task Auto Browse is accomplishing is teaching us patience while we wait for AI that actually works.

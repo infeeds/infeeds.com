@@ -8,7 +8,7 @@ tags: [news, tech]
 tags_color: '#ff5722'
 ---
 
-On Thursday afternoon, students at Harvard, Columbia, Rutgers, and Georgetown found themselves locked out of their digital learning platforms. Not because of a system upgrade or routine maintenance, but because one of the nation's most critical education [Technology](https://infeeds.com/tags/?tag=technology) companies had been hit with a ransomware attack so disruptive that it rippled across the entire country.
+On Thursday afternoon, students at Harvard, Columbia, Rutgers, and Georgetown found themselves locked out of their digital learning platforms. Not because of a system upgrade or routine maintenance, but because one of the nation's most critical education [Technology](https://infeeds.com/tags/technology) companies had been hit with a ransomware attack so disruptive that it rippled across the entire country.
 
 Canvas, the learning management platform used by thousands of schools, went into "maintenance mode" after its parent company Instructure suffered a data breach. The timing couldn't have been worse. Students were in the middle of finals. Assignments were due. And suddenly, the digital infrastructure holding together American higher education simply wasn't there.
 
@@ -26,7 +26,7 @@ Then Thursday afternoon happened. Suddenly Canvas wasn't operational anymore.
 
 ## The Extortion Playbook Gets Uglier
 
-Here's where it gets interesting from a [Business](https://infeeds.com/tags/?tag=business) and security perspective. The attackers didn't just breach Instructure and demand money. They did something far more disruptive: they defaced Canvas login pages at multiple schools, according to reporting from TechCrunch. Harvard's Canvas portal, per The Harvard Crimson, displayed a message from the attackers listing schools they claimed to have breached and demanding negotiations by May 12 or face a data leak.
+Here's where it gets interesting from a [Business](https://infeeds.com/tags/business) and security perspective. The attackers didn't just breach Instructure and demand money. They did something far more disruptive: they defaced Canvas login pages at multiple schools, according to reporting from TechCrunch. Harvard's Canvas portal, per The Harvard Crimson, displayed a message from the attackers listing schools they claimed to have breached and demanding negotiations by May 12 or face a data leak.
 
 This is ransomware with a twist. Instead of just threatening to release stolen data, the attackers were actively disrupting service for thousands of institutions simultaneously. They were making the breach impossible to ignore, turning student frustration and institutional chaos into leverage.
 

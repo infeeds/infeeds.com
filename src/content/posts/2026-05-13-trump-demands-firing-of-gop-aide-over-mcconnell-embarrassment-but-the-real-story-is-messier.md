@@ -30,7 +30,7 @@ Here's where things get interesting. None of this particularly holds up.
 
 Karem, a 48-year-old Kentucky native, was actually part of Trump's world during the first administration. He served on the president's transition team as an adviser to former CIA Director Mike Pompeo. In 2017, Trump appointed him assistant secretary of defense for international security affairs. He held that post until 2018.
 
-So this supposed "Never Trumper" with "Democrat support" was literally appointed by Trump himself to a significant [business](/tags/?tag=business) and security role. The timeline doesn't match the narrative.
+So this supposed "Never Trumper" with "Democrat support" was literally appointed by Trump himself to a significant [business](/tags/business) and security role. The timeline doesn't match the narrative.
 
 More importantly, there's no evidence that Karem has "garnered unusual levels of support from Democrats," as the original reporting notes. He's not some prominent Democratic favorite. He's a mid-level GOP staffer doing his job during a hearing.
 

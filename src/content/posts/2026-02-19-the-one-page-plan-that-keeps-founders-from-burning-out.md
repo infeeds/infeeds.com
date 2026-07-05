@@ -24,7 +24,7 @@ But here's the problem: if you don't decide what matters in advance, the market 
 
 That's how founders drift. Not from lack of ambition, but from lack of alignment. The business grows, revenue climbs, team expands, yet something feels off. You're winning by every external metric but losing track of why you started in the first place.
 
-Most of the document doesn't change much quarter to quarter. Your purpose shouldn't shift every three months. Your five-year direction might evolve slightly, but it remains steady. The quarterly section is where reality meets ambition. That's where big ideas turn into measurable commitments that actually move the needle in [business](https://infeeds.com/tags/?tag=business).
+Most of the document doesn't change much quarter to quarter. Your purpose shouldn't shift every three months. Your five-year direction might evolve slightly, but it remains steady. The quarterly section is where reality meets ambition. That's where big ideas turn into measurable commitments that actually move the needle in [business](https://infeeds.com/tags/business).
 
 ## Three Things Most Founders Never Make Time For
 
@@ -66,6 +66,6 @@ When the quarter ends, review it honestly. Celebrate what you achieved. Learn fr
 
 Running a company is hard. Running one while staying healthy, grounded and connected to the people you care about is harder. The One-Page Plan won't eliminate chaos. It won't prevent hard quarters, layoffs or market corrections.
 
-But it will give you clarity about what you're building and why, which matters more than most [business](https://infeeds.com/tags/?tag=business) strategies founders obsess over.
+But it will give you clarity about what you're building and why, which matters more than most [business](https://infeeds.com/tags/business) strategies founders obsess over.
 
 And in a world where everything is urgent, that clarity might be the highest-leverage hour you invest all quarter.

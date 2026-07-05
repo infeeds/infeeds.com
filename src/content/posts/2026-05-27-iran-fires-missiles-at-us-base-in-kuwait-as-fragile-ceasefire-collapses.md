@@ -16,7 +16,7 @@ Let that sink in. We're talking about a country intercepting threats aimed at it
 
 The broader context matters here. One-fifth of the world's liquefied natural gas and oil normally pass through the Strait of Hormuz, and its closure has devastated global fuel trade. The US also imposed sanctions on Iran's Strait Authority, effectively criminalizing any payments ships might make for transit. Treasury Secretary Scott Bessent called it "the Iranian military's latest attempt to extort global maritime trade" and "proof Iran is desperate for cash." Tehran, for its part, says it's just collecting fees for "navigational services."
 
-This isn't just a military standoff. It's an economic chokehold that's affecting [Business](https://infeeds.com/tags/?tag=business) worldwide. Energy prices have shot up, commercial tankers are stranded, and the ripple effects are being felt across global markets.
+This isn't just a military standoff. It's an economic chokehold that's affecting [Business](https://infeeds.com/tags/business) worldwide. Energy prices have shot up, commercial tankers are stranded, and the ripple effects are being felt across global markets.
 
 Now here's what makes this whole situation bizarre. Both sides are still talking. Trump said over the weekend that a peace deal had been "largely negotiated," but by Wednesday he was back to saying the US is "not satisfied." Iranian state TV leaked what it said was a draft agreement involving reopening the Strait and withdrawing US forces. The White House immediately called it "a complete fabrication."
 

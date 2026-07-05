@@ -12,7 +12,7 @@ tags_color: '#2196f3'
 
 The NYT Connections Sports Edition dropped another solid puzzle on March 9, and honestly, it's the kind that sneaks up on you. Some days you breeze through it. Other days you're staring at your screen wondering how "prime" connects to anything remotely sports-related. Today was a little bit of both.
 
-If you've been playing the daily [Connections puzzle](https://infeeds.com/tags/?tag=technology) grind, you know the formula by now. Four groups of four words, each sharing some hidden connection. The yellow group is supposed to be easy. The purple group? That's where things get weird and wonderful.
+If you've been playing the daily [Connections puzzle](https://infeeds.com/tags/technology) grind, you know the formula by now. Four groups of four words, each sharing some hidden connection. The yellow group is supposed to be easy. The purple group? That's where things get weird and wonderful.
 
 ## Colorado's Sports Royalty
 

@@ -34,12 +34,12 @@ The final line stings. It's a direct challenge to Long's ability to maintain his
 
 ## What This Actually Says
 
-Strip away the schadenfreude for a moment. Long's arrest was one of 266 made during the operation, which targeted genuine threats: human traffickers and [news](https://infeeds.com/tags/?tag=news) child predators. That's serious work, and it matters.
+Strip away the schadenfreude for a moment. Long's arrest was one of 266 made during the operation, which targeted genuine threats: human traffickers and [news](https://infeeds.com/tags/news) child predators. That's serious work, and it matters.
 
 But the sheriff's public mockery reveals something worth examining. When law enforcement chooses to humiliate an individual in a press conference rather than simply announce charges, they're making a calculation about public messaging. They're using the person's contradictions as a teaching moment or, less charitably, as entertainment.
 
 Whether you find that appropriate depends on what you think the role of law enforcement should be in shaping public narratives. Is it their job to protect and enforce, or to deliver moral lessons through public shaming?
 
-Long's case also raises a question about [news](https://infeeds.com/tags/?tag=news) credibility in the age of online influence. When someone builds an entire brand on a particular message, how quickly does that message evaporate when the messenger is exposed? In Long's case, apparently very quickly. His lawyer's silence, the not-guilty plea, and the public humiliation suggest his influence may not survive this moment.
+Long's case also raises a question about [news](https://infeeds.com/tags/news) credibility in the age of online influence. When someone builds an entire brand on a particular message, how quickly does that message evaporate when the messenger is exposed? In Long's case, apparently very quickly. His lawyer's silence, the not-guilty plea, and the public humiliation suggest his influence may not survive this moment.
 
 The broader lesson here isn't complicated: nobody is above consequences, and the distance between your public persona and your private actions can close very fast.

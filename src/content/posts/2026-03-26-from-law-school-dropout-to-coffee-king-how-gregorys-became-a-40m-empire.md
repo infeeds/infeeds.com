@@ -56,7 +56,7 @@ What happened next is where most founders make their first major mistake. They t
 
 Running 53 corporate-owned stores generating $40 million in revenue annually is impressive. But there's a ceiling to this approach. Eventually, you hit a wall. You can only grow as fast as your team can execute, and teams have limits.
 
-Last year, that realization led Gregorys to partner with Craveworthy Brands and its CEO Gregg Majewski. This wasn't a desperate acquisition. It was a deliberate choice to access the infrastructure needed for franchising. Craveworthy brought 21 brands in its portfolio, many of them already franchising successfully. The firm had built systems for training, shared services, construction support, and operational replication that a 20-year-old <a href="https://infeeds.com/tags/?tag=business">business</a> simply didn't need to develop from scratch.
+Last year, that realization led Gregorys to partner with Craveworthy Brands and its CEO Gregg Majewski. This wasn't a desperate acquisition. It was a deliberate choice to access the infrastructure needed for franchising. Craveworthy brought 21 brands in its portfolio, many of them already franchising successfully. The firm had built systems for training, shared services, construction support, and operational replication that a 20-year-old <a href="https://infeeds.com/tags/business">business</a> simply didn't need to develop from scratch.
 
 Now Gregorys is targeting 50 to 75 franchise locations in its first year with build-out costs ranging from $200,000 to $700,000 depending on the model.
 

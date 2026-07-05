@@ -19,11 +19,11 @@ Hootsuite is now betting that the screen is becoming a liability.
 
 ## The Dashboard Is Dead (Or Dying)
 
-This isn't a Hootsuite-only move. [Business](https://infeeds.com/tags/?tag=business) software is going headless across the board. Salesforce made this explicit at TDX 2026 when they reframed their entire platform as Headless 360: every capability exposed as an API, an MCP tool, or a CLI command, so an agent can operate the system without ever opening a browser.
+This isn't a Hootsuite-only move. [Business](https://infeeds.com/tags/business) software is going headless across the board. Salesforce made this explicit at TDX 2026 when they reframed their entire platform as Headless 360: every capability exposed as an API, an MCP tool, or a CLI command, so an agent can operate the system without ever opening a browser.
 
 They weren't being radical. They were being honest.
 
-The shift is about where [Technology](https://infeeds.com/tags/?tag=technology) is actually moving. You don't need to see the screen to use the system. You need the system to work wherever you already are. In your agent. In your workflow. In the tools your team already uses.
+The shift is about where [Technology](https://infeeds.com/tags/technology) is actually moving. You don't need to see the screen to use the system. You need the system to work wherever you already are. In your agent. In your workflow. In the tools your team already uses.
 
 For Hootsuite, that means two of its most valuable assets become building blocks instead of products. The social media management interface. The listening engine, one of the deepest consumer intelligence layers ever built. Both of them, exposed through MCP, so Claude or ChatGPT or an in-house copilot can talk directly to Hootsuite.
 

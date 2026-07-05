@@ -24,7 +24,7 @@ But here's the thing about abandoned mines in an era of supply chain nationalism
 
 United States Tungsten says the site holds roughly 1 million tons of tungsten with an estimated in-ground value approaching $450 million. They're already talking with the U.S. Government about potential partnerships. The pitch is straightforward: domestic supply, no Chinese middlemen, perfect timing with military budgets going up.
 
-It's the kind of [business](https://infeeds.com/tags/?tag=business) story that sounds almost too convenient, except the macro forces actually line up.
+It's the kind of [business](https://infeeds.com/tags/business) story that sounds almost too convenient, except the macro forces actually line up.
 
 ## Why Tungsten Actually Matters
 
@@ -40,7 +40,7 @@ Policy is lining up too. The White House is actively pushing to shift critical m
 
 Here's what makes this different from most mining plays. The U.S. military isn't some fickle customer chasing quarterly trends. They're looking for long-term, reliable domestic suppliers they can depend on when things get tense with Beijing. That creates a fundamentally different dynamic than selling into commodity markets.
 
-For a company like United States Tungsten, landing government contracts would mean the kind of revenue predictability most [technology](https://infeeds.com/tags/?tag=technology) startups can only dream about. Governments expand procurement during downturns. They don't ghost you when venture capital dries up.
+For a company like United States Tungsten, landing government contracts would mean the kind of revenue predictability most [technology](https://infeeds.com/tags/technology) startups can only dream about. Governments expand procurement during downturns. They don't ghost you when venture capital dries up.
 
 Of course, this is still a mining operation we're talking about. There's permitting. Environmental reviews. Actual digging. Processing infrastructure. It's not like flipping a switch and tungsten comes out. But the founders clearly saw this window opening and moved to position themselves right in the middle of it.
 

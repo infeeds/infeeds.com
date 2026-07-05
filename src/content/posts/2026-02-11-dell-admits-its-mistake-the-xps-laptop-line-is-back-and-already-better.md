@@ -20,7 +20,7 @@ Let's talk about what went wrong with the Dell 14 Premium, which was supposed to
 
 The weight wasn't even the worst part. Dell decided to replace the Function row with touch-sensitive icons that provided zero feedback. You know that satisfying click you get when you press a physical key? Gone. Instead, you got to play a guessing game of whether you actually hit the right spot to adjust your volume. It was the kind of design decision that makes you wonder if anyone at Dell actually used the laptop before shipping it.
 
-The whole thing felt like Dell was trying too hard to be different when the [Technology](https://infeeds.com/tags/?tag=technology) they already had was perfectly fine.
+The whole thing felt like Dell was trying too hard to be different when the [Technology](https://infeeds.com/tags/technology) they already had was perfectly fine.
 
 ## Weight Loss That Actually Matters
 
@@ -44,8 +44,8 @@ The display shrunk slightly from 14.5 inches to 14 inches, and it's noticeably s
 
 ## A Corporate Apology In Product Form
 
-What's fascinating about this whole situation is that it's essentially Dell admitting they screwed up. Companies don't usually resurrect product lines they killed off just a year ago unless the replacement was a complete failure in the [business](https://infeeds.com/tags/?tag=business) sense.
+What's fascinating about this whole situation is that it's essentially Dell admitting they screwed up. Companies don't usually resurrect product lines they killed off just a year ago unless the replacement was a complete failure in the [business](https://infeeds.com/tags/business) sense.
 
 The XPS brand had recognition and loyalty built up over years. Throwing that away for a confusing naming scheme that nobody could keep straight was a self-inflicted wound. The Premium line was supposed to signal quality, but instead it signaled that Dell didn't understand what made their laptops good in the first place.
 
-Now with the XPS 14 and XPS 16 back on shelves (and an XPS 13 coming later this year), maybe Dell has learned that sometimes the old way of doing things was actually the right way. The real question is whether a year of brand confusion and mediocre Premium models damaged customer trust enough that people moved on to other options. Because in the [tech](https://infeeds.com/tags/?tag=tech) world, a year might as well be a decade.
+Now with the XPS 14 and XPS 16 back on shelves (and an XPS 13 coming later this year), maybe Dell has learned that sometimes the old way of doing things was actually the right way. The real question is whether a year of brand confusion and mediocre Premium models damaged customer trust enough that people moved on to other options. Because in the [tech](https://infeeds.com/tags/tech) world, a year might as well be a decade.

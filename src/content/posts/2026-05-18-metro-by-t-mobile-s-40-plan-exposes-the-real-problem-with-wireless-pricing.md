@@ -30,7 +30,7 @@ The $50 and $60 tiers make more sense the more you actually look at them. The $5
 
 If you're a student juggling Zoom calls, streaming lectures, and occasionally tethering your laptop, the $50 plan's hotspot data becomes genuinely useful. If you're perpetually road-tripping or traveling for work, the $60 plan's international texting and video quality upgrades aren't luxuries, they're necessities. Metro's pricing strategy, when viewed this way, isn't hiding value—it's being relatively honest about what each tier is actually for.
 
-The wrinkle? Most people don't think in those terms. They see "unlimited" and assume that's all that matters. Metro knows this. So does every other carrier. And they've all learned that burying the caveats in footnotes is standard <a href="https://infeeds.com/tags/?tag=business">business</a> practice.
+The wrinkle? Most people don't think in those terms. They see "unlimited" and assume that's all that matters. Metro knows this. So does every other carrier. And they've all learned that burying the caveats in footnotes is standard <a href="https://infeeds.com/tags/business">business</a> practice.
 
 ## The Promotional Hook Works
 
@@ -40,7 +40,7 @@ This is actually where Metro has positioned itself better than the big carriers.
 
 ## The Bigger Picture
 
-What Metro's prepaid lineup really reveals is how normalized the deprioritization game has become across the entire <a href="https://infeeds.com/tags/?tag=technology">technology</a> sector. It's not new. Every carrier does it. But Metro is just more honest about where the thresholds sit. They're not hiding it in a 50-page terms document somewhere. It's right there in the plan descriptions.
+What Metro's prepaid lineup really reveals is how normalized the deprioritization game has become across the entire <a href="https://infeeds.com/tags/technology">technology</a> sector. It's not new. Every carrier does it. But Metro is just more honest about where the thresholds sit. They're not hiding it in a 50-page terms document somewhere. It's right there in the plan descriptions.
 
 The question isn't whether Metro is being deceptive, because they're not. The question is whether we've collectively accepted a wireless market where "unlimited" is understood to mean "unlimited until network conditions suggest otherwise," and whether that's really acceptable as an industry standard anymore.
 

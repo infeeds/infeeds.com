@@ -26,7 +26,7 @@ It's the kind of audacious engineering that makes you wonder why nobody tried it
 
 Last month Cerebras signed a deal with OpenAI worth over $10 billion to provide 750 megawatts of computing power through 2028. Sam Altman, who also happens to be a Cerebras investor, clearly sees value in what they're building. When you're trying to make AI responses faster, having hardware that can actually deliver makes a difference.
 
-But the path to going public has been messy. G42, a UAE-based AI company, was responsible for 87% of Cerebras' revenue in the first half of 2024. That's a terrifying level of customer concentration for any [business](https://infeeds.com/tags/?tag=business). Worse, G42's connections to Chinese [technology](https://infeeds.com/tags/?tag=technology) companies triggered a national security review that forced Cerebras to withdraw an earlier IPO filing in early 2025.
+But the path to going public has been messy. G42, a UAE-based AI company, was responsible for 87% of Cerebras' revenue in the first half of 2024. That's a terrifying level of customer concentration for any [business](https://infeeds.com/tags/business). Worse, G42's connections to Chinese [technology](https://infeeds.com/tags/technology) companies triggered a national security review that forced Cerebras to withdraw an earlier IPO filing in early 2025.
 
 By late last year, G42 was removed from the investor list entirely. Problem solved, sort of. Cerebras is now eyeing a second quarter 2026 public debut, according to Reuters.
 
@@ -36,4 +36,4 @@ Benchmark first backed Cerebras in 2016 when they led a $27 million Series A. Th
 
 Now they're creating special funds to pour even more money in. That tells you they believe the AI infrastructure race is far from over, and that Nvidia's dominance isn't as unshakeable as it looks. Whether Cerebras can actually deliver on that promise at scale remains to be seen, but at least one prominent Silicon Valley firm is betting hundreds of millions that the answer is yes.
 
-The real test comes when they finally go public and have to prove their [tech](https://infeeds.com/tags/?tag=technology) works for customers beyond OpenAI and whoever replaced G42 in their revenue mix. Until then, this is still a story about potential rather than proven market dominance.
+The real test comes when they finally go public and have to prove their [tech](https://infeeds.com/tags/technology) works for customers beyond OpenAI and whoever replaced G42 in their revenue mix. Until then, this is still a story about potential rather than proven market dominance.

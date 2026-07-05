@@ -20,7 +20,7 @@ That's why Inez caught my attention. These heels look like they belong on a runw
 
 Yes, most pairs fall in the $200 to $300 range. I know that sounds steep. But here's what I've learned the hard way: constantly buying cheaper heels that hurt ends up costing more in the long run. You wear them once, they sit in your closet collecting dust, and eventually you donate them or throw them away.
 
-With Inez, I'm investing in shoes I actually wear. Revolutionary concept, right? The [business](https://infeeds.com/tags/?tag=business) model of fast fashion has trained us to expect cheap prices, but quality costs money. I'd rather own three pairs of heels I love than fifteen pairs I avoid wearing.
+With Inez, I'm investing in shoes I actually wear. Revolutionary concept, right? The [business](https://infeeds.com/tags/business) model of fast fashion has trained us to expect cheap prices, but quality costs money. I'd rather own three pairs of heels I love than fifteen pairs I avoid wearing.
 
 ## The Platform That Changed Everything
 
@@ -34,7 +34,7 @@ The Camilla comes in colors that work for formal events: silver chrome, beige pa
 
 The Pilar slingback is one of the best heels I've ever tested. The suede exterior looks expensive because it is, and the footbed is perfectly contoured. The 2.8-inch heel might seem high, but it doesn't feel that way when you're wearing it.
 
-It comes in neutrals for work and party-ready purples (the orchid color is stunning). There are three widths available: slim, standard, and roomy. That's rare in the [fashion](https://infeeds.com/tags/?tag=fashion) world, where brands seem to think everyone has identical feet.
+It comes in neutrals for work and party-ready purples (the orchid color is stunning). There are three widths available: slim, standard, and roomy. That's rare in the [fashion](https://infeeds.com/tags/fashion) world, where brands seem to think everyone has identical feet.
 
 My only concern is the elastic backstrap that lets you slip the shoe on. I'm wearing these constantly, and I worry about that elastic stretching out over time. It's a small design compromise that makes the shoes easier to wear, but durability is always a question mark with elastic components.
 

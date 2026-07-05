@@ -32,7 +32,7 @@ The second commitment is more muscular: X will withhold UK access to accounts re
 
 Yet Atta also delivered the most important line in this entire story: "The test is not what is promised, but what is delivered."
 
-## The Bigger Picture on [Technology](https://infeeds.com/tags/?tag=technology)
+## The Bigger Picture on [Technology](https://infeeds.com/tags/technology)
 
 What's revealing here isn't just X's commitments, but what prompted them. Ofcom launched a broader compliance programme in December assessing whether the biggest social media companies have adequate systems for dealing with illegal content. This suggests that the regulator has finally accepted a hard truth: self-regulation isn't working, and platforms won't move without government pressure.
 

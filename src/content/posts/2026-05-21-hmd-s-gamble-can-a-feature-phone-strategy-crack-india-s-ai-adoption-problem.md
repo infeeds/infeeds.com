@@ -30,11 +30,11 @@ Bundling regional AI with feature phones is one of the most direct distribution 
 
 That's not a product pitch. That's a distribution play.
 
-For investors and <a href="https://infeeds.com/tags/?tag=technology">technology</a> observers watching how AI adoption gets seeded in emerging markets, this is worth tracking. The Indus app currently doesn't support offline usage, and it lacks device-level shortcuts to invoke the assistant. These are limitations that matter more on feature phones than smartphones. But they're also solvable problems once usage data starts flowing.
+For investors and <a href="https://infeeds.com/tags/technology">technology</a> observers watching how AI adoption gets seeded in emerging markets, this is worth tracking. The Indus app currently doesn't support offline usage, and it lacks device-level shortcuts to invoke the assistant. These are limitations that matter more on feature phones than smartphones. But they're also solvable problems once usage data starts flowing.
 
 ## Sarvam's Real Bet Isn't the Numbers Game
 
-Sarvam AI itself is in an interesting position. The company has positioned itself as an enterprise player first, focusing on voice-based solutions for <a href="https://infeeds.com/tags/?tag=business">business</a> use cases. The consumer play through Indus feels like an adjacent move, a way to build consumer awareness while the enterprise engine runs. Reports suggest a $300 million funding round at a $1.5 billion valuation is in the works, which would make Sarvam one of India's most funded AI startups.
+Sarvam AI itself is in an interesting position. The company has positioned itself as an enterprise player first, focusing on voice-based solutions for <a href="https://infeeds.com/tags/business">business</a> use cases. The consumer play through Indus feels like an adjacent move, a way to build consumer awareness while the enterprise engine runs. Reports suggest a $300 million funding round at a $1.5 billion valuation is in the works, which would make Sarvam one of India's most funded AI startups.
 
 That kind of capital comes with expectations, and those expectations probably aren't about competing with ChatGPT for downloads. They're about proving that there's a real market for localized AI in India, that it can be monetized, and that it can operate at scale. HMD's distribution channel is a useful testbed for exactly that.
 

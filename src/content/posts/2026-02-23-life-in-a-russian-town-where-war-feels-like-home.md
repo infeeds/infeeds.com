@@ -50,7 +50,7 @@ The slogan echoes something Putin once said: "Where the foot of a Russian soldie
 
 ## The Hidden Price of War
 
-[Business](https://infeeds.com/tags/?tag=business) as usual doesn't exist anymore in towns like Yelets. The government raised VAT from 20 percent to 22 percent. They say the extra revenue goes to "defence and security." That's one way to put it.
+[Business](https://infeeds.com/tags/business) as usual doesn't exist anymore in towns like Yelets. The government raised VAT from 20 percent to 22 percent. They say the extra revenue goes to "defence and security." That's one way to put it.
 
 Anastasiya Bykova runs a bakery where the smell of fresh raisin bread and cream pastries usually makes everything feel right. But even her small business can't escape the squeeze.
 

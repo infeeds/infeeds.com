@@ -40,12 +40,12 @@ Shade isn't alone in the space. Startups like Poly and Memories.ai are working o
 
 The company's roadmap includes improving search across different file types and building a no-code workflow automation platform. Fan suggests this could expand beyond creative teams into research and investment operations. "We're essentially building the Lego blocks that allow you to apply Shade to your workflow," he said.
 
-That's where the real opportunity lives if Shade can execute on it. The [tech](https://infeeds.com/tags/?tag=technology) for search and storage is table stakes. The ability to become embedded in different teams' actual workflows is what builds defensibility.
+That's where the real opportunity lives if Shade can execute on it. The [tech](https://infeeds.com/tags/technology) for search and storage is table stakes. The ability to become embedded in different teams' actual workflows is what builds defensibility.
 
 Pricing starts at $20 per seat monthly for up to 15 seats, including 500GB of active storage per seat and unlimited AI indexing. It's reasonable, though it'll be interesting to see whether teams actually stick around as they scale beyond small creative shops.
 
 ## What This Actually Means
 
-Shade has raised $20 million total with solid [business](https://infeeds.com/tags/?tag=business) backing. The founding team has solved a real problem they lived through. The product features are thoughtfully designed for actual workflows rather than theoretical use cases.
+Shade has raised $20 million total with solid [business](https://infeeds.com/tags/business) backing. The founding team has solved a real problem they lived through. The product features are thoughtfully designed for actual workflows rather than theoretical use cases.
 
-But here's the hard part: solving a problem and building a lasting [technology](https://infeeds.com/tags/?tag=technology) company are different things. The real test is whether Shade becomes the default tool for creative teams or whether it remains a niche solution that Dropbox eventually absorbs or copies. Both are equally plausible right now.
+But here's the hard part: solving a problem and building a lasting [technology](https://infeeds.com/tags/technology) company are different things. The real test is whether Shade becomes the default tool for creative teams or whether it remains a niche solution that Dropbox eventually absorbs or copies. Both are equally plausible right now.

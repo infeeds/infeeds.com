@@ -40,7 +40,7 @@ Which brings us back to Sunday night and that incredibly awkward near-miss on th
 
 It's the kind of moment that would have been messy if they'd actually collided. A handshake? Too formal. A hug? Too fake. An actual conversation where they might have to address the entire situation? Absolutely not happening on a red carpet with a hundred cameras rolling.
 
-The whole thing really does capture something essential about how we function in celebrity and [entertainment](https://infeeds.com/tags/?tag=entertainment) spaces now. Everyone knows about the tension. Everyone saw the comments. Everyone witnessed the clap-back. But we're all just going to pretend it didn't happen and awkwardly shuffle past each other instead.
+The whole thing really does capture something essential about how we function in celebrity and [entertainment](https://infeeds.com/tags/entertainment) spaces now. Everyone knows about the tension. Everyone saw the comments. Everyone witnessed the clap-back. But we're all just going to pretend it didn't happen and awkwardly shuffle past each other instead.
 
 What's particularly interesting is that Chalamet's original comment wasn't really wrong about the state of ballet and opera in mainstream culture. Fewer people are attending these performances. The audiences are aging. It's a real challenge for these art forms. But what Spielberg understood, and what the rest of the entertainment industry seemed to grasp immediately, is that saying it out loud, especially in that dismissive way, crosses a line.
 

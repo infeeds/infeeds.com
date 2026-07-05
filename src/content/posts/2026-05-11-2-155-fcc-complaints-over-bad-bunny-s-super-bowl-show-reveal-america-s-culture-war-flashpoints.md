@@ -30,7 +30,7 @@ Before Bad Bunny ever hit the field, right-wing influencers and commentators wer
 
 Thirty complaints included President Trump's standard Truth Social sign-off: "Thank you for your attention to this matter."
 
-This isn't unprecedented. Super Bowl halftime shows routinely attract FCC complaints that tend to reflect broader sociopolitical talking points. According to the WIRED reporting, Kendrick Lamar's halftime show last year received 125 complaints, many focused on the lack of white people in the performance amidst right-wing criticism over DEI initiatives. The [technology](/tags/?tag=technology) of broadcast regulation becomes a vehicle for culture war grievances.
+This isn't unprecedented. Super Bowl halftime shows routinely attract FCC complaints that tend to reflect broader sociopolitical talking points. According to the WIRED reporting, Kendrick Lamar's halftime show last year received 125 complaints, many focused on the lack of white people in the performance amidst right-wing criticism over DEI initiatives. The [technology](/tags/technology) of broadcast regulation becomes a vehicle for culture war grievances.
 
 FCC commissioner Anna Gomez reviewed the performance transcripts and found no violations. "I reviewed them carefully, and I found no violation of our rules and no justification for harassing broadcasters over a standard live performance," Gomez told Reuters.
 

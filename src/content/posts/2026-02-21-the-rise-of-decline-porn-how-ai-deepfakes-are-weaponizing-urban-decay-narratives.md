@@ -28,7 +28,7 @@ When confronted about the racist comments these videos inspire, he shrugs it off
 
 What's most concerning isn't RadialB's content itself. It's what happened next. Dozens of copycat accounts started producing similar videos. These accounts have collectively accumulated millions of views. Some are run by users in Israel, Brazil, and the Middle East – places with no connection to Croydon or even the UK. They're sharing these videos purely for engagement and the chance to monetise them on platforms like Facebook.
 
-The <a href="https://infeeds.com/tags/?tag=technology">technology</a> has made this astonishingly easy. AI image and video generation tools have lowered the barrier to entry so dramatically that anyone can now create convincing deepfakes in their bedroom. RadialB described it as a "huge jump" in quality and availability that "hugely lowers the barrier for entry" for anyone wanting to make fake content.
+The <a href="https://infeeds.com/tags/technology">technology</a> has made this astonishingly easy. AI image and video generation tools have lowered the barrier to entry so dramatically that anyone can now create convincing deepfakes in their bedroom. RadialB described it as a "huge jump" in quality and availability that "hugely lowers the barrier for entry" for anyone wanting to make fake content.
 
 What we're witnessing is the democratisation of misinformation. You don't need filming equipment, actors, or locations anymore. You just need a computer and the willingness to lie.
 

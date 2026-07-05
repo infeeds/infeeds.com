@@ -18,7 +18,7 @@ Public Citizen released a report showing just how widespread the purge has been.
 
 The impact is already measurable. According to Johns Hopkins researchers, the NIH has awarded 74 percent fewer competitive or new research grants as of March compared to the same period in previous fiscal years. One particularly telling casualty was the NIH Center for Scientific Review Advisory Council, established in 1988. This council didn't review grants itself but advised NIH leadership on how to allocate research funding. Its elimination signals a fundamental shift away from expert-guided decision making.
 
-Beyond the NIH, nine CDC committees were terminated or undermined, four at the FDA. These weren't random picks. Committees focused on childhood vaccines, Alzheimer's research, health equity, long COVID, novel [technology](https://infeeds.com/tags/?tag=technology) development, and more all got the axe.
+Beyond the NIH, nine CDC committees were terminated or undermined, four at the FDA. These weren't random picks. Committees focused on childhood vaccines, Alzheimer's research, health equity, long COVID, novel [technology](https://infeeds.com/tags/technology) development, and more all got the axe.
 
 ## Manufacturing Consensus Around Debunked Science
 

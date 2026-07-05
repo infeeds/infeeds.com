@@ -38,7 +38,7 @@ These weren't accidental news reports, though. They were hoaxes or mistakes that
 
 What's worth sitting with here isn't really the mistake itself. News outlets operate at speed, and errors happen. The real question is why these kinds of incidents keep happening, even in an era when we supposedly have better fact-checking and digital safeguards than ever before.
 
-Fox's response suggests he's not too bothered. He seems to view it as the absurdity it is, something to laugh off rather than rage about. But it does highlight how fragile the information ecosystem can be, even for a [news](https://infeeds.com/tags/?tag=news) organization as large as CNN. One slip in the system, one piece of footage published without proper verification, and suddenly a living, breathing person becomes yesterday's tribute.
+Fox's response suggests he's not too bothered. He seems to view it as the absurdity it is, something to laugh off rather than rage about. But it does highlight how fragile the information ecosystem can be, even for a [news](https://infeeds.com/tags/news) organization as large as CNN. One slip in the system, one piece of footage published without proper verification, and suddenly a living, breathing person becomes yesterday's tribute.
 
 The actor will continue promoting "Shrinking," where he plays a man with Parkinson's opposite Harrison Ford. Life goes on. CNN has apologized. And Michael J. Fox has officially earned himself another great story.
 

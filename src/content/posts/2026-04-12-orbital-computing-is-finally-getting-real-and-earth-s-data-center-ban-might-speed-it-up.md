@@ -40,7 +40,7 @@ In this case, it might actually accelerate space-based alternatives.
 
 He has a point, even if it sounds absurd. If jurisdictions keep tightening restrictions on terrestrial data centers, the financial case for orbital infrastructure gets stronger almost by accident. It's not that space suddenly becomes cheap. It's that Earth becomes restricted.
 
-That's a peculiar dynamic. The <a href="https://infeeds.com/tags/?tag=technology">Technology</a> industry has spent decades assuming it would build data centers wherever economics dictated. If that option starts disappearing, the industry might not wait for the perfect orbital solution. It might take what works well enough.
+That's a peculiar dynamic. The <a href="https://infeeds.com/tags/technology">Technology</a> industry has spent decades assuming it would build data centers wherever economics dictated. If that option starts disappearing, the industry might not wait for the perfect orbital solution. It might take what works well enough.
 
 ## The Real Timeline
 

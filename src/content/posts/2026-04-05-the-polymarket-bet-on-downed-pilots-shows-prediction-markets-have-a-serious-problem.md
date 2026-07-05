@@ -18,13 +18,13 @@ The core issue here isn't complicated. Polymarket is designed to let people spec
 
 When you open up a market on the rescue of downed pilots, you're essentially creating financial incentives tied directly to human suffering. The incentive structure flips in a deeply uncomfortable way. A trader who holds a position betting against rescue isn't just making a prediction; they have an economic interest in a bad outcome. Polymarket claims it didn't mean for this to happen and that the market "should not have been posted," but that's precisely the point. These safeguards failed.
 
-The company said it was investigating how the market slipped through internal checks. Fair enough. But that investigation should trigger some harder questions about whether [prediction markets](https://infeeds.com/tags/?tag=business) are equipped to police themselves on ethical grounds, or whether they need external oversight.
+The company said it was investigating how the market slipped through internal checks. Fair enough. But that investigation should trigger some harder questions about whether [prediction markets](https://infeeds.com/tags/business) are equipped to police themselves on ethical grounds, or whether they need external oversight.
 
 ## A Pattern Nobody Wants to Talk About
 
 This isn't Polymarket's first brush with controversial markets either. The platform previously saw hundreds of millions of dollars trade on contracts tied to the bombing of Iran by the United States and Israel. That's a totally different scale from betting on pilot rescues, but it shows a pattern. These platforms keep pushing closer to territory that raises serious ethical red flags.
 
-The [tech](https://infeeds.com/tags/?tag=technology) industry loves to frame itself as neutral infrastructure. Polymarket's response followed that playbook almost perfectly: we took it down, we didn't intend for this, we're investigating. But neutrality is a choice too. By refusing to set hard boundaries in advance about what kinds of outcomes shouldn't be tradeable, platforms effectively choose to let markets form until someone complains loud enough.
+The [tech](https://infeeds.com/tags/technology) industry loves to frame itself as neutral infrastructure. Polymarket's response followed that playbook almost perfectly: we took it down, we didn't intend for this, we're investigating. But neutrality is a choice too. By refusing to set hard boundaries in advance about what kinds of outcomes shouldn't be tradeable, platforms effectively choose to let markets form until someone complains loud enough.
 
 ## The Real Question
 

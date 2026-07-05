@@ -18,7 +18,7 @@ Wrong. Fast forward to late 2025, and several news outlets including Ars Technic
 
 ## When CAPTCHA Pages Become Weapons
 
-Here's where this story enters [Technology](https://infeeds.com/tags/?tag=technology) nightmare territory. Archive.today apparently injected malicious Javascript code into its CAPTCHA pages that turned every visitor into an unwitting participant in a DDoS attack against Patokallio's blog. Every 300 milliseconds, while you're sitting there proving you're not a robot, your browser would fire off requests to Gyrovague's search function using random strings to prevent caching.
+Here's where this story enters [Technology](https://infeeds.com/tags/technology) nightmare territory. Archive.today apparently injected malicious Javascript code into its CAPTCHA pages that turned every visitor into an unwitting participant in a DDoS attack against Patokallio's blog. Every 300 milliseconds, while you're sitting there proving you're not a robot, your browser would fire off requests to Gyrovague's search function using random strings to prevent caching.
 
 The technical sophistication is almost impressive if it wasn't so incredibly messed up. Anyone who encountered Archive.today's CAPTCHA page became part of a botnet without even knowing it. This went on for weeks before the Wikipedia community really started paying attention.
 
@@ -30,7 +30,7 @@ Patokallio shared what he called a "lightly redacted" email exchange with Archiv
 
 The Archive.today maintainer threatened to investigate Patokallio's "Nazi grandfather" and create AI-generated porn associated with his name. Let that sink in for a moment. A widely-used archival service that Wikipedia relies on for citations is being run by someone who threatens to create revenge porn when they don't get their way.
 
-The irony is thick enough to cut with a knife. When Patokallio linked to Wikipedia's page on the Streisand effect, suggesting the maintainer was making things worse, the response was to double down with more threats. Because nothing says "I'm a trustworthy [business](https://infeeds.com/tags/?tag=business) operator" like threatening to make someone's name synonymous with a "new category of AI porn."
+The irony is thick enough to cut with a knife. When Patokallio linked to Wikipedia's page on the Streisand effect, suggesting the maintainer was making things worse, the response was to double down with more threats. Because nothing says "I'm a trustworthy [business](https://infeeds.com/tags/business) operator" like threatening to make someone's name synonymous with a "new category of AI porn."
 
 For what it's worth, Patokallio's grandfather apparently served in the Finnish Army defending against Soviet attacks during World War II. But facts seem to be flexible in this particular dispute.
 
@@ -56,6 +56,6 @@ Patokallio himself seems almost amused by the whole situation. The DDoS attack d
 
 There's something darkly funny about a supposedly anonymous archive operator throwing a public tantrum complete with threats and DDoS attacks because someone wrote a blog post about them. The Streisand effect is real, and this case study will probably end up in textbooks.
 
-Meanwhile, the Wikipedia community is wrestling with a question that goes beyond Archive.today: what happens when critical internet infrastructure is controlled by anonymous individuals who can weaponize it on a whim? The [news](https://infeeds.com/tags/?tag=news) cycle has moved on, but Wikipedia editors are still sorting through the implications of trusting a service run by someone who responds to criticism with threats of AI-generated revenge porn.
+Meanwhile, the Wikipedia community is wrestling with a question that goes beyond Archive.today: what happens when critical internet infrastructure is controlled by anonymous individuals who can weaponize it on a whim? The [news](https://infeeds.com/tags/news) cycle has moved on, but Wikipedia editors are still sorting through the implications of trusting a service run by someone who responds to criticism with threats of AI-generated revenge porn.
 
 As of yesterday, the malicious code was reactivated after a brief pause, with Wikipedia warning visitors not to access Archive.today without blocking network requests. The attack continues, the FBI investigation presumably continues, and Wikipedia's discussion page keeps growing. At some point, doing nothing stops being a neutral choice and becomes an active decision to accept unacceptable behavior from a service millions of people unknowingly depend on.

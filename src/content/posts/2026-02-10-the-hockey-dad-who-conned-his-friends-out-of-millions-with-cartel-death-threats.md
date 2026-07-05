@@ -18,7 +18,7 @@ This wasn't some faceless scammer operating from a call center overseas. Youngbl
 
 Youngblood's entire identity was fiction. He claimed to be a Delta Force veteran, a Purple Heart winner, a man with connections reaching the highest levels of government. He said he had a master's degree in quantum physics. None of it was true.
 
-His only real job had been selling used cars in Ohio before he moved to Texas. He never served in the military at all, his application to join the Marines in 1990 ended with a medical disqualification. But the persona he created was so compelling that grown men with [business](https://infeeds.com/tags/?tag=business) savvy and life experience handed him their retirement savings without questioning his story.
+His only real job had been selling used cars in Ohio before he moved to Texas. He never served in the military at all, his application to join the Marines in 1990 ended with a medical disqualification. But the persona he created was so compelling that grown men with [business](https://infeeds.com/tags/business) savvy and life experience handed him their retirement savings without questioning his story.
 
 What made Youngblood particularly dangerous was his patience. This wasn't a smash-and-grab operation. He spent years building relationships, showing up consistently, becoming indispensable. By the time he asked for money, victims felt they owed him.
 
@@ -56,7 +56,7 @@ Lane quit his six-figure job at Amazon. He legally changed his name to Will Eles
 
 And then came the tasks. Youngblood ordered Lane to create fake social media accounts attacking people Lane had never met. Posts accusing Rachel Herrera, Perardi's ex-wife, of affairs and drug use. Later, posts targeting Perardi himself with claims of money laundering and sexual misconduct.
 
-Lane complied because he believed his family would die if he didn't. This wasn't some [technology](https://infeeds.com/tags/?tag=technology)-enabled catfish scam. This was a man controlling another man's life with nothing but words and fear.
+Lane complied because he believed his family would die if he didn't. This wasn't some [technology](https://infeeds.com/tags/technology)-enabled catfish scam. This was a man controlling another man's life with nothing but words and fear.
 
 ## The FBI Closes In
 

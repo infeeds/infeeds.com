@@ -16,7 +16,7 @@ Maybe Google hid the dates behind some brain teasers initially and people just c
 
 ## What to Expect From Google's Developer Showcase
 
-If you've been following Google's pattern, you already know what's coming. Android 17 updates, Chrome improvements, whatever they're calling their XR efforts these days, and the usual parade of app suite refinements. The [Technology](https://infeeds.com/tags/?tag=technology) giant has settled into a predictable rhythm with these events.
+If you've been following Google's pattern, you already know what's coming. Android 17 updates, Chrome improvements, whatever they're calling their XR efforts these days, and the usual parade of app suite refinements. The [Technology](https://infeeds.com/tags/technology) giant has settled into a predictable rhythm with these events.
 
 But let's be real about what's going to dominate the conversation. Gemini. Lots and lots of Gemini. Google's generative AI has become the company's answer to everything lately, and I/O 2026 will almost certainly be the Gemini show with some other announcements sprinkled in between.
 
@@ -24,7 +24,7 @@ But let's be real about what's going to dominate the conversation. Gemini. Lots 
 
 Google's already been cramming Gemini into every product they can think of. Maps got hands-free navigation powered by Gemini late last year. Chrome now has an AI side panel because apparently we needed that. Gmail's getting suggested replies and AI Overviews, which sounds helpful until you realize how often AI misreads tone and context.
 
-This is the tech industry playbook right now. Every major company is racing to justify their AI investments by wedging the [technology](https://infeeds.com/tags/?tag=technology) into products that may or may not benefit from it. Google's no different. They're betting big on Gemini being the differentiator that keeps people in their ecosystem.
+This is the tech industry playbook right now. Every major company is racing to justify their AI investments by wedging the [technology](https://infeeds.com/tags/technology) into products that may or may not benefit from it. Google's no different. They're betting big on Gemini being the differentiator that keeps people in their ecosystem.
 
 The I/O 2026 page does have some minigames tucked into the icons if you're bored enough to click around. A small consolation prize for those who miss the puzzle-solving days, I suppose.
 

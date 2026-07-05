@@ -14,7 +14,7 @@ Nothing says "I'm totally unbothered" quite like writing an essay-length respons
 
 The ads are pretty brilliant, actually. One shows a guy asking a chatbot (clearly meant to be ChatGPT) for advice on talking to his mom. The bot, played by a blonde woman, dishes out standard therapy-speak before pivoting hard into an ad for a cougar-dating site called Golden Encounters. Another spot features a young guy seeking fitness advice who gets served an ad for height-boosting insoles instead. Ouch.
 
-Anthropic's message lands clean: while ads are invading AI chatbots, they won't be coming to Claude. It's textbook competitive advertising, the kind we've seen forever in the [Technology](https://infeeds.com/tags/?tag=technology) space.
+Anthropic's message lands clean: while ads are invading AI chatbots, they won't be coming to Claude. It's textbook competitive advertising, the kind we've seen forever in the [Technology](https://infeeds.com/tags/technology) space.
 
 ## The Part Where Sam Altman Lost His Cool
 
@@ -26,7 +26,7 @@ Here's the thing though. OpenAI literally said on their own blog that they plan 
 
 ## The Pot Calling the Kettle Authoritarian
 
-Altman went further, claiming Anthropic "serves an expensive product to rich people" while OpenAI brings AI to billions who can't afford subscriptions. Except Claude has a free tier too, and their subscription prices are nearly identical to ChatGPT's. Both have tiers at $0, around $20, and $200. The [Business](https://infeeds.com/tags/?tag=business) models aren't exactly galaxies apart.
+Altman went further, claiming Anthropic "serves an expensive product to rich people" while OpenAI brings AI to billions who can't afford subscriptions. Except Claude has a free tier too, and their subscription prices are nearly identical to ChatGPT's. Both have tiers at $0, around $20, and $200. The [Business](https://infeeds.com/tags/business) models aren't exactly galaxies apart.
 
 Then came the authoritarian accusation. Altman argued that Anthropic tries to control what people do with AI, blocking certain companies from using Claude Code and restricting content types. He pointed out that Anthropic markets itself on "responsible AI" and has stricter content policies.
 

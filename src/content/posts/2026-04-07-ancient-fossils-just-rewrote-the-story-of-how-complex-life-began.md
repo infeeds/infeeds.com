@@ -8,7 +8,7 @@ tags: [news, science]
 tags_color: '#1788b1'
 ---
 
-For decades, <a href="https://infeeds.com/tags/?tag=science">science</a> has told a pretty tidy story: life stayed simple for billions of years, then suddenly exploded with complexity around 535 million years ago. The Cambrian explosion was the moment everything changed. Except it turns out that story was wrong, or at least incomplete.
+For decades, <a href="https://infeeds.com/tags/science">science</a> has told a pretty tidy story: life stayed simple for billions of years, then suddenly exploded with complexity around 535 million years ago. The Cambrian explosion was the moment everything changed. Except it turns out that story was wrong, or at least incomplete.
 
 A new fossil discovery in southwest China is making scientists rethink the entire timeline of how complex animal life emerged. Researchers from Oxford University, Yunnan University, and other institutions found over 700 specimens at a site called the Jiangchuan Biota, dating back 554 to 539 million years ago. The catch? Many of these creatures look like animals we thought didn't show up until the Cambrian Period, which would be at least 4 million years later.
 

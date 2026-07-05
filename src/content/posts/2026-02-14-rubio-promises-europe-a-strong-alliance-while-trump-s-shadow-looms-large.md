@@ -20,7 +20,7 @@ Rubio's speech tried to square an impossible circle. On one hand, he invoked the
 
 The Munich Security Conference has always been a place where uncomfortable truths get aired in polite company. But this year felt different. Wolfgang Ischinger, the conference chairman, didn't mince words when he told CNBC it was Europe's "own fault" that its global influence has withered. That's the kind of self-criticism that stings because it's at least partly true.
 
-Europe has fumbled on China policy, failed to present a unified front on the Middle East, and watched as American [business](https://infeeds.com/tags/?tag=business) interests increasingly shape global trade rather than multilateral frameworks. The EU's power has become more theoretical than actual, and everyone in that conference room knew it.
+Europe has fumbled on China policy, failed to present a unified front on the Middle East, and watched as American [business](https://infeeds.com/tags/business) interests increasingly shape global trade rather than multilateral frameworks. The EU's power has become more theoretical than actual, and everyone in that conference room knew it.
 
 ## Ukraine Becomes the Test Case
 
@@ -32,7 +32,7 @@ The uncomfortable reality is that Rubio can claim American leadership brought pr
 
 ## The Real Agenda: Reindustrialization and Western Revival
 
-Buried in Rubio's diplomatic niceties was the actual [news](https://infeeds.com/tags/?tag=news) here. The Trump administration wants to fundamentally restructure how Western economies operate. Rubio called out past policies on mass migration, outsourced supply chains, and deindustrialization as "conscious policy choices" that were "foolish."
+Buried in Rubio's diplomatic niceties was the actual [news](https://infeeds.com/tags/news) here. The Trump administration wants to fundamentally restructure how Western economies operate. Rubio called out past policies on mass migration, outsourced supply chains, and deindustrialization as "conscious policy choices" that were "foolish."
 
 That's not wrong, exactly. The past few decades did see Western manufacturing hollowed out in favor of cheaper labor abroad. Supply chains became vulnerable to foreign pressure. But the solution Rubio proposes, a reindustrialized West competing aggressively for market share in the global South, sounds easier said than done.
 

@@ -20,7 +20,7 @@ Here's the thing about Bad Bunny's 29 songs hitting a billion streams on Spotify
 
 "Muchos números, pero no son números. Sino personas con las que he conectado a través de todos estos años con mi música," he told the crowd. He basically said that every single stream represents a person he's connected with through music, not just a data point in some algorithm somewhere. That distinction matters more than people realize in an industry obsessed with metrics and streaming numbers.
 
-The [entertainment](https://infeeds.com/tags/?tag=entertainment) landscape has become so focused on rankings and charts that we sometimes forget why artists actually make music in the first place. Bad Bunny didn't seem to forget for a second.
+The [entertainment](https://infeeds.com/tags/entertainment) landscape has become so focused on rankings and charts that we sometimes forget why artists actually make music in the first place. Bad Bunny didn't seem to forget for a second.
 
 ## Cherry Blossoms and Puerto Rican Pride
 

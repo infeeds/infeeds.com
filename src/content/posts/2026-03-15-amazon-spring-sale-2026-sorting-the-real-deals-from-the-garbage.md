@@ -24,7 +24,7 @@ The soundbar situation is interesting. There's a compact option that won't steal
 
 ## The Smartwatch That Actually Works for Android
 
-[Technology](https://infeeds.com/tags/?tag=technology) folks have debated the smartwatch market for years. The Google Pixel Watch 4 finally gives Android users something genuinely competitive. The design is beautiful in that understated way, performance is reliable, and the display stays readable in any light. Health tracking covers the basics (heart rate, blood oxygen) plus stuff like menstrual cycle tracking and skin temperature. Battery life sits around a day and a half, and you can actually fix the thing if it breaks.
+[Technology](https://infeeds.com/tags/technology) folks have debated the smartwatch market for years. The Google Pixel Watch 4 finally gives Android users something genuinely competitive. The design is beautiful in that understated way, performance is reliable, and the display stays readable in any light. Health tracking covers the basics (heart rate, blood oxygen) plus stuff like menstrual cycle tracking and skin temperature. Battery life sits around a day and a half, and you can actually fix the thing if it breaks.
 
 One note: the included strap is ugly. Just accept that now and grab something else. The deal price here actually beats previous lows by ten bucks, which is genuinely rare for this watch.
 

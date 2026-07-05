@@ -38,7 +38,7 @@ The lack of USB-C is genuinely annoying. The device uses a proprietary magnetic 
 
 ## The Real Question
 
-Did the X3 fix me? No. I didn't become a reformed person with a healthy relationship to [Technology](https://infeeds.com/tags/?tag=technology) and a suddenly refined reading list. My social media use didn't vanish.
+Did the X3 fix me? No. I didn't become a reformed person with a healthy relationship to [Technology](https://infeeds.com/tags/technology) and a suddenly refined reading list. My social media use didn't vanish.
 
 But something shifted. The device is a kind of accountability object that lives in your pocket. It's a physical reminder that an alternative exists, that you could be doing something that actually feels good instead of something that feels like habit. Whether that reminder sticks depends entirely on you. The X3 can create the conditions for better choices, but it can't make those choices for you.
 

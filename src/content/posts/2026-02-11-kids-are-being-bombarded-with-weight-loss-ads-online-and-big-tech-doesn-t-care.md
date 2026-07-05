@@ -22,11 +22,11 @@ Here's the frustrating part. The Online Safety Act exists. Ofcom is supposed to 
 
 Ofcom claims body stigma content is already covered under their codes as "non-designated content." They say platforms are required to protect children from it and act swiftly when they become aware of it. But if that's true, why are thousands of teenagers reporting they can't scroll through their feeds without seeing another ad telling them they're not good enough?
 
-The gap between what [Technology](https://infeeds.com/tags/?tag=technology) companies promise and what they actually deliver has never been wider. Dr. Peter Macaulay from the University of Derby hit the nail on the head when he said ending advertising to children on social media is just a "necessary step," not a complete solution. We need actual platform accountability, better enforcement, and education that helps kids understand they're being manipulated.
+The gap between what [Technology](https://infeeds.com/tags/technology) companies promise and what they actually deliver has never been wider. Dr. Peter Macaulay from the University of Derby hit the nail on the head when he said ending advertising to children on social media is just a "necessary step," not a complete solution. We need actual platform accountability, better enforcement, and education that helps kids understand they're being manipulated.
 
 ## Profiting From Teen Insecurity
 
-Let's be honest about what's happening here. Social media platforms have built entire [business](https://infeeds.com/tags/?tag=business) models around keeping users engaged, and nothing drives engagement quite like making people feel inadequate. Advertisers know this. Platform algorithms know this. And they're exploiting it for profit.
+Let's be honest about what's happening here. Social media platforms have built entire [business](https://infeeds.com/tags/business) models around keeping users engaged, and nothing drives engagement quite like making people feel inadequate. Advertisers know this. Platform algorithms know this. And they're exploiting it for profit.
 
 Dame Rachel didn't mince words. She called the situation "immensely damaging" to young people's self-esteem and said we can't keep accepting "an online world that profits from children's insecurities and constantly tells them they need to change or must be better."
 

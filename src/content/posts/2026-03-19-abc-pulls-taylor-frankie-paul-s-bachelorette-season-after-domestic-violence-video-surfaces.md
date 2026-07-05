@@ -32,7 +32,7 @@ But here's the thing that makes this tricky. When you're watching footage of som
 
 ## What This Means for Reality TV
 
-The cancellation raises some interesting questions about [entertainment](https://infeeds.com/tags/?tag=entertainment) accountability. Reality TV networks have gotten increasingly comfortable with casting controversial figures, knowing that drama drives ratings. But there's a line between the manufactured conflict of a dating show and actual allegations of violence.
+The cancellation raises some interesting questions about [entertainment](https://infeeds.com/tags/entertainment) accountability. Reality TV networks have gotten increasingly comfortable with casting controversial figures, knowing that drama drives ratings. But there's a line between the manufactured conflict of a dating show and actual allegations of violence.
 
 ABC's decision to pull the season suggests they've decided to stay on the safer side of that line, at least for now. Whether that's genuinely about protecting the family or protecting their brand reputation is debatable. Probably both.
 

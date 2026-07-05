@@ -14,7 +14,7 @@ That hesitation matters more than the headline.
 
 ## The Permit Isn't the Prize
 
-Here's what actually happened. Nuro, backed by Nvidia and Uber, modified its existing six-year-old driverless permit to include Lucid's premium SUV. The company previously held a permit only for low-speed delivery vehicles, a program it ditched when pivoting toward licensing its autonomous [Technology](https://infeeds.com/tags/?tag=technology) to ride-hailing companies. Now the new permit opens the door to something bigger.
+Here's what actually happened. Nuro, backed by Nvidia and Uber, modified its existing six-year-old driverless permit to include Lucid's premium SUV. The company previously held a permit only for low-speed delivery vehicles, a program it ditched when pivoting toward licensing its autonomous [Technology](https://infeeds.com/tags/technology) to ride-hailing companies. Now the new permit opens the door to something bigger.
 
 Nuro spokesperson David Salguero told TechCrunch the company expects to begin driverless testing later this year, but without committing to specifics. That vagueness is telling. A permit to test is one thing. Actually being ready to test is another.
 
@@ -24,7 +24,7 @@ Right now, Nuro and Uber are still running Lucid vehicles in autonomous mode wit
 
 This driverless permit is just one checkpoint on a much longer road. Nuro still needs to clear at least two more regulatory hurdles: a driverless ride-hailing permit from the California Public Utilities Commission and a deployment permit from the DMV. Each one involves scrutiny, public hearings, and bureaucratic timelines that don't move on startup schedules.
 
-The [Business](https://infeeds.com/tags/?tag=business) stakes keep climbing too. When Uber, Lucid, and Nuro announced their partnership in July 2025, the commitment was $300 million and 20,000 robotaxis. That's since expanded to $500 million and a minimum of 35,000 robotaxis, split between at least 10,000 Lucid Gravity SUVs and 25,000 EVs built on Lucid's upcoming mid-size platform. Uber has also made separate multimillion-dollar investments in Nuro.
+The [Business](https://infeeds.com/tags/business) stakes keep climbing too. When Uber, Lucid, and Nuro announced their partnership in July 2025, the commitment was $300 million and 20,000 robotaxis. That's since expanded to $500 million and a minimum of 35,000 robotaxis, split between at least 10,000 Lucid Gravity SUVs and 25,000 EVs built on Lucid's upcoming mid-size platform. Uber has also made separate multimillion-dollar investments in Nuro.
 
 All those vehicles will be equipped with Nuro's autonomous system, powered by Nvidia's Drive AGX Thor computer. They'll have high-resolution cameras, solid-state lidar sensors, and radars to perceive the world around them. The engineering is happening. Lucid has already delivered 75 engineering vehicles to Nuro and Uber for testing across multiple U.S. cities.
 

@@ -18,7 +18,7 @@ Let's be honest: most of us don't think about office supplies until we suddenly 
 
 Warehouse memberships eliminate that friction. A single trip gives you access to printer paper, cleaning supplies, snacks, and tech accessories all priced lower than what you'd find elsewhere. If you're running a small office or even working from home, these savings compound quickly. Over a year, the difference between retail pricing and bulk warehouse pricing can genuinely affect your bottom line.
 
-The math gets even more interesting when you factor in shared resources. [Business](https://infeeds.com/tags/?tag=business) owners often don't realize they can add a household member to their membership at no extra cost, which means your partner, family member, or colleague can access the same inventory. That's essentially doubling your shopping power.
+The math gets even more interesting when you factor in shared resources. [Business](https://infeeds.com/tags/business) owners often don't realize they can add a household member to their membership at no extra cost, which means your partner, family member, or colleague can access the same inventory. That's essentially doubling your shopping power.
 
 ## Beyond the Membership Fee
 

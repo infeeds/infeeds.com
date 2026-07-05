@@ -26,12 +26,12 @@ That spangram tells you everything you need to know about the day's theme. When 
 
 ## The Broader Puzzle Universe
 
-If you're looking for solutions to today's other New York Times <a href="https://infeeds.com/tags/?tag=technology">Technology</a>-powered word games, CNET maintains a dedicated hints page covering Wordle, Connections, and the Mini Crossword. The <a href="https://infeeds.com/tags/?tag=news">news</a> around Connections has been particularly interesting lately, especially when you consider how Connections: Sports Edition has carved out its own audience among puzzle enthusiasts.
+If you're looking for solutions to today's other New York Times <a href="https://infeeds.com/tags/technology">Technology</a>-powered word games, CNET maintains a dedicated hints page covering Wordle, Connections, and the Mini Crossword. The <a href="https://infeeds.com/tags/news">news</a> around Connections has been particularly interesting lately, especially when you consider how Connections: Sports Edition has carved out its own audience among puzzle enthusiasts.
 
 Strands remains the newest member of the Times' puzzle lineup, so if you haven't explored the rules yet, there's a deeper explainer available that walks you through the mechanics. It's worth reading if you find yourself consistently frustrated with your solving strategy.
 
 ## Why These Puzzles Matter
 
-The puzzle game market has become genuinely competitive. What started as simple daily diversions has evolved into a <a href="https://infeeds.com/tags/?tag=business">business</a> strategy for the Times, and they're clearly committed to building a sustainable ecosystem of word games. Each puzzle targets slightly different cognitive skills and patience thresholds, which means there's genuinely something for different solver types.
+The puzzle game market has become genuinely competitive. What started as simple daily diversions has evolved into a <a href="https://infeeds.com/tags/business">business</a> strategy for the Times, and they're clearly committed to building a sustainable ecosystem of word games. Each puzzle targets slightly different cognitive skills and patience thresholds, which means there's genuinely something for different solver types.
 
 Some days, Strands feels like a meditation. Other days, it feels like a battle against your own vocabulary. That volatility is part of what keeps people coming back.

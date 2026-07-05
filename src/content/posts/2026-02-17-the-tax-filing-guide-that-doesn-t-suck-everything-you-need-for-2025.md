@@ -20,7 +20,7 @@ Filing early isn't just about being a responsible adult. It's also about protect
 
 Gather your stuff first. That means W-2s from your employer, last year's tax return if you're switching services, health insurance information, and any receipts or documents related to big purchases like property or vehicles. If you're claiming deductions for work expenses, have those receipts ready too.
 
-Your employer is required to get you a W-2 by the end of January, so if you haven't received yours yet, it's time to start asking questions. Most [business](https://infeeds.com/tags/?tag=business) owners and HR departments are on top of this, but mistakes happen.
+Your employer is required to get you a W-2 by the end of January, so if you haven't received yours yet, it's time to start asking questions. Most [business](https://infeeds.com/tags/business) owners and HR departments are on top of this, but mistakes happen.
 
 The process of collecting documents is tedious, but it's better than scrambling halfway through your return when you realize you're missing something critical. Trust me on this one.
 
@@ -50,7 +50,7 @@ Filing taxes for a small business or LLC is where things get messy fast. The IRS
 
 Partnerships need to file Form 1065, and each partner has to report their share of income, deductions, and credits. If your LLC is taxed as a corporation, you'll need to file Form 1120. It's confusing, and honestly, this is where paying for professional help makes sense unless you really know what you're doing.
 
-Most of the major tax services have [technology](https://infeeds.com/tags/?tag=technology) built in to handle small business returns, but the free versions usually don't cover these forms. You'll need to upgrade to a paid tier, which can get expensive quickly.
+Most of the major tax services have [technology](https://infeeds.com/tags/technology) built in to handle small business returns, but the free versions usually don't cover these forms. You'll need to upgrade to a paid tier, which can get expensive quickly.
 
 ## What Happens If You're Late
 

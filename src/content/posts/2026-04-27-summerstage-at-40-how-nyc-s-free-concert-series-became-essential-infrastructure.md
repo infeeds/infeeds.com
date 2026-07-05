@@ -16,7 +16,7 @@ Joe Killian, SummerStage's founder, put it plainly in a statement: "World-class 
 
 Rafael Espinal, Commissioner of the NYC Mayor's Office of Media and Entertainment, framed SummerStage's free concerts as a response to real economic pressure. "At a time when affordability is a real challenge, live music shouldn't be a luxury, it's essential," he said. The city is backing that statement with two free shows this season.
 
-This isn't just feel-good programming. There's an actual argument embedded here: that cultural participation shouldn't depend on disposable income. That neighborhoods in Harlem, the East Village, Brooklyn, Queens, and the Bronx deserve the same caliber of artists as people who can drop money on Madison Square Garden tickets. Whether you buy that fully or not, the [entertainment](https://infeeds.com/tags/?tag=entertainment) industry has largely abandoned it.
+This isn't just feel-good programming. There's an actual argument embedded here: that cultural participation shouldn't depend on disposable income. That neighborhoods in Harlem, the East Village, Brooklyn, Queens, and the Bronx deserve the same caliber of artists as people who can drop money on Madison Square Garden tickets. Whether you buy that fully or not, the [entertainment](https://infeeds.com/tags/entertainment) industry has largely abandoned it.
 
 ## The Lineup Tells a Story
 
@@ -28,7 +28,7 @@ Special events add texture: Duck Down Music's 30th anniversary celebration of He
 
 SummerStage is anchoring performances across multiple NYC parks instead of concentrating everything in Manhattan. Shows will hit Marcus Garvey Park in Harlem, Tompkins Square in the East Village, Herbert Von King Park in Brooklyn, Flushing Meadows-Corona in Queens, and Crotona Park in the Bronx, with Staten Island to follow. This distribution reflects a deliberate choice: your neighborhood should have access to world-class performances.
 
-That sounds obvious. It isn't. Most [entertainment](https://infeeds.com/tags/?tag=entertainment) programming in American cities clusters wealth and access. SummerStage built its model the other way around.
+That sounds obvious. It isn't. Most [entertainment](https://infeeds.com/tags/entertainment) programming in American cities clusters wealth and access. SummerStage built its model the other way around.
 
 ## The 40-Year Throughline
 

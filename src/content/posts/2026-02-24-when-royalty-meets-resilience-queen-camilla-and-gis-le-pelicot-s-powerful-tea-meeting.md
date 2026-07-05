@@ -30,7 +30,7 @@ The Queen had read the entire memoir in just two days. Two days. That's not casu
 
 Timing matters here. This meeting happened against a backdrop of serious institutional pressure on the monarchy itself. The Andrew-Epstein scandal has kept questions about accountability and privilege very much alive in public consciousness. The royal family hasn't exactly emerged from that situation looking clean, and the media hasn't let them forget it.
 
-Which is why this moment with Pelicot carries weight beyond just a nice photo opportunity. It's a statement, intentional or not. A royal household trying to demonstrate where it actually stands on [violence against women](https://infeeds.com/tags/?tag=health).
+Which is why this moment with Pelicot carries weight beyond just a nice photo opportunity. It's a statement, intentional or not. A royal household trying to demonstrate where it actually stands on [violence against women](https://infeeds.com/tags/health).
 
 Camilla has a long history of campaigning against domestic violence and sexual abuse. She wasn't showing up for this meeting as a performative gesture. The letter she wrote to Pelicot last year, praising her "extraordinary dignity and courage," now hangs framed in Pelicot's office. That's not something you forget or fabricate.
 

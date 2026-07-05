@@ -48,7 +48,7 @@ The PREDIMED-Plus work didn't stop with diabetes findings. Related research has 
 
 Recent work has also explored how sedentary time affects cardiovascular health. A 2026 study found that replacing sitting time with physical activity was associated with favorable changes in blood markers related to heart stress in people with metabolic syndrome.
 
-The broader <a href="https://infeeds.com/tags/?tag=science">science</a> on Mediterranean diet approaches continues to strengthen. A 2025 review in Cardiovascular Research described the Mediterranean diet as one of the best-studied dietary patterns for cardiovascular prevention, citing large randomized trials including the original PREDIMED and other major studies.
+The broader <a href="https://infeeds.com/tags/science">science</a> on Mediterranean diet approaches continues to strengthen. A 2025 review in Cardiovascular Research described the Mediterranean diet as one of the best-studied dietary patterns for cardiovascular prevention, citing large randomized trials including the original PREDIMED and other major studies.
 
 Interestingly, recent analysis from the original PREDIMED trial highlighted that food quality matters within the diet itself. Participants with higher cumulative intake of extra virgin olive oil had a lower cardiovascular risk, while common olive oil showed weaker associations. It's a practical reminder that the Mediterranean diet isn't just about eating less or eating more plants. The type and quality of fats you choose appears to matter.
 

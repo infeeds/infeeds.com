@@ -38,4 +38,4 @@ Connolly was eventually granted compassionate release in 2021 after a judge cons
 
 The question now is whether Miami-Dade Circuit Court will overturn his conviction based on this newly discovered evidence. Whether an 85-year-old man will finally get justice after spending his most productive years paying for a crime orchestrated by someone else.
 
-It's a stark reminder of what can happen when prosecutorial <a href="https://infeeds.com/tags/?tag=news">misconduct</a> goes unchecked. When one corrupt official can destroy another person's life, and the system takes decades to catch up with the truth. Bulger, the crime boss who inspired Jack Nicholson's character in "The Departed," may end up being the person who sets an innocent man free.
+It's a stark reminder of what can happen when prosecutorial <a href="https://infeeds.com/tags/news">misconduct</a> goes unchecked. When one corrupt official can destroy another person's life, and the system takes decades to catch up with the truth. Bulger, the crime boss who inspired Jack Nicholson's character in "The Departed," may end up being the person who sets an innocent man free.

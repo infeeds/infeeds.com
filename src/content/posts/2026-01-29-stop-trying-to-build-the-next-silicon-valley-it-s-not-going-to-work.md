@@ -22,7 +22,7 @@ Silicon Valley didn't become Silicon Valley because someone decided to copy anot
 
 Most founders operate in scarcity. Capital is harder to find. Experienced operators are rare. One failed experiment doesn't just burn runway, it can torch your reputation and eliminate future funding options entirely.
 
-When you optimize for conditions that don't exist in your reality, you're not being strategic. You're cosplaying success while your actual [business](https://infeeds.com/tags/?tag=business) bleeds out.
+When you optimize for conditions that don't exist in your reality, you're not being strategic. You're cosplaying success while your actual [business](https://infeeds.com/tags/business) bleeds out.
 
 The founders who pretend they have unlimited capital when they don't end up making decisions that look impressive on paper but crumble under real-world pressure. They hire too fast, burn through runway on vanity metrics, and chase trends instead of building something that actually works where they are.
 
@@ -40,7 +40,7 @@ You don't need a perfect ecosystem. You need to become indispensable in a specif
 
 Too many founders believe that if they just build something great, investors will magically find them. This is dangerously naive.
 
-Even when world-class innovation happens outside major hubs, it often gets extracted. A founder builds something incredible in the midwest, gets funded by coastal VCs, then gets pressured to relocate to where the "real" [technology](https://infeeds.com/tags/?tag=technology) scene exists. The product succeeds but the local economy and founder lose all leverage.
+Even when world-class innovation happens outside major hubs, it often gets extracted. A founder builds something incredible in the midwest, gets funded by coastal VCs, then gets pressured to relocate to where the "real" [technology](https://infeeds.com/tags/technology) scene exists. The product succeeds but the local economy and founder lose all leverage.
 
 Strong founders don't wait to be discovered. They proactively build bridges to capital, experienced advisors, and strategic partners wherever those resources exist. Sometimes that means remote advisors. Sometimes it means traveling to investor meetings. Often it means recruiting experienced operators from outside your region on flexible terms.
 

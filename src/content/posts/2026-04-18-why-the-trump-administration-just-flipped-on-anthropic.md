@@ -22,7 +22,7 @@ Anthropic released Claude Mythos, a preview of what the company claims is an AI 
 
 That's the kind of capability governments want locked down. Or better yet, locked in.
 
-The timing matters. Last week, Amodei said the company had "spoken to officials across the US government" and offered to work with them. The Friday meeting feels like the government's response. Not a reversal, exactly. More like a recognition that whatever grievance exists with Anthropic's politics or values, the firm's [technology](https://infeeds.com/tags/?tag=technology) is critical enough to warrant a seat at the table.
+The timing matters. Last week, Amodei said the company had "spoken to officials across the US government" and offered to work with them. The Friday meeting feels like the government's response. Not a reversal, exactly. More like a recognition that whatever grievance exists with Anthropic's politics or values, the firm's [technology](https://infeeds.com/tags/technology) is critical enough to warrant a seat at the table.
 
 ## The Supply Chain Designation Nobody Wanted
 
@@ -34,7 +34,7 @@ But here's the thing: according to court records, Anthropic's tools are still in
 
 ## When Politics Meets Pragmatism
 
-That Friday meeting represents something deeper than a policy shift. It's an admission that [business](https://infeeds.com/tags/?tag=business) and national security interests can override public antagonism. When Trump was asked about the meeting as he arrived in Phoenix, Arizona, he said he had "no idea" about it. Whether that's literally true or diplomatic deniability doesn't much matter. The meeting happened. The White House confirmed it. And the tone was cooperative.
+That Friday meeting represents something deeper than a policy shift. It's an admission that [business](https://infeeds.com/tags/business) and national security interests can override public antagonism. When Trump was asked about the meeting as he arrived in Phoenix, Arizona, he said he had "no idea" about it. Whether that's literally true or diplomatic deniability doesn't much matter. The meeting happened. The White House confirmed it. And the tone was cooperative.
 
 What's interesting is how little either side is claiming victory. Anthropic's representative didn't comment. The White House described the conversation in measured terms about "shared approaches" and "protocols." Nobody is spiking the ball. Nobody is pretending this resolves the underlying tension between the administration's ideology and its practical need for advanced AI capabilities.
 

@@ -12,7 +12,7 @@ Your brand is being discussed right now. Just not where you think.
 
 Someone is asking ChatGPT which social media platform to use. Another person is asking Claude to compare your competitors. A third is asking Perplexia what your industry even looks like. And in each of those moments, an AI is describing your company to a potential buyer without your input, without your knowledge, and often without getting it right.
 
-This is the new reality of <a href="https://infeeds.com/tags/?tag=business">business</a> in 2026. Your reputation isn't just shaped by Google rankings anymore. It's shaped by what AI assistants choose to say about you when someone asks.
+This is the new reality of <a href="https://infeeds.com/tags/business">business</a> in 2026. Your reputation isn't just shaped by Google rankings anymore. It's shaped by what AI assistants choose to say about you when someone asks.
 
 The problem? Most companies have no idea what that is.
 
@@ -52,7 +52,7 @@ Traditional SEO was already being disrupted. This is something different. This i
 
 ## The Mistakes Everyone Makes
 
-Most <a href="https://infeeds.com/tags/?tag=technology">technology</a> and marketing teams approach LLM visibility like they approach Google SEO. They ask: "Where do we rank?" or "How do we get higher?" or "Are we getting enough volume?"
+Most <a href="https://infeeds.com/tags/technology">technology</a> and marketing teams approach LLM visibility like they approach Google SEO. They ask: "Where do we rank?" or "How do we get higher?" or "Are we getting enough volume?"
 
 That framework doesn't work here.
 

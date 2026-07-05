@@ -86,7 +86,7 @@ Strategic alignment doesn't erase challenges. But it makes them surmountable. Tw
 
 ## What Actually Matters
 
-The <a href="https://infeeds.com/tags/?tag=business">business</a> playbook for surviving M&A isn't mysterious. Build legal protections. Maintain relationships even when you have leverage. Communicate honestly with your team before the deal closes. Get creative about structural solutions. Be prepared for final terms to shift.
+The <a href="https://infeeds.com/tags/business">business</a> playbook for surviving M&A isn't mysterious. Build legal protections. Maintain relationships even when you have leverage. Communicate honestly with your team before the deal closes. Get creative about structural solutions. Be prepared for final terms to shift.
 
 The initial term sheet is the beginning, not the end. Everything that follows requires navigating uncertainty, managing egos, protecting your downside, and accepting that the deal you thought you were making might not be the deal you end up living through.
 

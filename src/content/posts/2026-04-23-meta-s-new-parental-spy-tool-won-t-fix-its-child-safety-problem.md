@@ -36,7 +36,7 @@ This is where the discussion gets uncomfortable for companies like Meta. Not all
 
 ## Meta's Track Record Speaks for Itself
 
-It's hard to separate this announcement from Meta's broader pattern of legal setbacks and accusations. The company was ordered to pay $375 million after being found liable in a child exploitation case. It was also found liable in a California case where a woman alleged Instagram and YouTube were deliberately designed to be addictive to children. More than 40 US states filed lawsuits against Meta in 2023, claiming the company was deliberately trying to addict children to its apps and contributing to a youth <a href="https://infeeds.com/tags/?tag=news">mental health crisis</a>.
+It's hard to separate this announcement from Meta's broader pattern of legal setbacks and accusations. The company was ordered to pay $375 million after being found liable in a child exploitation case. It was also found liable in a California case where a woman alleged Instagram and YouTube were deliberately designed to be addictive to children. More than 40 US states filed lawsuits against Meta in 2023, claiming the company was deliberately trying to addict children to its apps and contributing to a youth <a href="https://infeeds.com/tags/news">mental health crisis</a>.
 
 Against that backdrop, AI Insights reads less like genuine concern for child safety and more like PR management.
 

@@ -12,7 +12,7 @@ Letterboxd used to be the thing you'd mention at a party to establish yourself a
 
 According to reporting from Semafor, Canadian holding company Tiny, which controls roughly 60% of the film review and social platform, has been quietly shopping Letterboxd to potential buyers. The list includes some serious players: Versant, parent company of CNBC and MSNBC, and The Ankler, a well-connected Hollywood newsletter. Tiny acquired the platform in 2023 for over $50 million and is now looking to exit, though no deal appears imminent.
 
-This is a fascinating moment for a <a href="https://infeeds.com/tags/?tag=technology">technology</a> platform that spent over a decade as a genuine niche product. Founded in 2011, Letterboxd let film enthusiasts rate, review, and recommend movies to each other in a space that genuinely felt like it was built by people who cared about the medium. It didn't chase mainstream adoption aggressively. It just kind of... happened.
+This is a fascinating moment for a <a href="https://infeeds.com/tags/technology">technology</a> platform that spent over a decade as a genuine niche product. Founded in 2011, Letterboxd let film enthusiasts rate, review, and recommend movies to each other in a space that genuinely felt like it was built by people who cared about the medium. It didn't chase mainstream adoption aggressively. It just kind of... happened.
 
 ## From Niche to Massive
 
@@ -34,7 +34,7 @@ The Ankler represents a different bet. The Hollywood newsletter has built real c
 
 What none of these scenarios directly address is what happens to the community that actually makes Letterboxd valuable. The millions of users who aren't journalists, studio executives, or Oscar strategists. They're just people who love movies and want to talk about them with other people who understand why that matters.
 
-Platform acquisitions have a spotty track record on this front. Sometimes the <a href="https://infeeds.com/tags/?tag=business">business</a> dynamics of the buyer improve the product. Sometimes they hollow it out in pursuit of different metrics. Sometimes they just leave it alone and milk the existing network for value.
+Platform acquisitions have a spotty track record on this front. Sometimes the <a href="https://infeeds.com/tags/business">business</a> dynamics of the buyer improve the product. Sometimes they hollow it out in pursuit of different metrics. Sometimes they just leave it alone and milk the existing network for value.
 
 The fact that Tiny is already looking to cash out less than three years after buying the platform suggests this was always meant to be a holding play rather than a long-term investment. That's fine. But it does mean that whatever buyer emerges is going to face an immediate decision: Do you preserve what made Letterboxd interesting in the first place, or do you start extracting value from it?
 

@@ -22,7 +22,7 @@ NASA Administrator Jared Isaacman, who took over in December, isn't sugarcoating
 
 During the first Artemis mission campaign, NASA had a safety limit of 4 percent for hydrogen gas concentrations around the fueling connections. This was a conservative standard carried over from the Space Shuttle program. But during the recent rehearsal, those concentrations spiked higher than 16 percent. So what did NASA do? They raised their safety limit to 16 percent.
 
-That's not fixing the problem. That's redefining what counts as a problem. The [technology](https://infeeds.com/tags/?tag=technology) behind rocket fueling hasn't changed, just NASA's tolerance for risk apparently has.
+That's not fixing the problem. That's redefining what counts as a problem. The [technology](https://infeeds.com/tags/technology) behind rocket fueling hasn't changed, just NASA's tolerance for risk apparently has.
 
 John Honeycutt, who chairs NASA's Artemis II mission management team, defended the decision by saying they ran tests that showed hydrogen wouldn't ignite at 16 percent concentration. Fair enough, but there's something deeply unsettling about a space agency saying "we tested to see when it would actually explode, and we're good as long as we stay below that."
 
@@ -32,7 +32,7 @@ The root cause is straightforward. Engineers traced the leaks to ground support 
 
 Here's where it gets really frustrating. NASA and Boeing, the prime contractor for the SLS core stage, never built a full-size test model. There's no way to completely test how the rocket and ground equipment interact until you've got the actual flight rocket sitting on the actual launch pad. Each SLS rocket is essentially a $2 billion one-off that must be handled with kid gloves because it's too expensive to replace.
 
-NASA spent nearly $900 million on Artemis ground support infrastructure in 2024 alone. Much of that money went toward building a new launch platform for an upgraded SLS version that may never even fly. The whole [business](https://infeeds.com/tags/?tag=business) model here seems broken.
+NASA spent nearly $900 million on Artemis ground support infrastructure in 2024 alone. Much of that money went toward building a new launch platform for an upgraded SLS version that may never even fly. The whole [business](https://infeeds.com/tags/business) model here seems broken.
 
 After the confidence test on Thursday, technicians discovered another issue: reduced fuel flow that they think is caused by a clogged filter. So they'll replace that filter and try again with another dress rehearsal next week. The test ended before they could even get to the "fast fill" mode where pressures and flow rates put the most stress on those finicky seals.
 
@@ -44,6 +44,6 @@ For Artemis III, which is probably at least three years away, Isaacman said NASA
 
 But existing law requires NASA to keep flying SLS through Artemis V, so we're stuck with this situation for at least a few more missions. The agency will eventually incorporate newer, cheaper, reusable rockets into the Artemis program as those capabilities mature, but that's still years away.
 
-The next launch window for Artemis II opens March 3. If they miss that opportunity, the rocket has to roll back to the Vehicle Assembly Building to refresh its flight termination system. There are backup dates in April and May, but every delay costs more money and erodes confidence in a program that's already under intense [news](https://infeeds.com/tags/?tag=news) scrutiny.
+The next launch window for Artemis II opens March 3. If they miss that opportunity, the rocket has to roll back to the Vehicle Assembly Building to refresh its flight termination system. There are backup dates in April and May, but every delay costs more money and erodes confidence in a program that's already under intense [news](https://infeeds.com/tags/news) scrutiny.
 
 Isaacman insists they won't launch unless everything is ready and astronaut safety remains the top priority. That's exactly what you'd expect any NASA administrator to say. But when the solution to a recurring leak problem is "let's just accept bigger leaks," you have to wonder if the real issue isn't the seals or the ground equipment, but the entire architecture of a rocket system that's simultaneously too expensive to replace and too flawed to fly reliably.

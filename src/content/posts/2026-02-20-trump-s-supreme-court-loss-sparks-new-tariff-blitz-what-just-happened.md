@@ -10,7 +10,7 @@ tags: [news, business]
 tags_color: '#4caf50'
 ---
 
-Things just got messy in the world of <a href="https://infeeds.com/tags/?tag=business">business</a> and trade policy. On Friday, the Supreme Court essentially told President Trump "no" on his tariff strategy, and his response was swift: sign a new executive order for a 10% global tariff that kicks in almost immediately.
+Things just got messy in the world of <a href="https://infeeds.com/tags/business">business</a> and trade policy. On Friday, the Supreme Court essentially told President Trump "no" on his tariff strategy, and his response was swift: sign a new executive order for a 10% global tariff that kicks in almost immediately.
 
 Let's break down what just happened, because it matters for basically everyone buying stuff.
 

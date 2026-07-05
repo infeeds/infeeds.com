@@ -26,7 +26,7 @@ Here's where it gets interesting though: much of this activity is concentrated i
 
 Let's talk about what bothers me here. A $100 million valuation in March to $200 million in April isn't just scaling capital. It's a doubling of assumed future value in the span of a month. The growth metrics justify a significant uptick, sure. But double in thirty days?
 
-This is where [Business](https://infeeds.com/tags/?tag=business) journalism gets uncomfortable. You can point to the unit economics, the user acquisition costs, the retention rates, and maybe it all checks out on a spreadsheet. But there's also a rhythm to how [Technology](https://infeeds.com/tags/?tag=technology) valuations move, and this feels a bit like momentum trading dressed up as venture capital.
+This is where [Business](https://infeeds.com/tags/business) journalism gets uncomfortable. You can point to the unit economics, the user acquisition costs, the retention rates, and maybe it all checks out on a spreadsheet. But there's also a rhythm to how [Technology](https://infeeds.com/tags/technology) valuations move, and this feels a bit like momentum trading dressed up as venture capital.
 
 India's on-demand services space is genuinely hot right now. Investors are flooding the sector. Groom's involvement alone likely signals confidence from the tech investing establishment. But confidence and rational valuation are not always the same thing.
 

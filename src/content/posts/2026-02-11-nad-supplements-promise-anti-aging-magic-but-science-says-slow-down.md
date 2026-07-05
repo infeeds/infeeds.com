@@ -22,7 +22,7 @@ Your body isn't stupid. When NAD+ levels fall, you feel it. Tiredness creeps in,
 
 But here's where things get murky. Yes, NAD+ supplements can boost your levels. Yes, some studies (including one from 2023) suggest they support metabolism and weight management. Dr. Jonathan Jennings, a board-certified internist, notes that "most data suggests all versions are safe in most populations," but that's not exactly a ringing endorsement.
 
-The [technology](https://infeeds.com/tags/?tag=technology) behind these supplements varies wildly. You can take them as pills, nasal sprays, intramuscular injections, or even intravenously. Each method comes with its own side effect profile, and the FDA doesn't regulate supplements the way it does medications. So you're essentially flying blind unless you work closely with a doctor.
+The [technology](https://infeeds.com/tags/technology) behind these supplements varies wildly. You can take them as pills, nasal sprays, intramuscular injections, or even intravenously. Each method comes with its own side effect profile, and the FDA doesn't regulate supplements the way it does medications. So you're essentially flying blind unless you work closely with a doctor.
 
 ## The Side Effects Nobody Talks About
 
@@ -30,7 +30,7 @@ Here's what the Instagram posts don't mention: NAD+ supplements can mess with yo
 
 Nayan Patel, a doctor of pharmacy and founder of Auro Wellness, points out that these supplements aren't appropriate for pregnant people, children, or those who are nursing. A 2020 study also showed potential problems for anyone with existing liver or kidney issues because of how the body metabolizes the supplement.
 
-And if you're on other medications? Good luck figuring out if there's an interaction without professional guidance. The supplement world operates in a gray area where marketing often outpaces actual [science](https://infeeds.com/tags/?tag=science).
+And if you're on other medications? Good luck figuring out if there's an interaction without professional guidance. The supplement world operates in a gray area where marketing often outpaces actual [science](https://infeeds.com/tags/science).
 
 ## The Truth About Reversing Aging
 
@@ -52,7 +52,7 @@ Exercise particularly seems to stimulate the production of NAD+ precursors natur
 
 Here's the uncomfortable part: we're still in the early stages of understanding how NAD+ supplementation really works long-term. A 2023 study on nicotinamide riboside and nicotinamide mononucleotide (NAD+ precursors) showed some improvements in cardiovascular, metabolic, and physical function, but the research involved different doses over varying periods. The findings are interesting but hardly conclusive.
 
-Patel tells it straight: these supplements should be approached "with caution." That's doctor-speak for "we don't really know everything yet, so don't go overboard." The [business](https://infeeds.com/tags/?tag=business) of supplements thrives on hype, but the science moves at its own pace.
+Patel tells it straight: these supplements should be approached "with caution." That's doctor-speak for "we don't really know everything yet, so don't go overboard." The [business](https://infeeds.com/tags/business) of supplements thrives on hype, but the science moves at its own pace.
 
 And that pace is slow. Frustratingly slow if you're someone hoping for a quick fix to aging.
 

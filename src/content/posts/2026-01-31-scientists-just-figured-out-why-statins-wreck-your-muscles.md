@@ -34,10 +34,10 @@ And look, severe muscle breakdown is rare. We're talking about a tiny percentage
 
 ## Why This Actually Matters
 
-The [science](https://infeeds.com/tags/?tag=science) here is impressive, sure, but the real-world impact could be huge. Heart disease is still the leading cause of death globally, and statins are one of our best weapons against it. If researchers can engineer versions that don't trash your muscles, more people would actually stick with their treatment.
+The [science](https://infeeds.com/tags/science) here is impressive, sure, but the real-world impact could be huge. Heart disease is still the leading cause of death globally, and statins are one of our best weapons against it. If researchers can engineer versions that don't trash your muscles, more people would actually stick with their treatment.
 
-This kind of breakthrough also showcases how advanced imaging [technology](https://infeeds.com/tags/?tag=technology) is changing medical research. The UBC team used their high-resolution cryo-electron microscopy facility to capture these interactions in insane detail. What was once a frustrating mystery about statin side effects is now a clear target for drug development.
+This kind of breakthrough also showcases how advanced imaging [technology](https://infeeds.com/tags/technology) is changing medical research. The UBC team used their high-resolution cryo-electron microscopy facility to capture these interactions in insane detail. What was once a frustrating mystery about statin side effects is now a clear target for drug development.
 
 Dr. Filip Van Petegem, the senior author, emphasized that statins have been a cornerstone of heart care for decades. The goal isn't to replace them but to make them safer so patients don't have to choose between protecting their heart and avoiding muscle pain.
 
-For anyone who's had to stop taking statins because of side effects, or who's been too nervous to start them in the first place, this [research](https://infeeds.com/tags/?tag=science) offers something genuinely hopeful. The question now is how quickly pharmaceutical companies can turn these atomic-level insights into actual drugs that don't make your legs feel like lead.
+For anyone who's had to stop taking statins because of side effects, or who's been too nervous to start them in the first place, this [research](https://infeeds.com/tags/science) offers something genuinely hopeful. The question now is how quickly pharmaceutical companies can turn these atomic-level insights into actual drugs that don't make your legs feel like lead.

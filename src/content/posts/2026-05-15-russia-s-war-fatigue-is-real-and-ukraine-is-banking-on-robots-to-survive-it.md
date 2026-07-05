@@ -25,7 +25,7 @@ The stalled peace process compounds the problem. When negotiations break down, s
 
 Ukraine faces a different problem. It's not exhausted at home in quite the same way as Russia. This is existential for Ukraine. But it is dealing with real manpower constraints. The country has been fighting for years. Mobilization has limits. The pool of available soldiers isn't infinite.
 
-Enter [Technology](https://infeeds.com/tags/?tag=technology). Drones, unmanned systems, remotely operated weapons. These aren't new, but Ukraine is scaling them in ways that matter. Robotic warfare allows Ukraine to maintain military pressure and capability even when it can't match Russia in pure numbers of soldiers.
+Enter [Technology](https://infeeds.com/tags/technology). Drones, unmanned systems, remotely operated weapons. These aren't new, but Ukraine is scaling them in ways that matter. Robotic warfare allows Ukraine to maintain military pressure and capability even when it can't match Russia in pure numbers of soldiers.
 
 The logic is sound. Machines don't tire. Machines don't have families demanding they come home. A drone operator working shifts in Kyiv can strike targets repeatedly without the physical and psychological toll of frontline combat. At scale, this could change the equation.
 

@@ -30,7 +30,7 @@ One particularly damning piece of evidence came from a 2019 email exchange betwe
 
 Clegg warned that Meta would be "rightly accused of putting growth over responsibility" and that it would damage the company's reputation. Mosseri said they eventually banned filters that went beyond makeup effects. But under cross-examination, he admitted the ban was "modified." In other words, they walked it back.
 
-This is the kind of thing that makes people lose faith in [Technology](https://infeeds.com/tags/?tag=technology) companies. Internal executives are flagging serious concerns about harm to users, especially young ones, and the company's response is to implement half-measures that get quietly rolled back later.
+This is the kind of thing that makes people lose faith in [Technology](https://infeeds.com/tags/technology) companies. Internal executives are flagging serious concerns about harm to users, especially young ones, and the company's response is to implement half-measures that get quietly rolled back later.
 
 Outside the courthouse, parents gathered with photos of their children who they say were harmed by social media. Mariano Janin flew in from London holding a picture of his daughter Mia, who died by suicide at 14 in 2021. "They have the technology; they have the funds," Janin said. "They should protect kids."
 
@@ -38,7 +38,7 @@ Outside the courthouse, parents gathered with photos of their children who they 
 
 The trial is expected to last six weeks and could set a precedent for how tech companies are held accountable for their impact on young users. Snapchat and TikTok already reached settlements before the trial began. YouTube is still named in the suit alongside Instagram.
 
-Meta and other social media platforms are facing thousands of similar cases across the United States from families, prosecutors, and school districts. This isn't one angry parent with an outlier case. It's a pattern that [Business](https://infeeds.com/tags/?tag=business) leaders in Silicon Valley can no longer dismiss as isolated incidents.
+Meta and other social media platforms are facing thousands of similar cases across the United States from families, prosecutors, and school districts. This isn't one angry parent with an outlier case. It's a pattern that [Business](https://infeeds.com/tags/business) leaders in Silicon Valley can no longer dismiss as isolated incidents.
 
 Mark Zuckerberg and YouTube CEO Neal Mohan are both expected to testify in the coming weeks. It'll be fascinating to see if they stick to the same talking points about "problematic use" versus "addiction" or if they take a different approach.
 
@@ -50,6 +50,6 @@ This logic falls apart pretty quickly when you're talking about teenagers whose 
 
 Mosseri did agree with one point early in his testimony. When asked if Instagram should do everything in its power to keep users safe, especially young people, he said yes. But agreeing to a principle in court and actually implementing meaningful protections are two very different things.
 
-The whole testimony feels like watching someone try to thread a needle while wearing oven mitts. Mosseri wants to acknowledge that something might be wrong without admitting liability, claim they're doing everything they can without actually changing the fundamental [business](https://infeeds.com/tags/?tag=business) model, and sound sympathetic while defending a platform that by his own admission has problems.
+The whole testimony feels like watching someone try to thread a needle while wearing oven mitts. Mosseri wants to acknowledge that something might be wrong without admitting liability, claim they're doing everything they can without actually changing the fundamental [business](https://infeeds.com/tags/business) model, and sound sympathetic while defending a platform that by his own admission has problems.
 
 When your defense boils down to "sure, she spent 16 hours a day on our app and reported bullying 300 times, but we don't think we're responsible," maybe it's time to ask whether the problem is bigger than any one user's pre-existing conditions.

@@ -24,7 +24,7 @@ Repurposing existing drugs bypasses years of development work. If machine learni
 
 The methodology is more rigorous than it might sound. The Institute builds datasets from volunteer patients, gathering iris scans and voice recordings. They extract blood samples and coax them into neurones in the lab. Then they run existing drugs across multiple batches of those cells using robots, traditional equipment, and AI algorithms trained to recognise which compounds might flip a diseased neurological signature back toward health.
 
-The drugs that survive this screening then enter human trials. It's a filtering mechanism powered by [<a href="https://infeeds.com/tags/?tag=technology">Technology</a>](https://infeeds.com/tags/?tag=technology) that would have seemed like science fiction a few years ago. Yet the speed advantage is real. Instead of decades, Prof Chandran believes effective, affordable treatments for neurological conditions could arrive in years.
+The drugs that survive this screening then enter human trials. It's a filtering mechanism powered by [<a href="https://infeeds.com/tags/technology">Technology</a>](https://infeeds.com/tags/technology) that would have seemed like science fiction a few years ago. Yet the speed advantage is real. Instead of decades, Prof Chandran believes effective, affordable treatments for neurological conditions could arrive in years.
 
 ## The Caution Sign
 

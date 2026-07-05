@@ -32,7 +32,7 @@ When Rosen asked when immediate market activity ends and regular trading begins,
 
 That's not a legal definition. It's not even technically an answer to the question posed. But it gets at something deeper. What prosecutors are arguing is that Left's offense wasn't simply trading quickly or even profiting handsomely from market moves. It was the gap between what he told people and what he was actually doing. Close that gap, prosecutors suggest through Hallstrom's testimony, and there's no crime.
 
-This matters for the broader <a href="https://infeeds.com/tags/?tag=business">business</a> of influencer trading. Plenty of people with large followings make money on market movements they publicly discuss. The line between savvy and criminal often hinges on that one question: were the public statements an honest reflection of your position, or were they a tool to move prices in your favor?
+This matters for the broader <a href="https://infeeds.com/tags/business">business</a> of influencer trading. Plenty of people with large followings make money on market movements they publicly discuss. The line between savvy and criminal often hinges on that one question: were the public statements an honest reflection of your position, or were they a tool to move prices in your favor?
 
 ## The Profits Tell Their Own Story
 

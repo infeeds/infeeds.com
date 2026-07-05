@@ -40,18 +40,18 @@ The law, which takes effect in August, defines prediction markets as systems all
 
 ## Communities Building Climate Solutions on Their Own
 
-While Washington dithers over environmental policy, cities and states are deciding to solve climate problems themselves. NPR is dedicating extensive coverage to how local communities are cutting emissions and adapting to extreme weather despite federal inaction on <a href="https://infeeds.com/tags/?tag=climate-change">climate change</a>.
+While Washington dithers over environmental policy, cities and states are deciding to solve climate problems themselves. NPR is dedicating extensive coverage to how local communities are cutting emissions and adapting to extreme weather despite federal inaction on <a href="https://infeeds.com/tags/climate-change">climate change</a>.
 
 Denver is a perfect example. The city's biggest source of pollution comes from heating and cooling downtown skyscrapers, which rely on a 100-year-old steam system powered by burning natural gas. Instead of just accepting that as inevitable, Denver is building a thermal energy network that will heat and cool 11 city-owned buildings using water, geothermal energy, and yes, even heat recovered from sewage.
 
 Over the next decade, the city plans to create what they're calling an "ambient loop" circulating water through underground pipes. Similar systems already operate on university campuses and in cities worldwide. If it works in Denver, it could become a model for decarbonizing dense urban areas across the country. It's the kind of practical, unglamorous solution that rarely makes headlines but actually moves the needle.
 
-## When <a href="https://infeeds.com/tags/?tag=business">Business</a> Meets Political Favoritism
+## When <a href="https://infeeds.com/tags/business">Business</a> Meets Political Favoritism
 
 Then there's the quartz countertop story, which reads like a textbook case of how political connections can distort markets. Cambria CEO Marty Davis, a Trump donor, has repeatedly lobbied the government to impose tariffs on quartz imports. His $500 million company manufactures the material used for kitchen and bathroom countertops, and tariffs directly hurt his competitors while raising costs for everyone else.
 
 The ripple effects are real. Higher import taxes force rivals to raise prices, which gets passed along to homeowners and small businesses that rely on imported materials. Cambria's competitors argue this is nothing more than political favoritism masquerading as trade policy, harming jobs at small businesses and making home improvements more expensive for middle-class families.
 
-It's a reminder that when politics and <a href="https://infeeds.com/tags/?tag=business">business</a> collide, ordinary people usually end up paying the bill.
+It's a reminder that when politics and <a href="https://infeeds.com/tags/business">business</a> collide, ordinary people usually end up paying the bill.
 
 The question isn't whether any of these stories matter individually. It's whether we're watching a political system and economy that increasingly works for insiders while everyone else adapts, endures, or simply gets left behind.

@@ -8,7 +8,7 @@ tags: [news, business]
 tags_color: '#795548'
 ---
 
-The Middle East just crossed a line, and energy markets are freaking out. Israel struck Iran's South Pars gas field, and Iran didn't hesitate to fire back, targeting Qatar's Ras Laffan Industrial City, home to the world's largest LNG export plant. This isn't posturing anymore. This is actual infrastructure getting hit, and the ripples are already spreading across global [business](https://infeeds.com/tags/?tag=business) and energy markets.
+The Middle East just crossed a line, and energy markets are freaking out. Israel struck Iran's South Pars gas field, and Iran didn't hesitate to fire back, targeting Qatar's Ras Laffan Industrial City, home to the world's largest LNG export plant. This isn't posturing anymore. This is actual infrastructure getting hit, and the ripples are already spreading across global [business](https://infeeds.com/tags/business) and energy markets.
 
 Brent crude surged 5.1% to $112.86 a barrel in early Thursday trading. US West Texas Intermediate jumped 3.8% to $100.02. Natural gas futures? Up 6.3% in the US, with European futures set to open even higher. These aren't minor fluctuations. These are the kind of moves that make economists nervous and everyday people reach for their wallets at the gas pump.
 

@@ -30,7 +30,7 @@ According to Dr. Kai-Keen Shiu, Chief Investigator of the trial and a Consultant
 
 The first author of the study, Yanrong Jiang, reinforced this: when tumor DNA disappeared from the blood, patients were far more likely to remain cancer-free long term. This correlation between what the blood test showed and actual survival outcomes suggests we might finally have a window into which patients truly need intensive follow-up care.
 
-## Why This Matters for [Science](https://infeeds.com/tags/?tag=science) and Medicine
+## Why This Matters for [Science](https://infeeds.com/tags/science) and Medicine
 
 Bowel cancer is the fourth most common cancer in the UK, with about 44,000 new cases annually. Survival odds depend heavily on when it's caught: around 90% of patients with stage one disease survive at least five years, but that plummets to 65% at stage three and just 10% at stage four.
 

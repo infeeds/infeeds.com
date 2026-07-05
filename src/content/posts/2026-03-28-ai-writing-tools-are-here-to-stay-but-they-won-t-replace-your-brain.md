@@ -54,9 +54,9 @@ AI content creation is doing something similar. You can now manage a much larger
 
 Hensley says it best: "Don't use AI as an excuse to get lazy creatively. Let AI do the tedious work for you like cleaning up your notes, formatting ideas into tables, repurposing blogs into tweets. Let your ideas remain original, and use AI to free up more time to keep creating awesomeness."
 
-## What This Means for Your <a href="https://infeeds.com/tags/?tag=business">Business</a>
+## What This Means for Your <a href="https://infeeds.com/tags/business">Business</a>
 
-If you're running a <a href="https://infeeds.com/tags/?tag=business">business</a> with a lean team, AI tools are basically giving you the equivalent of an extra employee who works 24/7 and doesn't need coffee. That's legitimately valuable. But it only works if you're using it to amplify your thinking, not replace it.
+If you're running a <a href="https://infeeds.com/tags/business">business</a> with a lean team, AI tools are basically giving you the equivalent of an extra employee who works 24/7 and doesn't need coffee. That's legitimately valuable. But it only works if you're using it to amplify your thinking, not replace it.
 
 The marketers who are going to win in the next few years aren't the ones who use the most AI. They're the ones who understand what AI is actually good at (speed, consistency, formatting, repurposing) and what it's not good at (original insights, current information, real creativity, strategic thinking). They'll be the ones who use AI to do more with less while keeping the human parts of the job sacred.
 

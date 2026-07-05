@@ -24,7 +24,7 @@ Mark McAfee, Raw Farm's owner, isn't having it. His argument is simple: no patho
 
 Here's the thing though. The FDA and CDC don't typically issue warnings like this without solid evidence. These agencies have spent decades developing protocols for identifying and responding to foodborne illness outbreaks. They're not in the business of manufacturing crises or targeting specific companies for fun. The investigation is ongoing, and officials are still working to gather information from the remaining four cases.
 
-But Raw Farm's resistance raises a uncomfortable question about how much we should expect companies to act on [health](https://infeeds.com/tags/?tag=health) guidance that doesn't come with legal teeth. A voluntary recall means the company can simply say no. And when they do, what happens to the vulnerable populations like infants and young children who are most at risk from E. coli?
+But Raw Farm's resistance raises a uncomfortable question about how much we should expect companies to act on [health](https://infeeds.com/tags/health) guidance that doesn't come with legal teeth. A voluntary recall means the company can simply say no. And when they do, what happens to the vulnerable populations like infants and young children who are most at risk from E. coli?
 
 ## The Raw Milk Question Nobody Wants to Answer
 

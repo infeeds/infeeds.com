@@ -26,7 +26,7 @@ So we have a patchwork of conclusions: one justified shot and two unjustified on
 
 This is where the ruling becomes harder to untangle from the larger question of accountability. A jury finding that the city isn't liable doesn't necessarily mean the officer acted correctly. It means the plaintiffs couldn't convince nine jurors out of twelve that the city should be held financially responsible for the death of their daughter.
 
-[Law and justice](https://infeeds.com/tags/?tag=news) cases involving police shootings often hinge on whether an officer's actions were "objectively reasonable" rather than whether they were right or wise. The legal standard protects officers who make split-second decisions under pressure, even when those decisions result in tragedy. The jury, it seems, applied that framework here.
+[Law and justice](https://infeeds.com/tags/news) cases involving police shootings often hinge on whether an officer's actions were "objectively reasonable" rather than whether they were right or wise. The legal standard protects officers who make split-second decisions under pressure, even when those decisions result in tragedy. The jury, it seems, applied that framework here.
 
 The family's attorney, Nick Rowley, called the verdict "the most devastating loss of my career" and expressed confusion about the decision. Los Angeles City Attorney Hydee Feldstein Soto acknowledged the family's grief but stood by the outcome, noting that the officer would "carry the burden of Valentina's death with him for many years."
 

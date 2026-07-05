@@ -26,11 +26,11 @@ But HMD's real move here isn't the smartphone. The company held just 4% of India
 
 India still uses a staggering number of feature phones. They're affordable, the battery lasts forever, and for millions of people, they're not a downgrade but a practical choice. If HMD can pack Indus into that segment, they're not just selling a phone. They're creating a distribution channel for an AI tool that actually speaks their users' languages.
 
-Sarvam itself has been building quiet momentum. The startup is reportedly working on a funding round at a $1.5 billion valuation and has focused heavily on enterprise partnerships, especially voice-based solutions. The [Technology](https://infeeds.com/tags/?tag=technology) here is legit. The model powering Indus has 105 billion parameters, which puts it in the range of serious AI infrastructure.
+Sarvam itself has been building quiet momentum. The startup is reportedly working on a funding round at a $1.5 billion valuation and has focused heavily on enterprise partnerships, especially voice-based solutions. The [Technology](https://infeeds.com/tags/technology) here is legit. The model powering Indus has 105 billion parameters, which puts it in the range of serious AI infrastructure.
 
 The partnership is a direct answer to a real problem: English-language AI tools have limited reach in a market as large and linguistically diverse as India. You can have the smartest chatbot in the world, but if it doesn't understand your language or the way you actually speak, it's useless.
 
-## The [Business](https://infeeds.com/tags/?tag=business) Case Is Speculative But Interesting
+## The [Business](https://infeeds.com/tags/business) Case Is Speculative But Interesting
 
 Will this actually work? Nobody knows yet, and that's what makes it worth watching. The numbers are discouraging on their face. Indus's download count suggests the hunger for Indian AI isn't as ravenous as the startup ecosystem wants to believe. But distribution through hardware could change that entirely.
 

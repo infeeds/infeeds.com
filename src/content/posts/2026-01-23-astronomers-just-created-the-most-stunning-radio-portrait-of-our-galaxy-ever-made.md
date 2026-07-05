@@ -16,7 +16,7 @@ If you think you've seen the Milky Way, think again. Astronomers just unveiled w
 
 Silvia Mantovanini, a PhD student at ICRAR's Curtin University node, basically spent a year and a half of her life staring at radio data. The result? An absolutely massive low-frequency radio color image that makes previous attempts look like rough sketches. We're talking about twice the resolution, ten times the sensitivity, and coverage of twice as much sky compared to what we had before.
 
-The numbers behind this project are pretty wild. Mantovanini needed roughly 1 million CPU hours on supercomputers at the Pawsey Supercomputing Research Centre just to process everything. That's the kind of computing power that makes you appreciate how far [technology](https://infeeds.com/tags/?tag=technology) has come in helping us understand the cosmos.
+The numbers behind this project are pretty wild. Mantovanini needed roughly 1 million CPU hours on supercomputers at the Pawsey Supercomputing Research Centre just to process everything. That's the kind of computing power that makes you appreciate how far [technology](https://infeeds.com/tags/technology) has come in helping us understand the cosmos.
 
 ## What Makes This Image Actually Special
 
@@ -30,7 +30,7 @@ The telescope itself is located at a place with the wonderfully poetic name Inya
 
 Mantovanini describes what she's seeing in terms that almost sound simple. The large red circles? Those are supernova remnants, the expanding shells of gas and energy left behind when massive stars exploded. The smaller blue regions show stellar nurseries where new stars are actively forming right now. It's like being able to see both the cradles and the graves of stars in a single image.
 
-This matters more than you might think for [science](https://infeeds.com/tags/?tag=science) as a whole. Astronomers believe there are thousands of supernova remnants in our galaxy that we just haven't found yet. We've identified hundreds, but the math suggests we're missing most of them. An image like this makes it way easier to separate the glowing gas around baby stars from the debris fields of dead ones.
+This matters more than you might think for [science](https://infeeds.com/tags/science) as a whole. Astronomers believe there are thousands of supernova remnants in our galaxy that we just haven't found yet. We've identified hundreds, but the math suggests we're missing most of them. An image like this makes it way easier to separate the glowing gas around baby stars from the debris fields of dead ones.
 
 Associate Professor Natasha Hurley-Walker, who leads the GLEAM-X survey, points out something interesting. No one has ever published a low-frequency radio image of the entire Southern Galactic Plane before. This is literally the first time we're seeing this view of our galaxy. That's pretty remarkable for 2026, when you think about it.
 
@@ -42,4 +42,4 @@ Pulsars especially benefit from this kind of multi-frequency observation. These 
 
 The only thing that's going to beat this image is the SKA-Low telescope, part of the massive Square Kilometre Array Observatory project that's being built on the same Wajarri Yamaji Country. That won't be finished for another decade or so, which means Mantovanini's work is going to be the gold standard for low-frequency radio imaging of the Milky Way for years to come.
 
-Sometimes [research](https://infeeds.com/tags/?tag=research) projects come along that completely shift how we understand something fundamental, and you can tell this is one of those moments just by looking at what it took to create it: 18 months of work, a million CPU hours, hundreds of nights of telescope observations, and one very dedicated PhD student who probably dreamed in radio frequencies by the end. The Milky Way has been photographed countless times, but we've never quite seen it look like this before.
+Sometimes [research](https://infeeds.com/tags/research) projects come along that completely shift how we understand something fundamental, and you can tell this is one of those moments just by looking at what it took to create it: 18 months of work, a million CPU hours, hundreds of nights of telescope observations, and one very dedicated PhD student who probably dreamed in radio frequencies by the end. The Milky Way has been photographed countless times, but we've never quite seen it look like this before.

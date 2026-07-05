@@ -10,7 +10,7 @@ tags: [technology, business, scandal]
 tags_color: '#ff6b35'
 ---
 
-When you see Elon Musk and Bill Gates mentioned in the same sentence, it's usually about electric cars, vaccines, or billionaire Twitter feuds. Now both names appear prominently in the latest Epstein document release, and the [technology](https://infeeds.com/tags/?tag=technology) world is scrambling to figure out what it all means.
+When you see Elon Musk and Bill Gates mentioned in the same sentence, it's usually about electric cars, vaccines, or billionaire Twitter feuds. Now both names appear prominently in the latest Epstein document release, and the [technology](https://infeeds.com/tags/technology) world is scrambling to figure out what it all means.
 
 CNN reported on the many famous names scattered throughout these files. Musk, Gates, Richard Branson, and Commerce Secretary Howard Lutnick all show up in emails and correspondence with Epstein. But here's what makes this complicated: context is everything, and the bizarre way these documents have been redacted makes getting that context nearly impossible.
 
@@ -18,7 +18,7 @@ CNN reported on the many famous names scattered throughout these files. Musk, Ga
 
 Bill Gates' connection to Epstein isn't new information. His meetings with the convicted sex offender have been reported before and contributed to tension in his marriage to Melinda French Gates. What these new files add is more detail about the frequency and nature of those interactions.
 
-CBS News broke down what the documents specifically show about both Gates and Musk. Gates met with Epstein multiple times, discussed philanthropy and [business](https://infeeds.com/tags/?tag=business) ventures, and maintained contact even after Epstein's 2008 conviction. Gates has previously expressed regret about these meetings, calling them a "huge mistake in judgment."
+CBS News broke down what the documents specifically show about both Gates and Musk. Gates met with Epstein multiple times, discussed philanthropy and [business](https://infeeds.com/tags/business) ventures, and maintained contact even after Epstein's 2008 conviction. Gates has previously expressed regret about these meetings, calling them a "huge mistake in judgment."
 
 The problem is that regret doesn't answer all the questions. Why did Gates continue associating with Epstein after his conviction? What did they actually discuss? Were there financial arrangements beyond what's been disclosed? The documents provide some information but leave massive gaps that fuel speculation.
 
@@ -40,7 +40,7 @@ The Justice Department admitted they screwed up at least once, releasing files t
 
 ## Why Tech Leaders Keep Appearing
 
-Here's what people often miss about Epstein. He wasn't just a wealthy predator. He positioned himself as a connector and facilitator for the ultra-rich. He claimed to be interested in science and [technology](https://infeeds.com/tags/?tag=technology). He donated to research institutions. He hosted dinners where brilliant minds could network.
+Here's what people often miss about Epstein. He wasn't just a wealthy predator. He positioned himself as a connector and facilitator for the ultra-rich. He claimed to be interested in science and [technology](https://infeeds.com/tags/technology). He donated to research institutions. He hosted dinners where brilliant minds could network.
 
 For tech billionaires and business leaders, those connections were valuable. Silicon Valley runs on networks and introductions. If someone is hosting dinners with Nobel Prize winners and offering to connect you with potential investors or collaborators, it's easy to see why people took the meetings.
 

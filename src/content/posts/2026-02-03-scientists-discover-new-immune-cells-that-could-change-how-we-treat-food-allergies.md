@@ -26,7 +26,7 @@ What's really fascinating is that these TLP progenitors share a developmental br
 
 The study found that TLPs are abundant in fetal liver, but here's the twist: unlike their cousins the lymphoid tissue inducer cells, Thetis cells don't actually show up until after birth. This points to something in the postnatal environment that flips the developmental switch.
 
-And the researchers found one of those environmental cues. RANKL, a signaling molecule provided by lymphoid tissue organizer cells, turns out to be essential for the differentiation of a specific Thetis cell subset called TC I. Without RANKL, these cells just don't develop properly. It's a reminder that [science](https://infeeds.com/tags/?tag=science) often reveals how interconnected biological systems really are.
+And the researchers found one of those environmental cues. RANKL, a signaling molecule provided by lymphoid tissue organizer cells, turns out to be essential for the differentiation of a specific Thetis cell subset called TC I. Without RANKL, these cells just don't develop properly. It's a reminder that [science](https://infeeds.com/tags/science) often reveals how interconnected biological systems really are.
 
 This developmental timing creates what the researchers call a "critical window of opportunity" during early life for establishing intestinal tolerance. Miss that window, and you might end up with a lifetime of food sensitivities or worse.
 
@@ -36,7 +36,7 @@ Food allergies have been skyrocketing in developed countries over the past few d
 
 The same principle applies to autoimmune diseases, where the immune system mistakenly attacks the body's own tissues. Thetis cells, particularly the tolerogenic TC IV subset mentioned in the study, actively instruct the immune system to stand down against harmless antigens. Being able to manipulate or expand these cells could offer new treatment approaches.
 
-Of course, we're still years away from seeing this translate into actual therapies. The jump from understanding cellular development in mice to creating safe, effective treatments in humans is enormous. But every major medical breakthrough starts with basic [research](https://infeeds.com/tags/?tag=science) like this.
+Of course, we're still years away from seeing this translate into actual therapies. The jump from understanding cellular development in mice to creating safe, effective treatments in humans is enormous. But every major medical breakthrough starts with basic [research](https://infeeds.com/tags/science) like this.
 
 ## The Bigger Picture
 

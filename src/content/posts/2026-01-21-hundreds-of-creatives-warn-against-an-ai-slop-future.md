@@ -32,7 +32,7 @@ But here's the messy part. Some of those same organizations are already cutting 
 
 ## Follow the Money and the Power
 
-President Trump and his [Technology](https://infeeds.com/tags/?tag=technology) industry buddies are trying to control how states regulate AI. That's code for "don't let California or New York set rules that might slow us down." The federal government wants centralized control, which conveniently helps the biggest tech companies steamroll local opposition.
+President Trump and his [Technology](https://infeeds.com/tags/technology) industry buddies are trying to control how states regulate AI. That's code for "don't let California or New York set rules that might slow us down." The federal government wants centralized control, which conveniently helps the biggest tech companies steamroll local opposition.
 
 Scarlett Johansson signed this campaign. She's also the actor who accused OpenAI of cloning her voice for ChatGPT after she said no. Billy Corgan is on there. R.E.M. The Roots. Jodi Picoult. These aren't fringe voices worried about irrelevance. They're established creatives watching their life's work become training data.
 

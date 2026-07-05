@@ -36,7 +36,7 @@ That's a reasonable stance. Better to have a parent talk to their kid unnecessar
 
 ## What Happens Next
 
-The real test isn't whether [technology](https://infeeds.com/tags/?tag=technology) companies can build these features. It's whether they can build them in ways that actually reduce harm instead of just creating the appearance of trying. Instagram's move toward AI-based alerts for conversations suggests the company is thinking about this problem more comprehensively, at least.
+The real test isn't whether [technology](https://infeeds.com/tags/technology) companies can build these features. It's whether they can build them in ways that actually reduce harm instead of just creating the appearance of trying. Instagram's move toward AI-based alerts for conversations suggests the company is thinking about this problem more comprehensively, at least.
 
 But there's still an uncomfortable question underneath all this: Why does it take lawsuits and regulatory pressure to get social media companies to prioritize teen mental health features? These tools aren't revolutionary. They're relatively straightforward implementations of pattern detection and notification systems.
 

@@ -8,7 +8,7 @@ tags: [news, business]
 tags_color: '#2b2b2b'
 ---
 
-Mention the word "sacrifice" around an entrepreneur, and they'll light up. You'll hear the story. The long hours, the uncertainty, the pressure. Most <a href="https://infeeds.com/tags/?tag=business">business</a> owners accept these trade-offs without hesitation, wearing them like badges.
+Mention the word "sacrifice" around an entrepreneur, and they'll light up. You'll hear the story. The long hours, the uncertainty, the pressure. Most <a href="https://infeeds.com/tags/business">business</a> owners accept these trade-offs without hesitation, wearing them like badges.
 
 But here's what nobody talks about.
 

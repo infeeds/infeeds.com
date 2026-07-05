@@ -28,7 +28,7 @@ The Ukrainian president's argument cuts straight to the heart of the matter. If 
 
 "We either sell Russian oil or we don't," Zelensky said bluntly. "How is this different from lifting sanctions on the Russians?"
 
-He's got a point. The geopolitical <a href="https://infeeds.com/tags/?tag=politics">politics</a> here are a tangled mess. The US just loosened sanctions on Russian oil to ease energy shortages sparked by the Middle East conflict. Europe's not thrilled about that either, but Washington did it anyway. Now they're leaning on Ukraine to bend further.
+He's got a point. The geopolitical <a href="https://infeeds.com/tags/politics">politics</a> here are a tangled mess. The US just loosened sanctions on Russian oil to ease energy shortages sparked by the Middle East conflict. Europe's not thrilled about that either, but Washington did it anyway. Now they're leaning on Ukraine to bend further.
 
 What makes this particularly rich is that Zelensky explicitly said he's not blocking anything. He's being transparent about his opposition. But if the price of Ukraine's survival funding is allowing Russian oil to flow through his country, what choice does he really have?
 

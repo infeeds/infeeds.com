@@ -24,7 +24,7 @@ The musician has collaborated with major fashion brands before. Most recently, Z
 
 So what does this mean? The internet has theories. Some fans believe Bad Bunny could be retiring his stage name entirely and pivoting to performing under Benito Antonio. Others think it signals a new musical era, similar to how artists rebrand themselves for creative shifts. Both are plausible.
 
-But the trademark details suggest something different. This looks less like a career pivot and more like a deliberate move into [Business](https://infeeds.com/tags/?tag=business) ownership. A fashion line bearing his birth name would align perfectly with Bad Bunny's established pattern: honoring his Puerto Rican roots while expanding his empire beyond music.
+But the trademark details suggest something different. This looks less like a career pivot and more like a deliberate move into [Business](https://infeeds.com/tags/business) ownership. A fashion line bearing his birth name would align perfectly with Bad Bunny's established pattern: honoring his Puerto Rican roots while expanding his empire beyond music.
 
 The artist hasn't confirmed anything. His representatives didn't respond to Rolling Stone's request for comment. That silence could mean everything or nothing at all. What we know is that Bad Bunny rarely does things without intention. Every logo, every fabric choice, every public moment carries weight.
 

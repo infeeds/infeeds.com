@@ -30,6 +30,6 @@ That's not necessarily a failure on their part. It's just different. Bloom spent
 
 The Berkshire shareholder meeting is special precisely because of its density. Bloom noted that in the Hilton Omaha lobby, there were likely people managing tens, if not hundreds, of billions of dollars under one roof, all compressed into a short window. "That's hard to replace," he said.
 
-But is the magic tied to Buffett specifically, or to the structure he built? That's the [business](https://infeeds.com/tags/?tag=business) world's most pressing inheritance question right now.
+But is the magic tied to Buffett specifically, or to the structure he built? That's the [business](https://infeeds.com/tags/business) world's most pressing inheritance question right now.
 
 Whether Abel can maintain the theater while bringing his own authenticity to the role will determine if Berkshire's media mastery survives the post-Buffett era, or if it becomes just another shareholder meeting.

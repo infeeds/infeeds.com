@@ -16,7 +16,7 @@ But here's what's gnawing at me about this entire situation: Will this book actu
 
 ## The Cautionary Tale That Becomes a Recruitment Video
 
-The parallel that won't leave my mind is "The Social Network." Aaron Sorkin made a film that functioned as an indictment of the particular sociopathy that the [technology](https://infeeds.com/tags/?tag=technology) industry tends to reward. What it seemingly did was make an entire generation of young people want to be Mark Zuckerberg. The cautionary tale became a recruitment video. The story of the guy who steamrolled his best friend on his way to billions didn't discourage ambition; it glamorized it further.
+The parallel that won't leave my mind is "The Social Network." Aaron Sorkin made a film that functioned as an indictment of the particular sociopathy that the [technology](https://infeeds.com/tags/technology) industry tends to reward. What it seemingly did was make an entire generation of young people want to be Mark Zuckerberg. The cautionary tale became a recruitment video. The story of the guy who steamrolled his best friend on his way to billions didn't discourage ambition; it glamorized it further.
 
 The same thing could easily happen here. Baker's portrait is granular and deeply reported, based on conversations with hundreds of people. He describes pressure that has been fully internalized. There was a time, maybe 10 or 15 years ago, when Stanford students felt the weight of Silicon Valley expectation pressing down from outside. Now many of them arrive on campus already expecting, as a matter of course, to launch a startup, to raise money, to become rich.
 
@@ -38,7 +38,7 @@ The performance of ambition and the thing itself are increasingly hard to tell a
 
 ## The Irony of Critical Success
 
-Here's where it gets genuinely uncomfortable. "How to Rule the World" sounds like exactly the right [book](https://infeeds.com/tags/?tag=business) for this moment. But there's a particular irony in the strong likelihood that this critically minded examination of Stanford's relationship to power and money will be celebrated by the same class of people it critiques. If it does well (it's already been optioned for a movie), it'll probably be used as further evidence that Stanford produces not just founders and fraudsters but important writers and journalists too.
+Here's where it gets genuinely uncomfortable. "How to Rule the World" sounds like exactly the right [book](https://infeeds.com/tags/business) for this moment. But there's a particular irony in the strong likelihood that this critically minded examination of Stanford's relationship to power and money will be celebrated by the same class of people it critiques. If it does well (it's already been optioned for a movie), it'll probably be used as further evidence that Stanford produces not just founders and fraudsters but important writers and journalists too.
 
 The book becomes part of the machine it's trying to critique. Another feather in Stanford's cap. Another reason for ambitious teenagers to apply.
 

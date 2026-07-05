@@ -12,7 +12,7 @@ tags_color: '#ff5722'
 
 Apple just announced its new MacBook Neo at $599, and yeah, it looks genuinely impressive on paper. The specs are solid, the design is sleek, and you can feel Apple's confidence in the pricing. But here's the thing nobody wants to talk about yet: Windows laptops have quietly become serious contenders in the budget space, and some of them are offering way more for your money.
 
-I haven't gotten my hands on the Neo yet, so I can't speak to real-world performance or how that A18 Pro chip actually performs. But I've been testing budget [technology](https://infeeds.com/tags/?tag=technology) for years, and I know when value is being left on the table.
+I haven't gotten my hands on the Neo yet, so I can't speak to real-world performance or how that A18 Pro chip actually performs. But I've been testing budget [technology](https://infeeds.com/tags/technology) for years, and I know when value is being left on the table.
 
 ## The Asus Vivobook 14 Makes a Strong Case
 

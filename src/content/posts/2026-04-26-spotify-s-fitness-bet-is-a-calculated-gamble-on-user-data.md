@@ -22,7 +22,7 @@ Other creators benefit through Spotify's existing monetization tools, like the S
 
 ## The Cluttered App Problem
 
-Here's where things get thorny. Spotify has spent the last few years transforming from a music player into a [technology](https://infeeds.com/tags/?tag=technology) platform that touches podcasts, audiobooks, video, and physical books. Not everyone is thrilled about it.
+Here's where things get thorny. Spotify has spent the last few years transforming from a music player into a [technology](https://infeeds.com/tags/technology) platform that touches podcasts, audiobooks, video, and physical books. Not everyone is thrilled about it.
 
 Some users already feel the app is bloated. Each new feature means more navigation, more decisions, more cognitive load. Spotify even introduced a toggle to turn off videos across the app, which is basically an admission that they know some people want the old, simple experience back.
 

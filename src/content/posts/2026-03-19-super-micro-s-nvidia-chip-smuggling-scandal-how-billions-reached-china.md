@@ -24,7 +24,7 @@ Chang apparently had a particular talent for keeping auditors away from the part
 
 ## Why This Matters Beyond the Headlines
 
-Here's where this gets genuinely concerning for <a href="https://infeeds.com/tags/?tag=business">business</a> and national security. Nvidia's graphics processing units are essentially the fuel for modern artificial intelligence. Companies like Anthropic and OpenAI have been dealing with fierce competition from Chinese rivals like DeepSeek. Getting access to cutting-edge Nvidia chips, especially the newer B200 models with Blackwell architecture, could significantly accelerate China's AI capabilities.
+Here's where this gets genuinely concerning for <a href="https://infeeds.com/tags/business">business</a> and national security. Nvidia's graphics processing units are essentially the fuel for modern artificial intelligence. Companies like Anthropic and OpenAI have been dealing with fierce competition from Chinese rivals like DeepSeek. Getting access to cutting-edge Nvidia chips, especially the newer B200 models with Blackwell architecture, could significantly accelerate China's AI capabilities.
 
 The Trump administration has been trying to control the flow of these processors to China. Initially, Trump wanted an outright ban. Then in December, he apparently told Xi Jinping that the U.S. would allow some H200 shipments "under conditions that allow for continued strong National Security." This week, Nvidia CEO Jensen Huang announced they're ramping up manufacturing to fulfill H200 orders from China. So there's official channels opening up, but also these alleged illegal diversions happening simultaneously.
 

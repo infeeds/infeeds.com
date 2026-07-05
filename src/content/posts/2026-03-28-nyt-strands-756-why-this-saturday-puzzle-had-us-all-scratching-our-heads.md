@@ -20,7 +20,7 @@ The non-spangram answers varied in difficulty, and that's where things got trick
 
 ## Why We Keep Coming Back
 
-There's something weirdly satisfying about the Strands format. Unlike traditional crosswords where you're solving clues, Strands asks you to find hidden words that fit a theme. It's puzzle-solving with a twist, and it's why the New York Times added it to their [technology](https://infeeds.com/tags/?tag=technology)-driven puzzle ecosystem alongside Wordle, Connections, and the Mini Crossword.
+There's something weirdly satisfying about the Strands format. Unlike traditional crosswords where you're solving clues, Strands asks you to find hidden words that fit a theme. It's puzzle-solving with a twist, and it's why the New York Times added it to their [technology](https://infeeds.com/tags/technology)-driven puzzle ecosystem alongside Wordle, Connections, and the Mini Crossword.
 
 The beauty of these daily puzzles is that they're accessible enough for casual players but punishing enough for people who take them seriously. You can stumble through with random guesses, or you can approach it methodically. Both strategies work, but one feels a lot better when you finally nail it.
 

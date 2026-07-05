@@ -12,7 +12,7 @@ Instagram still has 3 billion monthly active users. That's massive. But here's t
 
 Exit rates are creeping up. Users are spending less time on certain content. The growth trajectory that made Instagram such a hot marketing opportunity five years ago? It's slowed considerably.
 
-So what does this mean for your <a href="https://infeeds.com/tags/?tag=business">business</a> strategy? Everything, actually.
+So what does this mean for your <a href="https://infeeds.com/tags/business">business</a> strategy? Everything, actually.
 
 ## The Demographics Game Has Shifted
 

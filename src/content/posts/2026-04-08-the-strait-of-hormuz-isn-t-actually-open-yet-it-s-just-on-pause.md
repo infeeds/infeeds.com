@@ -32,7 +32,7 @@ The ships that are transiting aren't your typical global operators. Smaller, ris
 
 War-risk insurance remains the invisible wall. Without proper coverage, mainstream operators won't touch the route, no matter how lucrative a cargo might be. Around 3,200 vessels carrying roughly 20,000 seafarers are still bottlenecked west of Hormuz, waiting for conditions that feel safe enough to proceed.
 
-Even in a best-case scenario, Windward estimates it could take weeks to move stranded cargoes and months for global <a href="https://infeeds.com/tags/?tag=business">business</a> to return to pre-crisis levels.
+Even in a best-case scenario, Windward estimates it could take weeks to move stranded cargoes and months for global <a href="https://infeeds.com/tags/business">business</a> to return to pre-crisis levels.
 
 ## The Oil Price Question
 

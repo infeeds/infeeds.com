@@ -20,7 +20,7 @@ Then another theory emerged, unpublished but widely discussed, proposing Mediter
 
 ## How Better Technology Changed Everything
 
-Fast forward to 2024, and the tools available to [scientists](https://infeeds.com/tags/?tag=science) working with ancient DNA have gotten dramatically better. Dr. William Marsh and his team decided to take another crack at the Beachy Head Woman using state-of-the-art sequencing techniques. What they found was completely different from what everyone expected.
+Fast forward to 2024, and the tools available to [scientists](https://infeeds.com/tags/science) working with ancient DNA have gotten dramatically better. Dr. William Marsh and his team decided to take another crack at the Beachy Head Woman using state-of-the-art sequencing techniques. What they found was completely different from what everyone expected.
 
 She was British. Or more precisely, her DNA matched other people living in rural Roman-era Britain. No recent African ancestry. No Mediterranean connections. Just a young woman who lived and died in southern England sometime between 129 and 311 AD.
 
@@ -28,7 +28,7 @@ The new analysis revealed she probably had light skin, blue eyes, and fair hair.
 
 ## Why This Keeps Happening in Archaeology
 
-Dr. Selina Brace, who worked on the study, put it well when she talked about how scientific understanding constantly evolves. It's not that the earlier researchers were bad at their jobs. They were working with limited, poorly preserved DNA and doing the best they could with the [technology](https://infeeds.com/tags/?tag=technology) available at the time.
+Dr. Selina Brace, who worked on the study, put it well when she talked about how scientific understanding constantly evolves. It's not that the earlier researchers were bad at their jobs. They were working with limited, poorly preserved DNA and doing the best they could with the [technology](https://infeeds.com/tags/technology) available at the time.
 
 Ancient DNA is tricky stuff. It degrades over thousands of years, breaks into tiny fragments, and gets contaminated by bacteria and environmental DNA. When you're trying to piece together someone's ancestry from genetic scraps, you're basically solving a puzzle where most of the pieces are missing and some don't even belong to the original picture.
 

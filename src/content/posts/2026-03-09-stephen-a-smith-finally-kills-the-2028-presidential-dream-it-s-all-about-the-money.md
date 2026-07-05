@@ -30,7 +30,7 @@ This flip is worth examining because Smith wasn't always so dismissive. Back in 
 
 The whole thing had the makings of a legitimate story. A media personality with massive reach, name recognition, and apparently some genuine interest from political figures? That's the kind of thing that could theoretically turn into something.
 
-But that was before the ESPN money got even more ridiculous. Before the Sirius XM deal materialized. Before [news](https://infeeds.com/tags/?tag=news) cycles moved on and the whole thing seemed less like a real possibility and more like an interesting hypothetical.
+But that was before the ESPN money got even more ridiculous. Before the Sirius XM deal materialized. Before [news](https://infeeds.com/tags/news) cycles moved on and the whole thing seemed less like a real possibility and more like an interesting hypothetical.
 
 ## The Uncomfortable Truth Everyone's Thinking
 

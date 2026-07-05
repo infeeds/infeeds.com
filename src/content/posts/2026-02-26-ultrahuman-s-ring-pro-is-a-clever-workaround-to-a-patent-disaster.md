@@ -20,7 +20,7 @@ But instead of retreating, Ultrahuman went back to the drawing board and designe
 
 Here's what's wild about this situation. Ultrahuman isn't taking the loss quietly. They filed their own patent infringement case against Oura in the Delhi High Court in August 2025, and that case is still pending. Meanwhile, they're developing a workaround product with a completely redesigned heart-rate sensing architecture specifically to sidestep Oura's patents.
 
-This is how <a href="https://infeeds.com/tags/?tag=tech">technology</a> disputes play out in 2026. It's not a knockout punch anymore. It's a chess match across multiple jurisdictions with new designs as countermoves.
+This is how <a href="https://infeeds.com/tags/tech">technology</a> disputes play out in 2026. It's not a knockout punch anymore. It's a chess match across multiple jurisdictions with new designs as countermoves.
 
 The Ring Pro has already been submitted to U.S. Customs and Border Protection for clearance. There's no guarantee it'll be approved, but the fact that Ultrahuman went through the engineering effort to create a legally distinct device shows they're serious about returning to America.
 
@@ -30,7 +30,7 @@ Despite losing access to nearly half their user base, Ultrahuman is operating at
 
 Margins are going to take a hit though. Litigation costs, tariffs, and the entire redesign effort have real expenses. But the startup isn't bleeding out. They're adapting.
 
-The company also introduced Jade, a real-time "biointelligence" system that analyzes health data and generates personalized insights. It's available to all users, including those stuck with the older Ring Air, and doesn't require a subscription. This is smart <a href="https://infeeds.com/tags/?tag=business">business</a> thinking. You can't charge for everything when you're fighting for relevance.
+The company also introduced Jade, a real-time "biointelligence" system that analyzes health data and generates personalized insights. It's available to all users, including those stuck with the older Ring Air, and doesn't require a subscription. This is smart <a href="https://infeeds.com/tags/business">business</a> thinking. You can't charge for everything when you're fighting for relevance.
 
 ## Women Are Driving Adoption
 

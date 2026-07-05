@@ -60,7 +60,7 @@ This is the difference between being the smartest person in the room and buildin
 
 ## Leadership in an AI Era
 
-As [Technology](https://infeeds.com/tags/?tag=technology) solves technical problems faster than humans ever could, the fixer trap is evolving. The temptation now is over-relying on tools or hoarding access to insights. AI can solve optimization problems, flag anomalies, and crunch data in seconds. What it can't do is develop judgment, intuition, or trust. It can't sense when someone needs encouragement instead of instruction.
+As [Technology](https://infeeds.com/tags/technology) solves technical problems faster than humans ever could, the fixer trap is evolving. The temptation now is over-relying on tools or hoarding access to insights. AI can solve optimization problems, flag anomalies, and crunch data in seconds. What it can't do is develop judgment, intuition, or trust. It can't sense when someone needs encouragement instead of instruction.
 
 Human leadership still matters. In fact, it matters more.
 
@@ -68,4 +68,4 @@ Human leadership still matters. In fact, it matters more.
 
 True leadership isn't about being the fastest problem solver in the room. It's not about being indispensable or being the person everyone turns to when things break. It's about creating an environment where others learn to think, decide, and lead without needing you to be present.
 
-That's how [business](https://infeeds.com/tags/?tag=business) scales. That's how leaders stop being bottlenecks and start building something that lasts. The question isn't whether you can solve the next problem. It's whether your organization could solve it without you.
+That's how [business](https://infeeds.com/tags/business) scales. That's how leaders stop being bottlenecks and start building something that lasts. The question isn't whether you can solve the next problem. It's whether your organization could solve it without you.

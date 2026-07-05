@@ -26,6 +26,6 @@ There's something almost romantic about a village built on water, and tourism ma
 
 The Bajau's origin story itself hints at this resilience. According to legend, a sultan's princess was kidnapped, and his strongest men wandered the seas searching for her, never daring to return empty-handed. Over time, they became something new. Whether that tale is literally true doesn't matter much. What matters is that a people historically defined by movement and adaptation found a way to put down roots without abandoning either their identity or the sea.
 
-The [news](https://infeeds.com/tags/?tag=news) from Torosiaje isn't that conservation works in the abstract. It's that conservation works when it's tied to survival, when it belongs to a community rather than being imposed from outside, and when tradition meets necessity.
+The [news](https://infeeds.com/tags/news) from Torosiaje isn't that conservation works in the abstract. It's that conservation works when it's tied to survival, when it belongs to a community rather than being imposed from outside, and when tradition meets necessity.
 
 Today, Torosiaje's mangroves are thriving. The fish are returning. Children cross bridges between colorful stilted houses on their way to school, walking above a sea that's being slowly, deliberately brought back to life. Which raises an uncomfortable question for the rest of us: if a small village can figure this out, what's our excuse?

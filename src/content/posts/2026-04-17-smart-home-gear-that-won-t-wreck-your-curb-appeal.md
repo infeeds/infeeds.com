@@ -10,7 +10,7 @@ tags_color: '#ff5722'
 
 Spring's here, the days are getting longer, and suddenly everyone wants to spend their evenings on the porch instead of indoors. Which is great until you realize you need to walk back inside every time the sun gets low, or worse, you forget your keys and can't get back in the house at all.
 
-This is when the pull of smart home <a href="https://infeeds.com/tags/?tag=technology">technology</a> starts to feel real. A smart lock means no more fumbling for keys. Automated lights mean you don't have to think about turning things on and off. A smart garage means your hands stay free when you're carrying groceries. The conveniences add up fast.
+This is when the pull of smart home <a href="https://infeeds.com/tags/technology">technology</a> starts to feel real. A smart lock means no more fumbling for keys. Automated lights mean you don't have to think about turning things on and off. A smart garage means your hands stay free when you're carrying groceries. The conveniences add up fast.
 
 But here's the catch: most smart home devices look like they were designed by someone who'd never actually seen a home before. Bulky, obviously electronic, the kind of thing that makes your carefully maintained front entrance look like a tech demo rather than a place where actual humans live.
 

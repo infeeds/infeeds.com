@@ -26,7 +26,7 @@ The real revolution, though, came from preventing injuries before they happen. U
 
 German company Altendorf took a different approach with Hand Guard technology, deployed since 2022. Cameras and AI watch for hands approaching the blade and trigger a stop automatically. Both systems are still collecting data to reduce false alarms, which cause unnecessary downtime.
 
-## Where <a href="https://infeeds.com/tags/?tag=technology">Technology</a> Meets Craft
+## Where <a href="https://infeeds.com/tags/technology">Technology</a> Meets Craft
 
 Here's where it gets interesting. Alex Marsh, director of operations at Pow, a nonprofit workshop in West London, suggests that a 19th-century woodworker transported to a modern shop would recognize most of the principles. The machines work roughly the same way they always have.
 
@@ -34,7 +34,7 @@ But laser cutters? CNC routers? 3D printers for custom tools? Those would blow t
 
 What's accelerated adoption isn't just the existence of these tools – it's that software has become far easier to use. Automatic tool changing, intuitive design interfaces, simplified workflows: these features have broadened access significantly. Shaper, a US company, even built a handheld CNC router with digital scanning and design tools baked in, bringing computerized precision out of the factory and into the workshop.
 
-<a href="https://infeeds.com/tags/?tag=business">Business</a> models are shifting too. UK-based Automated Architecture developed a microfactory inside a shipping container, complete with a robot that can manufacture all the timber panels for a typical home in a single day. Co-founder Mollie Claypool argues this isn't a threat to carpenters – it's automating only the structural components, leaving skilled work intact.
+<a href="https://infeeds.com/tags/business">Business</a> models are shifting too. UK-based Automated Architecture developed a microfactory inside a shipping container, complete with a robot that can manufacture all the timber panels for a typical home in a single day. Co-founder Mollie Claypool argues this isn't a threat to carpenters – it's automating only the structural components, leaving skilled work intact.
 
 The claim deserves skepticism, but the underlying logic is sound: machines excel at repetitive cutting; humans excel at everything else.
 
@@ -50,4 +50,4 @@ That tension – between the efficiency of automation and the irreplaceable know
 
 Some woodworkers don't even want fully connected tools. Saunders prefers analog readouts to digital displays. Not everything needs to talk to everything else. There's wisdom in that resistance, even if it looks quaint against the backdrop of Industry 5.0.
 
-The question isn't whether <a href="https://infeeds.com/tags/?tag=technology">technology</a> will transform woodworking. It already has. The question is whether the craft can absorb these tools without losing what made it worth doing in the first place.
+The question isn't whether <a href="https://infeeds.com/tags/technology">technology</a> will transform woodworking. It already has. The question is whether the craft can absorb these tools without losing what made it worth doing in the first place.

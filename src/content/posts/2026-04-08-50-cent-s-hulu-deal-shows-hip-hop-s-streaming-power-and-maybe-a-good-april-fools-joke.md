@@ -14,7 +14,7 @@ On April 1, the rapper announced the deal on X with a claim that should make any
 
 Except TMZ never reported any such thing. Neither did anyone else. The timing, the lack of corroboration, and Fif's known sense of humor all point to one possibility: April Fools' joke.
 
-Hulu hasn't confirmed the financial details, and based on available reporting, we simply don't know if that $75 million figure has any basis in reality. What we do know is what actually happened on the [entertainment](https://infeeds.com/tags/?tag=entertainment) side.
+Hulu hasn't confirmed the financial details, and based on available reporting, we simply don't know if that $75 million figure has any basis in reality. What we do know is what actually happened on the [entertainment](https://infeeds.com/tags/entertainment) side.
 
 ## The Real Documentary Deal
 

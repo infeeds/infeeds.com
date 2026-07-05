@@ -56,7 +56,7 @@ Some tools strip away everything except what you actually need.
 
 Content Studio keeps it simple. When your team members view the inbox, they can see who else is currently responding to prevent duplicate work. Saved replies and internal notes keep context straight. Like NapoleonCat, you can build individual profiles for people reaching out. It's clean, straightforward, and doesn't try to do everything.
 
-Simplified is built for small <a href="https://infeeds.com/tags/?tag=business">business</a> owners and social managers juggling multiple clients. Their account grouping feature is genius for keeping brands separated so you're not mixing up your brand voice. They have an AI assistant that can summarize conversations or help adjust tone. The catch is no Twitter/X support, so it's stronger for Facebook, Instagram, and LinkedIn-focused brands.
+Simplified is built for small <a href="https://infeeds.com/tags/business">business</a> owners and social managers juggling multiple clients. Their account grouping feature is genius for keeping brands separated so you're not mixing up your brand voice. They have an AI assistant that can summarize conversations or help adjust tone. The catch is no Twitter/X support, so it's stronger for Facebook, Instagram, and LinkedIn-focused brands.
 
 Pallyy mirrors email inbox design, which most people instantly understand. You get folders, labels, bulk actions, and keyboard hotkeys for speed. Their automation is manual rather than AI-powered, meaning you set the rules but they don't learn over time. They offer a free plan, but it doesn't include the social inbox tool, so you'll need a paid plan to get access.
 

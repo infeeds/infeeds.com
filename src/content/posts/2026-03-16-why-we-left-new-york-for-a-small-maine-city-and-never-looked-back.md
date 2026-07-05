@@ -34,7 +34,7 @@ We've seen the way Mainers support each other in real time. When our moms visite
 
 Within minutes, we were free. They waved while we drove off as if it were the most normal thing in the world.
 
-The [business](https://infeeds.com/tags/?tag=business) community shows up for people in larger-scale ways too. When a major fire hit the Old Port this winter, destroying boats and fishing equipment, the owner of a local seafood restaurant started selling t-shirts with proceeds going to the fishermen affected. When ICE enhanced its presence in Maine, businesses put up "No ICE" posters, a hotline was established to provide help, and crowds gathered downtown to protest.
+The [business](https://infeeds.com/tags/business) community shows up for people in larger-scale ways too. When a major fire hit the Old Port this winter, destroying boats and fishing equipment, the owner of a local seafood restaurant started selling t-shirts with proceeds going to the fishermen affected. When ICE enhanced its presence in Maine, businesses put up "No ICE" posters, a hotline was established to provide help, and crowds gathered downtown to protest.
 
 It reaffirmed what I already knew: when people here think their neighbors are at risk, they take action.
 
@@ -42,7 +42,7 @@ It reaffirmed what I already knew: when people here think their neighbors are at
 
 One night, before grabbing cocktails, a group of our friends went to a live storytelling event in a small church. I was surrounded by new and familiar faces. A former theater kid in his 30s told a story about the state spelling bee. An 80-year-old talked about soapbox racing in Camden.
 
-My own creative work is taking shape here too. I'm querying a novel and found a steadier practice and supportive [writing scene](https://infeeds.com/tags/?tag=news) than I had in New York. There's something about a smaller place that makes you feel like your work matters, like someone will actually read it.
+My own creative work is taking shape here too. I'm querying a novel and found a steadier practice and supportive [writing scene](https://infeeds.com/tags/news) than I had in New York. There's something about a smaller place that makes you feel like your work matters, like someone will actually read it.
 
 I'm glad I had the opportunity to live abroad. The experience clarified something important: I didn't need to leave America to find what I was looking for. I just needed to find the right place within it.
 

@@ -20,7 +20,7 @@ Amanda didn't believe it would work at first. Who would? But after a couple of w
 
 Now she can cut material. She can use her sewing machine. She can put on her own socks and tie her shoes. These aren't just tasks. They're pieces of independence that most of us never think about until they're gone.
 
-The Triceps trial is happening at 19 NHS sites across the UK, led by Sheffield Teaching Hospitals. It's a £2 million study aiming to recruit around 270 people. Researchers say it's the largest trial of brain stimulation and stroke ever conducted, which tells you something about how seriously they're taking this [Technology](https://infeeds.com/tags/?tag=technology).
+The Triceps trial is happening at 19 NHS sites across the UK, led by Sheffield Teaching Hospitals. It's a £2 million study aiming to recruit around 270 people. Researchers say it's the largest trial of brain stimulation and stroke ever conducted, which tells you something about how seriously they're taking this [Technology](https://infeeds.com/tags/technology).
 
 ## Why Your Brain Needs a Boost
 
@@ -28,7 +28,7 @@ Dr. Sheharyar Baig, a neurologist working on the trial, explains that stroke rec
 
 Think about that for a second. We're not just doing the same exercises harder or longer. We're trying to hack the brain's ability to learn and adapt.
 
-About 100,000 people in the UK have strokes each year. More than a million people are living with the long-term effects right now. Half of survivors deal with ongoing arm weakness that ranges from losing fine motor control to complete immobility. The impact on [healthcare](https://infeeds.com/tags/?tag=health) systems is massive, but more importantly, the impact on individual lives is crushing.
+About 100,000 people in the UK have strokes each year. More than a million people are living with the long-term effects right now. Half of survivors deal with ongoing arm weakness that ranges from losing fine motor control to complete immobility. The impact on [healthcare](https://infeeds.com/tags/health) systems is massive, but more importantly, the impact on individual lives is crushing.
 
 Earlier versions of vagus nerve stimulation required surgery to implant devices. This version just sits in your ear. The pulses are comfortable and pain-free. You can use it while cooking, getting dressed, or doing whatever exercises your physiotherapist recommends.
 
@@ -40,7 +40,7 @@ One person couldn't carry a cup of tea before. Now they can walk room to room ho
 
 These aren't miracle cures. Dr. Baig is clear about that. But they're the kinds of improvements that matter in daily life. The Stroke Association is part-funding the research and closely monitoring results. They're doing brain imaging and blood tests because they've noticed something interesting: some patients respond brilliantly while others don't.
 
-Understanding why that happens could be as important as the device itself. Personalized medicine isn't just a buzzword when you're talking about brain injuries. The [science](https://infeeds.com/tags/?tag=science) behind who responds to what treatment could reshape how we approach rehabilitation entirely.
+Understanding why that happens could be as important as the device itself. Personalized medicine isn't just a buzzword when you're talking about brain injuries. The [science](https://infeeds.com/tags/science) behind who responds to what treatment could reshape how we approach rehabilitation entirely.
 
 Dr. Baig thinks the tech could be "quite scalable" if it proves effective. It's affordable, convenient, and fits into existing rehab services without requiring massive infrastructure changes. That matters when you're trying to help hundreds of thousands of people.
 

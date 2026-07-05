@@ -20,7 +20,7 @@ I spent a brutal Midwestern winter testing several of these pads on the same kin
 
 The Perfectly Snug Smart Topper sits on top of your mattress, underneath your fitted sheet. It actively warms and cools you through mesh fabric that somehow manages to feel supportive without completely changing your mattress feel. I was skeptical at first because I'm weirdly loyal to how my bed feels, but this pad landed somewhere around medium-firm and didn't ruin the experience.
 
-Setup takes maybe ten minutes. Plug it in, spread it across your mattress, wrestle your fitted sheet over it (the usual battle), and connect it to Wi-Fi through an app that honestly looks like it was designed around 2012. The interface feels dated next to modern [Technology](https://infeeds.com/tags/?tag=technology) apps, but it gets the job done once you figure out where everything is buried.
+Setup takes maybe ten minutes. Plug it in, spread it across your mattress, wrestle your fitted sheet over it (the usual battle), and connect it to Wi-Fi through an app that honestly looks like it was designed around 2012. The interface feels dated next to modern [Technology](https://infeeds.com/tags/technology) apps, but it gets the job done once you figure out where everything is buried.
 
 You program your bedtime schedule and adjust settings like how aggressively you want cooling bursts or whether you want your feet extra warm. The pad starts heating up an hour before your scheduled bedtime, which is genuinely nice when you're exhausted and crawling into an already-warm bed. If you spring for the Dual Zone version, each side operates independently, which saved my marriage because I run hot and my husband basically hibernates.
 
@@ -38,7 +38,7 @@ The tracking lined up closely with my Garmin smartwatch data over two weeks. Bed
 
 Each morning the app shows breathing quality throughout the night, which was more interesting than I expected. I never changed my behavior based on the scores, but patterns emerged that made me think more about late-night coffee or stressful evenings before bed.
 
-This pad scores perfectly on comfort because it genuinely doesn't affect how your bed feels. Zero noise, zero bulk, zero interaction required beyond initial setup. The value is decent for passive sleep insight, especially if you hate wearing [tech](https://infeeds.com/tags/?tag=tech) gadgets to bed. The tracking performs reliably without feeling gimmicky or overpromising what it can actually measure.
+This pad scores perfectly on comfort because it genuinely doesn't affect how your bed feels. Zero noise, zero bulk, zero interaction required beyond initial setup. The value is decent for passive sleep insight, especially if you hate wearing [tech](https://infeeds.com/tags/tech) gadgets to bed. The tracking performs reliably without feeling gimmicky or overpromising what it can actually measure.
 
 ## The Weird Magnetic Field Experiment
 
@@ -48,7 +48,7 @@ I'm naturally skeptical of anything that sounds this experimental, but I tested 
 
 Here's the weird part: it seemed to work, at least for falling asleep faster. I alternated nights using a Vibe with nights I didn't, comparing my sleep data each morning. On nights I used the Hapbee, I fell asleep noticeably faster with almost no wake time before drifting off. Whether that's genuine physiological response, placebo effect, or just coincidence is genuinely hard to say, but the pattern held consistent over two weeks.
 
-The physical presence of the pad is noticeable under your pillow, especially if you sleep with an arm tucked underneath like I do. Hapbee recommends putting it inside your pillowcase, which works but feels a bit bulky. The tech itself is easy to use and did reliably help with falling asleep faster, which counts for something even if the science feels like it belongs in a [sci-fi](https://infeeds.com/tags/?tag=news) novel.
+The physical presence of the pad is noticeable under your pillow, especially if you sleep with an arm tucked underneath like I do. Hapbee recommends putting it inside your pillowcase, which works but feels a bit bulky. The tech itself is easy to use and did reliably help with falling asleep faster, which counts for something even if the science feels like it belongs in a [sci-fi](https://infeeds.com/tags/news) novel.
 
 The value here depends entirely on your tolerance for experimental tech. It's not cheap, and while faster sleep onset is nice, it's harder to justify long-term compared to more proven solutions. The comfort score suffers because you definitely feel it under your pillow. The tech performs adequately for what it promises, but the whole experience leans more toward "interesting experiment" than permanent bedroom fixture.
 

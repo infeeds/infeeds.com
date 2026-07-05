@@ -22,7 +22,7 @@ There's a specific kind of exhaustion that comes from trying to eat well in a wo
 
 The wellness industry has turned nourishment into a competitive sport. It's not enough to eat vegetables anymore. They need to be organic, locally sourced, prepared in specific ways, and photographed beautifully for Instagram. The goalposts keep moving, and suddenly eating an apple feels inadequate.
 
-This is where [lifestyle](https://infeeds.com/tags/?tag=lifestyle) choices stop being about health and start being about performance. You're not eating to feel good. You're eating to prove something.
+This is where [lifestyle](https://infeeds.com/tags/lifestyle) choices stop being about health and start being about performance. You're not eating to feel good. You're eating to prove something.
 
 ## The Gut Health Revolution Nobody Saw Coming
 
@@ -40,7 +40,7 @@ The real barrier to healthy eating isn't knowledge. Most of us know vegetables a
 
 After a long day, the last thing anyone wants to do is stand in the kitchen chopping vegetables while following a recipe that requires seventeen ingredients and three pans. It's easier to DoorDash something that tastes good and requires zero effort.
 
-This is where [business](https://infeeds.com/tags/?tag=business) models in the food industry have us by the throat. They've made convenient food unhealthy and healthy food inconvenient. They profit from our exhaustion.
+This is where [business](https://infeeds.com/tags/business) models in the food industry have us by the throat. They've made convenient food unhealthy and healthy food inconvenient. They profit from our exhaustion.
 
 Learning to cook without recipes sounds impossible if you've always relied on them, but it's actually the only sustainable approach. Recipes keep you dependent. Understanding how flavors work and what goes well together sets you free.
 
@@ -66,7 +66,7 @@ The program suits all dietary requirements, which matters if you're dealing with
 
 ## What Actually Makes Us Feel Better
 
-Energy that doesn't crash by 2 PM. Cravings that don't control your entire day. Mental clarity that makes work and [relationships](https://infeeds.com/tags/?tag=lifestyle) easier. These aren't lofty wellness goals. They're baseline human function that most of us have forgotten is possible.
+Energy that doesn't crash by 2 PM. Cravings that don't control your entire day. Mental clarity that makes work and [relationships](https://infeeds.com/tags/lifestyle) easier. These aren't lofty wellness goals. They're baseline human function that most of us have forgotten is possible.
 
 We've normalized feeling like crap. We think everyone's tired all the time, everyone struggles with brain fog, everyone battles constant hunger. But that's not normal. That's what happens when you fuel a human body with processed food designed in labs to be addictive rather than nourishing.
 

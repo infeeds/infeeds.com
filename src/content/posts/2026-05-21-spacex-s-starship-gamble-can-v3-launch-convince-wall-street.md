@@ -18,7 +18,7 @@ Let's talk about what SpaceX has actually spent. The company has poured over $15
 
 But here's where it gets interesting. SpaceX doesn't actually need Starship to be profitable tomorrow. The company's real cash engine is Starlink, the satellite internet business. Last year, Starlink brought in $11.4 billion in revenue and $4.4 billion in operating income. That's where the profits live. Starship is the bet on what comes next.
 
-According to [Business](https://infeeds.com/tags/?tag=business) filings, Starlink accounted for 61 percent of SpaceX's total sales last year and a massive 69 percent in the first quarter. The space segment, which includes launches and other services, generated $4.1 billion in revenue but lost $657 million in operating losses. The math here is clear: Starlink keeps the lights on. Starship is the future.
+According to [Business](https://infeeds.com/tags/business) filings, Starlink accounted for 61 percent of SpaceX's total sales last year and a massive 69 percent in the first quarter. The space segment, which includes launches and other services, generated $4.1 billion in revenue but lost $657 million in operating losses. The math here is clear: Starlink keeps the lights on. Starship is the future.
 
 ## Why This Test Flight Actually Matters
 
@@ -36,7 +36,7 @@ The test flight Friday is carrying mock Starlink satellites but no real cargo or
 
 ## What Happens Next
 
-SpaceX has the resources to absorb failure in ways most companies can't. Starlink's profits give them runway. But Wall Street's patience isn't infinite, and [Technology](https://infeeds.com/tags/?tag=technology) companies trading on future growth stories face pressure to actually deliver those futures on something resembling a schedule.
+SpaceX has the resources to absorb failure in ways most companies can't. Starlink's profits give them runway. But Wall Street's patience isn't infinite, and [Technology](https://infeeds.com/tags/technology) companies trading on future growth stories face pressure to actually deliver those futures on something resembling a schedule.
 
 Friday's launch window opens at 6:30 p.m. ET. If Starship V3 flies, even if something goes wrong mid-test, SpaceX gets to say the rocket is advancing. If it scrubs again, the conversation shifts. Not toward panic, necessarily, but toward skepticism about whether the company's growth strategy actually works at the scale they're claiming.
 

@@ -24,7 +24,7 @@ Here's why that matters: if Lost had actually pulled that twist, it would've bee
 
 When Lost premiered in 2004, nothing else on television looked like it. You had CSI, Desperate Housewives, and a million procedural cop dramas where everything wrapped up in 42 minutes. Then ABC took a massive swing with a lush, cinematic sci-fi mystery shot on 35mm film with an ensemble of mostly unknown actors and a mythology that evolved week to week.
 
-The show was genuinely risky in ways that are harder to appreciate now. It demanded serialization when most network TV didn't require that. You couldn't miss an episode and catch up next week. The mythology built on itself constantly. The [technology](https://infeeds.com/tags/?tag=technology) behind the production alone was expensive and cutting-edge for network television at that time.
+The show was genuinely risky in ways that are harder to appreciate now. It demanded serialization when most network TV didn't require that. You couldn't miss an episode and catch up next week. The mythology built on itself constantly. The [technology](https://infeeds.com/tags/technology) behind the production alone was expensive and cutting-edge for network television at that time.
 
 What's wild is that Lost was doing things that we celebrate in prestige TV now. Time jumps, shifting perspectives, bottle episodes focused on side characters, flashbacks mixed with flash-forwards, even time loops. The Last of Us, Severance, Stranger Things all do these things. But Lost was experimenting with that structure back when people still expected TV to be comfortable and formulaic.
 

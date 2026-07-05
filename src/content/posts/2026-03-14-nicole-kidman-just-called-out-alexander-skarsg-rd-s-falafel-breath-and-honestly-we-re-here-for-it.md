@@ -32,7 +32,7 @@ This is the kind of behind-the-scenes production note that rarely makes it publi
 
 ## The Flip Side: When Someone Actually Smells Amazing
 
-But Kidman wasn't all criticism. When asked who smells the best, she immediately lit up about [Rihanna](https://infeeds.com/tags/?tag=entertainment). "Rihanna," she gushed. "We don't need to unravel it or decipher it, just know it's all true. It's intoxicating, it is like, 'I will follow you around.'"
+But Kidman wasn't all criticism. When asked who smells the best, she immediately lit up about [Rihanna](https://infeeds.com/tags/entertainment). "Rihanna," she gushed. "We don't need to unravel it or decipher it, just know it's all true. It's intoxicating, it is like, 'I will follow you around.'"
 
 The enthusiasm here is genuinely funny. It's the kind of compliment that's so specific and earnest that it circles back around to being hilarious. Kidman doesn't want to dissect Rihanna's scent; she just wants people to know it exists and that it's incredible.
 

@@ -18,7 +18,7 @@ I tested Photoroom, a platform that promises personalized Valentine's Day cards 
 
 ## The Promise vs Reality
 
-The concept seemed straightforward enough. If this worked, I could theoretically use it for birthday cards, thank-yous, holiday greetings, and more. The kind of [technology](https://infeeds.com/tags/?tag=technology) that saves you a Target run at 9 PM on February 13th.
+The concept seemed straightforward enough. If this worked, I could theoretically use it for birthday cards, thank-yous, holiday greetings, and more. The kind of [technology](https://infeeds.com/tags/technology) that saves you a Target run at 9 PM on February 13th.
 
 Photoroom offers pre-generated prompts like "you make my heart smile" and "you complete me." Standard fare, nothing groundbreaking. I picked one just to test the design capabilities, fully expecting something basic but functional.
 
@@ -44,7 +44,7 @@ Not bad, actually. I requested a text change and miraculously, the AI listened f
 
 ## The Verdict Nobody Asked For
 
-Was it more personal than Hallmark? Technically yes. Was it worth the headache? That's debatable. The process took way longer than the "seconds" promised, and I spent most of that time fighting with [artificial intelligence](https://infeeds.com/tags/?tag=technology) that seemed determined to misinterpret every request.
+Was it more personal than Hallmark? Technically yes. Was it worth the headache? That's debatable. The process took way longer than the "seconds" promised, and I spent most of that time fighting with [artificial intelligence](https://infeeds.com/tags/technology) that seemed determined to misinterpret every request.
 
 My wife wrote me a poem when we first started dating. She took one line from each of my favorite songs and wove them into something that made me cry. Real thought, real effort, real love.
 

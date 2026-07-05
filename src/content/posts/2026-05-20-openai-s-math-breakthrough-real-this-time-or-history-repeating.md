@@ -28,7 +28,7 @@ Bloom's validation carries weight, especially given that he previously called We
 
 OpenAI framed the discovery as a milestone for AI reasoning broadly. The company said this marks "the first time AI has autonomously solved a prominent open problem central to a field of mathematics" and emphasized that the model used wasn't specifically built for mathematics or this problem. According to OpenAI, the proof emerged from long chains of reasoning and cross-disciplinary idea-connecting that humans may not have previously explored.
 
-If true, that's significant beyond the specific geometry problem. It would demonstrate that general-purpose AI systems can hold together complex reasoning across domains in ways that might have applications in [business](https://infeeds.com/tags/?tag=business), biology, physics, engineering, and medicine.
+If true, that's significant beyond the specific geometry problem. It would demonstrate that general-purpose AI systems can hold together complex reasoning across domains in ways that might have applications in [business](https://infeeds.com/tags/business), biology, physics, engineering, and medicine.
 
 ## But Wait
 

@@ -28,7 +28,7 @@ Growing up in the nineties and early 2000s meant absorbing some truly terrible f
 
 What I didn't realize was that I was building a mindset based on restriction, not resilience. And that mindset would haunt me for decades.
 
-Fast forward thirty years. Add multiple pregnancies, jobs, college, and all the beautiful chaos that comes with [lifestyle](https://infeeds.com/tags/?tag=lifestyle) on an acreage. The weight doesn't just slide off anymore. Each pregnancy left behind a few pounds that refused to budge, like unwelcome houseguests who won't take the hint.
+Fast forward thirty years. Add multiple pregnancies, jobs, college, and all the beautiful chaos that comes with [lifestyle](https://infeeds.com/tags/lifestyle) on an acreage. The weight doesn't just slide off anymore. Each pregnancy left behind a few pounds that refused to budge, like unwelcome houseguests who won't take the hint.
 
 Years of undereating and overtraining had destroyed my metabolism. I don't mean too few calories necessarily. I mean garbage food choices. Lots of carbs, not enough fat or protein. I genuinely thought bread and Diet Coke could sustain me as a young woman. Spoiler: they could not.
 
@@ -64,7 +64,7 @@ For three decades, I believed I had to be smaller. Now I was learning to be stro
 
 Real food, not diet soda and low-fat everything. Actual protein, healthy fats, complex carbs. To gain muscle, you must fuel your body. You must trust the process and let go of the fear of the scale.
 
-Some days I nail it. Other days I fall short. But the difference now is grace. Growth takes time, and strength is built one rep and one meal at a time. This is frustrating when we're all promised we can be shredded in twenty-one days by some influencer selling a [business](https://infeeds.com/tags/?tag=business) model disguised as a workout plan.
+Some days I nail it. Other days I fall short. But the difference now is grace. Growth takes time, and strength is built one rep and one meal at a time. This is frustrating when we're all promised we can be shredded in twenty-one days by some influencer selling a [business](https://infeeds.com/tags/business) model disguised as a workout plan.
 
 Now lifting heavy things makes me feel powerful, not punished. It's not about chasing a number on the scale or fitting into my twenty-year-old jeans. Those jeans were from a different person anyway. It's about showing up for myself and proving I can do hard things.
 
@@ -72,6 +72,6 @@ Now lifting heavy things makes me feel powerful, not punished. It's not about ch
 
 The gym has become a good place for me. A place of peace, motivation, and escape. Kind of like running used to be, except now I'm building my body instead of tearing it down. This means I feel better mentally, physically, emotionally, and spiritually. It's all connected in ways I didn't understand before.
 
-I'm thankful I tried something different. Thankful I was humble enough to admit I didn't know everything about [health](https://infeeds.com/tags/?tag=health) and fitness despite decades of doing it wrong with confidence.
+I'm thankful I tried something different. Thankful I was humble enough to admit I didn't know everything about [health](https://infeeds.com/tags/health) and fitness despite decades of doing it wrong with confidence.
 
 Because Arnold was right. The same resistance that tests you also transforms you. And sometimes that transformation begins the moment you decide to pick up the weight, both literally and metaphorically, and refuse to put it down.

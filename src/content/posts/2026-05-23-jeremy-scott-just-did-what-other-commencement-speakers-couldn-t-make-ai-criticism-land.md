@@ -26,7 +26,7 @@ Scott's argument cuts deeper than typical AI skepticism. He didn't just say AI i
 
 "It can't have an original idea," Scott said. "It can't even differentiate the difference between a good idea, a unique idea, and one that's mediocre."
 
-That distinction matters, especially for a room full of art students entering a <a href="https://infeeds.com/tags/?tag=business">business</a> landscape where their value is increasingly under question. These graduates are hitting the job market at the exact moment when companies are using AI to remake entry-level positions. At least a dozen major corporations have already cited improved efficiency from AI as a reason to lay off employees this year.
+That distinction matters, especially for a room full of art students entering a <a href="https://infeeds.com/tags/business">business</a> landscape where their value is increasingly under question. These graduates are hitting the job market at the exact moment when companies are using AI to remake entry-level positions. At least a dozen major corporations have already cited improved efficiency from AI as a reason to lay off employees this year.
 
 But the workforce concerns are only part of the story. According to recent Pew Research Center data, many Americans are genuinely uncomfortable with how much AI is infiltrating everyday life. There's also growing resistance to the massive data centers required to power the technology.
 
@@ -38,7 +38,7 @@ That message landed because it wasn't dismissive of the technology itself. It wa
 
 The speakers who drew boos made a different calculation. They spoke as though AI's advancement were inevitable, even beneficial, without fully reckoning with how graduates feel about their own prospects in a world where machines are increasingly making decisions.
 
-## What This Actually Says About [Technology](https://infeeds.com/tags/?tag=technology)
+## What This Actually Says About [Technology](https://infeeds.com/tags/technology)
 
 There's something revealing about which messages resonate at graduation ceremonies. These events are supposed to be aspirational. Students want to hear that their skills, their creativity, their humanity matters.
 

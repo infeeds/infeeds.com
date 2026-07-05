@@ -40,6 +40,6 @@ Then again, even the most extractive tech companies eventually need customers wh
 
 It's a dark joke, but it hints at something real. When you squeeze consumers too hard for too long, the whole system starts to crack. Whether businesses like Noble Mobile can actually move the needle on something as massive as the cost of living, I don't know. But the experiment is worth paying attention to.
 
-If you're curious about where this fits into the broader tech landscape, check out more [Technology](https://infeeds.com/tags/?tag=technology) coverage and [Business](https://infeeds.com/tags/?tag=business) trends shaping what founders are building next.
+If you're curious about where this fits into the broader tech landscape, check out more [Technology](https://infeeds.com/tags/technology) coverage and [Business](https://infeeds.com/tags/business) trends shaping what founders are building next.
 
 The phone plan that pays you back might just be the beginning.

@@ -32,7 +32,7 @@ The Russian campaign targeted Signal specifically because of its reputation. Gov
 
 ## You're The Weakest Link (Sorry)
 
-Here's what makes this situation genuinely uncomfortable: you can have the most secure [technology](https://infeeds.com/tags/?tag=technology) in the world, military-grade encryption, security practices that would make Fort Knox jealous, and it all becomes worthless if someone tricks you into handing over your credentials.
+Here's what makes this situation genuinely uncomfortable: you can have the most secure [technology](https://infeeds.com/tags/technology) in the world, military-grade encryption, security practices that would make Fort Knox jealous, and it all becomes worthless if someone tricks you into handing over your credentials.
 
 Cybersecurity experts are now telling users to regularly check which devices are linked to their accounts. That's the advice. Not "wait for a software update" or "trust us, we're working on it." No. It's "stay vigilant" and "check your settings often." That puts the burden entirely on the user.
 

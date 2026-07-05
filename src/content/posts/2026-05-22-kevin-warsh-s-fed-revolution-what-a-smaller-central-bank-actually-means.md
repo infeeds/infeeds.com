@@ -62,7 +62,7 @@ Something will have to give, and history suggests the institution usually wins t
 
 Here's what might actually matter more than any specific policy change. The Fed has never set clear rules for when and how it uses its balance sheet. The market has adopted terms like "quantitative easing" for expansion and "quantitative tightening" for contraction, but the Fed itself has never drawn a clean line between using asset purchases for financial stability versus using them for monetary policy reasons.
 
-Warsh could change that. Setting expectations about when the Fed will and won't intervene could reshape how <a href="https://infeeds.com/tags/?tag=business">business</a> and financial markets function. If Warsh establishes a real framework—a clear set of rules about what triggers intervention and what doesn't—markets would stop assuming unlimited Fed support when things get scary. That's a regime change that doesn't require a single rate cut or balance sheet reduction. It just requires communication.
+Warsh could change that. Setting expectations about when the Fed will and won't intervene could reshape how <a href="https://infeeds.com/tags/business">business</a> and financial markets function. If Warsh establishes a real framework—a clear set of rules about what triggers intervention and what doesn't—markets would stop assuming unlimited Fed support when things get scary. That's a regime change that doesn't require a single rate cut or balance sheet reduction. It just requires communication.
 
 "The Fed hasn't done a very good job, I think, over time of distinguishing and explaining when it's using asset purchases for a monetary policy reason," Mester said. That's not a failure of competence. It's a failure of transparency.
 

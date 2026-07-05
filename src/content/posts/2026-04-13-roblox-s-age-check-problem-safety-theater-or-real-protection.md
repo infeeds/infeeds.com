@@ -8,7 +8,7 @@ tags: [news, tech, business]
 tags_color: '#1f78b4'
 ---
 
-Roblox is doubling down on a bet that <a href="https://infeeds.com/tags/?tag=technology">technology</a> can solve one of the internet's thorniest problems: keeping children safe from predators. But parents and experts are raising serious questions about whether the platform's expanded age-verification system actually works.
+Roblox is doubling down on a bet that <a href="https://infeeds.com/tags/technology">technology</a> can solve one of the internet's thorniest problems: keeping children safe from predators. But parents and experts are raising serious questions about whether the platform's expanded age-verification system actually works.
 
 According to BBC reporting, the gaming giant, which boasts 144 million daily users worldwide, is rolling out age-specific account types called Roblox Kids and Roblox Select. A user's estimated age will determine which version of the platform they access, what content they see, and who they can message. It sounds reasonable on paper. In practice, it's messier.
 
@@ -32,7 +32,7 @@ It's hard not to read the timing as reactive rather than proactive. Roblox is ti
 
 When pressed, Kaufman essentially said: don't blame us for what two million developers create on our platform. According to BBC reporting, he argued it would be "irresponsible to choose one of those two million and have their opinion dictate how everybody feels about the platform." One developer had told the BBC that parents should be constantly monitoring their children because of safety concerns.
 
-This is a dodge. Yes, Roblox has millions of creators. But Roblox still decides which games appear in different account tiers, which games get promoted, and whether adult content stays on the platform. That's not a developer problem. That's a <a href="https://infeeds.com/tags/?tag=business">business</a> decision.
+This is a dodge. Yes, Roblox has millions of creators. But Roblox still decides which games appear in different account tiers, which games get promoted, and whether adult content stays on the platform. That's not a developer problem. That's a <a href="https://infeeds.com/tags/business">business</a> decision.
 
 ## What Parents Actually Get
 

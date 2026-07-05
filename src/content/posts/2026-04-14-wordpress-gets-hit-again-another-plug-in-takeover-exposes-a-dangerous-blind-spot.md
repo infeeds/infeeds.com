@@ -24,7 +24,7 @@ Here's what really stung Ginder about this incident: WordPress users get zero no
 
 This is the second hijacked WordPress plug-in discovered in as many weeks, which suggests this isn't isolated. Security researchers have long warned about the playbook here. Buy software with a big installed base, change the code, compromise thousands of machines at once. It's elegant and terrifying in equal measure.
 
-## What This Means for [Technology](https://infeeds.com/tags/?tag=technology) Risk
+## What This Means for [Technology](https://infeeds.com/tags/technology) Risk
 
 The real issue isn't WordPress itself. It's the trust model that underpins the entire plug-in ecosystem. Site owners grant plug-ins access to their installations, which makes sense for functionality. But that same access becomes a weapon if the ownership structure changes and nobody's watching.
 

@@ -20,7 +20,7 @@ Naturally, people lost their minds. The theories started flying faster than a tr
 
 TikTok finally broke its silence Monday morning with a statement that was about as exciting as watching paint dry. According to them, a power outage at a U.S. data center knocked out their services. They apologized, said they were working with their partner to fix things, and that was basically it.
 
-The app's back up and running now. If you're reading this while scrolling through your For You Page, congratulations, the data center came through. But just because the <a href="https://infeeds.com/tags/?tag=technology">Technology</a> works again doesn't mean people have forgotten about Sunday.
+The app's back up and running now. If you're reading this while scrolling through your For You Page, congratulations, the data center came through. But just because the <a href="https://infeeds.com/tags/technology">Technology</a> works again doesn't mean people have forgotten about Sunday.
 
 ## Something Feels Different
 
@@ -32,6 +32,6 @@ The political angle is getting messy too. Some users claim they're seeing less a
 
 Whether or not the algorithm actually changed is still up for debate. We need more time to see if these complaints are just paranoia or if something genuinely shifted under the hood. But the fact that so many people believe something changed tells you everything you need about where user trust stands right now.
 
-TikTok hasn't commented on the algorithm complaints yet. They're probably hoping this all blows over once people get distracted by the next dance trend or drama. But when you combine a sketchy-timed outage with a controversial ownership change and widespread reports of feed problems, you've got yourself a <a href="https://infeeds.com/tags/?tag=business">Business</a> problem that won't disappear overnight.
+TikTok hasn't commented on the algorithm complaints yet. They're probably hoping this all blows over once people get distracted by the next dance trend or drama. But when you combine a sketchy-timed outage with a controversial ownership change and widespread reports of feed problems, you've got yourself a <a href="https://infeeds.com/tags/business">Business</a> problem that won't disappear overnight.
 
 The app works, sure. But for millions of users who spent years training their algorithm to show them exactly what they want, a reset feels like losing a friend who really got you. And no amount of corporate statements about power outages can fix that kind of relationship damage.

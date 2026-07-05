@@ -8,7 +8,7 @@ tags: [news, tech, business]
 tags_color: '#ff5722'
 ---
 
-The Musk v. Altman trial unfolding in federal court has peeled back layers of [Technology](https://infeeds.com/tags/?tag=technology) history that most people assumed was settled. Turns out, it wasn't. What we're learning through emails, text messages, and testimony isn't just a story about a lawsuit. It's a story about what happens when powerful people in AI disagree about ownership and control.
+The Musk v. Altman trial unfolding in federal court has peeled back layers of [Technology](https://infeeds.com/tags/technology) history that most people assumed was settled. Turns out, it wasn't. What we're learning through emails, text messages, and testimony isn't just a story about a lawsuit. It's a story about what happens when powerful people in AI disagree about ownership and control.
 
 The core claim is straightforward: Elon Musk says Sam Altman and Greg Brockman stole a nonprofit organization, using $38 million of Musk's money to build something worth over $800 billion today. That's a serious accusation. But the evidence being presented suggests something more complicated and arguably more revealing about how OpenAI actually came to be.
 
@@ -46,7 +46,7 @@ Neither framing is wrong, exactly. Both are probably partially true.
 
 ## The Deeper Question Nobody's Asking Clearly
 
-The trial has surfaced something that deserves more scrutiny than it's probably getting: nonprofit governance in AI is broken, or at least radically underspecified. OpenAI was founded as a nonprofit, received tens of millions in investment, and then somehow became a for-profit [Business](https://infeeds.com/tags/?tag=business) worth $800 billion. That transition happened, and now we're in court arguing about who owns what.
+The trial has surfaced something that deserves more scrutiny than it's probably getting: nonprofit governance in AI is broken, or at least radically underspecified. OpenAI was founded as a nonprofit, received tens of millions in investment, and then somehow became a for-profit [Business](https://infeeds.com/tags/business) worth $800 billion. That transition happened, and now we're in court arguing about who owns what.
 
 Musk's claim that he invested $38 million in a nonprofit that became a megavalued private company is technically correct. What's less clear is whether he's owed something for that, or whether he's just mad he doesn't control where that value ended up. Those are different things, legally and morally.
 

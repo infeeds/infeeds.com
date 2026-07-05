@@ -38,11 +38,11 @@ Mirza also layers in small touches that boost her confidence without being exces
 
 ## The Confidence Factor in Tech
 
-There's something worth paying attention to here that goes beyond productivity hacks. Mirza is a woman working in [technology](https://infeeds.com/tags/?tag=technology) spaces that are predominantly male. In that context, the extra boost of confidence that comes from looking polished isn't trivial. It's real.
+There's something worth paying attention to here that goes beyond productivity hacks. Mirza is a woman working in [technology](https://infeeds.com/tags/technology) spaces that are predominantly male. In that context, the extra boost of confidence that comes from looking polished isn't trivial. It's real.
 
 It's Pavlovian, she admits. Getting dressed and putting on makeup signals to her brain that it's time to work. That it's time to get everything on her to-do list done. And crucially, that she has the authority and presence to do it effectively.
 
-That matters more than people want to admit. Especially for women in [business](https://infeeds.com/tags/?tag=business) environments where they're already fighting against a thousand different assumptions and biases. If dressing up helps her command the digital room and assert her thoughts with more confidence, that's not superficial. That's strategy.
+That matters more than people want to admit. Especially for women in [business](https://infeeds.com/tags/business) environments where they're already fighting against a thousand different assumptions and biases. If dressing up helps her command the digital room and assert her thoughts with more confidence, that's not superficial. That's strategy.
 
 ## Is This Actually About the Clothes?
 

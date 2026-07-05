@@ -22,7 +22,7 @@ The scale tells you everything about the violence of the explosion. During rescu
 
 Here's where the story gets frustrating. Liuyang is known globally as the world's largest fireworks producer, a status that apparently comes without adequate safety standards. These aren't isolated incidents either. Just months earlier, in February, a fireworks store explosion in Hubei province killed 12 people. The incidents keep happening because the underlying problems remain unresolved.
 
-Police have opened an investigation and taken "control measures" against staff in charge of the facility, but investigations and personnel changes mean little if systemic [safety](https://infeeds.com/tags/?tag=safety) regulations aren't strengthened. The fact that President Xi Jinping had to personally urge officials to investigate and "hold those responsible to account" suggests the standard response mechanisms aren't working as they should.
+Police have opened an investigation and taken "control measures" against staff in charge of the facility, but investigations and personnel changes mean little if systemic [safety](https://infeeds.com/tags/safety) regulations aren't strengthened. The fact that President Xi Jinping had to personally urge officials to investigate and "hold those responsible to account" suggests the standard response mechanisms aren't working as they should.
 
 ## The Environmental Aftershock
 

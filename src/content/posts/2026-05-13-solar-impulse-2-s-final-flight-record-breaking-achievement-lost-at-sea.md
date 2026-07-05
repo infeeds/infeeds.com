@@ -24,7 +24,7 @@ When Skydweller Aero purchased and modified Solar Impulse 2, they kept that eleg
 
 ## Military Testing and Uncomfortable Questions
 
-Skydweller was conducting test flights for the US Navy's annual Fleet Experimentation exercises in late April, focused on maritime patrol scenarios near Key West, Florida. According to a Navy press release, the exercises tested AI and drone <a href="https://infeeds.com/tags/?tag=technology">technology</a> for fighting "transnational organized crime."
+Skydweller was conducting test flights for the US Navy's annual Fleet Experimentation exercises in late April, focused on maritime patrol scenarios near Key West, Florida. According to a Navy press release, the exercises tested AI and drone <a href="https://infeeds.com/tags/technology">technology</a> for fighting "transnational organized crime."
 
 For four days of continuous flight, the Skydweller drone used radar, visual imaging, and thermal cameras to track targets on the water. It served as a communications relay for Navy aircraft and ships. It also participated in what the Navy called a "sophisticated kill chain" involving commercial drones, crewed military helicopters, and the littoral combat ship USS Wichita. According to the Navy's statement, this integrated system "successfully found, fixed, tracked, and targeted a captured drug boat."
 

@@ -28,11 +28,11 @@ The phone itself appears to be a rebranded two-year-old HTC device, which raises
 
 Only about 30,000 people actually received the phone, according to unique IDs in the leaked data. That's a shocking number compared to the 590,000 pre-orders the company claimed last year, each coming with a $100 price tag. Where did everyone else's money go? The company announced the device nine months late, which is already a red flag in consumer hardware.
 
-When 404 Media tried to order the T1 when it launched, the order page failed and charged the wrong amount. It's a small detail, but it's emblematic of an operation that doesn't have its act together on the most basic [technology](https://infeeds.com/tags/?tag=technology) and [business](https://infeeds.com/tags/?tag=business) fundamentals.
+When 404 Media tried to order the T1 when it launched, the order page failed and charged the wrong amount. It's a small detail, but it's emblematic of an operation that doesn't have its act together on the most basic [technology](https://infeeds.com/tags/technology) and [business](https://infeeds.com/tags/business) fundamentals.
 
 ## Radio Silence Isn't a Response Strategy
 
-The data breach itself reveals incompetence, but the non-response is worse. Trump Mobile didn't bother responding to TechCrunch's request for comment. The researcher who found the exposed data couldn't get anyone to pick up. The YouTubers got radio silence. This isn't just a [security](https://infeeds.com/tags/?tag=security) failure. It's a complete abandonment of customer responsibility.
+The data breach itself reveals incompetence, but the non-response is worse. Trump Mobile didn't bother responding to TechCrunch's request for comment. The researcher who found the exposed data couldn't get anyone to pick up. The YouTubers got radio silence. This isn't just a [security](https://infeeds.com/tags/security) failure. It's a complete abandonment of customer responsibility.
 
 When you're running a hardware company and customer data is exposed, you don't go quiet. You issue a statement. You explain what happened. You tell people what to do. You apologize. Trump Mobile did none of that, apparently because nobody's home.
 

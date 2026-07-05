@@ -28,7 +28,7 @@ In other words, we could be waiting a very long time.
 
 Campaigners have been pushing for an Australia-style ban, full stop. The appeal is obvious: it's simple, it's clear, and parents instinctively understand it. But there are serious questions about how effective Australia's ban has actually been. The legislation looks good on paper. Whether it works in practice is another matter entirely.
 
-One thing's certain: tech giants are already scrambling. Meta, YouTube, and others have rushed to implement safety controls under the Online Safety Act, partly to comply with existing rules and partly to stave off the nuclear option of an outright ban. They're showing their work on child safety assessments, tweaking recommendation algorithms, and enforcing age requirements. Whether these efforts add up to genuine protection is where campaigners and the <a href="https://infeeds.com/tags/?tag=technology">Technology</a> industry diverge sharply.
+One thing's certain: tech giants are already scrambling. Meta, YouTube, and others have rushed to implement safety controls under the Online Safety Act, partly to comply with existing rules and partly to stave off the nuclear option of an outright ban. They're showing their work on child safety assessments, tweaking recommendation algorithms, and enforcing age requirements. Whether these efforts add up to genuine protection is where campaigners and the <a href="https://infeeds.com/tags/technology">Technology</a> industry diverge sharply.
 
 ## The Real Split
 
@@ -40,6 +40,6 @@ Bereaved parents and campaigners are relieved but restless. Ellen Roome, whose 1
 
 What's absent from this entire debate is clarity about what happens next. The consultation will produce data. Ministers will read it. Then what? Do they ban outright? Do they impose age verification? Do they strangle recommendation algorithms? Do they all of the above?
 
-The government's focus on "addictive features" and "harmful algorithmically-driven content" suggests they're thinking beyond a simple age restriction. Recent scrutiny of endless-scroll design and the landmark US social media addiction trial against Meta hint at where regulators' attention is turning. But intention and execution are different animals, especially when the <a href="https://infeeds.com/tags/?tag=technology">technology</a> landscape shifts every few months.
+The government's focus on "addictive features" and "harmful algorithmically-driven content" suggests they're thinking beyond a simple age restriction. Recent scrutiny of endless-scroll design and the landmark US social media addiction trial against Meta hint at where regulators' attention is turning. But intention and execution are different animals, especially when the <a href="https://infeeds.com/tags/technology">technology</a> landscape shifts every few months.
 
 The real test won't come in May when the consultation closes. It won't come in three months with a progress report or by year's end with a decision. The real test will come when implementation actually begins and the government discovers that regulating social media at scale is far messier than passing legislation about it.
