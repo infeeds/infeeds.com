@@ -2,7 +2,7 @@
 layout: post
 title: "NASA's Hubble captures 13-billion-year-old star cluster for America's 250th"
 description: "A stunning new image reveals NGC 6426, one of the Milky Way's oldest globular clusters, offering rare insights into the early universe."
-date: 2026-07-05 13:17:40 +0530
+date: 2026-07-05 00:00:40 +0530
 author: adam
 image: "https://images.unsplash.com/photo-1768405942773-87e8d4fb782b?q=80&w=2070"
 video_embed:
