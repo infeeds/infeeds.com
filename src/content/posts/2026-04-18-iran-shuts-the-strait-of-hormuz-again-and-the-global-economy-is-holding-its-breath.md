@@ -1,4 +1,3 @@
-```markdown
 ---
 title: "Iran Shuts the Strait of Hormuz Again, and the Global Economy is Holding Its Breath"
 description: "Iran closes a critical shipping lane to commercial traffic as tensions with the US escalate. Oil prices spike as 20% of the world's energy supply hangs in the balance."
@@ -40,4 +39,3 @@ Iran claims to be reviewing new peace proposals put forward by the US, though th
 The math gets worse the longer this drags on. Every day of closure costs the global economy and pushes more nations to consider alternatives, workarounds, or escalation. Europe watches its energy security evaporate. Emerging markets face inflation they can't control. And somewhere in a shipping container destined for a port that may never be reached, goods sit frozen in limbo.
 
 The real question isn't whether Iran or the US will blink first. It's how much damage gets done before someone does.
-```

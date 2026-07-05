@@ -1,4 +1,3 @@
-```markdown
 ---
 title: "Sabrina Carpenter's Coachella Headline Was a Masterclass in Pop Theater"
 description: "From viral moments to Grammy glory, Carpenter delivered the most ambitious show of her career with Sabrinawood, a Hollywood-themed wonderland that proved she's earned her spot at the top."
@@ -33,4 +32,3 @@ That philosophy extended perfectly to Coachella. The show wasn't about proving t
 
 The thousands who gathered by the main stage on Friday left knowing they'd witnessed something intentional. Not just a headline performance, but a statement from an artist who arrived at Coachella two years ago and made a promise. Some artists make those promises and disappear into the shuffle of touring obligations. Carpenter took the time to build something worth returning for, which might be the most telling detail of all about who she's become.
 
-```

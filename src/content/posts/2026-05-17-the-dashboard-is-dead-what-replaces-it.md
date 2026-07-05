@@ -1,4 +1,3 @@
-```markdown
 ---
 title: "The Dashboard is Dead. What Replaces It?"
 description: "Hootsuite's new headless strategy signals a bigger shift: SaaS platforms are becoming invisible infrastructure."
@@ -69,4 +68,3 @@ And here's what makes this interesting: the companies that figure this out first
 
 What happens to the companies that are still waiting for next quarter's roadmap review to hear what their customers need right now?
 
-```

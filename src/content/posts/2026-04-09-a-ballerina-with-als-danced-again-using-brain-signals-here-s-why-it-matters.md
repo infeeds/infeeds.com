@@ -1,4 +1,3 @@
-```markdown
 ---
 title: "A Ballerina with ALS Danced Again Using Brain Signals. Here's Why It Matters."
 description: "Breanna Olson used brainwave technology to perform as a digital avatar. It's a glimpse at how tech could reshape life with degenerative disease."
@@ -35,4 +34,3 @@ Olson wants to use her experience to help others with ALS and give them hope. Th
 
 The deeper truth Olson discovered matters regardless. Her experience showed her, by her own account, "just how powerful the mind can be." In a disease that progressively locks the body away, that realization might be as valuable as the technology itself. Whether that insight translates into systemic change, though, depends on whether the world decides that giving people back their expression is worth the investment.
 
-```

@@ -1,4 +1,3 @@
-```markdown
 ---
 title: "Foreo's Spring Sale Is Here, But Should You Actually Care About LED Face Masks?"
 description: "Swedish beauty tool brand Foreo drops massive discounts. We tested their latest devices and sorted through the hype."
@@ -35,4 +34,3 @@ Orders over $199 qualify for free standard shipping, and Foreo's newsletter offe
 
 The real question isn't whether Foreo makes solid devices. They clearly do. The question is whether you actually need one, or whether the appeal is mostly that beauty tools look cool and feel productive even when you're just standing there letting lights wash over your face.
 
-```

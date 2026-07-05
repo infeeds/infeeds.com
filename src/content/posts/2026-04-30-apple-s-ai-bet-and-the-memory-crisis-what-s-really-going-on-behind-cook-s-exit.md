@@ -1,4 +1,3 @@
-```markdown
 ---
 title: "Apple's AI Bet and the Memory Crisis: What's Really Going On Behind Cook's Exit"
 description: "Apple beats expectations but faces a serious memory shortage. Tim Cook's departure signals a shift in how the company tackles AI."
@@ -53,4 +52,3 @@ Is Ternus being set up for success or handed a mess? Probably both. The hardware
 
 The stock went up 3% after the earnings call, which suggests investors are betting on Ternus and assuming the memory cost pressure is manageable. Maybe they're right. But Cook's unusually explicit warnings about margin pressure suggest the company is bracing for a harder road than the headline numbers imply, and that's the part of this story that actually matters.
 
-```

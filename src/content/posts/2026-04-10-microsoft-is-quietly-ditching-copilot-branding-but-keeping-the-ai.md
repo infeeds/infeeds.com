@@ -1,4 +1,3 @@
-```markdown
 ---
 title: "Microsoft Is Quietly Ditching Copilot Branding (But Keeping the AI)"
 description: "Microsoft is removing Copilot labels from Windows 11 apps while keeping the AI features intact. Here's what's actually happening."
@@ -40,4 +39,3 @@ It's a calculated move, not a capitulation. The AI doesn't vanish; it just becom
 Microsoft hasn't commented on these changes yet, so we can't know for certain if this rebranding across Windows 11 is intentional strategy or an experiment in one of several Insider builds. But the pattern is becoming harder to ignore.
 
 The real question isn't whether Microsoft will keep its AI features. It's whether hiding the Copilot name will actually change how people feel about the technology underneath.
-```

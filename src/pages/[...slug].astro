@@ -38,11 +38,62 @@ const formattedDate = rawDate ? new Date(rawDate).toLocaleDateString('en-US', {
   day: 'numeric',
 }) : '';
 
-const siteUrl = Astro.site?.toString() || settings.url || '';
-const currentUrl = `${siteUrl}${getCleanSlug(entry.id)}/`;
+const siteUrl = (Astro.site?.toString() || 'https://infeeds.com').replace(/\/$/, '');
+const currentUrl = `${siteUrl}/${getCleanSlug(entry.id)}/`;
+const isoDate = rawDate ? new Date(rawDate).toISOString() : null;
+
+// Page-specific JSON-LD: BlogPosting + BreadcrumbList for posts.
+// We don't emit JSON-LD for static pages; the site-wide Organisation/WebSite
+// from Layout covers them.
+const blogPostingJsonLd = type === 'post' ? {
+  '@context': 'https://schema.org',
+  '@type': 'BlogPosting',
+  '@id': `${currentUrl}#article`,
+  mainEntityOfPage: { '@type': 'WebPage', '@id': currentUrl },
+  headline: data.title,
+  description: data.description || '',
+  ...(data.image ? { image: [new URL(data.image, siteUrl).toString()] } : {}),
+  datePublished: isoDate,
+  dateModified: isoDate,
+  author: author ? {
+    '@type': 'Person',
+    name: author.name,
+    url: `${siteUrl}/author/${author.username}/`,
+  } : { '@type': 'Organization', name: settings.author.name, url: siteUrl },
+  publisher: { '@id': `${siteUrl}#organization` },
+  articleSection: data.tags?.[0] ?? 'Lifestyle',
+  keywords: (data.tags ?? []).join(', '),
+} : null;
+
+const primaryTag = data.tags?.[0];
+const breadcrumbJsonLd = type === 'post' ? {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Home', item: `${siteUrl}/` },
+    { '@type': 'ListItem', position: 2, name: 'Blog', item: `${siteUrl}/blog/` },
+    ...(primaryTag ? [{
+      '@type': 'ListItem',
+      position: 3,
+      name: primaryTag,
+      item: `${siteUrl}/tags/${String(primaryTag).toLowerCase().replace(/\s+/g, '-')}/`,
+    }] : []),
+    { '@type': 'ListItem', position: primaryTag ? 4 : 3, name: data.title, item: currentUrl },
+  ],
+} : null;
 ---
 
 <Layout title={data.title} description={data.description} image={data.image}>
+  {blogPostingJsonLd && (
+    <Fragment slot="jsonld">
+      <script type="application/ld+json" set:html={JSON.stringify(blogPostingJsonLd)} />
+    </Fragment>
+  )}
+  {breadcrumbJsonLd && (
+    <Fragment slot="jsonld">
+      <script type="application/ld+json" set:html={JSON.stringify(breadcrumbJsonLd)} />
+    </Fragment>
+  )}
   {type === 'post' ? (
     <div class="container">
       <div class="post-head">

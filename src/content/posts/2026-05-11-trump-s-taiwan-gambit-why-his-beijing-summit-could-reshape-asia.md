@@ -1,4 +1,3 @@
-```markdown
 ---
 title: "Trump's Taiwan Gambit: Why His Beijing Summit Could Reshape Asia"
 description: "Trump heads to Beijing with Taiwan arms sales and Jimmy Lai's fate on the table. What's really at stake?"
@@ -48,4 +47,3 @@ What makes this particularly delicate is that Trump isn't pretending there's no 
 Glaser's warning about a "tacit or explicit bargain" isn't hypothetical. It's the exact shape the summit could take. And if it does, the consequences won't be felt in closed conference rooms. They'll ripple through Taiwan's corridors of power, through Hong Kong's already-constrained civil society, and across a region watching to see whether American commitments still mean anything when the pressure gets real.
 
 The question Trump will face in Beijing isn't really about Taiwan or Lai individually. It's whether short-term diplomatic wins are worth the long-term message they send about whose rights and whose sovereignty actually matter to Washington.
-```

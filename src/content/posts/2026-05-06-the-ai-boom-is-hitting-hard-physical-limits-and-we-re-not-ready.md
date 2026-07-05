@@ -1,4 +1,3 @@
-```markdown
 ---
 title: "The AI Boom is Hitting Hard Physical Limits—And We're Not Ready"
 description: "From chip shortages to energy crises, the AI industry faces constraints that no amount of software innovation can solve alone."
@@ -74,4 +73,3 @@ Younis drew the sharpest distinction. The average American farmer is 58 years ol
 Maybe that's the real story here. We're not replacing capability. We're automating what nobody wants to do anyway, while the infrastructure constraints get worse every quarter, and the companies that can engineer vertically across the entire stack consolidate dominance.
 
 The question isn't whether AI will change everything. It will. The question is whether we'll have solved the physics before we've solved the policy.
-```

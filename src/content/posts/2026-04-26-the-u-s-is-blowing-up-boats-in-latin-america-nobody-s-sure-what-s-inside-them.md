@@ -1,4 +1,3 @@
-```markdown
 ---
 title: "The U.S. Is Blowing Up Boats in Latin America. Nobody's Sure What's Inside Them."
 description: "186 dead in military strikes on alleged drug vessels, but the Pentagon hasn't shown evidence the boats were actually carrying drugs."
@@ -43,4 +42,3 @@ Working Americans are feeling the squeeze of rising costs and instability. That 
 
 The question that should linger: if we're going to wage this campaign, shouldn't we at least know what we're hitting?
 
-```

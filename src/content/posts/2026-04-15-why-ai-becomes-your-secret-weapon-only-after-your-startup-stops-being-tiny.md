@@ -1,4 +1,3 @@
-```markdown
 ---
 title: "Why AI Becomes Your Secret Weapon Only After Your Startup Stops Being Tiny"
 description: "Founders don't need AI at day one. But when growth hits, it either becomes essential or you become the bottleneck."
@@ -69,4 +68,3 @@ For a scaling organization, this is genuine competitive advantage. Not because y
 
 The question isn't whether you need AI early. The question is whether you'll use it wisely once you realize you're drowning without it.
 
-```

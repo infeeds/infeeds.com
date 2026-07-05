@@ -1,4 +1,3 @@
-```markdown
 ---
 title: "Red Light Therapy's Booming Market Means More Gadgets (And More Hype)"
 description: "The red-light therapy market is exploding. But do these devices actually work? One editor's early take on Megelin's pricey LED mask."
@@ -32,4 +31,3 @@ Whether it's actually worth it depends on what you're hoping to get out of it. I
 I'll be continuing my full six-week trial before rendering a final verdict. But here's the thing that keeps nagging at me: even in a market projected to grow nearly 50 percent over the next eight years, we're still largely taking manufacturers' claims on faith. The science exists, sure. But the gap between clinical research and what these consumer-grade devices actually deliver for individual users remains frustratingly wide. That's not necessarily a knock on Megelin specifically. It's a knock on the entire <a href="https://infeeds.com/tags/business">business</a> of selling hope in the form of LED masks.
 
 The real question isn't whether red-light therapy can work. It's whether you're willing to be the experiment while the market figures out which devices actually justify their price tags.
-```

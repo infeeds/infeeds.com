@@ -1,4 +1,3 @@
-```markdown
 ---
 title: "Why Hootsuite Is Betting Everything on Being Headless"
 description: "Hootsuite is ditching the dashboard model. Here's why the future of social media management lives in APIs, not screens."
@@ -63,4 +62,3 @@ That's the real shift. Not abandoning what customers know. Freeing it.
 
 What happens when the system that understands your brand better than you do is finally wired to move at the speed you actually need?
 
-```

@@ -1,4 +1,3 @@
-```markdown
 ---
 title: "Nuro Gets the Green Light for Driverless Lucid Testing, But the Real Race Has Just Begun"
 description: "Nuro lands driverless permit for Lucid robotaxis, but multiple regulatory hurdles still loom before Uber's premium service launches."

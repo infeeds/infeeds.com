@@ -1,4 +1,3 @@
-```markdown
 ---
 title: "The Death of the Dashboard: How Hootsuite is Betting on Headless Social"
 description: "Social media management is going headless. Here's what that actually means for brands racing to stay relevant."
@@ -77,4 +76,3 @@ The real test won't be whether MCP tools ship on schedule. It'll be whether Hoot
 
 Speed of listening. Speed of acting. That's the nervous system part.
 
-```

@@ -1,4 +1,3 @@
-```markdown
 ---
 title: "The Casper Mattress Game: Why Premium Beds Still Need a Discount to Make Sense"
 description: "Casper mattresses deliver solid quality, but their price tag demands you hunt for coupons. Here's what actually matters when shopping."
@@ -49,4 +48,3 @@ That positioning means you'll likely spend time comparing Casper against competi
 
 The fact that hunting for a Casper coupon feels mandatory rather than optional says something about where their pricing sits in the market. Solid quality deserves solid value, and right now, Casper requires shoppers to do extra work to find that balance.
 
-```

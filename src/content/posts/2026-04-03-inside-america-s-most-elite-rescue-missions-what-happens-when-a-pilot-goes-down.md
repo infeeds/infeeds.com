@@ -1,4 +1,3 @@
-```markdown
 ---
 title: "Inside America's Most Elite Rescue Missions: What Happens When a Pilot Goes Down"
 description: "Combat search-and-rescue missions are brutal, time-sensitive operations deep in enemy territory. Here's how the US military does it."
@@ -49,4 +48,3 @@ Modern CSAR is a product of institutional learning. Every mission contributes to
 
 When video emerges of US military helicopters and refuelling aircraft operating deep in Iranian airspace, what you're actually seeing is the culmination of eight decades of institutional knowledge, elite training, and a commitment to not leaving people behind. That's the real story behind the headline.
 
-```

@@ -1,4 +1,3 @@
-```markdown
 ---
 title: "Why 75% of M&A Deals Fail—and What Founders Never See Coming"
 description: "A founder's raw account of navigating a complex merger: the messy reality behind signed term sheets and how to protect yourself when deals go sideways."
@@ -76,4 +75,3 @@ Shared vision doesn't eliminate culture clashes or organizational chaos. But it 
 The honest truth about mergers is this: The initial term sheet is just the beginning. Build legal protections early. Maintain relationships even when you have leverage. Communicate honestly with your team before decisions are final. Get creative about structural solutions. And prepare yourself psychologically for the final terms to be renegotiated in ways you didn't anticipate.
 
 The question isn't whether a merger will throw unexpected complications at you. It's whether you'll be ready when it does.
-```

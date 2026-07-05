@@ -1,4 +1,3 @@
-```markdown
 ---
 title: "NATO's Uncomfortable Truth: Can the US Really Punish Its Allies?"
 description: "A leaked Pentagon email suggests the US could suspend NATO members over Iran policy. But NATO says it can't. Here's what's actually happening."
@@ -69,4 +68,3 @@ NATO was built on the principle that an attack on one is an attack on all. That 
 
 The question now is whether Europe will accept being punished for independence, or whether the time for free riding is about to cut both ways.
 
-```

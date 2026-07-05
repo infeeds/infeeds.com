@@ -1,4 +1,3 @@
-```markdown
 ---
 title: "Apple at 50: The Hits, the Misses, and Why the Magic Feels Different Now"
 description: "Half a century in, Apple defined how we use tech. But can it recapture the Jobs-era innovation that changed everything?"
@@ -63,4 +62,3 @@ The Vision Pro was supposed to be that moment. It wasn't. Neither was the latest
 
 That's not a criticism, exactly. It's just a recognition that the company that spent 50 years teaching us to want the future might now be more interested in defending the present.
 
-```

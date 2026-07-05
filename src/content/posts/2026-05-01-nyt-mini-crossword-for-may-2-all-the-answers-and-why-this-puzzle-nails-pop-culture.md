@@ -1,4 +1,3 @@
-```markdown
 ---
 title: "NYT Mini Crossword for May 2: All the Answers and Why This Puzzle Nails Pop Culture"
 description: "Stuck on today's Mini Crossword? Here are all the answers for May 2, plus what makes this puzzle worth solving."
@@ -49,4 +48,3 @@ That's worth something. In a world where so much media is disposable and algorit
 
 So the next time you're stuck on one of these, remember you're not just solving a puzzle. You're decoding what a smart group of editors thinks is worth your brain space today.
 
-```

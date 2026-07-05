@@ -1,4 +1,3 @@
-```markdown
 ---
 title: "UAE's OPEC Exit Signals a Shift in Oil Market Power That Nobody's Ready For"
 description: "The UAE's departure from OPEC weakens the cartel's grip on global oil prices, but the real consequences won't show up for years."
@@ -47,4 +46,3 @@ The market might miss Saudi Arabia's ability to put a floor under prices if dema
 
 The UAE's exit is a reminder that even the most entrenched global institutions are vulnerable to the pressures of their own member states, and sometimes a member's self-interest matters more than the cartel's collective power.
 
-```

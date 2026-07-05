@@ -1,4 +1,3 @@
-```markdown
 ---
 title: "REI's Annual Sale Is Here, and These Gear Picks Actually Matter"
 description: "REI's biggest sale of the year is live through Memorial Day. Here are the outdoor essentials worth your money."
@@ -65,4 +64,3 @@ The Silky folding saw at 5.3 ounces is light enough for bikepacking and sharp en
 
 The real question with any sale is whether you actually need the gear or just like the discount. REI's anniversary event runs through Memorial Day, which means you have time to think about what you'll actually use before hitting checkout. The best deals are the ones on things you were going to buy anyway.
 
-```

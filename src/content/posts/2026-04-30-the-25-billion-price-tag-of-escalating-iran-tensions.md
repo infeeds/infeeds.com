@@ -1,4 +1,3 @@
-```markdown
 ---
 title: "The $25 Billion Price Tag of Escalating Iran Tensions"
 description: "A quarter-century of conflict costs reveals ripple effects across weapons, energy markets, and global stability."

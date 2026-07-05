@@ -1,4 +1,3 @@
-```markdown
 ---
 title: "A Falcon 9 Rocket Upper Stage Is About to Crash Into the Moon"
 description: "SpaceX's Falcon 9 upper stage will hit the lunar surface this August. It's a preview of a bigger problem ahead."
@@ -43,4 +42,3 @@ What's uncertain is whether this will be a wake-up call for the space industry. 
 
 These aren't rhetorical questions. They're questions that will need answers fast, because the calendar is already moving and the Moon is about to get a lot busier.
 
-```

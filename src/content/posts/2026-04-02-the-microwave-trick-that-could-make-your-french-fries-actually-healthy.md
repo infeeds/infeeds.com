@@ -1,4 +1,3 @@
-```markdown
 ---
 title: "The Microwave Trick That Could Make Your French Fries Actually Healthy"
 description: "Scientists found a way to slash oil absorption in fried foods without sacrificing that crispy texture we crave."
@@ -55,4 +54,3 @@ But here's what's worth considering: if we can engineer healthier fried food, wi
 
 The technology exists. The science works. The real question isn't whether we can make fried food less destructive to our health. It's whether the industry actually wants to.
 
-```

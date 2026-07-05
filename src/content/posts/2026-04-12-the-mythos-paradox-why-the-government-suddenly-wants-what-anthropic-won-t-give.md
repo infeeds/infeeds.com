@@ -1,4 +1,3 @@
-```markdown
 ---
 title: "The Mythos Paradox: Why the Government Suddenly Wants What Anthropic Won't Give"
 description: "Anthropic's new security model has caught Washington's attention—and created an awkward situation with ongoing litigation."
@@ -35,4 +34,3 @@ What we can say for certain: Anthropic built something powerful enough that seni
 
 The real question is whether limiting access to AI security tools in the name of safety serves anyone well when the tools end up in private bank servers anyway. That's the conversation nobody seems willing to have directly.
 
-```

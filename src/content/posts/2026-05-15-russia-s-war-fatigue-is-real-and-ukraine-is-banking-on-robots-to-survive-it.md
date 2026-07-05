@@ -1,4 +1,3 @@
-```markdown
 ---
 title: "Russia's War Fatigue Is Real, and Ukraine Is Banking on Robots to Survive It"
 description: "As the Kremlin's peace process stalls, public exhaustion in Russia grows. Ukraine counters with robotic warfare tactics."
@@ -40,4 +39,3 @@ Whether that bet pays off depends on several factors: sustained international su
 The peace process remains stalled, which means we don't yet know if exhaustion will force the issue. But the very fact that Ukraine is pivoting so heavily toward robotic warfare suggests both sides understand that the old model of conflict can't continue indefinitely. Machines might be the bridge to whatever comes next, or they might just be prolonging an unsustainable stalemate.
 
 The question isn't really whether drones and robots are effective in combat. It's whether a country can build enough of them, fast enough, to win a war of attrition against an adversary whose public has simply stopped believing in the cause.
-```

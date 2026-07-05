@@ -1,4 +1,3 @@
-```markdown
 ---
 title: "Inflation's Spreading Faster Than Energy Prices—Here's Where It Really Hurts"
 description: "Consumer price index hits 3.8% annually. Energy isn't the only culprit. Here's what's actually getting expensive."
@@ -55,4 +54,3 @@ These pockets of relief exist, but they're small relative to the breadth of item
 
 The real question isn't whether inflation is slowing. It's whether consumers can absorb price increases across nearly every category they actually spend money on while watching their paychecks stay relatively flat.
 
-```

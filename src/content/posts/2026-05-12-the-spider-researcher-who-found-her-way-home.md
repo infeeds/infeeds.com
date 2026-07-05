@@ -1,4 +1,3 @@
-```markdown
 ---
 title: "The Spider Researcher Who Found Her Way Home"
 description: "A Ph.D. student's journey from Guam to Seoul reveals how identity, adoption, and unexpected paths intersect."
@@ -49,4 +48,3 @@ The point isn't that one family replaced another or that meeting her birth famil
 
 That's not a resolution so much as it is acceptance. And maybe that's what happens when you stop asking yourself to fit neatly into one box: you finally have room to breathe.
 
-```

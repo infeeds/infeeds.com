@@ -1,4 +1,3 @@
-```markdown
 ---
 title: "The Car Payment Trap Nobody Wants to Talk About"
 description: "Car payments are eating up longer loan terms, but one auto finance exec says consumers are being responsible. The data tells a more complicated story."
@@ -57,4 +56,3 @@ The real question isn't whether the payment-to-income ratio stays flat. It's whe
 
 For now, the system works because most people keep their jobs and manage their payments. But personal finance always looks stable until it doesn't.
 
-```

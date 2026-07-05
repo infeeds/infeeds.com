@@ -1,4 +1,3 @@
-```markdown
 ---
 title: "When Conspiracy Theories Meet Cable News: A Trump Donor's Wild Pope Accusation"
 description: "A Republican donor's baseless Pope conspiracy theory exposes how easily misinformation spreads in political media."
@@ -37,4 +36,3 @@ When someone insists there are "no flaws" in a theory that relies on geographic 
 
 The pope has been consistent in his opposition to military conflict. Axelrod is a political operative. These things can both be true without requiring a shadow coordination plot. But in an era where conspiracy theories have genuine political currency, the simpler explanation often loses out to the one that feels more satisfying.
 
-```

@@ -1,4 +1,3 @@
-```markdown
 ---
 title: "Your Father's Gym Habits Could Shape Your Athletic Future"
 description: "New research reveals how paternal lifestyle choices—exercise, diet, stress—leave molecular marks on sperm that influence offspring traits."
@@ -68,4 +67,3 @@ That imbalance needs correcting. If paternal lifestyle genuinely influences offs
 The research is still early. Key mechanisms remain unexplained. Skepticism is warranted. But the pattern emerging from multiple labs across multiple species is becoming difficult to ignore: what happens to a father's body doesn't stay in a father's body.
 
 The question now is whether we'll adjust our understanding of heredity accordingly, or keep pretending that responsibility for the next generation begins and ends with one parent.
-```

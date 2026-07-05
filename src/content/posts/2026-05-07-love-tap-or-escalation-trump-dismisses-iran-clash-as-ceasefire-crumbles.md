@@ -1,4 +1,3 @@
-```markdown
 ---
 title: "Love Tap or Escalation? Trump Dismisses Iran Clash as Ceasefire Crumbles"
 description: "U.S. and Iran exchange fire in Strait of Hormuz as their fragile ceasefire unravels amid competing claims of who started it."
@@ -44,4 +43,3 @@ CENTCOM ended its statement by saying it "does not seek escalation but remains p
 The nuclear deal that Trump dangled as an incentive for Iran to stand down remains unsigned. The ceasefire is functionally over. Three U.S. Navy destroyers successfully transited the strait, but for how much longer will transits go smoothly? And what happens the next time someone claims the other side fired first?
 
 The question isn't whether there will be another incident. The question is whether anyone will be able to control it when it happens.
-```

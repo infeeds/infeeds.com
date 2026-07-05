@@ -1,4 +1,3 @@
-```markdown
 ---
 title: "America's Grid Is Ditching Coal Again, And Trump Can't Stop It"
 description: "2026 data shows renewables surging while coal crumbles, despite White House orders to keep plants open. The grid is winning."
@@ -41,4 +40,3 @@ The irony is almost aggressive. Despite a federal government doing everything in
 
 Fossil fuels still generate about half the electricity on the US grid. When you throw in nuclear, emissions-free sources are crossing 45 percent. That's not a victory lap, but it's a trend that's building momentum. The question isn't really whether renewables will eventually dominate the grid. The question is just how much political thrashing we have to endure while the inevitable happens anyway.
 
-```

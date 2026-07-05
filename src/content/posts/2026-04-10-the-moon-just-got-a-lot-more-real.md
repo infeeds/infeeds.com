@@ -1,4 +1,3 @@
-```markdown
 ---
 title: "The Moon Just Got a Lot More Real"
 description: "Artemis II astronauts return from breaking the distance record and seeing things no human has witnessed before."
@@ -55,4 +54,3 @@ That's not the language of someone running an operation. That's the language of 
 
 Jeremy Hansen, the Canadian astronaut, challenged future generations to break the record Artemis II just set. That impulse, to keep pushing, keeps looking, keeps asking what's beyond the next horizon, is worth examining. Because the question isn't whether we'll eventually go back to the moon or push beyond it. The question is whether we'll remember why we're going at all.
 
-```

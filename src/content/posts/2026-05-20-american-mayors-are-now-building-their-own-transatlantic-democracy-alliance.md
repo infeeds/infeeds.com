@@ -1,4 +1,3 @@
-```markdown
 ---
 title: "American Mayors Are Now Building Their Own Transatlantic Democracy Alliance"
 description: "Ten U.S. mayors joined Europe's Pact of Free Cities to fight authoritarianism. Here's what they learned."
@@ -54,4 +53,3 @@ The real question is whether American mayors can actually translate Budapest's p
 But at least now there's a conversation happening. At least there's a network. At least these mayors know they're not alone in fighting the same battles.
 
 That might not sound revolutionary. But in an era where political isolation is increasingly a strategic weapon, sometimes the most radical act is simply refusing to be isolated.
-```

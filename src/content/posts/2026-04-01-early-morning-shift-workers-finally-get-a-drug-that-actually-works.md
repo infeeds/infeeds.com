@@ -1,4 +1,3 @@
-```markdown
 ---
 title: "Early Morning Shift Workers Finally Get a Drug That Actually Works"
 description: "A new clinical trial shows solriamfetol helps early morning workers stay alert. Here's why this matters for millions of people."

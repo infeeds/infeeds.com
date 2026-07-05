@@ -1,4 +1,3 @@
-```markdown
 ---
 title: "The Volunteer Parent Trap: Why Constant School Involvement Isn't the Win You Think It Is"
 description: "A former super-volunteer parent reflects on 15 years of exhausting school involvement and why stepping back might be the better parenting move."
@@ -43,4 +42,3 @@ When this grandmother now enters the school building for a concert or event, it'
 
 The question isn't whether you care about your child's education or development. Of course you do. The real question is whether constant visibility at school actually serves your child's needs or mainly serves your own anxiety about whether you're doing enough.
 
-```

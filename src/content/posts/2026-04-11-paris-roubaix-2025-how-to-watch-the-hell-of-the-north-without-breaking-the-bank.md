@@ -1,4 +1,3 @@
-```markdown
 ---
 title: "Paris-Roubaix 2025: How to Watch the Hell of the North Without Breaking the Bank"
 description: "Stream Paris-Roubaix free or cheap across the globe. Here's where to catch cycling's most brutal one-day race."
@@ -37,4 +36,3 @@ The current state of sports streaming is a masterclass in how <a href="https://i
 
 Van der Poel's three-year reign over Paris-Roubaix says something about consistency and dominance in modern cycling. Pogacar's presence suggests the competitive field isn't dead yet. But the real test this year might be whether anyone can figure out a simpler way to actually watch the race.
 
-```

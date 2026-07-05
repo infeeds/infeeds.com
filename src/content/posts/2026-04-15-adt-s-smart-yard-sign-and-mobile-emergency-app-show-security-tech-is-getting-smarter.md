@@ -1,4 +1,3 @@
-```markdown
 ---
 title: "ADT's Smart Yard Sign and Mobile Emergency App Show Security Tech Is Getting Smarter"
 description: "ADT launches Live Light and My Safety, two new features that modernize home security monitoring for the connected home era."
@@ -38,4 +37,3 @@ The functionality isn't entirely new. Your smartphone already has emergency feat
 The real test will be whether these offerings convince people to switch to or stay with ADT when plenty of other security firms are making similar moves toward connected systems and mobile-first monitoring. Incremental improvements are nice, but they're rarely reasons to change providers.
 
 What's worth watching is whether this signals a shift in how security companies think about the home as a connected whole, or if it's just another round of feature-stacking that sounds better than it actually improves your life.
-```

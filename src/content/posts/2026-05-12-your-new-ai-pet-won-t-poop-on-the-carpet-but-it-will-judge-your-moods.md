@@ -1,4 +1,3 @@
-```markdown
 ---
 title: "Your New AI Pet Won't Poop on the Carpet, But It Will Judge Your Moods"
 description: "SwitchBot's Kata Friends are here to cure pet-ownership anxiety. The question is whether an AI robot can actually replace what a living creature offers."
@@ -47,4 +46,3 @@ The subscription model and ongoing costs are worth your skepticism, though. Swit
 
 What matters most might be something SwitchBot can't quite control: whether humans can actually form genuine emotional bonds with something they know, intellectually, is incapable of choosing to care back. Your AI pet will remember that you were sad today. But it will also stop existing if you stop paying the subscription, and both of you will know that.
 
-```

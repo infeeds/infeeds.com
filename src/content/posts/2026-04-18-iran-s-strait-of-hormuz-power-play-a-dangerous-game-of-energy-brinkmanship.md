@@ -1,4 +1,3 @@
-```markdown
 ---
 title: "Iran's Strait of Hormuz Power Play: A Dangerous Game of Energy Brinkmanship"
 description: "Iran closes the Strait of Hormuz again, threatening global oil supplies and derailing fragile peace talks with the Trump administration."
@@ -57,4 +56,3 @@ The ship operators tracking this situation live in total limbo. According to com
 
 When the world's energy chokepoint becomes a negotiating table, and the negotiators can't agree, everyone else just waits.
 
-```

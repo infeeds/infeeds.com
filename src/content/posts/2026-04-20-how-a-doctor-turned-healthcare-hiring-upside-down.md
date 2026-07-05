@@ -1,4 +1,3 @@
-```markdown
 ---
 title: "How a Doctor Turned Healthcare Hiring Upside Down"
 description: "Dr. Iman Abuzeid built a $1.65B platform that flips the script on nurse recruitment, letting workers reject bad jobs instead of begging for them."
@@ -63,4 +62,3 @@ She finished her medical degree. She could have practiced. Instead, she spent a 
 
 The question now is whether Incredible Health can sustain that focus as it grows. Can a company stay committed to flipping power dynamics when the incentive structures push toward optimization and extraction? The marketplace works because it genuinely serves nurses better. That's not an accident. It's a choice. The question is whether that choice survives success.
 
-```

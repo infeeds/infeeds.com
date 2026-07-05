@@ -1,4 +1,3 @@
-```markdown
 ---
 title: "Michael J. Fox Gets the Last Laugh After CNN Accidentally Reports His Death"
 description: "CNN prematurely eulogized Michael J. Fox, and the actor's witty response reminds us that premature death announcements are a recurring media blunder."
@@ -44,4 +43,3 @@ When major outlets publish significant stories without proper verification, the 
 Fox handled it with grace and humor, which is entirely in character. But maybe the real question isn't how a living person should react to their own obituary. Maybe it's why, in 2024, this still keeps happening to people with enough resources and platform to fight back. What about the ordinary people who get their identities confused in databases or records without anyone to defend them?
 
 The media's relationship with accuracy remains, as always, negotiable.
-```

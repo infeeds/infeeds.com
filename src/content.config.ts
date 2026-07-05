@@ -1,11 +1,9 @@
 import { defineCollection, z } from 'astro:content';
 import { glob } from 'astro/loaders';
-import fs from 'node:fs';
-import path from 'node:path';
-import matter from 'gray-matter';
+import { fenceStrippingGlob } from './loaders/posts';
 
 const postsCollection = defineCollection({
-  loader: glob({ pattern: '**/[^_]*.{md,markdown}', base: "./src/content/posts" }),
+  loader: fenceStrippingGlob({ pattern: '**/[^_]*.{md,markdown}', base: "./src/content/posts" }),
   schema: z.object({
     layout: z.string().optional().default('post'),
     title: z.string(),
