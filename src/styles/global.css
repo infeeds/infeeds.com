@@ -2372,6 +2372,7 @@ textarea {
 
 [type=search] {
   -webkit-appearance: textfield;
+  appearance: textfield;
   outline-offset: -2px
 }
 
@@ -3223,6 +3224,7 @@ table td {
   color: var(--text-alt-color);
   overflow-y: hidden;
   -webkit-line-clamp: 3;
+  line-clamp: 3;
   -webkit-box-orient: vertical
 }
 
@@ -7807,6 +7809,7 @@ table td {
 .mag-grid-page .mag-card__title {
   display: -webkit-box;
   -webkit-line-clamp: 3;
+  line-clamp: 3;
   -webkit-box-orient: vertical;
   overflow: hidden;
 }
