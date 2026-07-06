@@ -1,7 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
-import ArticleCard from '../../components/ArticleCard.astro';
+import MagazineCard from '../../components/MagazineCard.astro';
 import Pagination from '../../components/Pagination.astro';
 
 export async function getStaticPaths() {
@@ -10,74 +10,56 @@ export async function getStaticPaths() {
   );
 
   const pages = [];
-  const firstPageSize = 13;
-  const regularPageSize = 12;
-  const totalPosts = posts.length;
-  const lastPage = Math.ceil((totalPosts - firstPageSize) / regularPageSize) + 1;
+  const pageSize = 12;
+  const totalPages = Math.max(1, Math.ceil(posts.length / pageSize));
 
-  // Page 1
-  pages.push({
-    params: { page: undefined },
-    props: {
-      page: {
-        data: posts.slice(0, firstPageSize),
-        currentPage: 1,
-        lastPage: lastPage,
-        url: {
-          prev: undefined,
-          next: totalPosts > firstPageSize ? "/blog/2/" : undefined
-        }
-      }
-    }
-  });
-
-  // Subsequent pages
-  let currentPos = firstPageSize;
-  let pageNum = 2;
-  while (currentPos < totalPosts) {
-    const endPos = currentPos + regularPageSize;
+  for (let i = 0; i < totalPages; i++) {
+    const pageNum = i + 1;
+    const isFirst = i === 0;
     pages.push({
-      params: { page: pageNum.toString() },
+      params: { page: isFirst ? undefined : String(pageNum) },
       props: {
         page: {
-          data: posts.slice(currentPos, endPos),
+          data: posts.slice(i * pageSize, (i + 1) * pageSize),
           currentPage: pageNum,
-          lastPage: lastPage,
+          lastPage: totalPages,
           url: {
-            prev: pageNum === 2 ? "/blog/" : `/blog/${pageNum - 1}/`,
-            next: endPos < totalPosts ? `/blog/${pageNum + 1}/` : undefined
-          }
-        }
-      }
+            prev: isFirst ? undefined : (pageNum === 2 ? '/blog/' : `/blog/${pageNum - 1}/`),
+            next: pageNum < totalPages ? `/blog/${pageNum + 1}/` : undefined,
+          },
+        },
+      },
     });
-    currentPos = endPos;
-    pageNum++;
   }
-
   return pages;
 }
 
 const { page } = Astro.props;
+const isFirst = page.currentPage === 1;
 ---
 
-<Layout title="Blog">
-  <div class="container">
-    <div class="row">
-      <div class="col col-12">
-        <div class="section__info">
-          <div class="section__head">
-            <h1 class="section__title">Blog</h1>
+<Layout
+  title={isFirst ? 'Blog' : `Blog · Page ${page.currentPage}`}
+  description="Latest stories, news and ideas from Infeeds."
+>
+  <main class="content">
+    <div class="container mag-grid-page">
+      <div class="section-mag">
+        <div class="section-mag__head">
+          <div>
+            <span class="section-mag__kicker">Archive</span>
+            <h1 class="section-mag__title">{isFirst ? 'Latest stories' : `Page ${page.currentPage}`}</h1>
           </div>
+          <span class="section-mag__link">Page {page.currentPage} of {page.lastPage}</span>
         </div>
-
-        <div class="row">
-          {page.data.map((post: any, index: number) => (
-            <ArticleCard post={post} index={index} isHero={index === 0 && page.currentPage === 1} />
+        <div class="cat-section__row">
+          {page.data.map((post: any) => (
+            <MagazineCard post={post} variant="grid" />
           ))}
         </div>
-
-        <Pagination page={page} baseUrl="/blog/" />
       </div>
+
+      <Pagination page={page} baseUrl="/blog/" />
     </div>
-  </div>
+  </main>
 </Layout>

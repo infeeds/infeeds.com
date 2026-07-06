@@ -25,6 +25,7 @@ const active = isActive();
 
 {active && (
   <div class={`ad-unit ad-unit--${location}`}>
+    <span class="ad-unit__label">Advertisement</span>
     {ad.type === 'image' && ad.image_url && ad.link_url && (
       <a href={ad.link_url} target="_blank" rel="noopener sponsored">
         <img src={ad.image_url} alt={ad.alt_text || 'Advertisement'} />

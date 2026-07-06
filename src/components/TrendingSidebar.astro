@@ -1,0 +1,55 @@
+---
+// Sidebar shown next to the latest-posts grid.
+// Three blocks: trending now, popular tags, sidebar ad, pitch-a-story CTA.
+import { getCollection } from 'astro:content';
+import MagazineCard from './MagazineCard.astro';
+import AdUnit from './AdUnit.astro';
+
+const recent = (await getCollection('posts')).sort(
+  (a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime()
+);
+
+const trending = recent.slice(0, 6);
+
+// Tag cloud: top 12 tags by frequency, derived from posts frontmatter.
+const tagCounts = new Map<string, number>();
+for (const post of recent) {
+  for (const tag of post.data.tags ?? []) {
+    const key = String(tag);
+    tagCounts.set(key, (tagCounts.get(key) ?? 0) + 1);
+  }
+}
+const topTags = [...tagCounts.entries()]
+  .sort((a, b) => b[1] - a[1])
+  .slice(0, 14)
+  .map(([tag]) => tag);
+---
+
+<aside class="latest-grid__aside" aria-label="Sidebar">
+  <div class="aside-block">
+    <h3 class="aside-block__title">Trending Now</h3>
+    {trending.map((post) => <MagazineCard post={post} variant="list" />)}
+  </div>
+
+  <AdUnit location="sidebar_ad" context="homepage" />
+
+  <div class="aside-block">
+    <h3 class="aside-block__title">Popular Tags</h3>
+    <div class="tag-cloud">
+      {topTags.map((tag) => (
+        <a href={`/tags/${String(tag).toLowerCase().replace(/\s+/g, '-')}/`}>{tag}</a>
+      ))}
+    </div>
+  </div>
+
+  <div class="aside-block aside-block--cta">
+    <h3 class="aside-block__title aside-block__title--cta">Share your story</h3>
+    <p class="aside-block__body">
+      Have a story worth telling? We publish original writing from new voices on news, culture, business, and tech.
+    </p>
+    <a href="mailto:exmgks@gmail.com?subject=Submitting%20a%20story%20to%20Infeeds" class="aside-block__button">
+      Pitch a story &rarr;
+    </a>
+    <a href="/about/" class="aside-block__link">Or learn more about us</a>
+  </div>
+</aside>

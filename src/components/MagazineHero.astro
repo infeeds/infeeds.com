@@ -1,0 +1,76 @@
+---
+// Magazine hero: 1 big lead story + 4 stacked secondary stories on the right.
+// Asymmetric grid, drops below single-column on narrow viewports.
+import { getCollection } from 'astro:content';
+import { getCleanSlug, getDateFromFilename } from '../utils/slug';
+import { settings } from '../data/settings';
+
+const allPosts = (await getCollection('posts')).sort(
+  (a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime()
+);
+
+// Lead = most recent. Secondary = next 4 newest, stacked on the right.
+// 4 stack items keeps the right column at the same height as the lead.
+const lead = allPosts[0];
+const secondary = allPosts.slice(1, 6);
+
+const formatDate = (raw: unknown) => raw
+  ? new Date(String(raw)).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })
+  : '';
+
+const fallbackAuthor = settings.author?.name ?? 'Infeeds';
+const authorOf = (post: any) => post.data?.author || fallbackAuthor;
+---
+
+{lead ? (
+  <section class="hero-mag" aria-label="Top stories">
+    <a href={`/${getCleanSlug(lead.id)}/`} class="hero-mag__lead">
+      <div class="hero-mag__lead-image">
+        {lead.data.tags?.[0] ? (
+          <span class="hero-mag__lead-tag">{lead.data.tags[0]}</span>
+        ) : null}
+        {lead.data.image ? (
+          <img src={lead.data.image} alt={lead.data.title} loading="eager" decoding="async" />
+        ) : null}
+      </div>
+      <div class="hero-mag__lead-meta">
+        <span>{authorOf(lead)}</span>
+        <span class="dot"></span>
+        <span>{formatDate(lead.data.date ?? getDateFromFilename(lead.id))}</span>
+        {lead.data.tags?.[1] ? (
+          <Fragment>
+            <span class="dot"></span>
+            <span>{lead.data.tags[1]}</span>
+          </Fragment>
+        ) : null}
+      </div>
+      <h1 class="hero-mag__lead-title">{lead.data.title}</h1>
+      {lead.data.description ? (
+        <p class="hero-mag__lead-deck">{lead.data.description}</p>
+      ) : null}
+    </a>
+
+    <div class="hero-mag__stack">
+      {secondary.map((post) => (
+        <a href={`/${getCleanSlug(post.id)}/`} class="hero-mag__stack-item">
+          <div class="hero-mag__stack-image">
+            {post.data.image ? (
+              <img src={post.data.image} alt={post.data.title} loading="lazy" decoding="async" />
+            ) : null}
+          </div>
+          <div class="hero-mag__stack-text">
+            {post.data.tags?.[0] ? (
+              <span class="hero-mag__stack-tag">{post.data.tags[0]}</span>
+            ) : null}
+            <h2 class="hero-mag__stack-title">{post.data.title}</h2>
+            <div class="hero-mag__stack-meta">
+              <span>{authorOf(post)}</span>
+              <span> &middot; </span>
+              <span>{formatDate(post.data.date ?? getDateFromFilename(post.id))}</span>
+            </div>
+          </div>
+        </a>
+      ))}
+    </div>
+  </section>
+) : null}

@@ -1,56 +1,47 @@
 ---
 import { getCollection } from 'astro:content';
 import Layout from '../../../layouts/Layout.astro';
-import ArticleCard from '../../../components/ArticleCard.astro';
+import MagazineCard from '../../../components/MagazineCard.astro';
 import Pagination from '../../../components/Pagination.astro';
+import { getCleanSlug } from '../../../utils/slug';
 
 export async function getStaticPaths() {
   const allPosts = (await getCollection('posts')).sort(
     (a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime()
   );
-  
+
   const tags = [...new Set(allPosts.flatMap((post) => post.data.tags || []))].sort();
-
   const pages = [];
-  const regularPageSize = 12;
+  const pageSize = 12;
 
-  tags.forEach(tag => {
-    const postsWithTag = allPosts
-      .filter((post) => post.data.tags?.includes(tag));
+  tags.forEach((tag) => {
+    const postsWithTag = allPosts.filter((post) => (post.data.tags || []).includes(tag));
+    if (!postsWithTag.length) return;
+    const totalPages = Math.max(1, Math.ceil(postsWithTag.length / pageSize));
+    const safeTagSlug = String(tag).toLowerCase().replace(/\s+/g, '-');
 
-    const totalPosts = postsWithTag.length;
-    const lastPage = Math.ceil(totalPosts / regularPageSize);
-
-    let currentPos = 0;
-    let pageNum = 1;
-
-    // Use Astro's standard slugification for URL construction
-    const safeTagSlug = tag.toLowerCase().replace(/\s+/g, '-');
-
-    while (currentPos < totalPosts) {
-      const endPos = currentPos + regularPageSize;
-      
+    for (let i = 0; i < totalPages; i++) {
+      const pageNum = i + 1;
+      const isFirst = i === 0;
       pages.push({
-        params: { 
+        params: {
           tag: safeTagSlug,
-          page: pageNum === 1 ? undefined : pageNum.toString()
+          page: isFirst ? undefined : String(pageNum),
         },
         props: {
-          tag: tag,
+          tag,
           page: {
-            data: postsWithTag.slice(currentPos, endPos),
+            data: postsWithTag.slice(i * pageSize, (i + 1) * pageSize),
             currentPage: pageNum,
-            lastPage: lastPage,
-            totalPosts: totalPosts,
+            lastPage: totalPages,
+            totalPosts: postsWithTag.length,
             url: {
-              prev: pageNum === 1 ? undefined : (pageNum === 2 ? `/tags/${safeTagSlug}/` : `/tags/${safeTagSlug}/${pageNum - 1}/`),
-              next: endPos < totalPosts ? `/tags/${safeTagSlug}/${pageNum + 1}/` : undefined
-            }
-          }
-        }
+              prev: isFirst ? undefined : (pageNum === 2 ? `/tags/${safeTagSlug}/` : `/tags/${safeTagSlug}/${pageNum - 1}/`),
+              next: pageNum < totalPages ? `/tags/${safeTagSlug}/${pageNum + 1}/` : undefined,
+            },
+          },
+        },
       });
-      currentPos = endPos;
-      pageNum++;
     }
   });
 
@@ -58,79 +49,32 @@ export async function getStaticPaths() {
 }
 
 const { page, tag } = Astro.props;
-
-const siteUrl = (Astro.site?.toString() || 'https://infeeds.com').replace(/\/$/, '');
+const isFirst = page.currentPage === 1;
 const safeTagSlug = String(tag).toLowerCase().replace(/\s+/g, '-');
-const isFirstPage = page.currentPage === 1;
-const tagUrl = isFirstPage
-  ? `${siteUrl}/tags/${safeTagSlug}/`
-  : `${siteUrl}/tags/${safeTagSlug}/${page.currentPage}/`;
-const tagLabel = `${tag} posts on Infeeds`;
-const tagDescription = `Latest ${tag.toLowerCase()} stories, news, and ideas from Infeeds. ${page.totalPosts} ${page.totalPosts === 1 ? 'post' : 'posts'} tagged ${tag}.`;
-
-// JSON-LD: CollectionPage for the tag landing page + BreadcrumbList.
-// We only emit structured data on the first page to avoid duplicate-content signals.
-const collectionPageJsonLd = isFirstPage ? {
-  '@context': 'https://schema.org',
-  '@type': 'CollectionPage',
-  '@id': tagUrl,
-  url: tagUrl,
-  name: tagLabel,
-  description: tagDescription,
-  inLanguage: 'en',
-  isPartOf: { '@id': `${siteUrl}#website` },
-  about: tag,
-  mainEntity: {
-    '@type': 'ItemList',
-    numberOfItems: page.totalPosts,
-    itemListElement: page.data.slice(0, 10).map((post: any, index: number) => {
-      const slug = post.id.replace(/^\d{4}-\d{2}-\d{2}-/, '').replace(/\.(md|markdown|mdx)$/, '');
-      return {
-        '@type': 'ListItem',
-        position: index + 1,
-        url: `${siteUrl}/${slug}/`,
-        name: post.data.title,
-      };
-    }),
-  },
-} : null;
-
-const breadcrumbJsonLd = isFirstPage ? {
-  '@context': 'https://schema.org',
-  '@type': 'BreadcrumbList',
-  itemListElement: [
-    { '@type': 'ListItem', position: 1, name: 'Home', item: `${siteUrl}/` },
-    { '@type': 'ListItem', position: 2, name: 'Tags', item: `${siteUrl}/tags/` },
-    { '@type': 'ListItem', position: 3, name: tag, item: tagUrl },
-  ],
-} : null;
+const display = String(tag).charAt(0).toUpperCase() + String(tag).slice(1).toLowerCase();
+const tagUrl = isFirst ? `/tags/${safeTagSlug}/` : `/tags/${safeTagSlug}/${page.currentPage}/`;
+const tagDescription = `Latest ${String(tag).toLowerCase()} stories, news, and ideas from Infeeds. ${page.totalPosts} ${page.totalPosts === 1 ? 'post' : 'posts'} tagged ${tag}.`;
 ---
 
-<Layout title={tagLabel} description={tagDescription}>
-  {collectionPageJsonLd && (
-    <Fragment slot="jsonld">
-      <script type="application/ld+json" set:html={JSON.stringify(collectionPageJsonLd)} />
-      <script type="application/ld+json" set:html={JSON.stringify(breadcrumbJsonLd)} />
-    </Fragment>
-  )}
-  <div class="container tags__inner">
-    <div class="row">
-      <div class="col col-12">
-        <div class="tag__info">
-          <div class="tag__counter">
-            {page.totalPosts} {page.totalPosts === 1 ? 'Post' : 'Posts'}
+<Layout title={`${display} posts`} description={tagDescription}>
+  <main class="content">
+    <div class="container mag-grid-page">
+      <div class="section-mag">
+        <div class="section-mag__head">
+          <div>
+            <span class="section-mag__kicker">Topic</span>
+            <h1 class="section-mag__title">{display}</h1>
           </div>
-          <h2 class="tag__name">{tag}</h2>
+          <span class="section-mag__link">{page.totalPosts} {page.totalPosts === 1 ? 'post' : 'posts'}</span>
+        </div>
+        <div class="cat-section__row">
+          {page.data.map((post: any) => (
+            <MagazineCard post={post} variant="grid" />
+          ))}
         </div>
       </div>
-    </div>
 
-    <div class="row">
-      {page.data.map((post: any, index: number) => (
-        <ArticleCard post={post} index={index} />
-      ))}
+      <Pagination page={page} baseUrl={isFirst ? `/tags/${safeTagSlug}/` : `/tags/${safeTagSlug}/`} />
     </div>
-
-    <Pagination page={page} baseUrl={`/tags/${tag.toLowerCase().replace(/\s+/g, '-')}/`} />
-  </div>
+  </main>
 </Layout>

@@ -1,0 +1,31 @@
+---
+// Thin reading-progress bar pinned to the bottom of the viewport.
+// Updates on scroll, throttled with requestAnimationFrame.
+---
+  <div class="reading-progress__bar" id="reading-progress-bar"></div>
+</div>
+
+<script is:inline>
+  (() => {
+    const bar = document.getElementById('reading-progress-bar');
+    if (!bar) return;
+    let ticking = false;
+    const update = () => {
+      const doc = document.documentElement;
+      const scrolled = window.scrollY || doc.scrollTop;
+      const max = (doc.scrollHeight - doc.clientHeight) || 1;
+      const pct = Math.min(100, Math.max(0, (scrolled / max) * 100));
+      bar.style.width = pct + '%';
+      ticking = false;
+    };
+    const onScroll = () => {
+      if (!ticking) {
+        window.requestAnimationFrame(update);
+        ticking = true;
+      }
+    };
+    window.addEventListener('scroll', onScroll, { passive: true });
+    window.addEventListener('resize', onScroll);
+    update();
+  })();
+</script>

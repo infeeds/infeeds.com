@@ -74,29 +74,34 @@ export const settings = {
       header_ad: {
         enabled: true,
         type: 'html',
-        html_content: '<a href="https://infeeds.com/why-high-quality-content-partnerships-are-becoming-essential-for-modern-digital-platforms"><img src="/images/ads/ad-728.png" alt="Infeeds 728x90 Ad"></a><br /><sub><a href="mailto:exmgks@gmail.com" target="_blank">Write an email to us</a></sub>'
+        html_content: '<a href="https://infeeds.com/why-high-quality-content-partnerships-are-becoming-essential-for-modern-digital-platforms"><img src="/images/ads/ad-728.png" alt="Infeeds 728x90 Ad"></a>'
       },
       footer_ad: {
         enabled: true,
         type: 'html',
-        html_content: '<a href="https://infeeds.com/why-high-quality-content-partnerships-are-becoming-essential-for-modern-digital-platforms"><img src="/images/ads/ad-728-footer.png" alt="Infeeds 728x90 Ad"></a><br /><sub><a href="mailto:exmgks@gmail.com" target="_blank">Write an email to us</a></sub>'
+        html_content: '<a href="https://infeeds.com/why-high-quality-content-partnerships-are-becoming-essential-for-modern-digital-platforms"><img src="/images/ads/ad-728-footer.png" alt="Infeeds 728x90 Ad"></a>'
+      },
+      sidebar_ad: {
+        enabled: true,
+        type: 'html',
+        html_content: '<a href="https://infeeds.com/why-high-quality-content-partnerships-are-becoming-essential-for-modern-digital-platforms"><img src="/images/ads/ad-300.png" alt="Infeeds 250x300 Ad"></a>'
       }
     },
     blog: {
       header_ad: {
         enabled: true,
         type: 'html',
-        html_content: '<a href="https://infeeds.com/why-high-quality-content-partnerships-are-becoming-essential-for-modern-digital-platforms"><img src="/images/ads/ad-728.png" alt="Infeeds 728x90 Ad"></a><br /><sub><a href="mailto:exmgks@gmail.com" target="_blank">Write an email to us</a></sub>'
+        html_content: '<a href="https://infeeds.com/why-high-quality-content-partnerships-are-becoming-essential-for-modern-digital-platforms"><img src="/images/ads/ad-728.png" alt="Infeeds 728x90 Ad"></a>'
       },
       footer_ad: {
         enabled: true,
         type: 'html',
-        html_content: '<a href="https://infeeds.com/why-high-quality-content-partnerships-are-becoming-essential-for-modern-digital-platforms"><img src="/images/ads/ad-728-footer.png" alt="Infeeds 728x90 Ad"></a><br /><sub><a href="mailto:exmgks@gmail.com" target="_blank">Write an email to us</a></sub>'
+        html_content: '<a href="https://infeeds.com/why-high-quality-content-partnerships-are-becoming-essential-for-modern-digital-platforms"><img src="/images/ads/ad-728-footer.png" alt="Infeeds 728x90 Ad"></a>'
       },
       sidebar_ad: {
         enabled: true,
         type: 'html',
-        html_content: '<a href="https://infeeds.com/why-high-quality-content-partnerships-are-becoming-essential-for-modern-digital-platforms"><img src="/images/ads/ad-300.png" alt="Infeeds 250x300 Ad"></a><br /><sub><a href="mailto:exmgks@gmail.com" target="_blank">Write an email to us</a></sub>'
+        html_content: '<a href="https://infeeds.com/why-high-quality-content-partnerships-are-becoming-essential-for-modern-digital-platforms"><img src="/images/ads/ad-300.png" alt="Infeeds 250x300 Ad"></a>'
       }
     }
   }

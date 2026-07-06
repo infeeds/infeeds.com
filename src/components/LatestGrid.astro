@@ -1,0 +1,39 @@
+---
+// Latest posts grid with sidebar. 2-col feed + 1-col aside.
+// The "skip" prop lets the caller exclude post IDs that were already shown
+// in the hero so we never duplicate content on the page.
+import { getCollection } from 'astro:content';
+import MagazineCard from './MagazineCard.astro';
+import TrendingSidebar from './TrendingSidebar.astro';
+
+interface Props {
+  count?: number;
+  skip?: string[];
+}
+
+const { count = 12, skip = [] } = Astro.props;
+
+const allPosts = (await getCollection('posts')).sort(
+  (a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime()
+);
+
+// Filter out anything we already showed in the hero / categories.
+const skipSet = new Set(skip);
+const posts = allPosts.filter((p) => !skipSet.has(p.id)).slice(0, count);
+---
+
+<section class="latest-grid">
+  <div>
+    <div class="section-mag__head">
+      <div>
+        <span class="section-mag__kicker">Latest stories</span>
+        <h2 class="section-mag__title">From the newsroom</h2>
+      </div>
+      <a href="/blog/" class="section-mag__link">All posts &rarr;</a>
+    </div>
+    <div class="latest-grid__feed">
+      {posts.map((post) => <MagazineCard post={post} variant="grid" />)}
+    </div>
+  </div>
+  <TrendingSidebar />
+</section>

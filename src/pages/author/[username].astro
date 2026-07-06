@@ -1,25 +1,47 @@
 ---
+// Author first page: /author/<x>/
+// Subsequent pages (2, 3, …) are emitted by the catch-all at
+// /author/[username]/[...page].astro. Both routes share the render
+// component AuthorPostsView.astro.
 import { getCollection } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
-import ArticleCard from '../../components/ArticleCard.astro';
+import AuthorPostsView from '../../components/AuthorPostsView.astro';
 
 export async function getStaticPaths() {
   const authors = await getCollection('authors');
   const posts = await getCollection('posts');
+  const pageSize = 12;
 
-  return authors.map((author) => {
-    const authorPosts = posts
-      .filter((post) => post.data.author === author.data.username)
-      .sort((a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime());
-
-    return {
+  return authors
+    .map((author) => {
+      const authorPosts = posts
+        .filter((post) => post.data.author === author.data.username)
+        .sort((a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime());
+      if (authorPosts.length === 0) return null;
+      const totalPages = Math.max(1, Math.ceil(authorPosts.length / pageSize));
+      return { author, authorPosts, totalPages };
+    })
+    .filter((x): x is { author: any; authorPosts: any[]; totalPages: number } => x !== null)
+    .map(({ author, authorPosts, totalPages }) => ({
       params: { username: author.data.username },
-      props: { author: author.data, authorBody: author.body, posts: authorPosts },
-    };
-  });
+      props: {
+        author: author.data,
+        authorBody: author.body,
+        page: {
+          data: authorPosts.slice(0, pageSize),
+          currentPage: 1,
+          lastPage: totalPages,
+          totalPosts: authorPosts.length,
+          url: {
+            prev: undefined,
+            next: totalPages > 1 ? `/author/${author.data.username}/2/` : undefined,
+          },
+        },
+      },
+    }));
 }
 
-const { author, authorBody, posts } = Astro.props;
+const { author, authorBody, page } = Astro.props as any;
 
 const siteUrl = (Astro.site?.toString() || 'https://infeeds.com').replace(/\/$/, '');
 const authorUrl = `${siteUrl}/author/${author.username}/`;
@@ -28,7 +50,6 @@ if (author.twitter) sameAs.push(author.twitter);
 if (author.facebook) sameAs.push(author.facebook);
 if (author.website) sameAs.push(author.website);
 
-// JSON-LD: Person (author identity) + BreadcrumbList (Home > Author).
 const personJsonLd = {
   '@context': 'https://schema.org',
   '@type': 'Person',
@@ -40,7 +61,6 @@ const personJsonLd = {
   ...(sameAs.length ? { sameAs } : {}),
   worksFor: { '@id': `${siteUrl}#organization` },
 };
-
 const breadcrumbJsonLd = {
   '@context': 'https://schema.org',
   '@type': 'BreadcrumbList',
@@ -51,63 +71,24 @@ const breadcrumbJsonLd = {
 };
 ---
 
-<Layout title={author.name} description={authorBody} image={author.image}>
+<Layout
+  title={author.name}
+  description={authorBody}
+  image={author.image}
+>
   <Fragment slot="jsonld">
     <script type="application/ld+json" set:html={JSON.stringify(personJsonLd)} />
     <script type="application/ld+json" set:html={JSON.stringify(breadcrumbJsonLd)} />
   </Fragment>
-  {author.cover && (
-    <div class="hero__image">
-      <div class="hero__image__inner">
-        <img class="lazy loaded" src={author.cover} alt={author.name} />
-      </div>
+
+  <main class="content">
+    <div class="container mag-grid-page">
+      <AuthorPostsView
+        author={author}
+        authorBody={authorBody}
+        page={page}
+        baseUrl={`/author/${author.username}/`}
+      />
     </div>
-  )}
-
-  <section class="author">
-    <div class="container">
-      <div class="author__content">
-        <div class="author__image">
-          <img class="lazy loaded" src={author.image} alt={author.name} />
-        </div>
-        <h1 class="author__name">{author.name}</h1>
-        <div class="author__posts__count">
-          {posts.length} {posts.length === 1 ? 'Post' : 'Posts'}
-        </div>
-
-        <div class="author__info">
-          {author.location && (
-            <span class="author__social__item"><i class="ion ion-md-pin"></i> {author.location}</span>
-          )}
-          {author.website && (
-            <a class="author__social__item" href={author.website} aria-label="Website link">
-              <i class="ion ion-ios-link"></i> Website
-            </a>
-          )}
-          {author.twitter && (
-            <a class="author__social__item" href={author.twitter} aria-label="Twitter link">
-              <i class="ion ion-logo-twitter"></i> Twitter
-            </a>
-          )}
-          {author.facebook && (
-            <a class="author__social__item" href={author.facebook} aria-label="Facebook link">
-              <i class="ion ion-logo-facebook"></i> Facebook
-            </a>
-          )}
-        </div>
-
-        <div class="author__description">
-          {authorBody}
-        </div>
-      </div>
-    </div>
-
-    <div class="container animate">
-      <div class="row">
-        {posts.map((post, index) => (
-          <ArticleCard post={post} index={index} />
-        ))}
-      </div>
-    </div>
-  </section>
+  </main>
 </Layout>

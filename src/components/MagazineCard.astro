@@ -1,0 +1,54 @@
+---
+// Magazine card used in the homepage grid, category sections, and sidebar.
+// Variants:
+//   "grid"  -> standard 4:3 card with image, tag, title, excerpt, meta  (default)
+//   "list"  -> 70px square image + title only, no excerpt (used in trending sidebar)
+import { getCleanSlug, getDateFromFilename } from '../utils/slug';
+
+interface Props {
+  post: any;
+  variant?: 'grid' | 'list';
+}
+
+const { post, variant = 'grid' } = Astro.props;
+const { data, id } = post;
+const slug = getCleanSlug(id);
+
+const rawDate = data.date ?? getDateFromFilename(id);
+const dateLabel = rawDate
+  ? new Date(rawDate).toLocaleDateString('en-US', { month: 'short', day: 'numeric' })
+  : '';
+
+const primaryTag = data.tags?.[0];
+const tagSlug = primaryTag
+  ? String(primaryTag).toLowerCase().replace(/\s+/g, '-')
+  : null;
+const tagUrl = tagSlug ? `/tags/${tagSlug}/` : null;
+---
+
+{variant === 'grid' && (
+  <a href={`/${slug}/`} class="mag-card" aria-label={data.title}>
+    <div class="mag-card__image">
+      {data.image && <img src={data.image} alt={data.title} loading="lazy" decoding="async" />}
+    </div>
+    <div class="mag-card__body">
+      {primaryTag && tagUrl && <span class="mag-card__tag">{primaryTag}</span>}
+      <h3 class="mag-card__title">{data.title}</h3>
+      {data.description && <p class="mag-card__excerpt">{data.description}</p>}
+      <div class="mag-card__meta">
+        {data.author && <span>{data.author}</span>}
+        {dateLabel && <span>&middot;</span>}
+        {dateLabel && <span>{dateLabel}</span>}
+      </div>
+    </div>
+  </a>
+)}
+
+{variant === 'list' && (
+  <a href={`/${slug}/`} class="mag-list-card" aria-label={data.title}>
+    <div>
+      {primaryTag && <span class="mag-list-card__tag">{primaryTag}</span>}
+      <h4 class="mag-list-card__title">{data.title}</h4>
+    </div>
+  </a>
+)}

@@ -1,0 +1,64 @@
+---
+// Shared render: author header + paginated post grid + pagination control.
+// Used by both the first-page route and the catch-all paginated route.
+import MagazineCard from './MagazineCard.astro';
+import Pagination from './Pagination.astro';
+
+interface Props {
+  author: any;
+  authorBody: string;
+  page: {
+    data: any[];
+    currentPage: number;
+    lastPage: number;
+    totalPosts: number;
+    url: { prev?: string; next?: string };
+  };
+  baseUrl: string;
+}
+
+const { author, authorBody, page, baseUrl } = Astro.props as Props;
+const isFirst = page.currentPage === 1;
+---
+
+<div class="author-mag">
+  {author.cover && (
+    <div class="author-mag__cover">
+      <img src={author.cover} alt={author.name} loading="eager" />
+    </div>
+  )}
+  <div class="author-mag__head">
+    <img class="author-mag__avatar" src={author.image} alt={author.name} loading="eager" />
+    <div>
+      <span class="section-mag__kicker">Writer</span>
+      <h1 class="author-mag__name">{author.name}</h1>
+      <div class="author-mag__meta">
+        {author.location && <span>{author.location}</span>}
+        {author.location && <span>·</span>}
+        <span>{page.totalPosts} {page.totalPosts === 1 ? 'post' : 'posts'}</span>
+      </div>
+    </div>
+  </div>
+  {authorBody && <p class="author-mag__bio">{authorBody}</p>}
+
+  <div class="author-mag__links">
+    {author.twitter && <a href={author.twitter} target="_blank" rel="noopener">Twitter</a>}
+    {author.facebook && <a href={author.facebook} target="_blank" rel="noopener">Facebook</a>}
+    {author.website && <a href={author.website} target="_blank" rel="noopener">Website</a>}
+  </div>
+</div>
+
+<div class="section-mag">
+  <div class="section-mag__head">
+    <div>
+      <span class="section-mag__kicker">Stories</span>
+      <h2 class="section-mag__title">{isFirst ? `By ${author.name}` : `Page ${page.currentPage}`}</h2>
+    </div>
+    <span class="section-mag__link">Page {page.currentPage} of {page.lastPage}</span>
+  </div>
+  <div class="cat-section__row">
+    {page.data.map((post: any) => <MagazineCard post={post} variant="grid" />)}
+  </div>
+</div>
+
+<Pagination page={page} baseUrl={baseUrl} />

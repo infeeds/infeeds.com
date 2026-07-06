@@ -66,7 +66,7 @@ const siteJsonLd = {
 
 		<!-- Fonts -->
 		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-		<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Display:wght@400;600;700&family=Noto+Serif:wght@700&display=swap" rel="stylesheet" />
+		<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Display:wght@400;600;700&family=Noto+Serif:wght@400;700&display=swap" rel="stylesheet" />
 		
 		<!-- Ionicons -->
 		<link href="https://unpkg.com/ionicons@4.2.2/dist/css/ionicons.min.css" rel="stylesheet" />
@@ -115,7 +115,8 @@ const siteJsonLd = {
 			<Footer />
 		</div>
 
-		<script is:inline src="/js/scripts.js"></script>
-		<script is:inline src="/js/common.js"></script>
+		<!-- Legacy /js/common.js and /js/scripts.js removed: the new
+		     Header handles dropdown + theme + menu-toggle inline, and
+		     search is fully client-side from /search-index.json. -->
 	</body>
 </html>

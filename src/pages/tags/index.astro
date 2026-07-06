@@ -1,42 +1,50 @@
 ---
+// Tag-cloud index: every topic used across the site, sized by post count.
 import { getCollection } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
 
-const allPosts = await getCollection('posts');
-const tagsWithColors = new Map();
-
-allPosts.forEach(post => {
-  if (post.data.tags) {
-    post.data.tags.forEach(tag => {
-      if (!tagsWithColors.has(tag)) {
-        tagsWithColors.set(tag, post.data.tags_color || undefined);
-      }
-    });
+const posts = await getCollection('posts');
+const counts = new Map<string, number>();
+for (const post of posts) {
+  for (const tag of post.data.tags ?? []) {
+    const t = String(tag);
+    counts.set(t, (counts.get(t) ?? 0) + 1);
   }
-});
-
-const tags = Array.from(tagsWithColors.keys()).sort();
+}
+const tags = [...counts.entries()]
+  .map(([tag, count]) => ({ tag, count }))
+  .sort((a, b) => b.count - a.count || a.tag.localeCompare(b.tag));
+const max = Math.max(...tags.map((t) => t.count), 1);
 ---
 
-<Layout title="All Tags">
-  <div class="container">
-    <div class="row">
-      <div class="col col-12">
-        <div class="section__info" style="margin-top: 60px;">
-          <h1 class="section__title">All Tags</h1>
+<Layout title="All topics" description="Browse every topic on Infeeds.">
+  <main class="content">
+    <div class="container mag-grid-page">
+      <div class="section-mag">
+        <div class="section-mag__head">
+          <div>
+            <span class="section-mag__kicker">Explore</span>
+            <h1 class="section-mag__title">All topics</h1>
+          </div>
+          <span class="section-mag__link">{tags.length} topics</span>
         </div>
-        <div class="article__tags" style="margin-bottom: 60px;">
-          {tags.map((tag) => (
-            <a 
-              href={`/tags/${tag.toLowerCase().replace(/\s+/g, '-')}/`} 
-              class="article__tag"
-              style={tagsWithColors.get(tag) ? { color: tagsWithColors.get(tag) } : {}}
-            >
-              {tag}
-            </a>
-          ))}
+        <div class="all-tags-cloud">
+          {tags.map(({ tag, count }) => {
+            const size = 13 + Math.round((count / max) * 7);
+            const slug = String(tag).toLowerCase().replace(/\s+/g, '-');
+            return (
+              <a
+                href={`/tags/${slug}/`}
+                class="all-tags-cloud__item"
+                style={`font-size: ${size}px;`}
+              >
+                {tag}
+                <span class="all-tags-cloud__count">{count}</span>
+              </a>
+            );
+          })}
         </div>
       </div>
     </div>
-  </div>
+  </main>
 </Layout>

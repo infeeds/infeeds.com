@@ -6,6 +6,7 @@ import { getCleanSlug, getDateFromFilename } from '../utils/slug';
 import AdUnit from '../components/AdUnit.astro';
 import SocialShare from '../components/SocialShare.astro';
 import RelatedPosts from '../components/RelatedPosts.astro';
+import ReadingProgress from '../components/ReadingProgress.astro';
 
 export async function getStaticPaths() {
   const posts = await getCollection('posts');
@@ -84,6 +85,8 @@ const breadcrumbJsonLd = type === 'post' ? {
 ---
 
 <Layout title={data.title} description={data.description} image={data.image}>
+  <ReadingProgress />
+
   {blogPostingJsonLd && (
     <Fragment slot="jsonld">
       <script type="application/ld+json" set:html={JSON.stringify(blogPostingJsonLd)} />
@@ -96,14 +99,14 @@ const breadcrumbJsonLd = type === 'post' ? {
   )}
   {type === 'post' ? (
     <div class="container">
-      <div class="post-head">
-        <div class={`post__info ${data.video_embed ? 'post__info-video' : ''}`}>
+      <article class="post-mag">
+        <div class={`post-mag__info ${data.video_embed ? 'post-mag__info--video' : ''}`}>
           {data.tags && data.tags.length > 0 && (
-            <div class="post__tags">
+            <div class="post-mag__tags">
               {data.tags.map((tag: string) => (
-                <a 
-                  href={`/tags/${tag.toLowerCase()}`} 
-                  class="post__tag"
+                <a
+                  href={`/tags/${String(tag).toLowerCase().replace(/\s+/g, '-')}/`}
+                  class="post-mag__tag"
                   style={data.tags_color ? { backgroundColor: data.tags_color, color: '#fff' } : {}}
                 >
                   {tag}
@@ -112,89 +115,83 @@ const breadcrumbJsonLd = type === 'post' ? {
             </div>
           )}
 
-          <h1 class="post__title">{data.title}</h1>
+          <h1 class="post-mag__title">{data.title}</h1>
 
-          {data.description && <div class="post__description">{data.description}</div>}
+          {data.description && <p class="post-mag__deck">{data.description}</p>}
 
-          <div class="post__meta">
-            <a href={author ? `/author/${author.username}/` : '/about/'} class="post__author__image">
-              <img class="lazy loaded" src={author?.image || settings.author.avatar} alt={author?.name || settings.author.name} />
-            </a>
-
-            <div class="post__meta__bottom">
-              <a class="post__author__name" href={author ? `/author/${author.username}/` : '/about/'}>
-                {author?.name || settings.author.name}
-              </a>
-              {rawDate && <time class="post__date" datetime={new Date(rawDate).toISOString()}>{formattedDate}</time>}
-            </div>
+          <div class="post-mag__byline">
+            {author?.image && (
+              <img class="post-mag__avatar" src={author.image} alt={author.name} loading="lazy" />
+            )}
+            <span>By <strong>{author?.name || settings.author.name}</strong></span>
+            {rawDate && (
+              <>
+                <span>&middot;</span>
+                <time datetime={new Date(rawDate).toISOString()}>{formattedDate}</time>
+              </>
+            )}
           </div>
         </div>
 
         {data.video_embed ? (
           <div class="post-video">
             <div class="post-video__wrap">
-              <iframe src={data.video_embed} loading="lazy" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+              <iframe src={data.video_embed} loading="lazy" width="640" height="360" allowfullscreen></iframe>
             </div>
           </div>
         ) : data.image && (
-          <div class="post-image">
-            <img class="lazy loaded" src={data.image} alt={data.title} />
+          <div class="post-mag__hero-image">
+            <img src={data.image} alt={data.title} loading="eager" decoding="async" />
           </div>
         )}
-      </div>
+      </article>
     </div>
   ) : (
     <div class="container">
-      <div class="post-head">
-        <div class="post__info">
-          <h1 class="post__title">{data.title}</h1>
-        </div>
-      </div>
+      <article class="post-mag">
+        <h1 class="post-mag__title">{data.title}</h1>
+      </article>
     </div>
   )}
 
   <div class="container">
-    <article class="post">
-      <div class="post__content">
+    <div class="post-mag__layout-grid">
+      <div>
+        <article class="post-mag__body">
+          <Content />
+
+          {type === 'post' && (
+            <div class="post-mag__end">
+              <div class="post-mag__end-tags">
+                {data.tags && data.tags.length > 0 && (
+                  <>
+                    <span class="post-mag__end-label">Filed under</span>
+                    <div class="tag-cloud post-mag__end-tags-list">
+                      {data.tags.map((tag: string) => (
+                        <a href={`/tags/${String(tag).toLowerCase().replace(/\s+/g, '-')}/`}>{tag}</a>
+                      ))}
+                    </div>
+                  </>
+                )}
+              </div>
+              <SocialShare
+                title={data.title}
+                url={currentUrl}
+                image={data.image}
+                description={data.description}
+                siteTitle={settings.title}
+              />
+            </div>
+          )}
+        </article>
+      </div>
+
+      <aside class="post-mag__aside" aria-label="Post sidebar">
+        {type === 'post' && data.tags && (
+          <RelatedPosts currentPostId={entry.id} tags={data.tags} count={6} />
+        )}
         <AdUnit location="sidebar_ad" context="blog" />
-        <Content />
-      </div>
-      
-      {type === 'post' && (
-        <SocialShare 
-          title={data.title} 
-          url={currentUrl} 
-          image={data.image} 
-          description={data.description} 
-          siteTitle={settings.title} 
-        />
-      )}
-    </article>
-  </div>
-
-  {type === 'post' && (
-    <div class="container">
-      <div class="card-author">
-        <div class="card-author__media">
-          <a class="card-author__image" href={author ? `/author/${author.username}/` : '/about/'}>
-            <img class="lazy loaded" src={author?.image || settings.author.avatar} alt={author?.name || settings.author.name} />
-          </a>
-        </div>
-      
-        <div class="card-author__content">
-          <div class="card-author__role">Written by</div>
-          <h3 class="card-author__name">
-            <a href={author ? `/author/${author.username}/` : '/about/'} class="card-author__link">
-              {author?.name || settings.author.name}
-            </a>
-          </h3>
-          <p class="card-author__description">{author?.content || settings.author.bio}</p>
-        </div>
-      </div>
+      </aside>
     </div>
-  )}
-
-  {type === 'post' && data.tags && (
-    <RelatedPosts currentPostId={entry.id} tags={data.tags} />
-  )}
+  </div>
 </Layout>

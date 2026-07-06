@@ -1,68 +1,107 @@
 ---
+// Modern magazine footer: brand + tagline, three link columns, social row,
+// copyright bar.
 import { settings } from '../data/settings';
-import AdUnit from './AdUnit.astro';
+import { getCollection } from 'astro:content';
 
-const { footer } = settings;
+const year = new Date().getFullYear();
+
+// Tags that should never surface in the public nav (test buckets, format
+// labels, internal authors, etc.). Diaryofr7 in particular was a music
+// journal's tag set that's no longer relevant.
+const HIDDEN_TAGS = new Set([
+  'diaryofr7', 'tutorial', 'uncategorized', 'featured', 'diary',
+]);
+
+// Top tags by post count for the Explore column, filtered, capitalised,
+// and capped to keep the footer tight. Capped at 6 so the column doesn't
+// grow as new tags appear.
+const posts = await getCollection('posts');
+const tagCounts = new Map<string, number>();
+for (const post of posts) {
+  for (const tag of post.data.tags ?? []) {
+    const key = String(tag).trim();
+    if (!key || HIDDEN_TAGS.has(key.toLowerCase())) continue;
+    tagCounts.set(key, (tagCounts.get(key) ?? 0) + 1);
+  }
+}
+const topTags = [...tagCounts.entries()]
+  .sort((a, b) => b[1] - a[1])
+  .slice(0, 6)
+  .map(([tag]) => ({
+    label: tag.charAt(0).toUpperCase() + tag.slice(1),
+    href: `/tags/${tag.toLowerCase().replace(/\s+/g, '-')}/`,
+  }));
+
+const siteLinks = [
+  { label: 'About', href: '/about/' },
+  { label: 'All topics', href: '/tags/' },
+  { label: 'Authors', href: '/author/adam/' },
+  { label: 'Terms of Service', href: '/terms/' },
+  { label: 'Privacy Policy', href: '/privacy/' },
+];
+
+const connectLinks = [
+  { label: 'Pitch a story', href: 'mailto:exmgks@gmail.com?subject=Submitting%20a%20story%20to%20Infeeds' },
+  { label: 'Press & partnerships', href: 'mailto:exmgks@gmail.com?subject=Press%20or%20partnership%20enquiry' },
+  { label: 'Editorial enquiries', href: 'mailto:exmgks@gmail.com?subject=Editorial%20enquiry' },
+  { label: 'Contact', href: 'mailto:exmgks@gmail.com' },
+];
 ---
 
-<AdUnit location="footer_ad" context="blog" />
-
-<footer class="footer">
+<footer class="footer-mag">
   <div class="container">
-    <div class="row">
-      <div class="col col-12">
-
-        <div class="footer__inner is-border-top">
-          <div class="row">
-            <div class="col col-6 col-d-12">
-              <div class="widget-footer widget-info">
-                <h3 class="widget-info__title">{settings.title}</h3>
-                <p class="widget-info__desc">{footer.description}</p>
-
-                {settings.social && (
-                  <div class="social">
-                    <ul class="social__list list-reset">
-                      {settings.social.map((social) => (
-                        <li class="social__item">
-                          <a class="social__link" href={social.link} target="_blank" rel="noopener" aria-label={`${social.icon} link`}>
-                            <i class={`ion ion-logo-${social.icon}`}></i>
-                          </a>
-                        </li>
-                      ))}
-                    </ul>
-                  </div>
-                )}
-              </div>
-            </div>
-
-            <div class="col col-2 col-d-12">
-              <div class="widget-footer widget-nav">
-                <h3 class="widget-nav__title">Menu</h3>
-                <ul class="widget-nav__list list-reset">
-                  {footer.menu.map((item) => (
-                    <li class="widget-nav__item">
-                      <a href={item.url} class="widget-nav__link">{item.title}</a>
-                    </li>
-                  ))}
-                </ul>
-              </div>
-            </div>
-
-          </div>
+    <div class="footer-mag__grid">
+      <div>
+        <p class="footer-mag__brand-name">{settings.title}</p>
+        <p class="footer-mag__tag">{settings.description}</p>
+        <div class="footer-mag__socials" aria-label="Social profiles">
+          {settings.social?.map((s) => (
+            <a href={s.link} target="_blank" rel="noopener" aria-label={`${s.icon} profile`}>
+              <i class={`ion ion-logo-${s.icon}`}></i>
+            </a>
+          ))}
         </div>
+      </div>
 
-        <div class="footer__info">
-          <div class="footer__info-box">
-            <div class="copyright">{new Date().getFullYear()} &copy; <a href="/">{settings.title}</a>.</div>
-            <div class="top" title="Top"><i class="ion ion-ios-arrow-round-up"></i></div>
-          </div>
-        </div>
+      <div>
+        <p class="footer-mag__col-title">Explore</p>
+        <ul class="footer-mag__list">
+          <li><a href="/blog/">Latest stories</a></li>
+          {topTags.map((l) => (
+            <li><a href={l.href}>{l.label}</a></li>
+          ))}
+        </ul>
+      </div>
 
+      <div>
+        <p class="footer-mag__col-title">Site</p>
+        <ul class="footer-mag__list">
+          {siteLinks.map((l) => (
+            <li><a href={l.href}>{l.label}</a></li>
+          ))}
+        </ul>
+      </div>
+
+      <div>
+        <p class="footer-mag__col-title">Connect</p>
+        <ul class="footer-mag__list">
+          {connectLinks.map((l) => (
+            <li><a href={l.href}>{l.label}</a></li>
+          ))}
+        </ul>
+      </div>
+    </div>
+
+    <div class="footer-mag__bottom">
+      <div class="footer-mag__legal">
+        &copy; {year} {settings.title}. All rights reserved.
+      </div>
+      <div>
+        <a href="/sitemap.xml">Sitemap</a>
+        &nbsp;&middot;&nbsp;
+        <a href="/robots.txt">robots.txt</a>
       </div>
     </div>
   </div>
 </footer>
-
-<style>
-  /* Local footer styles if needed, but mostly using global.css */
-</style>

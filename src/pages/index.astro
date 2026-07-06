@@ -1,20 +1,45 @@
 ---
 import Layout from '../layouts/Layout.astro';
-import Hero from '../components/Hero.astro';
-import FeaturedPosts from '../components/FeaturedPosts.astro';
-import BlogSection from '../components/BlogSection.astro';
-import TagSection from '../components/TagSection.astro';
-import AuthorSection from '../components/AuthorSection.astro';
+import MagazineHero from '../components/MagazineHero.astro';
+import CategorySection from '../components/CategorySection.astro';
+import LatestGrid from '../components/LatestGrid.astro';
+import AdUnit from '../components/AdUnit.astro';
+import ReadingProgress from '../components/ReadingProgress.astro';
 import { getCollection } from 'astro:content';
+import { getTopCategories } from '../utils/categories';
 
-const featuredPosts = await getCollection('posts', ({ data }) => data.featured === true);
-const hasFeatured = featuredPosts.length > 0;
+const allPosts = (await getCollection('posts')).sort(
+  (a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime()
+);
+
+// IDs the hero has already used, so LatestGrid can skip them and never
+// repeat a story on the page.
+const heroIds = allPosts.slice(0, 3).map((p) => p.id);
+
+// Top categories for the homepage. We exclude very small tag buckets and
+// a handful of junk tags so the sections read cleanly. "Tutorial" is
+// removed because it's a format, not a topic, and looks odd as its own
+// section on the front page.
+const topCategories = (await getTopCategories(20))
+  .filter((c) => c.count >= 50 && !['diaryofr7', 'tutorial'].includes(c.tag))
+  .slice(0, 5);
 ---
 
 <Layout title="Online directory for news, stories and ideas">
-	<Hero />
-	<FeaturedPosts />
-	<BlogSection showHero={!hasFeatured} />
-	<TagSection />
-	<AuthorSection />
+  <ReadingProgress />
+  <main class="content">
+    <div class="container">
+      <AdUnit location="header_ad" context="homepage" />
+
+      <MagazineHero />
+
+      {topCategories.map((c) => (
+        <CategorySection tag={c.tag} count={4} />
+      ))}
+
+      <LatestGrid count={8} skip={heroIds} />
+
+      <AdUnit location="footer_ad" context="homepage" />
+    </div>
+  </main>
 </Layout>
