@@ -1,26 +1,20 @@
 ---
 // Sidebar shown next to the latest-posts grid.
 // Three blocks: trending now, popular tags, sidebar ad, pitch-a-story CTA.
-import { getCollection } from 'astro:content';
+//
+// Reads from the same posts index used by MagazineHero, LatestGrid, and
+// CategorySection so the homepage doesn't iterate 2,100 posts three more
+// times per build.
+import { getPostsByTag, getRecentSlim } from '../utils/related';
 import MagazineCard from './MagazineCard.astro';
 import AdUnit from './AdUnit.astro';
 
-const recent = (await getCollection('posts')).sort(
-  (a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime()
-);
+const byTag = await getPostsByTag();
+const trending = await getRecentSlim(6);
 
-const trending = recent.slice(0, 6);
-
-// Tag cloud: top 12 tags by frequency, derived from posts frontmatter.
-const tagCounts = new Map<string, number>();
-for (const post of recent) {
-  for (const tag of post.data.tags ?? []) {
-    const key = String(tag);
-    tagCounts.set(key, (tagCounts.get(key) ?? 0) + 1);
-  }
-}
-const topTags = [...tagCounts.entries()]
-  .sort((a, b) => b[1] - a[1])
+// Top tags by post count. The index already has them bucketed.
+const topTags = [...byTag.entries()]
+  .sort((a, b) => b[1].length - a[1].length)
   .slice(0, 14)
   .map(([tag]) => tag);
 ---

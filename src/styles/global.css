@@ -6372,6 +6372,13 @@ table td {
   max-width: var(--measure);
 }
 
+@media (max-width: 600px) {
+  .post-mag__body {
+    font-size: 16px;
+    line-height: 1.7;
+  }
+}
+
 .post-mag__body p {
   margin: 0 0 1.2em;
 }
@@ -6434,7 +6441,10 @@ table td {
   margin: 0 0 1.2em;
 }
 
-/* Drop-cap on the first paragraph of a post body. */
+/* Drop-cap on the first paragraph of a post body.
+ * Dropped on tablets and below: a 4.2em floated letter eats the first
+ * ~4 lines of viewport on small screens and correlates with higher
+ * bounce on long-form mobile reading. */
 .post-mag__body>p:first-of-type::first-letter {
   font-family: 'Noto Serif', Georgia, serif;
   float: left;
@@ -6443,6 +6453,16 @@ table td {
   padding: 4px 10px 0 0;
   color: var(--brand-color);
   font-weight: 700;
+}
+@media (max-width: 768px) {
+  .post-mag__body>p:first-of-type::first-letter {
+    float: none;
+    font-size: inherit;
+    line-height: inherit;
+    padding: 0;
+    color: inherit;
+    font-weight: inherit;
+  }
 }
 
 /* Header menu: underline indicator on active link. */

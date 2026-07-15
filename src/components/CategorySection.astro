@@ -1,7 +1,11 @@
 ---
 // Auto-derived category section: shows the 4 most recent posts for a given tag.
 // Renders nothing if the tag has fewer than `minPosts` entries.
-import { getCollection } from 'astro:content';
+//
+// Consumes the same pre-built tag → posts index used by RelatedPosts and
+// TrendingSidebar so the homepage doesn't pay N filter passes per category
+// on every build. Slim entries are sufficient for the card template.
+import { getPostsByTag } from '../utils/related';
 import MagazineCard from './MagazineCard.astro';
 
 interface Props {
@@ -12,11 +16,11 @@ interface Props {
 
 const { tag, count = 4, minPosts = 2 } = Astro.props;
 
-const posts = (await getCollection('posts', ({ data }) => {
-  return (data.tags ?? []).map((t) => String(t).toLowerCase()).includes(tag.toLowerCase());
-})).sort((a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime());
+const tagLower = tag.toLowerCase();
+const byTag = await getPostsByTag();
+const posts = (byTag.get(tagLower) ?? []).slice(0, count);
 
-const url = `/tags/${tag.toLowerCase().replace(/\s+/g, '-')}/`;
+const url = `/tags/${tagLower.replace(/\s+/g, '-')}/`;
 const display = tag.charAt(0).toUpperCase() + tag.slice(1);
 ---
 
@@ -30,9 +34,7 @@ const display = tag.charAt(0).toUpperCase() + tag.slice(1);
       <a href={url} class="section-mag__link">See all &rarr;</a>
     </div>
     <div class="cat-section__row">
-      {posts.slice(0, count).map((post) => (
-        <MagazineCard post={post} variant="grid" />
-      ))}
+      {posts.map((post) => <MagazineCard post={post} variant="grid" />)}
     </div>
   </section>
 )}

@@ -29,7 +29,16 @@ const tagUrl = tagSlug ? `/tags/${tagSlug}/` : null;
 {variant === 'grid' && (
   <a href={`/${slug}/`} class="mag-card" aria-label={data.title}>
     <div class="mag-card__image">
-      {data.image && <img src={data.image} alt={data.title} loading="lazy" decoding="async" />}
+      {data.image && (
+        <img
+          src={data.image}
+          alt={data.title}
+          loading="lazy"
+          decoding="async"
+          width="800"
+          height="600"
+        />
+      )}
     </div>
     <div class="mag-card__body">
       {primaryTag && tagUrl && <span class="mag-card__tag">{primaryTag}</span>}

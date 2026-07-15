@@ -2,7 +2,11 @@
 // Latest posts grid with sidebar. 2-col feed + 1-col aside.
 // The "skip" prop lets the caller exclude post IDs that were already shown
 // in the hero so we never duplicate content on the page.
-import { getCollection } from 'astro:content';
+//
+// Uses the shared posts index (built once per build) so this doesn't pay
+// a full O(N) sort per render and never calls getEntry.
+import { getRecentSlim } from '../utils/related';
+import type { PostEntry } from '../utils/related';
 import MagazineCard from './MagazineCard.astro';
 import TrendingSidebar from './TrendingSidebar.astro';
 
@@ -13,13 +17,14 @@ interface Props {
 
 const { count = 12, skip = [] } = Astro.props;
 
-const allPosts = (await getCollection('posts')).sort(
-  (a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime()
-);
-
-// Filter out anything we already showed in the hero / categories.
-const skipSet = new Set(skip);
-const posts = allPosts.filter((p) => !skipSet.has(p.id)).slice(0, count);
+const candidates = await getRecentSlim(count + (skip?.length ?? 0) + 4);
+const skipSet = new Set<string>(skip);
+const posts: PostEntry[] = [];
+for (const c of candidates) {
+  if (posts.length >= count) break;
+  if (skipSet.has(c.id)) continue;
+  posts.push(c);
+}
 ---
 
 <section class="latest-grid">

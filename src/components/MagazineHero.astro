@@ -1,72 +1,78 @@
 ---
 // Magazine hero: 1 big lead story + 4 stacked secondary stories on the right.
 // Asymmetric grid, drops below single-column on narrow viewports.
-import { getCollection } from 'astro:content';
-import { getCleanSlug, getDateFromFilename } from '../utils/slug';
+//
+// Uses the shared posts index from utils/related so the homepage doesn't
+// iterate the full 2,100-post collection. Slim entries (date + title +
+// tag + image) are sufficient for the hero; no full Content entry lookup.
+import { getRecentSlim } from '../utils/related';
+import { getCleanSlug } from '../utils/slug';
 import { settings } from '../data/settings';
 
-const allPosts = (await getCollection('posts')).sort(
-  (a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime()
-);
+const recent = await getRecentSlim(5);
 
-// Lead = most recent. Secondary = next 4 newest, stacked on the right.
-// 4 stack items keeps the right column at the same height as the lead.
-const lead = allPosts[0];
-const secondary = allPosts.slice(1, 6);
+const lead = recent[0];
+const secondary = recent.slice(1, 5);
 
-const formatDate = (raw: unknown) => raw
-  ? new Date(String(raw)).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })
-  : '';
+const formatDate = (ts: number) =>
+  ts
+    ? new Date(ts).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })
+    : '';
 
 const fallbackAuthor = settings.author?.name ?? 'Infeeds';
-const authorOf = (post: any) => post.data?.author || fallbackAuthor;
+const authorOf = (post: { author?: string }) => post.author || fallbackAuthor;
 ---
 
 {lead ? (
   <section class="hero-mag" aria-label="Top stories">
     <a href={`/${getCleanSlug(lead.id)}/`} class="hero-mag__lead">
       <div class="hero-mag__lead-image">
-        {lead.data.tags?.[0] ? (
-          <span class="hero-mag__lead-tag">{lead.data.tags[0]}</span>
+        {lead.primaryTag ? (
+          <span class="hero-mag__lead-tag">{lead.primaryTag}</span>
         ) : null}
-        {lead.data.image ? (
-          <img src={lead.data.image} alt={lead.data.title} loading="eager" decoding="async" />
+        {lead.image ? (
+          <img
+            src={lead.image}
+            alt={lead.title}
+            loading="eager"
+            decoding="async"
+            width="1200"
+            height="720"
+          />
         ) : null}
       </div>
       <div class="hero-mag__lead-meta">
         <span>{authorOf(lead)}</span>
         <span class="dot"></span>
-        <span>{formatDate(lead.data.date ?? getDateFromFilename(lead.id))}</span>
-        {lead.data.tags?.[1] ? (
-          <Fragment>
-            <span class="dot"></span>
-            <span>{lead.data.tags[1]}</span>
-          </Fragment>
-        ) : null}
+        <span>{formatDate(lead.date)}</span>
       </div>
-      <h1 class="hero-mag__lead-title">{lead.data.title}</h1>
-      {lead.data.description ? (
-        <p class="hero-mag__lead-deck">{lead.data.description}</p>
-      ) : null}
+      <h1 class="hero-mag__lead-title">{lead.title}</h1>
     </a>
 
     <div class="hero-mag__stack">
       {secondary.map((post) => (
         <a href={`/${getCleanSlug(post.id)}/`} class="hero-mag__stack-item">
           <div class="hero-mag__stack-image">
-            {post.data.image ? (
-              <img src={post.data.image} alt={post.data.title} loading="lazy" decoding="async" />
+            {post.image ? (
+              <img
+                src={post.image}
+                alt={post.title}
+                loading="lazy"
+                decoding="async"
+                width="110"
+                height="78"
+              />
             ) : null}
           </div>
           <div class="hero-mag__stack-text">
-            {post.data.tags?.[0] ? (
-              <span class="hero-mag__stack-tag">{post.data.tags[0]}</span>
+            {post.primaryTag ? (
+              <span class="hero-mag__stack-tag">{post.primaryTag}</span>
             ) : null}
-            <h2 class="hero-mag__stack-title">{post.data.title}</h2>
+            <h2 class="hero-mag__stack-title">{post.title}</h2>
             <div class="hero-mag__stack-meta">
               <span>{authorOf(post)}</span>
               <span> &middot; </span>
-              <span>{formatDate(post.data.date ?? getDateFromFilename(post.id))}</span>
+              <span>{formatDate(post.date)}</span>
             </div>
           </div>
         </a>

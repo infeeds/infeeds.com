@@ -84,7 +84,7 @@ const breadcrumbJsonLd = type === 'post' ? {
 } : null;
 ---
 
-<Layout title={data.title} description={data.description} image={data.image}>
+<Layout title={data.title} description={data.description} image={data.image} ogType="article">
   <ReadingProgress />
 
   {blogPostingJsonLd && (
@@ -121,7 +121,15 @@ const breadcrumbJsonLd = type === 'post' ? {
 
           <div class="post-mag__byline">
             {author?.image && (
-              <img class="post-mag__avatar" src={author.image} alt={author.name} loading="lazy" />
+              <img
+                class="post-mag__avatar"
+                src={author.image}
+                alt={author.name}
+                loading="lazy"
+                decoding="async"
+                width="28"
+                height="28"
+              />
             )}
             <span>By <strong>{author?.name || settings.author.name}</strong></span>
             {rawDate && (
@@ -141,7 +149,14 @@ const breadcrumbJsonLd = type === 'post' ? {
           </div>
         ) : data.image && (
           <div class="post-mag__hero-image">
-            <img src={data.image} alt={data.title} loading="eager" decoding="async" />
+            <img
+              src={data.image}
+              alt={data.title}
+              loading="eager"
+              decoding="async"
+              width="1200"
+              height="720"
+            />
           </div>
         )}
       </article>

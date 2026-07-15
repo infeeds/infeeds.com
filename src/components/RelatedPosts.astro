@@ -1,7 +1,10 @@
 ---
 // Magazine-style related posts. Shows posts that share tags with the
 // current one, sorted by recency. Used inside the post-page sidebar.
-import { getCollection } from 'astro:content';
+//
+// The tag → posts index is built once per build via getPostsByTag() and
+// reused for every post page; this avoids a full O(N) scan per render.
+import { getRelatedSlim } from '../utils/related';
 
 interface Props {
   currentPostId: string;
@@ -11,12 +14,7 @@ interface Props {
 
 const { currentPostId, tags, count = 6 } = Astro.props;
 
-const tagSet = new Set(tags.map((t) => String(t).toLowerCase()));
-const allPosts = await getCollection('posts');
-const relatedPosts = allPosts
-  .filter((p) => p.id !== currentPostId && (p.data.tags ?? []).some((t) => tagSet.has(String(t).toLowerCase())))
-  .sort((a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime())
-  .slice(0, count);
+const relatedPosts = await getRelatedSlim(tags, currentPostId, count);
 
 const slugOf = (id: string) =>
   id.replace(/^\d{4}-\d{2}-\d{2}-/, '').replace(/\.(md|markdown|mdx)$/, '');
@@ -34,12 +32,23 @@ const dateLabel = (raw: unknown) => raw
         <li>
           <a href={`/${slugOf(post.id)}/`} class="related-posts-mag__item">
             <div class="related-posts-mag__image">
-              {post.data.image && <img src={post.data.image} alt={post.data.title} loading="lazy" />}
+              {post.data.image && (
+                <img
+                  src={post.data.image}
+                  alt={post.data.title}
+                  loading="lazy"
+                  decoding="async"
+                  width="80"
+                  height="60"
+                />
+              )}
             </div>
             <div>
-              <span class="related-posts-mag__tag">{post.data.tags?.[0] ?? ''}</span>
-              <h4 class="related-posts-mag__heading">{post.data.title}</h4>
-              <span class="related-posts-mag__meta">{dateLabel(post.data.date)}</span>
+              {post.primaryTag && (
+                <span class="related-posts-mag__tag">{post.primaryTag}</span>
+              )}
+              <h4 class="related-posts-mag__heading">{post.title}</h4>
+              <span class="related-posts-mag__meta">{dateLabel(post.date)}</span>
             </div>
           </a>
         </li>

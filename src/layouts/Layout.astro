@@ -8,9 +8,10 @@ interface Props {
 	title?: string;
 	description?: string;
 	image?: string;
+	ogType?: 'website' | 'article' | 'profile';
 }
 
-const { title, description, image } = Astro.props;
+const { title, description, image, ogType = 'website' } = Astro.props;
 const siteTitle = title ? `${title} : ${settings.title}` : settings.title;
 const siteDescription = description || settings.description;
 // Astro.site is set in astro.config.mjs so this is always present at build time.
@@ -72,7 +73,7 @@ const siteJsonLd = {
 		<link href="https://unpkg.com/ionicons@4.2.2/dist/css/ionicons.min.css" rel="stylesheet" />
 
 		<!-- Open Graph / Facebook -->
-		<meta property="og:type" content="website" />
+		<meta property="og:type" content={ogType} />
 		<meta property="og:url" content={currentUrl} />
 		<meta property="og:title" content={siteTitle} />
 		<meta property="og:description" content={siteDescription} />
