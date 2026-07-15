@@ -9,8 +9,9 @@
     "sync-markdown": "for f in src/content/posts/*.markdown; do [ -f \"$f\" ] && mv \"$f\" \"${f%.markdown}.md\"; done || true",
     "cleanup": "node cleanup.js",
     "sync": "bun run sync-markdown && bun run cleanup",
+    "check": "bunx --bun astro check",
     "dev": "bunx --bun astro dev",
-    "build": "bunx --bun astro build",
+    "build": "bun run check && bunx --bun astro build",
     "preview": "bunx --bun astro preview",
     "astro": "bunx --bun astro"
   },

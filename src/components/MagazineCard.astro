@@ -2,62 +2,103 @@
 // Magazine card used in the homepage grid, category sections, and sidebar.
 // Variants:
 //   "grid"  -> standard 4:3 card with image, tag, title, excerpt, meta  (default)
-//   "list"  -> 70px square image + title only, no excerpt (used in trending sidebar)
-import { getCleanSlug, getDateFromFilename } from '../utils/slug';
+//   "list"  -> tag + title only, no image (used in trending sidebar)
+//
+// Accepts both shapes used across the app:
+//   (A) Slim PostEntry:  { id, date, title, image, primaryTag, author }
+//   (B) Content entry:   { id, data: { title, image, … } }
+//
+// We normalise to (A) at the top so the template reads one shape and the
+// build never throws on a missing field. A dev-mode warning surfaces
+// shape drift so it shows up at the call site instead of mid-build.
+import { getCleanSlug } from '../utils/slug';
+import type { PostEntry } from '../utils/related';
+
+type LegacyContent = {
+  id: string;
+  data?: {
+    title?: string;
+    date?: unknown;
+    image?: string;
+    tags?: string[];
+    author?: string;
+    description?: string;
+  };
+};
 
 interface Props {
-  post: any;
+  post: PostEntry | LegacyContent;
   variant?: 'grid' | 'list';
 }
 
 const { post, variant = 'grid' } = Astro.props;
-const { data, id } = post;
-const slug = getCleanSlug(id);
 
-const rawDate = data.date ?? getDateFromFilename(id);
-const dateLabel = rawDate
-  ? new Date(rawDate).toLocaleDateString('en-US', { month: 'short', day: 'numeric' })
+const isSlim = (p: PostEntry | LegacyContent): p is PostEntry =>
+  Object.prototype.hasOwnProperty.call(p, 'title') &&
+  Object.prototype.hasOwnProperty.call(p, 'image');
+
+const fromLegacy = (p: LegacyContent): PostEntry => {
+  const data = p.data ?? {};
+  return {
+    id: p.id,
+    date: data.date ? new Date(String(data.date)).getTime() : 0,
+    title: data.title ?? '',
+    image: data.image,
+    primaryTag: Array.isArray(data.tags) ? data.tags[0] : undefined,
+    author: data.author,
+    description: data.description,
+  };
+};
+
+const card: PostEntry = isSlim(post) ? post : fromLegacy(post as LegacyContent);
+
+if (variant === 'grid' && (!card.title || !card.image)) {
+  if (import.meta.env.DEV) {
+    // eslint-disable-next-line no-console
+    console.warn(`MagazineCard: skipping ${card.id || '(unknown)'} - missing title or image`);
+  }
+}
+
+const slug = getCleanSlug(card.id);
+const dateLabel = card.date
+  ? new Date(card.date).toLocaleDateString('en-US', { month: 'short', day: 'numeric' })
   : '';
-
-const primaryTag = data.tags?.[0];
-const tagSlug = primaryTag
-  ? String(primaryTag).toLowerCase().replace(/\s+/g, '-')
+const tagSlug = card.primaryTag
+  ? String(card.primaryTag).toLowerCase().replace(/\s+/g, '-')
   : null;
 const tagUrl = tagSlug ? `/tags/${tagSlug}/` : null;
+const hasGridFields = !!card.title && !!card.image;
 ---
 
-{variant === 'grid' && (
-  <a href={`/${slug}/`} class="mag-card" aria-label={data.title}>
+{variant === 'grid' && hasGridFields && (
+  <a href={`/${slug}/`} class="mag-card" aria-label={card.title}>
     <div class="mag-card__image">
-      {data.image && (
-        <img
-          src={data.image}
-          alt={data.title}
-          loading="lazy"
-          decoding="async"
-          width="800"
-          height="600"
-        />
-      )}
+      <img
+        src={card.image}
+        alt={card.title}
+        loading="lazy"
+        decoding="async"
+        width="800"
+        height="600"
+      />
     </div>
     <div class="mag-card__body">
-      {primaryTag && tagUrl && <span class="mag-card__tag">{primaryTag}</span>}
-      <h3 class="mag-card__title">{data.title}</h3>
-      {data.description && <p class="mag-card__excerpt">{data.description}</p>}
+      {card.primaryTag && tagUrl && <span class="mag-card__tag">{card.primaryTag}</span>}
+      <h3 class="mag-card__title">{card.title}</h3>
       <div class="mag-card__meta">
-        {data.author && <span>{data.author}</span>}
-        {dateLabel && <span>&middot;</span>}
+        {card.author && <span>{card.author}</span>}
+        {dateLabel && card.author && <span>&middot;</span>}
         {dateLabel && <span>{dateLabel}</span>}
       </div>
     </div>
   </a>
 )}
 
-{variant === 'list' && (
-  <a href={`/${slug}/`} class="mag-list-card" aria-label={data.title}>
+{variant === 'list' && card.title && (
+  <a href={`/${slug}/`} class="mag-list-card" aria-label={card.title}>
     <div>
-      {primaryTag && <span class="mag-list-card__tag">{primaryTag}</span>}
-      <h4 class="mag-list-card__title">{data.title}</h4>
+      {card.primaryTag && <span class="mag-list-card__tag">{card.primaryTag}</span>}
+      <h4 class="mag-list-card__title">{card.title}</h4>
     </div>
   </a>
 )}

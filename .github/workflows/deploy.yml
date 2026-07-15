@@ -28,6 +28,12 @@ jobs:
       - name: Install dependencies
         run: bun install
 
+      - name: Type-check
+        # Hard gate: if any *.astro / *.ts consumer of a card / index helper
+        # drifts to the wrong shape, the build fails here before we even
+        # try to prerender. This is what catches "data.date undefined".
+        run: bun run check
+
       - name: Build Astro
         run: bun run build
 
