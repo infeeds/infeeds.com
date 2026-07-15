@@ -1,10 +1,11 @@
 ---
 import { getCollection } from 'astro:content';
+import { toTime } from '../utils/date';
 import ArticleCard from './ArticleCard.astro';
 
 const featuredPosts = (await getCollection('posts', ({ data }) => {
   return data.featured === true;
-})).sort((a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime()).slice(0, 3);
+})).sort((a, b) => toTime(b.data.date) - toTime(a.data.date)).slice(0, 3);
 ---
 
 {featuredPosts.length > 0 && (

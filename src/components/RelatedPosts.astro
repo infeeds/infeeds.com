@@ -32,10 +32,10 @@ const dateLabel = (raw: unknown) => raw
         <li>
           <a href={`/${slugOf(post.id)}/`} class="related-posts-mag__item">
             <div class="related-posts-mag__image">
-              {post.data.image && (
+              {post.image && (
                 <img
-                  src={post.data.image}
-                  alt={post.data.title}
+                  src={post.image}
+                  alt={post.title}
                   loading="lazy"
                   decoding="async"
                   width="80"

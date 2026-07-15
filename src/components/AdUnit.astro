@@ -7,7 +7,27 @@ interface Props {
 }
 
 const { location, context } = Astro.props;
-const ad = settings.ads?.[context]?.[location];
+
+// Ad slots are heterogeneous (`html` vs `image` vs `text`); the settings
+// object's TS inference narrows `ad` to its specific shape, which makes
+// cross-slot fields (start_date, image_url, text_title, …) fail type-
+// checking. We cast to a single union that covers every slot shape.
+type AdShape = {
+  enabled: boolean;
+  type: 'image' | 'html' | 'text';
+  start_date?: string;
+  duration_days?: number;
+  image_url?: string;
+  link_url?: string;
+  alt_text?: string;
+  html_content?: string;
+  text_title?: string;
+  text_content?: string;
+  text_link_url?: string;
+  text_link_label?: string;
+};
+
+const ad = settings.ads?.[context]?.[location] as AdShape | undefined;
 
 const isActive = () => {
   if (!ad || !ad.enabled) return false;
@@ -23,7 +43,7 @@ const isActive = () => {
 const active = isActive();
 ---
 
-{active && (
+{active && ad && (
   <div class={`ad-unit ad-unit--${location}`}>
     <span class="ad-unit__label">Advertisement</span>
     {ad.type === 'image' && ad.image_url && ad.link_url && (

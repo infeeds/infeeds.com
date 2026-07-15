@@ -1,6 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import { settings } from '../data/settings';
+import { toTime } from '../utils/date';
 import ArticleCard from './ArticleCard.astro';
 
 interface Props {
@@ -11,7 +12,7 @@ const { showHero = false } = Astro.props;
 
 const allPosts = (await getCollection('posts', ({ data }) => {
   return data.featured !== true;
-})).sort((a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime()).slice(0, showHero ? 9 : 8);
+})).sort((a, b) => toTime(b.data.date) - toTime(a.data.date)).slice(0, showHero ? 9 : 8);
 ---
 
 {settings.blog__settings.enable && (

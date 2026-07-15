@@ -6,6 +6,7 @@
 import { getCollection } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
 import AuthorPostsView from '../../components/AuthorPostsView.astro';
+import { toTime } from '../../utils/date';
 
 export async function getStaticPaths() {
   const authors = await getCollection('authors');
@@ -16,7 +17,7 @@ export async function getStaticPaths() {
     .map((author) => {
       const authorPosts = posts
         .filter((post) => post.data.author === author.data.username)
-        .sort((a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime());
+        .sort((a, b) => toTime(b.data.date) - toTime(a.data.date));
       if (authorPosts.length === 0) return null;
       const totalPages = Math.max(1, Math.ceil(authorPosts.length / pageSize));
       return { author, authorPosts, totalPages };

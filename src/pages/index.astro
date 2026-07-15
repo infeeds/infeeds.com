@@ -7,9 +7,10 @@ import AdUnit from '../components/AdUnit.astro';
 import ReadingProgress from '../components/ReadingProgress.astro';
 import { getCollection } from 'astro:content';
 import { getTopCategories } from '../utils/categories';
+import { toTime } from '../utils/date';
 
 const allPosts = (await getCollection('posts')).sort(
-  (a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime()
+  (a, b) => toTime(b.data.date) - toTime(a.data.date)
 );
 
 // IDs the hero has already used, so LatestGrid can skip them and never

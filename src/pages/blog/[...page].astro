@@ -3,10 +3,11 @@ import { getCollection } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
 import MagazineCard from '../../components/MagazineCard.astro';
 import Pagination from '../../components/Pagination.astro';
+import { toTime } from '../../utils/date';
 
 export async function getStaticPaths() {
   const posts = (await getCollection('posts')).sort(
-    (a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime()
+    (a, b) => toTime(b.data.date) - toTime(a.data.date)
   );
 
   const pages = [];

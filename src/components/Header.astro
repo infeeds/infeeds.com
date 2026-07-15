@@ -21,16 +21,22 @@ const bySlug = new Map(topCategories.map((c) => [c.slug, c]));
 
 const labelize = (s: string) => s.charAt(0).toUpperCase() + s.slice(1).toLowerCase();
 
+// `getTopCategories` from `astro:content` returns `TagEntry | undefined`
+// per lookup. TypeScript can't always infer the narrowing through
+// `.filter(Boolean)` on a generic map lookup, so coerce explicitly.
+type Tag = { tag: string; slug: string; count: number };
+const pick = (slug: string): Tag | undefined => bySlug.get(slug) as Tag | undefined;
+
 const primaryNav = PRIMARY_SLUGS
-  .map((slug) => bySlug.get(slug))
-  .filter(Boolean)
+  .map(pick)
+  .filter((c): c is Tag => Boolean(c))
   .map((c) => ({ label: labelize(c.tag), href: `/tags/${c.slug}/` }));
 primaryNav.push({ label: 'Blog', href: '/blog/' });
 
 const used = new Set(PRIMARY_SLUGS);
 const megaMenu = MEGA_MENU_SLUGS
-  .map((slug) => bySlug.get(slug))
-  .filter(Boolean)
+  .map(pick)
+  .filter((c): c is Tag => Boolean(c))
   .filter((c) => !used.has(c.slug))
   .map((c) => ({ label: labelize(c.tag), href: `/tags/${c.slug}/` }));
 ---

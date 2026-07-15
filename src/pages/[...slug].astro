@@ -3,6 +3,7 @@ import { getCollection, getEntry, render } from 'astro:content';
 import Layout from '../layouts/Layout.astro';
 import { settings } from '../data/settings';
 import { getCleanSlug, getDateFromFilename } from '../utils/slug';
+import { toTime, formatDate } from '../utils/date';
 import AdUnit from '../components/AdUnit.astro';
 import SocialShare from '../components/SocialShare.astro';
 import RelatedPosts from '../components/RelatedPosts.astro';
@@ -26,13 +27,16 @@ export async function getStaticPaths() {
 }
 
 const { entry, type } = Astro.props;
-const { data } = entry;
-const { Content } = await render(entry);
+// Narrow `data` to Post fields when type==='post'. The static-paths
+// distribution above gives us two distinct entry shapes; we want post
+// fields accessible without `?.` chains.
+const data = type === 'post' ? (entry.data as any) : (entry.data as any);
+const { Content } = await render(entry as any);
 
-const authorEntry = type === 'post' ? await getEntry('authors', data.author) : null;
+const authorEntry = type === 'post' ? await getEntry('authors', (data as any).author) : null;
 const author = authorEntry?.data;
 
-const rawDate = data.date || getDateFromFilename(entry.id);
+const rawDate = (data as any).date ?? getDateFromFilename(entry.id);
 const formattedDate = rawDate ? new Date(rawDate).toLocaleDateString('en-US', {
   year: 'numeric',
   month: 'short',

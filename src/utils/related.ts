@@ -18,6 +18,7 @@ export type PostEntry = {
   image?: string;
   primaryTag?: string;
   author?: string;
+  description?: string;
 };
 
 type SlimPost = {
