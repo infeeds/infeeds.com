@@ -1,5 +1,6 @@
 /dist
 /jekyll-v1
 /node_modules
+.astro
 .DS_Store
 .vscode
