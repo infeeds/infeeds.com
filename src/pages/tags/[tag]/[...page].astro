@@ -52,7 +52,6 @@ const { page, tag } = Astro.props;
 const isFirst = page.currentPage === 1;
 const safeTagSlug = String(tag).toLowerCase().replace(/\s+/g, '-');
 const display = String(tag).charAt(0).toUpperCase() + String(tag).slice(1).toLowerCase();
-const tagUrl = isFirst ? `/tags/${safeTagSlug}/` : `/tags/${safeTagSlug}/${page.currentPage}/`;
 const tagDescription = `Latest ${String(tag).toLowerCase()} stories, news, and ideas from Infeeds. ${page.totalPosts} ${page.totalPosts === 1 ? 'post' : 'posts'} tagged ${tag}.`;
 ---
 

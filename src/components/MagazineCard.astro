@@ -30,7 +30,7 @@ interface Props {
   post: PostEntry | LegacyContent;
   variant?: 'grid' | 'list';
 }
-const { post, variant = 'grid' } = Astro.props;
+const { post, variant = 'grid' } = Astro.props as Props;
 
 const isSlim = (p: PostEntry | LegacyContent): p is PostEntry =>
   Object.prototype.hasOwnProperty.call(p, 'title') &&

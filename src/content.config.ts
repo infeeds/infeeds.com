@@ -1,7 +1,7 @@
-// @ts-ignore -- `z` from `astro:content` is flagged as deprecated in Zod 4
-//                typings even though we still need it (zod isn't a direct
-//                dependency in this project). Will revisit when Astro 7
-//                ships a non-deprecated re-export.
+// @ts-ignore -- `z` is flagged as deprecated in Zod 4 typings because
+//                we now have Zod 3 as a direct dep (added to silence the
+//                `_zod.version.minor` mismatch). Zod's own re-export from
+//                astro:content pre-dates Zod 4's namespace renames.
 import { defineCollection, z } from 'astro:content';
 import { glob } from 'astro/loaders';
 import { fenceStrippingGlob } from './loaders/posts';
