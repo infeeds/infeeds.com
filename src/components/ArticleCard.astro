@@ -11,7 +11,7 @@ interface Props {
   isHome?: boolean;
 }
 
-const { post, index, isHero, isRelated = false, isHome = false } = Astro.props;
+const { post, isHero, isRelated = false, isHome = false } = Astro.props;
 const { data, id } = post;
 const cleanSlug = getCleanSlug(id);
 

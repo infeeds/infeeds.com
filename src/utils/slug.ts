@@ -1,5 +1,4 @@
 const slugCache = new Map<string, string>();
-const slugCounts = new Map<string, number>();
 
 export const getCleanSlug = (id: string) => {
   if (slugCache.has(id)) {

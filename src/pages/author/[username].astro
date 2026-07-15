@@ -78,8 +78,8 @@ const breadcrumbJsonLd = {
   image={author.image}
 >
   <Fragment slot="jsonld">
-    <script type="application/ld+json" set:html={JSON.stringify(personJsonLd)} />
-    <script type="application/ld+json" set:html={JSON.stringify(breadcrumbJsonLd)} />
+    <script is:inline type="application/ld+json" set:html={JSON.stringify(personJsonLd)} />
+    <script is:inline type="application/ld+json" set:html={JSON.stringify(breadcrumbJsonLd)} />
   </Fragment>
 
   <main class="content">

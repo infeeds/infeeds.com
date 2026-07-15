@@ -3,7 +3,7 @@ import { getCollection, getEntry, render } from 'astro:content';
 import Layout from '../layouts/Layout.astro';
 import { settings } from '../data/settings';
 import { getCleanSlug, getDateFromFilename } from '../utils/slug';
-import { toTime, formatDate } from '../utils/date';
+import { toTime } from '../utils/date';
 import AdUnit from '../components/AdUnit.astro';
 import SocialShare from '../components/SocialShare.astro';
 import RelatedPosts from '../components/RelatedPosts.astro';
@@ -45,7 +45,7 @@ const formattedDate = rawDate ? new Date(rawDate).toLocaleDateString('en-US', {
 
 const siteUrl = (Astro.site?.toString() || 'https://infeeds.com').replace(/\/$/, '');
 const currentUrl = `${siteUrl}/${getCleanSlug(entry.id)}/`;
-const isoDate = rawDate ? new Date(rawDate).toISOString() : null;
+const isoDate = rawDate ? toTime(rawDate) ? new Date(toTime(rawDate)).toISOString() : null : null;
 
 // Page-specific JSON-LD: BlogPosting + BreadcrumbList for posts.
 // We don't emit JSON-LD for static pages; the site-wide Organisation/WebSite
@@ -93,12 +93,12 @@ const breadcrumbJsonLd = type === 'post' ? {
 
   {blogPostingJsonLd && (
     <Fragment slot="jsonld">
-      <script type="application/ld+json" set:html={JSON.stringify(blogPostingJsonLd)} />
+      <script is:inline type="application/ld+json" set:html={JSON.stringify(blogPostingJsonLd)} />
     </Fragment>
   )}
   {breadcrumbJsonLd && (
     <Fragment slot="jsonld">
-      <script type="application/ld+json" set:html={JSON.stringify(breadcrumbJsonLd)} />
+      <script is:inline type="application/ld+json" set:html={JSON.stringify(breadcrumbJsonLd)} />
     </Fragment>
   )}
   {type === 'post' ? (

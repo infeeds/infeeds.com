@@ -1,3 +1,7 @@
+// @ts-ignore -- `z` from `astro:content` is flagged as deprecated in Zod 4
+//                typings even though we still need it (zod isn't a direct
+//                dependency in this project). Will revisit when Astro 7
+//                ships a non-deprecated re-export.
 import { defineCollection, z } from 'astro:content';
 import { glob } from 'astro/loaders';
 import { fenceStrippingGlob } from './loaders/posts';

@@ -30,7 +30,6 @@ interface Props {
   post: PostEntry | LegacyContent;
   variant?: 'grid' | 'list';
 }
-
 const { post, variant = 'grid' } = Astro.props;
 
 const isSlim = (p: PostEntry | LegacyContent): p is PostEntry =>

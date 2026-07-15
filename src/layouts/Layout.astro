@@ -87,8 +87,8 @@ const siteJsonLd = {
 		<meta property="twitter:image" content={siteImage} />
 
 		<!-- Site-wide JSON-LD. Page-specific structured data goes in the named slot. -->
-		<script type="application/ld+json" set:html={JSON.stringify(orgJsonLd)} />
-		<script type="application/ld+json" set:html={JSON.stringify(siteJsonLd)} />
+		<script is:inline type="application/ld+json" set:html={JSON.stringify(orgJsonLd)} />
+		<script is:inline type="application/ld+json" set:html={JSON.stringify(siteJsonLd)} />
 		<slot name="jsonld" />
 
 		<script is:inline>
@@ -99,7 +99,7 @@ const siteJsonLd = {
 		</script>
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src={`https://www.googletagmanager.com/gtag/js?id=${settings.google_analytics}`}></script>
+    <script is:inline async src={`https://www.googletagmanager.com/gtag/js?id=${settings.google_analytics}`}></script>
     <script is:inline define:vars={{ gaId: settings.google_analytics }}>
       window.dataLayer = window.dataLayer || [];
       function gtag() { dataLayer.push(arguments); }
